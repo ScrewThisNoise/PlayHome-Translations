@@ -1,0 +1,2656 @@
+﻿// Translated by Aria#1551
+
+//#sub r_hs_90_00_00_00_00 くぅ……こんな事して……何が目的なの……？
+#sub "r_hs_90_00_00_00_00" Kek...doing this...what's your aim...?
+
+//#sub r_hs_90_00_04_00_00 私に……触るなぁ……っ
+#sub "r_hs_90_00_04_00_00" Don't touch me...
+
+//#sub r_hs_90_00_04_02_00 おぶ……気持ち悪い……っ
+#sub "r_hs_90_00_04_02_00" Ugg...this is disgusting...
+
+//#sub r_hs_90_00_91_00_00 むぐ、やめなさい……っ！
+#sub "r_hs_90_00_91_00_00" mgg, stop it...!
+
+//#sub r_hs_90_02_03_00_00 おぇう……臭い……最低……
+#sub "r_hs_90_02_03_00_00" uueeh...the smell...terrible...
+
+//#sub r_hs_90_02_03_00_10 おぼっ、ごっ、やっ、やめてっ、おぶっ、んぶっ、んごっ
+#sub "r_hs_90_02_03_00_10" mmmggg...stop...mmmggg
+
+//#sub r_hs_90_02_05_00_00 ぬ゛いてっ、ぐぅ、抜き、なさい……っ！
+#sub "r_hs_90_02_05_00_00" Out...guuu...pull it out...!
+
+//#sub r_hs_90_02_05_00_10 い゛っやぁっ、ぐっ、やめっ、あっ、ぐぅっ！
+#sub "r_hs_90_02_05_00_10" Nooo...guuu...stop...guuu!
+
+//#sub r_hs_90_02_05_01_00 ぐぅっ……私が、何をしたっていうの……？
+#sub "r_hs_90_02_05_01_00" guuu...I, what did you just do...?
+
+//#sub r_hs_90_02_05_01_10 ぎっ、ぁっ、こんなのっ、あぐっ、ふざけてるっ……っ！
+#sub "r_hs_90_02_05_01_10" giiaah...don't mess...guu...with me...!
+
+//#sub r_hs_90_02_15_00_00 はふっ、ゆる、さない……んぐっ、ぜっ、たい……んく……
+#sub "r_hs_90_02_15_00_00" haa...I absolutely...nnn...won't forgive you...
+
+//#sub r_hs_90_02_15_00_10 くっ、ふぅっ、もぉっ、いい加減にっ、くぁっ、ぐっ……
+#sub "r_hs_90_02_15_00_10" kuuu...come on, isn't this enough...kuuu...
+
+//#sub r_hs_90_02_91_00_00 うぅ、嫌ぁ……っ
+#sub "r_hs_90_02_91_00_00" uuu...noo...
+
+//#sub r_hs_90_02_91_00_10 やっ、やめてぇっ
+#sub "r_hs_90_02_91_00_10" St..stop it
+
+//#sub r_hs_90_03_00_01_00 やめっなさいっ、くふっ、こんなっ、んぁっ、嫌っ、嫌ぁぁぁっ！
+#sub "r_hs_90_03_00_01_00" Stop it...kuuu...this is...noo...noooo!
+
+//#sub r_hs_90_03_01_00_00 まさかっ、やっ、嫌っ、それだけはっ、やめっ、やめてぇぇぇ！
+#sub "r_hs_90_03_01_00_00" You're kidding...no, that's...stop...stopppp!
+
+//#sub r_hs_90_03_02_01_00 おごっ、ぶっ、やっ、ぶぇっ、離してっ、んごっ、やぁぁっ、ぶぶっ、
+#sub "r_hs_90_03_02_01_00" mmmggg...let me go...mmmggg
+
+//#sub r_hs_90_04_00_00_00 ふぐっ、うっ、最低、んぐ……こんな、奴なんかに……はぐ……
+#sub "r_hs_90_04_00_00_00" ugggg...this guy...is the worst...ugg...
+
+//#sub r_hs_90_04_01_01_00 は、早く、抜きなさい、くぅっ、早く、嫌、嫌ぁ……
+#sub "r_hs_90_04_01_01_00" haa...hurry and take it out, hurry...no, noo...
+
+//#sub r_hs_90_04_01_02_00 ぐううぅ……お腹、気持ち悪い……ふぐっ、最悪よ……
+#sub "r_hs_90_04_01_02_00" guuu...my stomach feels terrible...this is the worst...
+
+//#sub r_hs_90_04_02_01_00 おぇう、えぉ……何てモノ、飲ませるのよ……ぅえ……
+#sub "r_hs_90_04_02_01_00" uuggee...what...are you making me swallow...
+
+//#sub r_hs_90_04_03_00_00 こんな、くっ……汚らわしい……
+#sub "r_hs_90_04_03_00_00" This...filthy...
+
+//#sub r_hs_90_04_05_00_00 はふ、ふっ、くっ、こんな、して、んぐ、何が、目的、なのよ、くふっ……
+#sub "r_hs_90_04_05_00_00" haaa...what...is your reason...for doing this...
+
+//#sub r_hs_90_05_00_02_00 ひぅっ！？　いっやぁ、見るな、見るなぁぁ、くぅぅ……っ
+#sub "r_hs_90_05_00_02_00" hiii!?...no, don't look, don't look at me...
+
+//#sub r_hs_90_05_00_03_00 い、やぁ……見ない、でぇ……うぅ……
+#sub "r_hs_90_05_00_03_00" Nooo...don't look at me...
+
+//#sub r_hs_90_06_00_00_00 こんなの……ふざけてるわ……っ
+#sub "r_hs_90_06_00_00_00" Don't mess...with me...
+
+//#sub r_hs_90_06_91_00_00 何なのよ、これは……
+#sub "r_hs_90_06_91_00_00" What the heck is this...?
+
+//#sub r_hs_00_00_00_00_00 くっ……あなた、タダで済むと思ってるの……？
+#sub "r_hs_00_00_00_00_00" kek...do you think you'll be able to get away with this...?
+
+//#sub r_hs_00_00_00_00_01 ふん……いつまでも好きに出来るとは思わない事ね……っ
+#sub "r_hs_00_00_00_00_01" humph...don't think you'll be able to stay here forever...
+
+//#sub r_hs_00_00_01_00_00 ……何？　どうせココに挿れるんでしょ……？
+#sub "r_hs_00_00_01_00_00" ...what? Are you planning on putting it in...?
+
+//#sub r_hs_00_00_02_00_00 何で私の部屋なんかで……
+#sub "r_hs_00_00_02_00_00" Why are we doing it in my room…
+
+//#sub r_hs_00_00_02_01_00 このっ、見られたらどうするのよ……っ
+#sub "r_hs_00_00_02_01_00" This is...what'll you do if someone sees us...
+
+//#sub r_hs_00_00_02_02_00 な、何でこんなとこでしなくちゃいけないのよ……っ
+#sub "r_hs_00_00_02_02_00" Why should I have to do this...
+
+//#sub r_hs_00_00_02_03_00 ……何でこんな狭いところで……
+#sub "r_hs_00_00_02_03_00" ...why are we doing it in such a cramped place...
+
+//#sub r_hs_00_00_03_00_00 どうして連れてきたのよ……っ
+#sub "r_hs_00_00_03_00_00" Why did you take me here...?
+
+//#sub r_hs_00_00_03_01_00 な、何を血迷って……い、いや、来ないで……っ！
+#sub "r_hs_00_00_03_01_00" Wh..why are you standing there...n..no...stay away...!
+
+//#sub r_hs_00_00_03_02_00 貴方達……全員死ねばいいわ……っ
+#sub "r_hs_00_00_03_02_00" All of you guys...should just die...
+
+//#sub r_hs_00_00_04_00_00 ……何がしたいのよ
+#sub "r_hs_00_00_04_00_00" ...what are you planning
+
+//#sub r_hs_00_00_04_01_00 ……さっさと終わりにしたいんだけど
+#sub "r_hs_00_00_04_01_00" ...I just want to hurry up and get this over with
+
+//#sub r_hs_00_00_04_02_00 ……早くしてくれる？
+#sub "r_hs_00_00_04_02_00" Couldn't you do that sooner?
+
+//#sub r_hs_00_00_91_00_00 また、始まる……
+#sub "r_hs_00_00_91_00_00" So it begins, again...
+
+//#sub r_hs_00_01_00_00_00 私は……あなたの性処理道具なんかじゃない……っ
+#sub "r_hs_00_01_00_00_00" I'm...not just some tool for sex...
+
+//#sub r_hs_00_01_00_00_01 そう、挿れるのね…………何よ、早くしたら？
+#sub "r_hs_00_01_00_00_01" So, putting it it...what, hurry up and do it
+
+//#sub r_hs_00_01_00_01_00 ふん……とっくに覚悟は出来てるわ、こうなった時からね……
+#sub "r_hs_00_01_00_01_00" humph...I've been prepared for a while now, as well as from now on...
+
+//#sub r_hs_00_01_01_00_00 ほんと……変態のする事は理解に苦しむわ……
+#sub "r_hs_00_01_01_00_00" Really...it's hard to understand how you became such a pervert...
+
+//#sub r_hs_00_01_01_00_01 あ、洗ってあるわよ、ちゃんと……っ
+#sub "r_hs_00_01_01_00_01" O..of course I wash it properly...
+
+//#sub r_hs_00_01_01_01_00 ふざけないでっ、そんな、お、お尻でなんか……っ
+#sub "r_hs_00_01_01_01_00" You've got to be kidding, that is, my ass...
+
+//#sub r_hs_00_01_02_00_00 ……その手で、私達を……っ
+#sub "r_hs_00_01_02_00_00" ...because of you, we...
+
+//#sub r_hs_00_01_02_00_01 ほんと、気持ち悪い……
+#sub "r_hs_00_01_02_00_01" Seriously, I feel sick...
+
+//#sub r_hs_00_01_02_01_00 何で貴方何かの目の前で、こんな……っ
+#sub "r_hs_00_01_02_01_00" Why am I doing this in front of you, this is...
+
+//#sub r_hs_00_01_02_02_00 私を辱めて何になるって言うの……
+#sub "r_hs_00_01_02_02_00" After humiliating me, what's going to happen next
+
+//#sub r_hs_00_01_03_00_00 ふん……こんな事させないで、一人で弄ってたら？
+#sub "r_hs_00_01_03_00_00" humph...after doing all this, why don't you go a play with yourself?
+
+//#sub r_hs_00_01_03_00_01 くっ……なんで私が、こんな事……
+#sub "r_hs_00_01_03_00_01" kek...what did I ever do...to deserve this...
+
+//#sub r_hs_00_01_03_01_00 っ……少しは洗ってるんでしょうね？
+#sub "r_hs_00_01_03_01_00" ...couldn't you clean this a bit?
+
+//#sub r_hs_00_01_04_00_00 次は私の番、というわけね……
+#sub "r_hs_00_01_04_00_00" It's my turn next, so it seems...
+
+//#sub r_hs_00_02_00_01_00 くっ……そっちこそ、私でよがってる癖に……んぁっ……
+#sub "r_hs_00_02_00_01_00" kek...like always, getting excited from my body...nnn...
+
+//#sub r_hs_00_02_00_01_10 うるさいっ、くぁっ、んっ、腰振ったままっ、舌噛んでっ、死ねっ、んぁっ
+#sub "r_hs_00_02_00_01_10" Shut up...kuu...moving your hips like that...just die...nnn...
+
+//#sub r_hs_00_02_00_02_00 くぅっ、ん……大した事、ないわね……んっぐ……
+#sub "r_hs_00_02_00_02_00" kuuu...this is...no big deal...nnn...
+
+//#sub r_hs_00_02_00_02_10 んぎっ、最っ低っ、ふぐっ、こんな奴っ、にぃ……っ
+#sub "r_hs_00_02_00_02_10" ngii...this worst...guu...this guy...niii...
+
+//#sub r_hs_00_02_00_03_00 ぐぅぅ……こんなの、はぐっ、痛いだけじゃない……っ
+#sub "r_hs_00_02_00_03_00" guu...this is...only just painful...
+
+//#sub r_hs_00_02_00_03_10 いづっ、っぐ、やっ、あぎっ、や゛めっ、でっ、ぐっ、あっ
+#sub "r_hs_00_02_00_03_10" Ouch...no...stop...ahhh
+
+//#sub r_hs_00_02_01_01_00 んんぅ……誰が、お尻なんかで……んぁっ……
+#sub "r_hs_00_02_01_01_00" nnn...whose ass...are you saying is like that...nnn...
+
+//#sub r_hs_00_02_01_01_10 このっ、ひぅっ！　お尻っ、変になったらっ、どうすっんくぅっ！
+#sub "r_hs_00_02_01_01_10" This...hiii! My ass feels strange, why...kuuu!
+
+//#sub r_hs_00_02_01_02_00 っつぅぅ……流石、変質者のする事ね……うぐ……
+#sub "r_hs_00_02_01_02_00" ugiii...as expected, this is exactly what a pervert would do...uguu...
+
+//#sub r_hs_00_02_01_02_10 ふぐっ、あっ、何っよっ、くぁっ、なんっなのっよぉぉっ
+#sub "r_hs_00_02_01_02_10" fuguu...what the heck...kuu...what's going onnn
+
+//#sub r_hs_00_02_01_03_00 ぐっ、うう、きついに、決まってるじゃない……うぐぅ……
+#sub "r_hs_00_02_01_03_00" guu...isn't this...too tight...guuu...
+
+//#sub r_hs_00_02_01_03_10 やっあがっ、おしっぎっ、裂けっ、じゃっ、あっ、ぎぃぃっ
+#sub "r_hs_00_02_01_03_10" yaaguu...my ass...is tearing apart...giiii
+
+//#sub r_hs_00_02_02_00_00 ふん……んっ、デリカシーのない、触り方ね……っ
+#sub "r_hs_00_02_02_00_00" humph...you have no delicacy, touching like that...
+
+//#sub r_hs_00_02_02_00_10 くぅっ、そんなっ、汚い手でっ、やっ、くぁっ！
+#sub "r_hs_00_02_02_00_10" Don't, that's dirty, no...kiii!
+
+//#sub r_hs_00_02_02_03_00 ん……何が楽しくて、こんな……んくっ……
+#sub "r_hs_00_02_02_03_00" W..what about this...is fun...
+
+//#sub r_hs_00_02_02_03_10 んくっ、うっ、いつまでっ、見てるのよっ、んんっ
+#sub "r_hs_00_02_02_03_10" ngii...always...staring at me...nnn
+
+//#sub r_hs_00_02_02_06_00 んぅ……そんなモノ使ってないで、んぁっ、さっさと犯せばいいじゃない……っ
+#sub "r_hs_00_02_02_06_00" nnn...I've never done something like this before...nnn...so it's only natural that I'm not good at it...
+
+//#sub r_hs_00_02_02_06_10 くぁっ、そんなっ、乱暴にっ、んぎっ、扱わないでっ、くぅっ
+#sub "r_hs_00_02_02_06_10" kyaa...this...rampagining...don't be so rough...ahhh
+
+//#sub r_hs_00_02_03_00_00 んむ……おむ、こんなの、美味しい訳ないじゃない……
+#sub "r_hs_00_02_03_00_00" mmmggg...this...is not tasty at all...
+
+//#sub r_hs_00_02_03_00_10 んぶっ、ちゅぶっ、うる、さいっ、ぶぶっ、ちゅぶぶっ
+#sub "r_hs_00_02_03_00_10" mmmggg...shut up...mmmggg
+
+//#sub r_hs_00_02_03_03_00 ふんっ……こうでもしないと、んっ、征服感が味わえないのかしら……
+#sub "r_hs_00_02_03_03_00" humph...if you can't even do this, how do you expect to win in the end...
+
+//#sub r_hs_00_02_03_03_10 つっ、んっ、もっとっ、優しくっ、扱いなさいっ
+#sub "r_hs_00_02_03_03_10" nnn...please...be more gentle
+
+//#sub r_hs_00_02_04_00_00 い、やぁ、んぐっ、コイツ、だけはぁ……くぅぅ……
+#sub "r_hs_00_02_04_00_00" Noo...guu...this is just...ahhh...
+
+//#sub r_hs_00_02_04_00_10 やっめっ、んぐっ、このっ、動くっ、なぁっ、くっ、うぅっ
+#sub "r_hs_00_02_04_00_10" Stop...nnn...this...don't move...ahhhh
+
+//#sub r_hs_00_02_04_01_00 くっ、自分で扱いてればいいじゃない……っ
+#sub "r_hs_00_02_04_01_00" kek, can't you just do it yourself...
+
+//#sub r_hs_00_02_04_01_10 うるさいっ、くっ、こんな事っ、一秒でも早くっ、終わらせたいのよっ
+#sub "r_hs_00_02_04_01_10" Shut up...I...just want this...to end...even...a second sooner...
+
+//#sub r_hs_00_02_10_00_00 んくっ……感じてる訳、ないでしょ……？
+#sub "r_hs_00_02_10_00_00" ngii...aren't you...feeling it...?
+
+//#sub r_hs_00_02_10_00_01 この程度、んっ……どうって事、ないわ……っ
+#sub "r_hs_00_02_10_00_01" To this degree...nnn...like I care...
+
+//#sub r_hs_00_02_10_00_10 うくっ、うっ、こんな男っ、なんかにぃっ、あくっ
+#sub "r_hs_00_02_10_00_10" uguu...this guy, why...kuuu
+
+//#sub r_hs_00_02_10_00_11 ううっ、んっ、くっ、負けるっ、もんですかっ、んくっ、うっ
+#sub "r_hs_00_02_10_00_11" ahh...I won't...loose...ahhh
+
+//#sub r_hs_00_02_10_01_00 こんなの、んんっ、気持ちいいわけ、ないじゃない……んっ
+#sub "r_hs_00_02_10_01_00" Of course...nnn...this doesn't...feel good...nnn
+
+//#sub r_hs_00_02_10_01_01 誰が、んん……レイプ魔のいう事なんか……っ
+#sub "r_hs_00_02_10_01_01" No matter what you say...nnn...this is just rape...
+
+//#sub r_hs_00_02_10_01_10 っ、激しくすればっ、いいとでもっ？
+#sub "r_hs_00_02_10_01_10" In that case, why don't you just go faster?
+
+//#sub r_hs_00_02_10_01_11 少しはっ、マシな動きでもっ、したらどうっ？
+#sub "r_hs_00_02_10_01_11" Can't you be...a little bit gentler...with your movements?
+
+//#sub r_hs_00_02_11_00_00 んっ……言いたい事があるなら、はっきり言いなさいよ……ぁん……
+#sub "r_hs_00_02_11_00_00" nnn...if you have something to say, then say it clearly...annn...
+
+//#sub r_hs_00_02_11_00_10 んぁっ、んっ、そのままっ、じっとっ、してなさいっ、ぁんっ
+#sub "r_hs_00_02_11_00_10" ahhh...that is...don't do...anything more...ahhh
+
+//#sub r_hs_00_02_11_01_00 くっ、こうしろって言ったのは、んっ、アナタの方じゃない……っ
+#sub "r_hs_00_02_11_01_00" kek, even though I said not to...nnn...you went and did it anyways...
+
+//#sub r_hs_00_02_11_01_10 んくっ、誰がっ、好きでっ、んっ、こんなっ、事っ
+#sub "r_hs_00_02_11_01_10" nkuu...who are you saying..nnn....is liking this...
+
+//#sub r_hs_00_02_13_00_00 ふん……いつまで強がってる気かしら……
+#sub "r_hs_00_02_13_00_00" humph...how long are you going to pretend to be tough...
+
+//#sub r_hs_00_02_13_00_01 よくもそんな態度でいられるわね……
+#sub "r_hs_00_02_13_00_01" You really like keeping up that attitude...
+
+//#sub r_hs_00_02_13_00_10 くっ、そんなにいいならっ、早くイけばいいじゃないっ
+#sub "r_hs_00_02_13_00_10" If it's fine, then hurry up and cum already
+
+//#sub r_hs_00_02_13_00_11 気持ちいいならっ、気持ちいいってっ、言いなさいよっ
+#sub "r_hs_00_02_13_00_11" If it feels good...then say it feels good
+
+//#sub r_hs_00_02_13_01_00 こんなモノ……見たくも触りたくもないわ……っ
+#sub "r_hs_00_02_13_01_00" These kind of things...I really don't want to know about them...
+
+//#sub r_hs_00_02_13_01_01 何……？　あなたが不感なだけでしょ……？
+#sub "r_hs_00_02_13_01_01" What...? Aren't you just insensitive...?
+
+//#sub r_hs_00_02_13_01_10 臭くてっ、気持ち悪くてっ、んんっ、最低よっ
+#sub "r_hs_00_02_13_01_10" It stinks, I feel sick...nnn...this is the worst
+
+//#sub r_hs_00_02_13_01_11 こんなのっ、んっ、疲れるっ、だけじゃないっ
+#sub "r_hs_00_02_13_01_11" This is...nnn...aren't you tired already
+
+//#sub r_hs_00_02_14_00_00 にゅりゅぅ……にゃに、はんにょーひへるにょよ……れりゅ……（何反応してるのよ
+#sub "r_hs_00_02_14_00_00" mmmggg...what are you...reacting to...mmmggg
+
+//#sub r_hs_00_02_14_00_10 しゅるっ、ちゅるっ、んぐっ、こうれもっひないとっ、えろっ、たりぇてくりゅのよっ、んっりゅっ（こうでもしないと垂れてくるのよ
+#sub "r_hs_00_02_14_00_10" mmmggg...if I do it like this...it starts to leak out...mmmggg
+
+//#sub r_hs_00_02_14_01_00 ちゅる、ん……にゃんで、こんにゃきひゃにゃいもにょを、えろ……（何でこんな汚いモノを
+#sub "r_hs_00_02_14_01_00" mmmggg...why...am I doing it...with this filthy thing...mmmggg
+
+//#sub r_hs_00_02_14_01_10 んりゅっ、れりょっ、えぅっ、まじゅっ、んろっ、れろっ、ねろっ（不味っ
+#sub "r_hs_00_02_14_01_10" mmmggg...disgusting...mmmggg
+
+//#sub r_hs_00_02_15_00_00 こんな、マグロ相手に、はふ……いい気なものね……
+#sub "r_hs_00_02_15_00_00" My foe...is like a dead tuna...haa...too easy...
+
+//#sub r_hs_00_02_15_00_10 はぁっ、い、いつまでっ、続ける気っ、なのよぉっ
+#sub "r_hs_00_02_15_00_10" haa...how long...are you going to keep this up
+
+//#sub r_hs_00_02_20_00_00 んくっ、見ない、でぇ……っ
+#sub "r_hs_00_02_20_00_00" nku, don't look at me....
+
+//#sub r_hs_00_02_20_00_10 あっ、んっ、見なっ、でぇっ、んぁっ
+#sub "r_hs_00_02_20_00_10" ahhh...don't look...nnn
+
+//#sub r_hs_00_02_20_01_00 ん……見ないで……っ
+#sub "r_hs_00_02_20_01_00" nn...don't look at me...
+
+//#sub r_hs_00_02_20_01_10 んっ、見ないでっ、よっ、んんっ
+#sub "r_hs_00_02_20_01_10" nnn,...please don't look...nnn
+
+//#sub r_hs_00_02_20_02_00 しゅる……みにゃいれ……んちゅ……（見ないで
+#sub "r_hs_00_02_20_02_00" mmmggg...don't look...mmmggg
+
+//#sub r_hs_00_02_20_02_10 じゅりゅっ、みにゃいっれぇっ、れろっ（見ないで
+#sub "r_hs_00_02_20_02_10" mmmggg...don't look at me...mmmggg
+
+//#sub r_hs_00_02_20_03_00 んぼぉ……見ないで……おむ……
+#sub "r_hs_00_02_20_03_00" mmmggg...don't look...mmmggg
+
+//#sub r_hs_00_02_20_03_10 おぶっ、見ないっでぇっ、んぶぶっ
+#sub "r_hs_00_02_20_03_10" mmmggg...don't look at me...mmmggg
+
+//#sub r_hs_00_02_91_00_00 黙りなさい……っ
+#sub "r_hs_00_02_91_00_00" Please shut up...
+
+//#sub r_hs_00_02_91_00_10 だまっれぇっ
+#sub "r_hs_00_02_91_00_10" Shut up
+
+//#sub r_hs_00_03_00_00_00 うくっ、んっ、こんなっ、事でっ、私っ、んぁっ、私はっ、あぁっ！
+#sub "r_hs_00_03_00_00_00" ukuu...damn...this...I...I’m...!
+
+//#sub r_hs_00_03_00_00_01 くっ、ぁっ、何度っ、イってもっ、んあっ、私はっ、負けないっ、からぁぁぁっ！
+#sub "r_hs_00_03_00_00_01" ahhh...how many times must this...I...won't lose to...ahhhh!
+
+//#sub r_hs_00_03_00_01_10 くっ、ふっ、今にっ、見てなさいっ、んぁっ、必ずっ、あっ、復讐っ、し、てっ、やっあっあぁぁっ！
+#sub "r_hs_00_03_00_01_10" hiii...nnn...look all you want now...for I swear...I'll have my revenge...ahhhhh
+
+//#sub r_hs_00_03_00_02_10 まっ、やっ、待ってっ、くぁっ、お尻っ、あっ、はっ、だ、めえぇぇぇっ！
+#sub "r_hs_00_03_00_02_10" H..Hold on...kuuu...my ass is...ahhhhh!
+
+//#sub r_hs_00_03_00_03_00 いっやっ、くぁっ、コイツにっ、んぐっ、コイツにだけっ、はっ、あっあっんっくぅぅぅっ！
+#sub "r_hs_00_03_00_03_00" Noooo...kuu..this guy...this damn guy...ahhhhhhh
+
+//#sub r_hs_00_03_01_00_00 くっ、うっ、出す気、ねっ、んっ、くっ、うぅぅ……っ
+#sub "r_hs_00_03_01_00_00" kuuu...save..me...kuuuuuu...
+
+//#sub r_hs_00_03_01_01_00 んくっ、やめっ、んぁっ、中はっ、嫌ってっ、言ってっ、くっ、んっ、うあぁっ
+#sub "r_hs_00_03_01_01_00" kuuu...stop...not inside...I hate it...ahhhhhh
+
+//#sub r_hs_00_03_01_01_10 んくっ、このっ、好きにっ、出せばいいじゃないっ、くっ、んっ、んんっ
+#sub "r_hs_00_03_01_01_10" kuu...as if...I like this...just cum already...ahhhh
+
+//#sub r_hs_00_03_01_02_00 ふぐっ、お尻でもっ、うぁっ、あっ、中はっ、嫌ぁ……っ
+#sub "r_hs_00_03_01_02_00" fuugii...inside...my ass...why...noooo....
+
+//#sub r_hs_00_03_01_02_10 お尻っ、んぁっ、くっ、どうせっ、出すんでしょっ、んんっ、ほらぁっ、んっ、んんぅっ
+#sub "r_hs_00_03_01_02_10" My ass...just cum already...come on...ahhhhh
+
+//#sub r_hs_00_03_01_03_00 抜いてっ、くっ、聞きなさいっ、んぐっ、は、早くっ、うっ、嫌っあぁぁぁ……っ
+#sub "r_hs_00_03_01_03_00" Take it out...you hear me...hurry...noooo...
+
+//#sub r_hs_00_03_02_00_00 んっ、ほら、早くしなさい……出るんでしょ……？
+#sub "r_hs_00_03_02_00_00" nnn...here...hurry up with it...you're about to cum, right...?
+
+//#sub r_hs_00_03_02_01_00 えぶっ、おっ、んっ、やっ、んぶっ、飲みたくっ、ないっ、ぉえっ、ぬぶっ、んぶぇっ
+#sub "r_hs_00_03_02_01_00" mmmgggg...I don't want to swallow it...mmmggg
+
+//#sub r_hs_00_03_02_02_00 しゅるっ、ぬりゅっ、ひょっひょひょ、れろっ、らひなはいっ、ぬりゅるっ（とっとと出しなさい
+#sub "r_hs_00_03_02_02_00" mmmggg...hurry up and cum...mmmggg
+
+//#sub r_hs_00_04_00_00_00 ふっ、ふっ、くっ、こんな、外道なんかに、はふ……
+#sub "r_hs_00_04_00_00_00" haa haa haa...this...fiend...haa...
+
+//#sub r_hs_00_04_00_00_01 んくっ、ふっ、イったわよ、ふっ、これで満足かしら……？
+#sub "r_hs_00_04_00_00_01" nnnn...like I thought...I guess you're satisfied with this...?
+
+//#sub r_hs_00_04_00_01_10 はっ、はっ、んぐっ、うるさいっ、ふっ、見る、なぁっ、はふ、ふ……
+#sub "r_hs_00_04_00_01_10" haa haa...shut up...don't look...haaa...
+
+//#sub r_hs_00_04_00_02_10 誰の、せいで、くふっ、こんな、お尻なんかで、はふ、ふ……
+#sub "r_hs_00_04_00_02_10" This is all your fault...kuu...this...why my ass is...haa...
+
+//#sub r_hs_00_04_01_00_00 んう……終わったなら、さっさと抜きなさいよ……
+#sub "r_hs_00_04_01_00_00" nnn...if you're finished...then pull it out already...
+
+//#sub r_hs_00_04_01_00_01 んく……中に出せて、満足かしら……？
+#sub "r_hs_00_04_01_00_01" kuu...cuming inside, I wonder if he's satisfied...? 
+
+//#sub r_hs_00_04_01_01_00 ふぐ……アナタの赤ちゃんなんて、誰が産むものですか……っ
+#sub "r_hs_00_04_01_01_00" uuguu...who the heck do you think...is going to give birth to your baby...?
+
+//#sub r_hs_00_04_01_01_10 んん……この、くらい……んっ、もう、慣れたわ……んぅ……
+#sub "r_hs_00_04_01_01_10" nnn...if it's just this...I'm already use to it...nnn...
+
+//#sub r_hs_00_04_01_02_00 んぐ……お尻だからって、好き勝手出してくれるわね……
+#sub "r_hs_00_04_01_02_00" nnguu...if it's just my ass...then just do what whatever you want...
+
+//#sub r_hs_00_04_01_02_10 んっ、う……後でお尻、洗わなくちゃ……んん、ふぅ……
+#sub "r_hs_00_04_01_02_10" nnn...afterwards...I'll need to wash my ass...nnn...
+
+//#sub r_hs_00_04_02_00_00 んぐ……黙りなさい……噛み千切るわよ……？
+#sub "r_hs_00_04_02_00_00" mmmggg...please shut up...do you want me to bite it off...?
+
+//#sub r_hs_00_04_02_01_00 えほっ……うぅ、無理矢理出すから……んん゛っ……
+#sub "r_hs_00_04_02_01_00" *gulp* *cough*...forcibly cuming...nnn...
+
+//#sub r_hs_00_04_02_02_00 んぅ……何よ、全部飲んだのだから、文句はないはずよね？
+#sub "r_hs_00_04_02_02_00" *gulp*...what...I swallowed it all...you don't have any complaints, right?
+
+//#sub r_hs_00_04_02_03_00 ……見たならいいでしょ？　早く捨てさせなさい
+#sub "r_hs_00_04_02_03_00" ...you saw it, right? Then hurry up and leave
+
+//#sub r_hs_00_04_02_04_00 ふん、ほえぁ、あんはのお……（ふん、これがアンタのよ
+#sub "r_hs_00_04_02_04_00" haa haaa haaa...this is just like you...
+
+//#sub r_hs_00_04_03_00_00 ふん、猿のくせに……っ
+#sub "r_hs_00_04_03_00_00" humph, you're like a monkey...
+
+//#sub r_hs_00_04_03_00_01 はぁ……で、どうするのよこれから……
+#sub "r_hs_00_04_03_00_01" haaa...so, what's next...
+
+//#sub r_hs_00_04_03_01_10 くっ……いいから、さっさとシャワー浴びさせて……
+#sub "r_hs_00_04_03_01_10" kuu...that's enough, let me take a shower already...
+
+//#sub r_hs_00_04_04_01_00 くふっ、うっ、コイツに、なんて……んんっ、死にたい……んっ……
+#sub "r_hs_00_04_04_01_00" kuuu...this guy...nnn...I want to die...nnn...
+
+//#sub r_hs_00_04_04_02_00 んくぅぅ……自分が、何をしたか、くふっ、わかってるの……？
+#sub "r_hs_00_04_04_02_00" kuuu...do you understand...what you've done...?
+
+//#sub r_hs_00_04_04_03_00 んぅ……こんな状況で、理性なんて必要ないって事ね……はぁ……
+#sub "r_hs_00_04_04_03_00" nnn...in this situation...reason is pointless...haa...
+
+//#sub r_hs_00_04_05_00_00 んくっ、何度っ、イったってっ、はふっ、私、はぁ、はふ……
+#sub "r_hs_00_04_05_00_00" nkuu..how many...more times...must I...haa...
+
+//#sub r_hs_00_05_00_02_00 んくぅっ……っはぁ、はぁ、くふっ、こんなに、出されたなんて、んふ、ふぅ……
+#sub "r_hs_00_05_00_02_00" nkuu...haa haa...cuming...like this...haaa...
+
+//#sub r_hs_00_05_00_03_00 だ、め……力、はいらな……うぅ……
+#sub "r_hs_00_05_00_03_00" No...more...I don't have...any strength...
+
+//#sub r_hs_00_06_00_00_00 ふん……終わったなら、さっさと消えなさいよ……
+#sub "r_hs_00_06_00_00_00" humph...if you're finished, then hurry up and disappear...
+
+//#sub r_hs_00_06_00_00_01 はぁ……早く私に飽きてくれないかしら……
+#sub "r_hs_00_06_00_00_01" haa...hurry up and get tired of me already...
+
+//#sub r_hs_00_06_00_01_00 や、やっと、終わるのね……んん、はぁ……
+#sub "r_hs_00_06_00_01_00" Fi..finally, it's over...nnn haa...
+
+//#sub r_hs_00_06_00_04_00 ふん……よかったわね、イかせられて……
+#sub "r_hs_00_06_00_04_00" humph...aren't you happy, get caught already... 
+
+//#sub r_hs_00_06_00_05_00 はぁ……あれだけ馬鹿みたいに出したんだもの、さぞ満足でしょうね……
+#sub "r_hs_00_06_00_05_00" haa...cuming like an idiot, you must be satisfied...
+
+//#sub r_hs_00_06_00_08_00 ふん、あなたにしては、随分控えめね……
+#sub "r_hs_00_06_00_08_00" humph, for someone like you, you're being pretty reserved...
+
+//#sub r_hs_00_06_00_09_00 男なんて……どいつもこいつも、ケダモノよ……
+#sub "r_hs_00_06_00_09_00" This guy...whether it's this or that, he's just a beast...
+
+//#sub r_hs_00_06_00_10_00 ……何もする気がないのに近づいて……陰湿な男ね
+#sub "r_hs_00_06_00_10_00" ...it's pointless to try and understand him...just a wicked man
+
+//#sub r_hs_00_06_91_00_00 終わり、なのね……
+#sub "r_hs_00_06_91_00_00" It's over, right...
+
+//#sub r_hs_01_02_00_01_00 お、オマンコくらい、んんっ……好きに、すればいいじゃない……っ
+#sub "r_hs_01_02_00_01_00" My..my pussy...nnn...if you like it, then that's fine...
+
+//#sub r_hs_01_02_00_01_10 嫌いっ、んぐっ、あなたもっ、セックスもっ、んぁっ、大っ嫌いっ！
+#sub "r_hs_01_02_00_01_10" I hate it...nnn...sex with you...nnn...I absolutely hate it!
+
+//#sub r_hs_01_02_01_01_00 うくっ、お、お尻でもアナルでも、んぁっ、どっちでもいいでしょう……っ
+#sub "r_hs_01_02_01_01_00" ukuu...in my ass or anal...doesn't matter what you call it...
+
+//#sub r_hs_01_02_01_01_10 くぅぅっ、アナルセックスっ、如きでぇっ、んひぅっ！
+#sub "r_hs_01_02_01_01_10" kuuu...anal sex, it's just the same...hiiii!
+
+//#sub r_hs_91_00_00_00_00 違う……私は……私はぁ……っ
+#sub "r_hs_91_00_00_00_00" You're wrong...I'm...I'm not...
+
+//#sub r_hs_91_03_00_00_00 イヤっ、んぁっ、もうイヤっ、あっ、イくのっ、イヤなのっ、あっ、やっ、イヤぁぁぁぁっ！
+#sub "r_hs_91_03_00_00_00" No...no more...I don't want to...cum anymore...please no
+
+//#sub r_hs_91_03_01_00_00 やめてっ、んんっ、出さないっ、でぇっ、んぁっ、中っ、んぐっ、イヤぁぁ……っ
+#sub "r_hs_91_03_01_00_00" Stop...don't cum...why...no more...
+
+//#sub r_hs_91_03_02_00_00 早くっ、んっ、早くっ、終わっ、てぇ……っ
+#sub "r_hs_91_03_02_00_00" Hurry up...hurry up and finish...
+
+//#sub r_hs_91_04_00_00_00 はふっ、ふっ、おね、がい、んんっ、もぉ、やめてぇ……んぅ……
+#sub "r_hs_91_04_00_00_00" haaa...please...stop this...please...
+
+//#sub r_hs_91_04_01_00_00 んうぅ……何で……んぐ、どうして、中に出すのよぉ……っ
+#sub "r_hs_91_04_01_00_00" nnn...why...why did you cum inside...?
+
+//#sub r_hs_91_04_03_00_00 うぅ……汚い……臭いぃ……
+#sub "r_hs_91_04_03_00_00" uuu...filthy...it stinks...
+
+//#sub r_hs_91_06_00_00_00 うぅ……私は……私はぁ……っ
+#sub "r_hs_91_06_00_00_00" uuu...I...I'm....
+
+//#sub r_hs_10_00_00_00_00 ふふ……これは夢よ……夢……そうに違いないわ……
+#sub "r_hs_10_00_00_00_00" hehe...this is a dream...a dream...it has to be...
+
+//#sub r_hs_10_00_00_00_01 続く……いつまで……？　一生……？　……死ぬまで？
+#sub "r_hs_10_00_00_00_01" How long...will this go on?...While I live?...Till I die?
+
+//#sub r_hs_10_00_01_00_00 きょ、今日も、卑しい中古穴、ずぼずぼ沢山、犯して下さい……
+#sub "r_hs_10_00_01_00_00" To..Today too...my dirty used hole...fuck me lots...please give it to me...
+
+//#sub r_hs_10_00_01_01_00 ほら、挿れたいんでしょ？　……挿れなさいよぉ……っ
+#sub "r_hs_10_00_01_01_00" Look...don't you want to put it in?...please insert it...
+
+//#sub r_hs_10_00_01_02_00 貴方の……貴方のせいで、こんな、疼いてぇ……っ
+#sub "r_hs_10_00_01_02_00" You...because of you...this is...unbearable
+
+//#sub r_hs_10_00_02_00_00 ふふ……私も、私の部屋も、みーんな汚されていくのね……
+#sub "r_hs_10_00_02_00_00" hehe...my...my room...it's going to be completely soiled...
+
+//#sub r_hs_10_00_02_01_00 み、皆さん、私達の見世物セックス、是非、見ていってくだ、さい……うぅ……
+#sub "r_hs_10_00_02_01_00" Ev..everyone...please come and watch...our sex spectacular...uuuu
+
+//#sub r_hs_10_00_02_02_00 ふふっ、肉便器の私にはお似合いの場所ね……
+#sub "r_hs_10_00_02_02_00" hehe...this place perfectly suits a meat toilet like me...
+
+//#sub r_hs_10_00_02_03_00 嫌……近いぃ……
+#sub "r_hs_10_00_02_03_00" No...too close...
+
+//#sub r_hs_10_00_03_00_00 お願い……見ないで……っ
+#sub "r_hs_10_00_03_00_00" Please...don't look...
+
+//#sub r_hs_10_00_03_01_00 うぅ……お前が、来なければ……お前のせいで、お前のせいで……っ！
+#sub "r_hs_10_00_03_01_00" uuu...If only...you never appeared...It's all your fault...all your fault!
+
+//#sub r_hs_10_00_03_02_00 くっ、うぅ……律子の、穴という穴を、ご堪能、下さい……
+#sub "r_hs_10_00_03_02_00" kuuuu...please enjoy...the hole known as...Ritsuko's hole...
+
+//#sub r_hs_10_00_04_00_00 早く……お願い、早くぅ……っ
+#sub "r_hs_10_00_04_00_00" Hurry...please hurry...
+
+//#sub r_hs_10_00_04_01_00 ……して、いいの？
+#sub "r_hs_10_00_04_01_00" ...me...are you sure?
+
+//#sub r_hs_10_00_04_02_00 はぁ……おしゃぶり……
+#sub "r_hs_10_00_04_02_00" haaa...like a baby...
+
+//#sub r_hs_10_00_91_00_00 うぐ、嫌ぁ……
+#sub "r_hs_10_00_91_00_00" uguu...noo...
+
+//#sub r_hs_10_01_00_00_00 また、犯される……嫌ぁ……
+#sub "r_hs_10_01_00_00_00" Being fucked...again...nooo...
+
+//#sub r_hs_10_01_00_00_01 ひひ……子作りセックス……こんな人との……うぅ、あぁぁ……
+#sub "r_hs_10_01_00_00_01" hihi...having sex...with this guy...uuuaaa....
+
+//#sub r_hs_10_01_00_01_00 何よ……こんな女の処女を奪ったところで、どうせ……
+#sub "r_hs_10_01_00_01_00" What...to steal the virginity of a woman...of course...
+
+//#sub r_hs_10_01_01_00_00 あぁ……お尻が、犯される……あは……
+#sub "r_hs_10_01_01_00_00" ahh...to be fucked...in the ass...ahhh...
+
+//#sub r_hs_10_01_01_00_01 ふっ……私なんてお尻で十分って事ね……
+#sub "r_hs_10_01_01_00_01" humph...I still haven't had enough in the ass...
+
+//#sub r_hs_10_01_01_01_00 お尻……そう、そんなところまで奪っていくのね……
+#sub "r_hs_10_01_01_01_00" My ass...to think you're going to claim that spot...
+
+//#sub r_hs_10_01_02_00_00 私に……触らないで……っ
+#sub "r_hs_10_01_02_00_00" Please don't...touch me...
+
+//#sub r_hs_10_01_02_00_01 まさぐられる……あんなとこや、こんなとこを……ふふ……
+#sub "r_hs_10_01_02_00_01" To be toyed with...in such a place...in that spot...hehe...
+
+//#sub r_hs_10_01_02_01_00 んぅ……律子のオナニーショー、好きなだけ、見ていって下さい……
+#sub "r_hs_10_01_02_01_00" nnn...Ritsuko's mastubation show...please watch as much as you like...
+
+//#sub r_hs_10_01_02_02_00 ……それで私の身体を穿り回すのね……
+#sub "r_hs_10_01_02_02_00" ...so my body will be peirced with that toy...
+
+//#sub r_hs_10_01_03_00_00 どうせ、出すだけじゃ終わらないくせに……
+#sub "r_hs_10_01_03_00_00" In any case...it won't end...even if you cum...
+
+//#sub r_hs_10_01_03_00_01 ……すれば、いいんでしょ……？
+#sub "r_hs_10_01_03_00_01" In that case...isn't it fine...?
+
+//#sub r_hs_10_01_03_01_00 口で……舐めればいいの？　しゃぶればいいの……？
+#sub "r_hs_10_01_03_01_00" With my mouth...should I lick it?...Or should I suck it....?
+
+//#sub r_hs_10_01_03_02_00 扱いて射精……扱いて射精……扱いて射精……
+#sub "r_hs_10_01_03_02_00" stroke and cum...stroke and cum...stroke and cum...
+
+//#sub r_hs_10_01_04_00_00 どうせ私なんかがしても……
+#sub "r_hs_10_01_04_00_00" Even if I try to do something...
+
+//#sub r_hs_10_01_05_00_00 は、早く……早くぶち込んで、下さいぃ……っ
+#sub "r_hs_10_01_05_00_00" haa...hurry...hurry up and drive it in please...
+
+//#sub r_hs_10_02_00_01_00 ううぅ……セックスなんて、んぁっ、セックスなんてぇ……っ
+#sub "r_hs_10_02_00_01_00" uuu...a thing like sex...nnn...a thing like sex...
+
+//#sub r_hs_10_02_00_01_10 嫌っあぁっ、あひっ、もぉっ、犯さっ、ないでっ、んぁっ、やっ、あはぁっ
+#sub "r_hs_10_02_00_01_10" nooo...please...stop pounding...ahhh
+
+//#sub r_hs_10_02_00_02_00 いっぐ、うぅ……どう、かしら、んくっ……私の処女、奪った気分は、っぐ……
+#sub "r_hs_10_02_00_02_00" iiguuu...how is it...my virginity...the feeling of taking it...
+
+//#sub r_hs_10_02_00_02_10 なんっでっ、ぐぅっ、痛いっ、いだいのにっ、ひぎっ、感じるっ、のよぉっ
+#sub "r_hs_10_02_00_02_10" Why...ouch...it hurts...I can feel it...
+
+//#sub r_hs_10_02_00_03_00 ふぐぅ……痛い……気持ち悪い……んぐ、最悪よぉ……
+#sub "r_hs_10_02_00_03_00" guu...it hurts...feels terrible...this is the worst...
+
+//#sub r_hs_10_02_00_03_10 あっぎっ、うぐっ、だ（め）っ、い゛っ、こわっ、ぐっ、ごわれっ、ぢゃうっ、っぐぅぅっ
+#sub "r_hs_10_02_00_03_10" agii...uguu...stop...breaking...guuu
+
+//#sub r_hs_10_02_01_01_00 ひうぅ……お尻っ、あひっ、ずりずりしないでぇ……っ
+#sub "r_hs_10_02_01_01_00" hiii...my ass...don’t rub it...
+
+//#sub r_hs_10_02_01_01_10 んおぉっ、そんなっ、お尻っ、穿ったらぁっ、んぁおっ
+#sub "r_hs_10_02_01_01_10" ooo...you can’t...my ass...drilling it out...
+
+//#sub r_hs_10_02_01_02_00 あ゛はっ、お尻の処女膜、ぃぎっ、なくなっちゃったぁ……♪
+#sub "r_hs_10_02_01_02_00" ahhhhaa...my ass hymen...has been taken...♪
+
+//#sub r_hs_10_02_01_02_10 きひっ、お尻っ、んぎっ、お尻っ、あづいぃっ♪
+#sub "r_hs_10_02_01_02_10" kiihii...my ass..my ass...dzuiii♪
+
+//#sub r_hs_10_02_01_03_00 はぐっ、う……嫌ぁ……いだいぃ……
+#sub "r_hs_10_02_01_03_00" haaaguu...noo...it hurts...
+
+//#sub r_hs_10_02_01_03_10 いだっ、いぃっ、ぎぅっ、おじりっ、きづいぃぃっ
+#sub "r_hs_10_02_01_03_10" Ouch...iiiiigiii...my ass...tight...iiii
+
+//#sub r_hs_10_02_02_00_00 んうぅ……痴漢……変態……強姦魔……っ
+#sub "r_hs_10_02_02_00_00" nuuu...molester...pervert...rapist...
+
+//#sub r_hs_10_02_02_00_10 もぉっ、んぁっ、濡れてるっ、からっ、ぁっ、はっ、はやっくぅっ
+#sub "r_hs_10_02_02_00_10" Enough...nnnn...I'm getting wet...hurry up
+
+//#sub r_hs_10_02_02_01_00 んちゅる……ろこまれ、おかへば、むちゅ、ひがふむの……？（どこまで犯せば気が済むの？
+#sub "r_hs_10_02_02_01_00" mmmggg...how far...are you going to...break our minds and spirits...?
+
+//#sub r_hs_10_02_02_01_10 んひゅっ、ほんにゃっ、ひひゅっ、にゅるっ、ひひゃくっ、にゃいっ（こんなキスしたくない
+#sub "r_hs_10_02_02_01_10" mmmggg...this...kiss...I don't want it...mmmggg
+
+//#sub r_hs_10_02_02_02_00 や、んん……母乳なんて、出ないぃ……
+#sub "r_hs_10_02_02_02_00" ahhh...something like milk...isn't going to come out...
+
+//#sub r_hs_10_02_02_02_10 あひっ、んっ、そんなっ、おっぱいだけでっ、んあぁっ
+#sub "r_hs_10_02_02_02_10" ahhh...this can't be...with just my breast...nnnn
+
+//#sub r_hs_10_02_02_03_00 こんな、んん……指、だけじゃ……ぁぅ……
+#sub "r_hs_10_02_02_03_00" Something like this...nnn...with just fingers...ahhh...
+
+//#sub r_hs_10_02_02_03_10 んぁっ、何でっ、んんっ、見てるだけっ、なのよっ、あっ、んんっ
+#sub "r_hs_10_02_02_03_10" ahhh...why...just from being seen...what's happening...ahhhh
+
+//#sub r_hs_10_02_02_06_00 んぅ……私も、こんな玩具みたいな、んぁっ、セックスに使われるだけの、存在なのね……
+#sub "r_hs_10_02_02_06_00" nuuu...I'm...just like this toy...an existence made only for sex
+
+//#sub r_hs_10_02_02_06_10 私っ、なんてっ、んぁっ、こんなっ、玩具でっ、十分ってっ、事ねっ、ぁんっ
+#sub "r_hs_10_02_02_06_10" I...what's happening...this...toy...at my limit...ahhh
+
+//#sub r_hs_10_02_03_00_00 おむ、ん……美味しい……
+#sub "r_hs_10_02_03_00_00" mmmggg...tasty...
+
+//#sub r_hs_10_02_03_00_10 ちゅぶっ、ちゅぶっ、早くっ、出してっ、んぶっ、ぬぶっ
+#sub "r_hs_10_02_03_00_10" mmmggg...hurry up...and cum...mmmggg
+
+//#sub r_hs_10_02_04_00_00 お前が、んぁっ、全部、悪いんだぁ……んあぁ……
+#sub "r_hs_10_02_04_00_00" You are...nnn...everything...that is bad...ahhh...
+
+//#sub r_hs_10_02_04_00_10 触っるなっ、んぁっ、私のっ、中にっ、んっ、入ってっ、来るなぁっ
+#sub "r_hs_10_02_04_00_10" Don' touch me...ahhh...inside me...it's entering...ahhh
+
+//#sub r_hs_10_02_04_01_00 気持ち悪い、んう……気持ち悪い、気持ち悪い……
+#sub "r_hs_10_02_04_01_00" I feel sick...nuu...I feel sick...I feel sick...
+
+//#sub r_hs_10_02_04_01_10 んんっ、お前がっ、くっ、うっ、お前がぁっ
+#sub "r_hs_10_02_04_01_10" nnnn...you are...kuuu...you are
+
+//#sub r_hs_10_02_10_00_00 こんなの、んぁぁ……嫌なのに……う、あぁ……
+#sub "r_hs_10_02_10_00_00" Even though...ahhh...I don't want this...ahhh...
+
+//#sub r_hs_10_02_10_00_01 んうぅ……どうして私を、んぁっ、感じさせるのよぉ……っ
+#sub "r_hs_10_02_10_00_01" nnnn...why am I...ahhh...starting to feel it...
+
+//#sub r_hs_10_02_10_00_10 やっ、あぁっ、気持ちいいのっ、嫌ぁぁっ……
+#sub "r_hs_10_02_10_00_10" nooo...this feel good...stop...
+
+//#sub r_hs_10_02_10_00_11 ふっ、あはっ、んぁっ、犯されてっ、雌顔晒してっ、くふっ、私っ、滑稽だわっ、あひっ、ん、ううぅっ
+#sub "r_hs_10_02_10_00_11" ahhh...being fucked...my face is like a bitch...I becoming ridiculous...ahhh
+
+//#sub r_hs_10_02_10_01_00 うぅ……何でも、しますから……これ以上、犯さないでぇ……っ
+#sub "r_hs_10_02_10_01_00" uuu...I'll do...anything else...so please...stop violating me...
+
+//#sub r_hs_10_02_10_01_01 んうぅ……こんなの、夢よ……んぁっ、そうに、決まってる……
+#sub "r_hs_10_02_10_01_01" nuuu...this is...a dream...it has to be...
+
+//#sub r_hs_10_02_10_01_10 んぐっ、たすっ、けてっ、くぅっ、だれっ、かぁ……っ
+#sub "r_hs_10_02_10_01_10" nguu...save me...someoneeeee....
+
+//#sub r_hs_10_02_10_01_11 やめっ、てぇっ、くっ、うっ、嫌っ、嫌ぁ……っ
+#sub "r_hs_10_02_10_01_11" Stop...kuuu...no...nooo...
+
+//#sub r_hs_10_02_11_00_00 嫌ぁ……んぁっ、腰が勝手に、ん……やぁ……
+#sub "r_hs_10_02_11_00_00" no...nnn...my hip are moving on their own...ahh...
+
+//#sub r_hs_10_02_11_00_10 やっ、んぁっ、あっ、このままっ、続けるっ、のぉっ、んぁっ
+#sub "r_hs_10_02_11_00_10" no...ahhh...this...just keeps on going...ahhhh
+
+//#sub r_hs_10_02_11_01_00 んあぅ……こんなの、気持ちよく、ない……んぁ……
+#sub "r_hs_10_02_11_01_00" ahhh...this...doesn't feel good...at all...nnnn...
+
+//#sub r_hs_10_02_11_01_10 見ないっで、んぁっ、こんなっ、姿ぁっ、んうぅっ
+#sub "r_hs_10_02_11_01_10" Don't look...ahhh...my current state...ahhh
+
+//#sub r_hs_10_02_12_00_00 んむ、ちゅる、んっ、いっふぁい、はいっれくりゅ、んちゅる、んむぅ……（いっぱい入って来る
+#sub "r_hs_10_02_12_00_00" mmmggg...a lot...is coming out...mmmggg
+
+//#sub r_hs_10_02_12_00_10 んちゅっ、ちゅっ、にゃめっ、あぶっ、ちゅむっ、おかひっ、ひゃぶっ（舐め、犯し
+#sub "r_hs_10_02_12_00_10" mmmggg...licking...ravishing...mmmggg
+
+//#sub r_hs_10_02_12_01_00 ちゅむ、んぁ……くひも、あしょこも、んんっ、おかひゃれて、えむぅ……（口もアソコも犯されて
+#sub "r_hs_10_02_12_01_00" mmmggg...both my mouth...and also there...are being fucked...mmmggg
+
+//#sub r_hs_10_02_12_01_10 あむちゅっ、ちゅっ、しょんなっ、んむっ、よくばりゃにゃっ、んむぅっ（そんな欲張らな（いで）
+#sub "r_hs_10_02_12_01_10" mmmggg...don't be...so greedy...mmmggg
+
+//#sub r_hs_10_02_13_00_00 頑張ります……うぅ、頑張ります、からぁ……
+#sub "r_hs_10_02_13_00_00" I can do it...uuu...I can do it...I have to...
+
+//#sub r_hs_10_02_13_00_01 んう……私で、興奮してくれてる……？
+#sub "r_hs_10_02_13_00_01" nuu...I'm...getting aroused...?
+
+//#sub r_hs_10_02_13_00_10 んっ、あぁっ、喜んでっ、くれてるっ、んっ、んんっ
+#sub "r_hs_10_02_13_00_10" ahhh...I'm pleased...to hear that...ahhh
+
+//#sub r_hs_10_02_13_00_11 うぅっ、はいっ、んっ、ありがとうっ、ございますっ
+#sub "r_hs_10_02_13_00_11" ahhh...yes...thank you...very much
+
+//#sub r_hs_10_02_13_01_00 あれ……私、何でこんな事、してるのかしら……
+#sub "r_hs_10_02_13_01_00" Oh...I wonder...why do you...do this...
+
+//#sub r_hs_10_02_13_01_01 私の、何がいけなかったの？　んっ……ねぇ、答えてよぉ……っ
+#sub "r_hs_10_02_13_01_01" What was it...that I did wrong? Hey...answer me...
+
+//#sub r_hs_10_02_13_01_10 んっ、はやっ、くっ、んっ、気持ちよくっ、なってっ、んんっ
+#sub "r_hs_10_02_13_01_10" ahhh...so fast...starting...to feel good...ahhh
+
+//#sub r_hs_10_02_13_01_11 いやっ、んっ、私はっ、悪くっ、ないっ
+#sub "r_hs_10_02_13_01_11" No...nnn...I'm not...a bad girl
+
+//#sub r_hs_10_02_14_00_00 しゅりゅ……ん、わらひの、ひたにょかんひょく、ちゅる、ろーれすか……？（私の舌の感触、どうですか？
+#sub "r_hs_10_02_14_00_00" mmmggg...how..does...my tongue...feel..?
+
+//#sub r_hs_10_02_14_00_10 ちゅりゅっ、んっ、ろれらけっ、にゃめればっ、きがひゅむっのっ？　れろっ、ちゅるるっ（どれだけ舐めれば気が済むの？
+#sub "r_hs_10_02_14_00_10" mmmggg...are you satisfied...with me just licking it?
+
+//#sub r_hs_10_02_14_01_00 えりゅ、ん……にゃめたりにゃいとこ、ありまひぇんか……？　ねろぉ……（舐め足りないとこありませんか？
+#sub "r_hs_10_02_14_01_00" mmmggg...is licking it...not enough...?
+
+//#sub r_hs_10_02_14_01_10 れろろっ、れろっ、にぇぇっ、んっ、きもひよくっ、にゃいのっ？　んじゅりゅっ（ねぇ、気持ちよくないの？
+#sub "r_hs_10_02_14_01_10" mmmggg...hey...is it...not feeling good?...mmmggg
+
+//#sub r_hs_10_02_15_00_00 あふ、ん……もぉ、好きにしてぇ……
+#sub "r_hs_10_02_15_00_00" ahhh...come on...of course I like it...
+
+//#sub r_hs_10_02_15_00_10 はひっ、んっ、私っ、んぁっ、成すがっ、ままぁっ、ふぁっ
+#sub "r_hs_10_02_15_00_10" hii...I'll...become...a mama...ahhhh
+
+//#sub r_hs_10_02_20_00_00 嫌ぁ、んんっ、見ないで、よぉ……んぁ……
+#sub "r_hs_10_02_20_00_00" noo...nnn...don't look...at me...ahhh...
+
+//#sub r_hs_10_02_20_00_10 やっ、あっ、見ちゃっ、やぁっ、んあっ
+#sub "r_hs_10_02_20_00_10" noo...I'll be seen...noo
+
+//#sub r_hs_10_02_20_01_00 あぅ……こんな私を、見ないで……んっ……
+#sub "r_hs_10_02_20_01_00" aauuu...don't look at me like this...nnn...
+
+//#sub r_hs_10_02_20_01_10 ふっ、んっ、見ないでっ、見ないでぇっ、んんっ
+#sub "r_hs_10_02_20_01_10" nnnn...don't look...don't look...nnnn
+
+//#sub r_hs_10_02_20_02_00 ちゅる……やら、んりゅ、みにゃいれ……んれろ……（やだ、見ないで
+#sub "r_hs_10_02_20_02_00" mmmggg...no...don't look...
+
+//#sub r_hs_10_02_20_02_10 れろっ、ちゅるっ、やっ、んりゅっ、こんにゃっ、みにゃいれっ、えろぉっ（こんな、見ないで
+#sub "r_hs_10_02_20_02_10" mmmggg...don't look at this...mmmggg
+
+//#sub r_hs_10_02_20_03_00 おぶぅ……嫌ぁ……んぶっ、ちゅ……
+#sub "r_hs_10_02_20_03_00" mmmggg...no...mmmggg...
+
+//#sub r_hs_10_02_20_03_10 んぶっ、見なっ、おぼっ、見ないっ、んぼっ、おっぶっ、うぅっ
+#sub "r_hs_10_02_20_03_10" mmmggg...don't look...don't look...mmmggg
+
+//#sub r_hs_10_02_91_00_00 もう、嫌なのぉ……
+#sub "r_hs_10_02_91_00_00" I don't want this anymore...
+
+//#sub r_hs_10_02_91_00_10 嫌っ、嫌ぁっ
+#sub "r_hs_10_02_91_00_10" noo...noo
+
+//#sub r_hs_10_03_00_00_00 ダメぇっ、んぁっ、あっ、イくっ、んんっ、イくっ、イくっ、イっ
+#sub "r_hs_10_03_00_00_00" Stop...ahhhh...cuming...cuming..cuming...iiiiii
+
+//#sub r_hs_10_03_00_00_01 嫌ぁっ、あっ、あっ、嫌っ、嫌っ、やっ、あはっ、はっ、あぁぁぁっ！
+#sub "r_hs_10_03_00_00_01" noo...ahhh...no...no...haaa...ahhhhh!
+
+//#sub r_hs_10_03_00_01_10 はひっ、ぃっ、はしたないっ、雌豚はっ、んあっ、犯されてっ、イっちゃいっ、ますぅぅっ！
+#sub "r_hs_10_03_00_01_10" ahhiii...I’m just a...pig...being fucked...I’m going to...cummmm
+
+//#sub r_hs_10_03_00_02_10 あぉっ、律子のっ、お尻イきっ、見てっ、んぉっ、見てくだっ、さいぃぃっ
+#sub "r_hs_10_03_00_02_10" aaaooo...Risuko’s ass...watch...please look at ittttt
+
+//#sub r_hs_10_03_00_03_00 イきたくっないっ、あっ、嫌っ、こんな奴でっ、イきたくっ、なんかっあっあっ、んっ、くっうああぁぁっ！
+#sub "r_hs_10_03_00_03_00" I don't want to cum...no...this guy...something's coming...kuu...ahhhh
+
+//#sub r_hs_10_03_01_00_00 んうっ、出すのね、んんっ、私のっ、中っ、にぃっ、んぁっ、あっ、んんっ
+#sub "r_hs_10_03_01_00_00" nuuu...it's going to cum...inside me...nnn...ahhhhh
+
+//#sub r_hs_10_03_01_01_00 やっあぁっ、んぁっ、私っ、ママなんかにっ、なりたくっ、ないぃっ、くあっ、あっ、うぐっ
+#sub "r_hs_10_03_01_01_00" noo...ahhh...I..don't want...to be...a mama...aaa...ahhhhh
+
+//#sub r_hs_10_03_01_01_10 んぅっ、うっ、律子の穴にっ、んぐっ、いっぱいっ、出してっ、下さいっ、んぁっ、うっ、んんっ
+#sub "r_hs_10_03_01_01_10" nuuu...please...cum a lot...in Ritsuko's hole...nnnnnnn
+
+//#sub r_hs_10_03_01_02_00 うぅっ、嫌ぁっ、お尻っ、んぐっ、お尻っ、出さないでぇっ、んあっ、あぁっ
+#sub "r_hs_10_03_01_02_00" uuuu...no...my ass...my ass...don’t cum...ahhhh
+
+//#sub r_hs_10_03_01_02_10 うぐっ、はいっ、うぅっ、お尻でっ、全部っ、んうっ、受け止めっ、ますぅっ、んっ、うっ、うっ
+#sub "r_hs_10_03_01_02_10" uguu...yes...my ass...will take in...all of it...uuuuu
+
+//#sub r_hs_10_03_01_03_00 出す、気っ？　んくっ、うっ、い、やっ、嫌っ、嫌っ嫌嫌イヤイヤイヤああああ！！
+#sub "r_hs_10_03_01_03_00" You're cuming?...kuuu...no...no...no no no no nooo!!
+
+//#sub r_hs_10_03_02_00_00 んうっ、射精っ、来るのっ？　んっ、ならっ、んんっ、ほらっ、んっんっんっ
+#sub "r_hs_10_03_02_00_00" nnn...are you...about to cum?...alright then...take this...nnnnn
+
+//#sub r_hs_10_03_02_01_00 ちゅぶっ、のむっ、ぶちゅっ、ちゅづるっ、のみますっ、からぁっ、づるるっ、ぢゅっ、んぶりゅっ
+#sub "r_hs_10_03_02_01_00" mmmggg...I’ll drink it all...mmmggg
+
+//#sub r_hs_10_03_02_02_00 れりゅっ、おにぇがいっ、ぢゅるっ、はやふっ、へーえきっ、んりゅっ、らひてぇっ、んむっ、しゅるるっ（お願い、早く精液出して
+#sub "r_hs_10_03_02_02_00" mmmggg...please...hurry...give me your semen...mmmggg
+
+//#sub r_hs_10_04_00_00_00 はふ、う……また、イっちゃった……うぅ……あは……
+#sub "r_hs_10_04_00_00_00" haaa...again...I came...haaa
+
+//#sub r_hs_10_04_00_00_01 はぁ、ん……こんな、性処理道具がイく姿見て、んんっ、何が楽しいのよ……
+#sub "r_hs_10_04_00_00_01" haaa....being treated like a sex tool...nnn...what's so fun about it...
+
+//#sub r_hs_10_04_00_01_10 いや、んぐ……こんな、気持ちよすぎ、んは、ぁ……
+#sub "r_hs_10_04_00_01_10" noo...nnn...this...feels too good...ahhh...
+
+//#sub r_hs_10_04_00_02_10 ダメ、はひ、お尻、ダメ……ひひっ、もっ、とぉ……♪
+#sub "r_hs_10_04_00_02_10" not good...wahii...my ass...this is bad...hihi...more...♪
+
+//#sub r_hs_10_04_01_00_00 んぐぅ……お腹に、ドロドロ……あはぁ……
+#sub "r_hs_10_04_01_00_00" nguu...my stomach...oozing around...haaa...
+
+//#sub r_hs_10_04_01_00_01 んうぅ、り、律子の穴に、射精してくれて、ふぐ、ありがとう、ございます……
+#sub "r_hs_10_04_01_00_01" nuuu...cuming inside...Ritsuko's hole...thank you for your service...
+
+//#sub r_hs_10_04_01_01_00 んはぁ……入ってる、んぐ……子宮に、沢山……ぅあ……
+#sub "r_hs_10_04_01_01_00" nhaahhh...It's coming in...my womb...so much of it...ahhh...
+
+//#sub r_hs_10_04_01_01_10 あは、んうっ、あはは、やった、んぐっ、中に、出された、んふ、あはは……♪
+#sub "r_hs_10_04_01_01_10" ahhhh...yay...you came...inside...hehehe...♪
+
+//#sub r_hs_10_04_01_02_00 うぐうぅ……お尻、漏れちゃう……熱いの、がぁ……っ
+#sub "r_hs_10_04_01_02_00" uuguuu...my ass...it's gonna leak...its hot...
+
+//#sub r_hs_10_04_01_02_10 んおぉ……おっ、お尻っ、射精、んぐっ、すごぉ……んひ……♪
+#sub "r_hs_10_04_01_02_10" oooo...my ass...cuming inside...amazing...♪
+
+//#sub r_hs_10_04_02_00_00 んぐ……ふふっ、そうよね……私みたいな女、精液で溺れ死ねばいいのよね……
+#sub "r_hs_10_04_02_00_00" nuuguuu...that's right...a woman like me...should just drown in semen...
+
+//#sub r_hs_10_04_02_01_00 けほっ、ごっ、ごめんなさい、ごめんなさいぃ……っ
+#sub "r_hs_10_04_02_01_00" *cough* *cough* *cough*...I'm sorry...I'm so sorry...
+
+//#sub r_hs_10_04_02_02_00 えぅ……ご、ごちそうさま、でした……
+#sub "r_hs_10_04_02_02_00" eegguuuu...thank's for the meal...
+
+//#sub r_hs_10_04_02_03_00 こんなに出したの……わかる……？
+#sub "r_hs_10_04_02_03_00" cuming like this...understand...?
+
+//#sub r_hs_10_04_02_04_00 ほぁ……もぉいいえほ……？（ほら、もういいでしょ？
+#sub "r_hs_10_04_02_04_00" mmggg...hey, is this fine...?
+
+//#sub r_hs_10_04_03_00_00 んぅ……つ、次は何をさせる気なの……？
+#sub "r_hs_10_04_03_00_00" nuu...so what are you going to do next...?
+
+//#sub r_hs_10_04_03_00_01 わかってる、まだ出し足りないって……そうなんでしょ……？
+#sub "r_hs_10_04_03_00_01" I get it...you still haven't cum enough...isn't that right...?
+
+//#sub r_hs_10_04_03_01_10 くふ……私は、便所女……汚い精液の、掃きだめ……ふひ……
+#sub "r_hs_10_04_03_01_10" hehe...I'm a toilet girl...cleaning your filthy semen...hihi...
+
+//#sub r_hs_10_04_04_01_00 かふっ、ふっ、お前がっ、んぐっ、お前が、余計な事、しなければ、んんっ、こんな、事に、はふ……
+#sub "r_hs_10_04_04_01_00" hahaha...you...you...doing unnecessary...things like this...
+
+//#sub r_hs_10_04_04_02_00 んぐっ、こんな男の、精液が、くふっ、私の中に、うぅ、中にぃ……っ
+#sub "r_hs_10_04_04_02_00" nnn...this guy's semen...inside of me...inside...
+
+//#sub r_hs_10_04_04_03_00 うぅ……最低よ……人として、んっ、親として……っ
+#sub "r_hs_10_04_04_03_00" uuu...you're the worst...as a person...as a parent...
+
+//#sub r_hs_10_04_05_00_00 はふ、んんっ、ダメ、んぐっ、もぉ、無理ぃ……
+#sub "r_hs_10_04_05_00_00" nnnn...stop...please...no more...
+
+//#sub r_hs_10_05_00_02_00 んあぁ……んぅ、漏れ、ちゃった……うぅ……
+#sub "r_hs_10_05_00_02_00" nnnn...it's leaking out...uuu...
+
+//#sub r_hs_10_05_00_03_00 お、もらし……んんっ、気持ち、いぃ……あは……
+#sub "r_hs_10_05_00_03_00" I'm peeing...nnn...feels good...
+
+//#sub r_hs_10_06_00_00_00 あは……は……こんな世界、壊れてしまえばいいのよ……あはは……
+#sub "r_hs_10_06_00_00_00" ahaha...this world...all of it should just break...ahaha...
+
+//#sub r_hs_10_06_00_00_01 え……どうしたのよ……私、何か悪い事した……？
+#sub "r_hs_10_06_00_00_01" Eh...what's wrong...did I do something bad...?
+
+//#sub r_hs_10_06_00_01_00 うぅ……わ、私のアクメ顔、堪能していただけましたか……？
+#sub "r_hs_10_06_00_01_00" uuu...my slutty face, are you enjoying it...?
+
+//#sub r_hs_10_06_00_04_00 ……もっと、犯してよ……私の事、犯しなさいよぉ……っ
+#sub "r_hs_10_06_00_04_00" More...fuck me...right here...please fuck me...
+
+//#sub r_hs_10_06_00_05_00 はぁ、こんなに、私の事を使ってくれた……ふっ、うふふ、あはははは……♪
+#sub "r_hs_10_06_00_05_00" haaa...using me...this much...hehehe...ahahaha...♪
+
+//#sub r_hs_10_06_00_08_00 ……これだけ？　もっとドロドロになるまで犯さないの……？
+#sub "r_hs_10_06_00_08_00" ...That's all? It won't become more messy unless we fuck more...
+
+//#sub r_hs_10_06_00_09_00 ふぐ……早く、この場から消えて……早く……っ
+#sub "r_hs_10_06_00_09_00" uuguu...hurry up...and disappear from this place...hurry up already...
+
+//#sub r_hs_10_06_00_10_00 な、何よ、犯さないの？　私、犯す価値もない女なの……？
+#sub "r_hs_10_06_00_10_00" W..What...are you not going to fuck me? Am I not a woman that's worthy to be fucked...?
+
+//#sub r_hs_10_06_91_00_00 おわ、った……
+#sub "r_hs_10_06_91_00_00" It's over...
+
+//#sub r_hs_11_00_01_01_00 お、お願いします、んぅ、オマンコ、オマンコ、犯して下さい、お願いします……っ
+#sub "r_hs_11_00_01_01_00" Pretty please...my pussy...my pussy...please fuck it...pretty please...
+
+//#sub r_hs_11_00_01_02_00 うぅ、私の、雌豚ケツマンコを……お、おチンポで、お仕置きしてくだ、さい……っ
+#sub "r_hs_11_00_01_02_00" uuuu...my piglike ass pussy...please punish it with your cock...
+
+//#sub r_hs_11_01_00_00_00 くふ、どうせ貴方は、オマンコさえ使えれば何でもいいのよね……？
+#sub "r_hs_11_01_00_00_00" hehe...at any rate. you can use my pussy however you like...
+
+//#sub r_hs_11_01_01_00_00 うぅ……アナルセックスなんて……大嫌い……ふふ……
+#sub "r_hs_11_01_01_00_00" uuu...anal sex or so...I hate it...hehe...
+
+//#sub r_hs_11_01_03_00_00 は、はい……オチンチン、ご奉仕、します……
+#sub "r_hs_11_01_03_00_00" haaa...yes...Mr cock...I'll service you...right now...
+
+//#sub r_hs_11_01_03_01_00 私の口は……オマンコじゃないのよ……
+#sub "r_hs_11_01_03_01_00" My mouth...isn't a pussy you know...
+
+//#sub r_hs_11_01_03_02_00 また、手にオチンチンの匂いがしみ込むのね……
+#sub "r_hs_11_01_03_02_00" Again, the stench of your cock soaks into my hands...
+
+//#sub r_hs_11_02_00_01_00 んうぅ……何でオマンコばっかり、んぁぁ……
+#sub "r_hs_11_02_00_01_00" ahhh...why is my pussy already...ahhh
+
+//#sub r_hs_11_02_00_01_10 あひっ、そんなっ、オマンコでっ、んんっ、シコシコっ、されたらぁっ
+#sub "r_hs_11_02_00_01_10" hiii...this can’t be...my pussy...is already...mushy...ahhhh
+
+//#sub r_hs_11_02_00_02_00 嫌ぁぁ、んぎぅ……オマンコ、優しくしないでぇ、はぐぅ……
+#sub "r_hs_11_02_00_02_00" Nooo...my pussy...is already...tender...
+
+//#sub r_hs_11_02_00_02_10 あっあ゛はっ、壊れマンコっ、あぎっ、ぎもぢっ、いいのぉっ、はぎぃっ♪
+#sub "r_hs_11_02_00_02_10" ah ah ah...my broken pussy...feels so good...♪
+
+//#sub r_hs_11_02_00_03_00 いぎぃぃ……私の処女が、うぎっ、処女マンコがぁ……っ
+#sub "r_hs_11_02_00_03_00" igiii...my virginity...my virgin pussy...
+
+//#sub r_hs_11_02_00_03_10 ふぎっ、いっ、犯されったっ、あっ、あぎっ、ひっ、ひひぃっ
+#sub "r_hs_11_02_00_03_10" giii...being fucked...hiiiiihiii
+
+//#sub r_hs_11_02_01_01_00 はい、ぃ……んぅっ、ケツマンコ、気持ちいい、です……んひっ……
+#sub "r_hs_11_02_01_01_00" Yes...nnn...my ass pusy...feels good...hiii...
+
+//#sub r_hs_11_02_01_01_10 んひぅっ、私はっ、アナルでよがるっ、ぬひっ、ケツブタっですっ、くひぃっ
+#sub "r_hs_11_02_01_01_10" nnhii...my...pig ass...satisfied...with anal sex
+
+//#sub r_hs_11_02_01_02_00 ぁぐっ、んぁ……ほんとに、オチンチンが、んぉっ、入って、んぐぅ……
+#sub "r_hs_11_02_01_02_00" ahhguuu...really...cock...entering...nnguuu...
+
+//#sub r_hs_11_02_01_02_10 なに゛っこれっ、んおっ、ぁっ、ケツ穴っ、んごいぃぃっ♪
+#sub "r_hs_11_02_01_02_10" What is this...ahhh...my ass hole...nnngiiii♪
+
+//#sub r_hs_11_02_01_03_00 ひぎぅ……アナル処女は、好きな人に、あぐっ……
+#sub "r_hs_11_02_01_03_00" hiiguuu...my anal virginity...by the person I like...aguu...
+
+//#sub r_hs_11_02_01_03_10 ぁがっ、あっ、ア゛ナルっ、ごわれっ、ぐひっ、あっ、ぎぁっ
+#sub "r_hs_11_02_01_03_10" agaaa...ass...breaking...agiiaaa
+
+//#sub r_hs_11_02_02_04_00 んんっ、私の、オマンコオナニーなんか、見たって……んぁっ……
+#sub "r_hs_11_02_02_04_00" nnn...my masturbation with my pussy...is being seen...ahhh...
+
+//#sub r_hs_11_02_02_04_10 あなたのっ、せいでっ、んぁっ、こんなっ、淫乱マンコにぃっ、くぁっ
+#sub "r_hs_11_02_02_04_10" This is...your fault...nnn...this nympho pussy...ahhh
+
+//#sub r_hs_11_02_02_05_00 んぅ……あれ……何で私、んんっ、お尻の穴、穿ってるのかしら……あひ……
+#sub "r_hs_11_02_02_05_00" nnn...huh...why is my...ass hole...being pierced...ahiii...
+
+//#sub r_hs_11_02_02_05_10 くぅんっ、律子はっ、指チンポでっ、ケツマンコオナニーっ、しちゃうっ、ひぅっ、変態っ、ですっ、うぅっ
+#sub "r_hs_11_02_02_05_10" kuuu...Ritsuko's...finger cock...ass pussy masturbating...becoming...perverted...uuu
+
+//#sub r_hs_11_02_02_07_00 何で、んぁ……オチンチン、使ってくれないのよ……
+#sub "r_hs_11_02_02_07_00" Why...are you not using...your cock...
+
+//#sub r_hs_11_02_02_07_10 いやっ、あっ、本物っ、んぁっ、本物のっ、オチンチンがっ、いいのぉっ
+#sub "r_hs_11_02_02_07_10" iiaaa...this is the real...the real thing...cock...so good
+
+//#sub r_hs_11_02_02_08_00 うぅ……私のアナルをいじめて、くふっ、何になるのよ……
+#sub "r_hs_11_02_02_08_00" uuuu...what is up with you...bullying my ass...
+
+//#sub r_hs_11_02_02_08_10 アナっルっ、んおっ、玩具っ、なんかでっ、ぉっ、きっ、ぎもぢいぃぃっ
+#sub "r_hs_11_02_02_08_10" my ass...toys or something...feels good
+
+//#sub r_hs_11_02_03_00_00 んぶぅ……私、口マンコ、ご奉仕……ちゅぶる……
+#sub "r_hs_11_02_03_00_00" mmggg...my mouth pussy...will give you service...mmmggg...
+
+//#sub r_hs_11_02_03_00_10 おぶっ、んぶっ、おちんちんっ、ぶぶっ、いかがっ、ぶぼっ、んごっ、ちゅぼぼっ
+#sub "r_hs_11_02_03_00_10" mmmggg...cock...how is it...mmmggg
+
+//#sub r_hs_11_02_03_01_00 れろ、ちゅ、ん……がまんじりゅ、ちゅづっ、ろまっひぇえ……（我慢汁止まって
+#sub "r_hs_11_02_03_01_00" mmmggg...precum...doesn't end
+
+//#sub r_hs_11_02_03_01_10 んひゅっ、おひんひんっ、ちゅるっ、おひんひんっ、づぢゅっ、おひんひんっ（オチンチンオチンチンオチンチン
+#sub "r_hs_11_02_03_01_10" mmmggg...cock...cock...cock...mmmggg
+
+//#sub r_hs_11_02_03_02_00 ん……オナニーなら、一人ですればいいのに……
+#sub "r_hs_11_02_03_02_00" nnn...masturbating...is it alright to do it alone...
+
+//#sub r_hs_11_02_03_02_10 んんっ、早くっ、射精っ、してほしいっ、からっ
+#sub "r_hs_11_02_03_02_10" nnn...hurry up...and cum...I want it
+
+//#sub r_hs_11_02_03_03_00 んうぅ……わ、私のおっぱい、んっ、いかが、ですか……？
+#sub "r_hs_11_02_03_03_00" nnnn...my breast...how are they...?
+
+//#sub r_hs_11_02_03_03_10 おっぱいでっ、オチンチンをっ、ふひっ、私がっ、オチンチンをぉっ
+#sub "r_hs_11_02_03_03_10" Boobs with...cock...Me with...cock
+
+//#sub r_hs_11_03_00_01_10 んひぁっ、あっ、ヘタレなっ、イきマンコでっ、ごめんっなさいぃぃっ！
+#sub "r_hs_11_03_00_01_10" nhiii...my pussy..getting tired...forgive me!
+
+//#sub r_hs_11_03_00_02_10 あおっ、ひっ、アナルがっ、んひっ、アナルっ、好きっ、好きぃぃぃっ！
+#sub "r_hs_11_03_00_02_10" aaaooohiii...anal...anal...I love it...I love itttt!
+
+//#sub r_hs_11_03_01_01_00 ダメぇっ、んぁっ、妊娠するからっ、あっ、子宮にっ、ザーメンっ、かけないでぇぇっ
+#sub "r_hs_11_03_01_01_00" Stop...I’ll get pregranant...my womb...semem...don’t pour it in
+
+//#sub r_hs_11_03_01_01_10 んぁっ、出しってっ、んんっ、出しなさいっ、んぁっ、オマンコにっ、あはっ、あははっ、ほらぁぁっ！
+#sub "r_hs_11_03_01_01_10" ahhh...cum...please cum...inside my pussy...right here...ahhh
+
+//#sub r_hs_11_03_01_02_00 お尻っ、んあっ、アナルっ、やっ、嫌っ、んぐっ、出さないっ、でぇっ、あっんっ、あぁぁっ
+#sub "r_hs_11_03_01_02_00" My ass...anal...noo...don't cum...ahhhh
+
+//#sub r_hs_11_03_01_02_10 んぅっ、どうかっ、私の尻穴マンコにっ、ザーメンっ、びゅるびゅるっ、して下さい……っ
+#sub "r_hs_11_03_01_02_10" nnn...please...in my ass pussy...your semen...please squirt it all in...
+
+//#sub r_hs_11_03_02_00_00 んんっ、はいっ、んっ、オチンチン射精っ、見させてっ下さいっ、んっ、ふっ、んんっ
+#sub "r_hs_11_03_02_00_00" nnn...yes...nnn...please show me...your cock cuming...mmmggg
+
+//#sub r_hs_11_03_02_01_00 むちゅっ、おちんちんっ、ぼぇっ、せーえきっ、ぢゅるっ、出してっ、えぼっ、ちゅぼっ、ちゅぼっ
+#sub "r_hs_11_03_02_01_00" mmmggg....cock...semen...let it out...mmmggg
+
+//#sub r_hs_11_03_02_02_00 ぢゅるるっ、こにょままっ、かおにっ、んりゅっ、ぶっかけりゅきねっ、ちゅるっ、れろっ（このまま顔にぶっかける気ね
+#sub "r_hs_11_03_02_02_00" mmmggg...pour in on...this mama like face...mmmgg
+
+//#sub r_hs_11_04_00_01_10 くふ、う、イった、んぐ、オマンコ、イった……ふひ、ひひ……
+#sub "r_hs_11_04_00_01_10" hihihi...I came...with my pussy...I came...hihihi...
+
+//#sub r_hs_11_04_00_02_10 は、い、んぐっ、アナルで、イきました……気持ち、よかった……です……
+#sub "r_hs_11_04_00_02_10" Yes...nguu...I came...with my ass...it feels good...I'm glad...
+
+//#sub r_hs_11_04_01_01_00 ああぁ、うぐっ、嫌、ぁ……ふぐっ、オマンコが、オマンコがぁぁ……
+#sub "r_hs_11_04_01_01_00" ahhhh...no...uguu...my pussy...my pussy...ahhh...
+
+//#sub r_hs_11_04_01_01_10 あぅぅ……オマンコ、喜んでる、んふ……ザーメン注がれて、嬉しいってぇ……♪
+#sub "r_hs_11_04_01_01_10" uuu...my pussy...is pleased...with the semen poured inside...it's happy...♪
+
+//#sub r_hs_11_04_01_02_00 ううぅ……お尻、んぐ、ザーメンが、んうっ、ザーメンがぁ……うぅ……
+#sub "r_hs_11_04_01_02_00" uuuu...my ass...semen...semen...uuu...
+
+//#sub r_hs_11_04_01_02_10 はひぃ……律子のケツ穴は、おチンポ専用、ザーメンタンクですぅ……
+#sub "r_hs_11_04_01_02_10" haahiii...Ritsuko's ass hole...just for your cock...is a semen tank...
+
+//#sub r_hs_11_04_02_01_00 んん゛っ、ザーメン、喉につっかえて、んぐっ……
+#sub "r_hs_11_04_02_01_00" nuuguu...semen...caught in my throat...*cough*...
+
+//#sub r_hs_11_04_02_02_00 はふ……わ、私のお口マンコ、如何でしたか……？
+#sub "r_hs_11_04_02_02_00" *gulp* *gulp*...haa...my mouth pussy...how was it...?
+
+//#sub r_hs_11_04_02_03_00 はい……これが、オチンチンから出されたもの、です……
+#sub "r_hs_11_04_02_03_00" Yes...this is what...just came out of your cock...
+
+//#sub r_hs_11_04_03_01_10 あは……こんな、ザーメン塗れで私、何やってるんだろう……
+#sub "r_hs_11_04_03_01_10" aha...to think...I was covered in semen...what the heck am I doing...
+
+//#sub r_hs_11_05_00_00_00 ひぁ、あぁ……うぅ、ゆるゆるマンコで、ごめんなさいぃ……
+#sub "r_hs_11_05_00_00_00" hiiii ahhh uuu...my pussy has become loose...forgive me...
+
+//#sub r_hs_11_05_00_01_00 ひぐっ、やだぁ、んぐ、お尻っ、オチンチン栓、してぇ……
+#sub "r_hs_11_05_00_01_00" hiiiguu...don't...nguu...my ass..plug it with your cock...do it...
+
+//#sub r_hs_11_06_00_02_00 はぁ……こんなイきマンコになったのも……全部、貴方の所為よ……
+#sub "r_hs_11_06_00_02_00" haaa...this sluty pussy becoming like this...it's all your fault...
+
+//#sub r_hs_11_06_00_03_00 なん、なのよ……私のアナル、どうなっちゃったのよぉ……
+#sub "r_hs_11_06_00_03_00" W..what's going on...my ass...what has happened to it...
+
+//#sub r_hs_11_06_00_06_00 あは……こんなドロドロオマンコ、妊娠するに決まってるわ……あはは……
+#sub "r_hs_11_06_00_06_00" aha...this messy pussy...I've decided that I'll get pregnant...ahaha...
+
+//#sub r_hs_11_06_00_07_00 くふっ、やったわ……アナルでオチンチン、イかせまくってやったわ……んふふ……♪
+#sub "r_hs_11_06_00_07_00" hiihii...I did it...his cock with my ass...I finally made my comeback...tehehe...♪
+
+//#sub r_hs_92_00_00_00_00 ……いっそ、帰ってこなければこんな事にも……
+#sub "r_hs_92_00_00_00_00" ...I hope soon...there'll be a home to return to...
+
+//#sub r_hs_20_01_00_00_00 ふひひ、いりぇないれ、んひっ、おひんひん、おゃんこ、じゅぼじゅぼひないれぇ……♪（挿れないで、オチンチン、オマンコずぼずぼしないで
+#sub "r_hs_20_01_00_00_00" hihihi...don't put it in...cock...don't pound my pussy
+
+//#sub r_hs_20_01_00_01_00 いひぃ、しゅるの？　しょじょみゃんこれ、しぇっくすしゅるのぉ？（するの？処女マンコでセックスするの？
+#sub "r_hs_20_01_00_01_00" hihi...are you going to do it? Will you have sex with a virgin pussy?
+
+//#sub r_hs_20_01_01_00_00 んひひ、あにゃうにおひんひん、はいぃまーひゅ……♪（アナルにオチンチン入りまーす
+#sub "r_hs_20_01_01_00_00" hihihi...his cock is gonna go into my ass...♪
+
+//#sub r_hs_20_01_01_01_00 あひ……あにゃぅ、こあひゅの？　にひ、あらひみひゃいに、ぶひぶひっれぇ……♪(アナル壊すの？私みたいに、ぶひぶひって
+#sub "r_hs_20_01_01_01_00" hihi...Will you break my ass? Just like me...buhibuhi...♪
+
+//#sub r_hs_20_01_02_00_00 ひひ、あらひをもっろ、んひゅっ、めひゃくひゃにぃ、あひひ……♪（私をもっと滅茶苦茶に
+#sub "r_hs_20_01_02_00_00" hihi...mess me up even more...♪
+
+//#sub r_hs_20_01_02_01_00 へひ……おにゃにーしゅる、んんっ、おにゃにー、らいひゅきぃ……♪（オナニーする、オナニー大好き
+#sub "r_hs_20_01_02_01_00" ehihi...let's masturbate...I love mastubating...♪
+
+//#sub r_hs_20_01_02_02_00 にゃんれもいいの、んひゅっ、おかひて、んひっ、おかひれぇ……♪（何でもいいの、犯して、犯して
+#sub "r_hs_20_01_02_02_00" I don't care anymore...fuck me...fuck me
+
+//#sub r_hs_20_01_03_00_00 んひゅ、こえが、んひっ、こにょおひんひんが、じぇんぶ、じぇんぶぅ……♪（これが、このオチンチンが全部、全部
+#sub "r_hs_20_01_03_00_00" hihihi...this is...this cock is everything...everything...♪
+
+//#sub r_hs_20_01_03_00_01 えひひ、ひ、いっふぁい、おひんひんれ、んぐっ、おかひゅのぉ……♪（いっぱいオチンチン犯すの
+#sub "r_hs_20_01_03_00_01" hihihi...this cock...fuck me lots...♪
+
+//#sub r_hs_20_02_00_00_00 あひぃぃ、しぇっくひゅ、きあい、んひっ、きもひーの、らいきあいぃ……♪（セックス嫌い、気持ちいいの大嫌い
+#sub "r_hs_20_02_00_00_00" hihihi...I hate sex...I hate how it feels good...♪
+
+//#sub r_hs_20_02_00_00_10 あ゛いっ、ひっ、ぉぢんっ、あひっ、おぢんっぢんんっ♪（おちん、おちんちん
+#sub "r_hs_20_02_00_00_10" aaaa...cock...cock♪
+
+//#sub r_hs_20_02_01_00_00 んい゛ぃ……うんひあにゃ、ぎぼひいいにょぉ……♪（うんち穴気持ちいいのぉ
+#sub "r_hs_20_02_01_00_00" niii...poop hole...feels good...♪
+
+//#sub r_hs_20_02_01_00_10 はひっ、ひっ、あにゃるっ、びろびろぉっ、ふひひっ♪（アナルびろびろ
+#sub "r_hs_20_02_01_00_10" hihihi...pounding my ass♪
+
+//#sub r_hs_20_02_03_00_00 んぶぶ……ちゅぼっ、んぶっ、おちんちんの味ぃ、ちゅぞぞ……
+#sub "r_hs_20_02_03_00_00" mmmggg...the taste of cock...mmmggg...
+
+//#sub r_hs_20_02_03_00_10 ぼちゅっ、もちゅっ、んぼっ、ザーメンっ、飲ませてっ、んぼぼっ、ちゅぼっ
+#sub "r_hs_20_02_03_00_10" mmmggg...let me drink...semen...mmmggg
+
+//#sub r_hs_20_02_10_00_00 あひ、はいぃ、きもひぃぃ、れひゅぅ……♪（はい、気持ちいいです
+#sub "r_hs_20_02_10_00_00" ahihi...yes, it feels good...♪
+
+//#sub r_hs_20_02_10_00_01 わらひは、くっひにゃいぃ……あひぃ、しぇっくしゅ、もっろぉ……♪（私は屈しない、セックスもっと
+#sub "r_hs_20_02_10_00_01" I won't...give in,...more sex please...♪
+
+//#sub r_hs_20_02_10_00_10 んい゛っひっ、わらひはっ、いやひいっ、めしゅろれーっ、れひゅぅっ♪（私は卑しい牝奴隷です
+#sub "r_hs_20_02_10_00_10" nihihi...I'm just a lowly bitch slave
+
+//#sub r_hs_20_02_10_00_11 うひゅっ、もっろっ、こわひてっ、んひっ、じぇんぶっ、んんっ、じぇんぶぅっ♪（もっと壊して、全部全部
+#sub "r_hs_20_02_10_00_11" hihihi...break me more...all of me...everything
+
+//#sub r_hs_20_02_11_00_00 んひっ、ごえんにゃ、ひゃい、あひっ、ごえんにゃひゃいぃっ♪（ごめんなさい、ごめんなさい
+#sub "r_hs_20_02_11_00_00" nihihi...I'm sorry...I'm sorry
+
+//#sub r_hs_20_02_11_00_10 にぇえっ、んぃっ、わらひっ、にゃにひぇるにょっ？　んひっ、わぁんにゃいっ、ひひっ、わぁんにゃいぃっ♪（ねえ、私何してるの？　わかんない、わかんない
+#sub "r_hs_20_02_11_00_10" hehehe...hey...what am I doing?...I don't get it...I don't know
+
+//#sub r_hs_20_02_12_00_00 はみゅ、ちゅぅ……んひ、らぶりゃぶしぇっくしゅぅ……ちゅむうぅ……♪（ラブラブセックス
+#sub "r_hs_20_02_12_00_00" mmmggg...lovey dovey sex...♪
+
+//#sub r_hs_20_02_12_00_10 えひっ、ちゅむぅっ、んむっ、むしゃぼりっ、ちゅくしゃれりゅぅっ、んむひゅっ、ちゅむっ♪（貪り尽される
+#sub "r_hs_20_02_12_00_10" mmmggg...want more...but tired
+
+//#sub r_hs_20_02_13_00_00 えへ、へ、きもひよく、にゃっれぇ……あひ……♪（気持ちよくなって
+#sub "r_hs_20_02_13_00_00" hehehe...I'm feeling good...♪
+
+//#sub r_hs_20_02_13_00_01 わらひが、にゃんとかひなきゃ、んひゅ……わらひが、あひ、わらひがぁ……（私が何とかしなきゃ、私が、私が
+#sub "r_hs_20_02_13_00_01" I have to...hold on somehow...hihi...I have to...I have to...
+
+//#sub r_hs_20_02_13_00_10 んっ、ひゅっ、こいひゅがっ、んひっ、こいひゅあぁっ（こいつが、こいつが
+#sub "r_hs_20_02_13_00_10" hihi...this guy...hihi...this guy
+
+//#sub r_hs_20_02_13_00_11 こにょっ、いひっ、こにょっ、こにょっ、こにょぉっ（このっ、このっこのっこのぉっ
+#sub "r_hs_20_02_13_00_11" This...hihi...this this this
+
+//#sub r_hs_20_02_14_00_00 んれろ……ひゅふ、ここかりゃ、いっふぁいしぇーえきれるにょぉ……りゅひ……♪（ココからいっぱい精液出るの
+#sub "r_hs_20_02_14_00_00" mmmggg...a lot of semen comes out of here
+
+//#sub r_hs_20_02_14_00_10 ぢゅっるっ、んぁっ、おひりゅっ、こぼれひゃうっ、んひっ、ちゅるるっ♪（お汁こぼれちゃう
+#sub "r_hs_20_02_14_00_10" mmmggg...juice...is leaking...mmmggg
+
+//#sub r_hs_20_02_20_00_00 あひぃ……もっろ、んぁっ、みれぇ……あはぁ……♪（もっと見て
+#sub "r_hs_20_02_20_00_00" hihi...look...more
+
+//#sub r_hs_20_02_20_00_10 みちぇっ、んゃっ、こわりぇたっ、あらひっ、もっろみれぇっ♪（見て、壊れた私もっと見て
+#sub "r_hs_20_02_20_00_10" look...at the broken me...look more♪
+
+//#sub r_hs_20_02_20_01_00 あは……おひんひん、しゅごいの……みひぇぇ……♪（オチンチンすごいの、見て
+#sub "r_hs_20_02_20_01_00" ahhh...cock...is amazing...look...♪
+
+//#sub r_hs_20_02_20_01_10 ほりゃっ、おひんひんっ、しゅごいれしょっ、んひっ、ほりゃぁっ♪（ほら、オチンチンすごいでしょ、ほらぁ
+#sub "r_hs_20_02_20_01_10" look here...cock...is amazing...you see♪
+
+//#sub r_hs_20_02_91_00_00 あはは……♪
+#sub "r_hs_20_02_91_00_00" ahahaha...♪
+
+//#sub r_hs_20_02_91_00_10 んひっ、ひひっ♪
+#sub "r_hs_20_02_91_00_10" nihi...hihi♪
+
+//#sub r_hs_20_03_00_00_00 もっ、むぃっ、ぎひっ、じにゅっ、んぃっ、いっ、イ゛ぎじにゅぅぅっ！（もう無理、死ぬ、イき死ぬ
+#sub "r_hs_20_03_00_00_00" I can't take it...I'll die...I'm dyingggg!
+
+//#sub r_hs_20_03_00_01_00 いひっ、ひっ、イぐよっ、ひっ、りひゅごっ、おひゃんごっ、ヴひヴひっ、いぇっ、へっ、いひひぃぃっ（イクよ、律子、オマンコ、ぶひぶて
+#sub "r_hs_20_03_00_01_00" hihihi...I'm gonna cum...Ritsuko's...pussy...buhihehihihi
+
+//#sub r_hs_20_03_00_02_00 おひっ、ぐりゅのっ、ぬひっ、けじゅまんごっ、しゅごいのっ、ぐりゅっ、ぐりゅうぅぅぅっ！（来るの、ケツマンコすごいの来る、来る
+#sub "r_hs_20_03_00_02_00" hihi...it's coming... my ass...something incredible is coming...cumingggg!
+
+//#sub r_hs_20_03_01_00_00 いひっ、しゃしぇーくりゅっ？　んひっ、ひっ、しぇーえきぃっ、いへへぇっ♪（射精くる？　精液ぃ
+#sub "r_hs_20_03_01_00_00" Are you cuming? Semen
+
+//#sub r_hs_20_03_01_01_00 あひひっ、じゃーめんびゅーびゅーっ、んひっ、おみゃんこにっ、ほひぃにょぉっ、ひっ、いひひっ♪（ザーメンびゅーびゅーオマンコにほしいの
+#sub "r_hs_20_03_01_01_00" hihi...semen squirting...my pussy wants it...ihihi
+
+//#sub r_hs_20_03_01_02_00 くひっ、あらひっ、けちゅあにゃべんきっ、ひひっ、じゃーめんっ、じゃぁめんっ、ひっ、いひひひひっ♪（ケツ穴便器、ザーメン、ザーメン
+#sub "r_hs_20_03_01_02_00" hihihi...ass hole toilet...semen...semen...hihihi
+
+//#sub r_hs_20_03_02_00_00 あひ、ひゃひぇー、くりゅ？　んひっ、くりゅぅ？　んぇひひ……♪（射精くる、くる？
+#sub "r_hs_20_03_02_00_00" hihihi...are you cuming?...cuming?...hihihi...♪
+
+//#sub r_hs_20_03_02_01_00 ぶぢゅっ、しゃせーっ、早くっ、ぶっちゅぶっちゅぶっちゅっ、しゃせーっ、ちゅぞぞぞっ
+#sub "r_hs_20_03_02_01_00" mmmggg...hurry...cum...mmmggg...cum...mmmggg
+
+//#sub r_hs_20_03_02_02_00 えろっ、あひっ、おひんひんぼぉっ、んぢゅっ、ふくゃんれきひゃぁっ、ちゅっ、ぬぢゅるっ♪（オチンチン棒膨らんできた
+#sub "r_hs_20_03_02_02_00" mmmggg...cock...is getting larger...mmmggg
+
+//#sub r_hs_20_04_00_00_00 あやっ、ぐっ、あやひっ、イひっ、イっ、ひっ、いひひひひ……♪（わた、私、イキ、イ……
+#sub "r_hs_20_04_00_00_00" ahaaahaa...hihihi...I'm...hihihihi...♪
+
+//#sub r_hs_20_04_00_00_01 ひっ、ひっ、んぐっ、ふひっ、あひひっ、ふひゃひゃひゃひゃっ♪（壊れ笑い
+#sub "r_hs_20_04_00_00_01" hihihi fuhihihi yahehehehe♪
+
+//#sub r_hs_20_04_00_01_00 ひっ、ひっ、おみゃ、んぐっ、おみゃんこっ、イっひゃ、ひっ、ふひっ、んひひぃぃ……♪（おま、オマンコイった
+#sub "r_hs_20_04_00_01_00" hihihi..pu..pussy...came...hihihi...♪
+
+//#sub r_hs_20_04_00_02_00 はひゅっ、けひゅあくめ、んひっ、ひゃいこー、れひゅ、ひひ、ふひひひひ……（はい、ケツアクメ最高です
+#sub "r_hs_20_04_00_02_00" Yes...ass pussy...hihihi...is the best...hihihihihihi
+
+//#sub r_hs_20_04_01_00_00 あひっ、うむにょぉ……んんっ、あかひゃんっ、ぶゆぶゆっひぇぇ、くひひひひ……♪（産むの、赤ちゃんぶりゅぶりゅって
+#sub "r_hs_20_04_01_00_00" ehehe...I'l give birth...to a baby...buruburu...hihihi...♪
+
+//#sub r_hs_20_04_01_00_01 んひゅい……りひゅこ、ひゅかっへくえれ、あいがひょーごあいまひゅぅ……♪（律子使ってくれてありがとうございます
+#sub "r_hs_20_04_01_00_01" hihihi...thank you...very much...for using Ritsuko...♪
+
+//#sub r_hs_20_04_01_01_00 あひっ、わらひのおみゃんこ、じゃーめんひゃんくぅ……♪（私のオマンコ、ザーメンタンク
+#sub "r_hs_20_04_01_01_00" hihihi...my pussy...is a semen tank...♪
+
+//#sub r_hs_20_04_01_02_00 ひぃぃ……おひぃ、にんひんひゅる……ふひっ、おひりれあかひゃん、うむぅ……♪（お尻妊娠する、お尻で赤ちゃん産む
+#sub "r_hs_20_04_01_02_00" hihihi...my ass...will get pregnant...my ass...will have a baby...♪
+
+//#sub r_hs_20_04_02_00_00 はひ……ごほーし、れきまひたぁ……？（ご奉仕出来ました？
+#sub "r_hs_20_04_02_00_00" mmmggg...was I able to serve you well...?
+
+//#sub r_hs_20_04_02_02_00 んぐひゅ……はひぃ……おいひくじゃーめん、いひゃらきまひらぁ……♪（はい、美味しくザーメンいただきました
+#sub "r_hs_20_04_02_02_00" *gulp* *gulp*...haa...delicious semen...I drank it...♪
+
+//#sub r_hs_20_04_02_03_00 はふ……もっろ、くひまんこ、つかってくらしゃい……（もっと口マンコ使って下さい
+#sub "r_hs_20_04_02_03_00" haa...please...use my mouth pussy more...
+
+//#sub r_hs_20_04_03_00_00 いひ、ひ、わらひが、あひ、わらひがイかひぇたぁ……あひひ……♪（私が、私がイかせた
+#sub "r_hs_20_04_03_00_00" ihihi...I'm...I'm wasting away
+
+//#sub r_hs_20_04_03_00_01 んひ……だひぇ……ぃひっ、もっろ、らしぇ、らしぇぇ……♪（出せ、もっと出せ、出せ
+#sub "r_hs_20_04_03_00_01" nihihi...cum..ihi...cum more...cum...♪
+
+//#sub r_hs_20_04_03_01_00 はひぃ……もっろ、んひ、あらひにもっろ、しぇーえきかけひぇぇ……♪（もっと、私にもっと精液かけて
+#sub "r_hs_20_04_03_01_00" haahii...more, give me more semen
+
+//#sub r_hs_20_05_00_00_00 あへぇ……おみゃんこしぇーえき、あひっ、あふりぇへぃ……あへ……♪（オマンコ精液、溢れて
+#sub "r_hs_20_05_00_00_00" hehehe...pussy semen...overflowing...♪
+
+//#sub r_hs_20_05_00_01_00 んおぉ……じゃーめんうんひ、ぶりゅぶりゅぅぅ……♪（ザーメンうんちぶりゅぶりゅぅ
+#sub "r_hs_20_05_00_01_00" oooo...semen...flowing out...♪
+
+//#sub r_hs_20_05_00_02_00 えひ、ひ、ひひ……じゃーめんおもらひ、しゅっきりぃ……♪（ザーメンお漏らしすっきり
+#sub "r_hs_20_05_00_02_00" ehihi...semen...clearly leaking out...♪
+
+//#sub r_hs_20_05_00_03_00 あひ、ひ……おひっこ、れひゃっらぁ……♪（おしっこ出ちゃった
+#sub "r_hs_20_05_00_03_00" hihihi..pee...coming out...♪
+
+//#sub r_hs_20_06_00_00_00 あぇ……おわりゅの……？　なんれ、んひゅ、にゃんれぇ……？（あれ、終わるの？　何で？　何で？
+#sub "r_hs_20_06_00_00_00" Huh...is it over?...why...why...?
+
+//#sub r_hs_20_06_00_00_01 あひっ、こわりぇたっ、ひっひひっ、あらひっ、ぶっこわりぇぇ、ひひっ、あへへへへ♪（壊れた、私、ぶっ壊れ
+#sub "r_hs_20_06_00_00_01" aahii...broken...I've been broken♪
+
+//#sub r_hs_20_06_00_01_00 あひぇ……こんにゃわらひを、んぐっ、イかひぇまくっれくりぇて、はひっ、ありがひょうごじゃーまひゅぅ……あへへ……♪（こんな私をイかせまくってくれてありがとうございます
+#sub "r_hs_20_06_00_01_00" hihihi...thank you very much...for alowing this girl...to be with you...hehehe...♪
+
+//#sub r_hs_20_06_00_05_00 あは……いっふぁい、しゃしぇーひた、んひっ、いっふぁい、いーっふぁい、ふひひ……♪（いっぱい射精した、いっぱい、いっぱい
+#sub "r_hs_20_06_00_05_00" ahaa...cum a lot...lots...lots...♪
+
+//#sub r_hs_20_06_00_08_00 んへぇ……？　おひんひん、まらげんきにゃのにぃ……？（オチンチンまだ元気なのに？
+#sub "r_hs_20_06_00_08_00" eh...? Isn't your cock still energetic...?
+
+//#sub r_hs_20_06_91_00_00 えひ、へひ……♪
+#sub "r_hs_20_06_91_00_00" ehh...hehehe...♪
+
+//#sub r_ho_00_00_00 すぅ……はぁ……
+#sub "r_ho_00_00_00"
+
+//#sub r_ho_00_01_00 んん、はぁ……はぁ……んっふぅ……はぁ……
+#sub "r_ho_00_01_00"
+
+//#sub r_ho_00_02_00 はぁ、はぁ、んんっ、
+#sub "r_ho_00_02_00"
+
+//#sub r_ho_00_03_00 はひ、ふひっ、あはっ…あはぁ…はぁはぁ……んは……はぁ……
+#sub "r_ho_00_03_00"
+
+//#sub r_ho_00_04_00 あひ、はひっ、はふ
+#sub "r_ho_00_04_00"
+
+//#sub r_ho_00_05_00 すぅ……ん……
+#sub "r_ho_00_05_00"
+
+//#sub r_ho_00_06_00 すっ、すっ、んんっ、ずっ
+#sub "r_ho_00_06_00"
+
+//#sub r_ho_00_07_00 すっ、ずっ、すぅっ、んんっ、ん、すぅ、すぅ…ん…す……すぅ……すぅ……
+#sub "r_ho_00_07_00"
+
+//#sub r_ho_11_00_00 んっ……っんぐ……んー……ん……んぐっ……ん……ふっ……ん……んん……んぅ……
+#sub "r_ho_11_00_00"
+
+//#sub r_ho_11_00_01 ふっ……ん……んっ……んぐ……ぅ……うぅ……んっ……ん……んくっ……ん……んん……
+#sub "r_ho_11_00_01"
+
+//#sub r_ho_11_00_02 んく……っ……ん……んっ……んぅ……ん……くっ……ん……ん……んっ……う……ん……
+#sub "r_ho_11_00_02"
+
+//#sub r_ho_11_01_00 んぅっ！……くっ……うぅ……んっ……う……んぁっ、う……んうぅ……っ
+#sub "r_ho_11_01_00"
+
+//#sub r_ho_11_01_01 んっく……んっ……うっ、ん……ぁ……んっ……んぅ……んっ、んん……
+#sub "r_ho_11_01_01"
+
+//#sub r_ho_11_01_02 んっ！……ふっ、ん……ぁう……んっ……んんっ……んぁっ……んっ、ん……
+#sub "r_ho_11_01_02"
+
+//#sub r_ho_11_10_00 うぅ……ん……や……んん……ぅ……ん……んん……ぁう……
+#sub "r_ho_11_10_00"
+
+//#sub r_ho_11_10_01 あぅ……く……んぁ……やぁ……んん……う……うぅ……んく……んぅ……
+#sub "r_ho_11_10_01"
+
+//#sub r_ho_11_10_02 う……ん……ん……んっ、うぅ……ゃ……んぁ……う……んっく……うぅ……
+#sub "r_ho_11_10_02"
+
+//#sub r_ho_11_11_00 ぁっ……うく……ん……ぁん……ん……ん……あふ、ん……はぁ……んっ……ぅ……ぁ……
+#sub "r_ho_11_11_00"
+
+//#sub r_ho_11_11_01 んっ……ふぁ……ぁ……んっぁ……ん……う……ぁん……ぁ……ん……はふ……んん……
+#sub "r_ho_11_11_01"
+
+//#sub r_ho_11_11_02 ふぁ……ん……んく……ん……ぁ……ぁん……んふ……あ……んっぁ……はぅ……ぅ……
+#sub "r_ho_11_11_02"
+
+//#sub r_ho_11_20_00 はひぃ……ひゃ……あ……あは……は……ふゃ……や……ひゃぅ……ひゃ……やぁ……
+#sub "r_ho_11_20_00"
+
+//#sub r_ho_11_20_01 あ゛ひっ……っん゛あっ……ひゃん……は……はひぃ……ん……っはぁ……ひ……ひひ……
+#sub "r_ho_11_20_01"
+
+//#sub r_ho_11_20_02 んあ゛っ……ひっあ……あ……ひゃ……はひ……ひ……ひん……んっ……あ……あひ……
+#sub "r_ho_11_20_02"
+
+//#sub r_ho_11_21_00 はじゅぅ……んひっぁ……ちゅぢゅる……ふゅ……へろぉ……んひゅ……にゅひゅ……にりゅ……じゅる、ふひゅ……
+#sub "r_ho_11_21_00"
+
+//#sub r_ho_11_21_01 すひゅる……ひっちゅ……んひ……ぢゅっ……じゅる……んひん……ちゅ……ふひゅっ……にゅるりゅ……ちぅぅ……
+#sub "r_ho_11_21_01"
+
+//#sub r_ho_11_21_02 はじゅ……ふにゅ……くひゅ……ふに……りりゅ……りゅ……ふひぃ……ひちゅ……ん……あひ……ちゅひぃ……
+#sub "r_ho_11_21_02"
+
+//#sub r_ho_11_90_00 あぐっ……うっ……くっ……っつぅ……んんっ……くっ……うっ……ぐぅっ……ぅっ……くぅっ……
+#sub "r_ho_11_90_00"
+
+//#sub r_ho_11_90_01 んぐっ……あっ……っく……つっ……ぐっ……うっ……つぁっ……くっ……うっ……うぅっ……
+#sub "r_ho_11_90_01"
+
+//#sub r_ho_11_90_02 くっ……んぐっ……うっ……ぁっ……つっ……うっ……んっ……ぐっ……んくっ……ぅっ……
+#sub "r_ho_11_90_02"
+
+//#sub r_ho_11_91_00 んぅ……う……んっ……ふぅ……んん……うっ……うぅ……
+#sub "r_ho_11_91_00"
+
+//#sub r_ho_11_91_01 んむ……うぅ……う……んっ……んぅ……う……んっ……んぅ……
+#sub "r_ho_11_91_01"
+
+//#sub r_ho_11_92_00 んぅっ……うっ……んっ……ふぅっ……んんっ……うっ……うぅっ……
+#sub "r_ho_11_92_00"
+
+//#sub r_ho_11_92_01 んむっ……うぅっ……うっ……んっ……んぅっ……うっ……んっ……んぅっ……
+#sub "r_ho_11_92_01"
+
+//#sub r_ho_11_93_00 んぅ……ん、ちゅ……んむ……ぅ……んっ……つふ……うぅ……つる……む……ぅむ……
+#sub "r_ho_11_93_00"
+
+//#sub r_ho_11_93_01 ぁう……んっ……ちゅ……ちゅる……ん……はぁ……んんっ……うぅ……んぅ……
+#sub "r_ho_11_93_01"
+
+//#sub r_ho_11_94_00 んぁ……ちゅる、ん……ん……ぁん……ちゅふ……ちゅる、る……ぁぁ……んっ……はぁ……
+#sub "r_ho_11_94_00"
+
+//#sub r_ho_11_94_01 ぁん……ん……ちゅふ……んっちゅ……ちゅぅ……んぁ……あ……ぁむ……む……んむぅ……
+#sub "r_ho_11_94_01"
+
+//#sub r_ho_12_00_00 ん゛んっ、んっ、くっ、んっ、んんっ、ふっ、んっ、んっ、んーっ、んっ、くっ、うっ、んっ、んっ、んんっ
+#sub "r_ho_12_00_00"
+
+//#sub r_ho_12_00_01 んぐっ、んっ、んっ、ふっ、んっ、ぐっ、くっ、んっ、んんっ、んっ、んふっ、んっ、んっ、ぐっ、んぅっ
+#sub "r_ho_12_00_01"
+
+//#sub r_ho_12_00_02 んんっ、ふっ、んっ、んっ、んくっ、うっ、んっ、んっ、んっ、んっ、ふっ、んっ、ぐっ、んっ、んつっ
+#sub "r_ho_12_00_02"
+
+//#sub r_ho_12_01_00 んくっ！んっ、うっ、んぁっ、うっ、んふっ、んんっ、んむっ、んぅっ
+#sub "r_ho_12_01_00"
+
+//#sub r_ho_12_01_01 ふくっ！うっ、んんっ、んっ、うっ、んぁっ、んっ、ぁんっ、むっ、うんっ
+#sub "r_ho_12_01_01"
+
+//#sub r_ho_12_01_02 んっ！ぅっあ、んむっ、うっ、くっ、うっ、んんっ、うっ、んぅっ
+#sub "r_ho_12_01_02"
+
+//#sub r_ho_12_10_00 うぅっ、んっ、やっ、んぐっ、うっ、んんっ、うっ、んぅっ、んっ、っくぅっ
+#sub "r_ho_12_10_00"
+
+//#sub r_ho_12_10_01 あぅっ、んっくっ、うっ、んぐっ、ううっ、やっ、んぁっ、うっ、んやぁっ
+#sub "r_ho_12_10_01"
+
+//#sub r_ho_12_10_02 ぐぅっ、うっ、んぁっ、うっ、んんっ、ぁっ、うぐっ、うっ、んやっ、あぁっ
+#sub "r_ho_12_10_02"
+
+//#sub r_ho_12_11_00 ぃっ、んくっ、んっ、んっ、ぁっ、ふっ、んっ、んぁっ、んっ、ぁんっ、ぁっ、んっ、ふっ、んんっ、んぁんっ
+#sub "r_ho_12_11_00"
+
+//#sub r_ho_12_11_01 んっ、うっ、ぁっ、あっ、んっ、ぁんっ、ぁっ、はぁっ、んっ、んっ、んっ、ふっ、んっ、んっ、んくっ、んんっ
+#sub "r_ho_12_11_01"
+
+//#sub r_ho_12_11_02 ぃっ、んくっ、んっ、ぁっ、んっ、はっ、ぁっ、んっ、んっ、んっ、ふっ、んんっ、ぁうっ、んっ、ぁんっ、んっ
+#sub "r_ho_12_11_02"
+
+//#sub r_ho_12_20_00 はひっ、あっ、ひゃっ、はひゃっ、やぅっ、あっ、ひゃんっ、はっ、はひぃっ、ひっ、ひっ、ひゃっ
+#sub "r_ho_12_20_00"
+
+//#sub r_ho_12_20_01 あ゛っ、ぁ゛っ、ん゛っ、あん゛っ、はひっ、やっ、やうっ、んっ、ひぃっ、うっ、うひっ、ひぃっ
+#sub "r_ho_12_20_01"
+
+//#sub r_ho_12_20_02 ふひゃっ、あっ、ひゃうっ、んっ、やっ、ひゃっ、はひっ、あひっ、ひっ、やっ、あっ、あっ、あっ
+#sub "r_ho_12_20_02"
+
+//#sub r_ho_12_21_00 ふじゅっ、ちゅっ、ひゅっ、んひっ、はひっ、ちゅひゅっ、ぢゅっ、じゅりゅっ、にゅひっ、にゅひっ、ひっ、ちゅりゅっ、りゅくっ
+#sub "r_ho_12_21_00"
+
+//#sub r_ho_12_21_01 はひゅっ、ぢゅっ、じゅるるっ、んひっ、ひっ、じゅづるっ、ちぅぅっ、んっひ、すふゅっ、じゅっ、にゅひっ、はひっ、ひんっ、にゅっ、にちゅっ
+#sub "r_ho_12_21_01"
+
+//#sub r_ho_12_21_02 れひゅっ、んりゅっ、んふっ、ひゅるるっ、ひっ、ふひっ、ちゅぅっ、ちゅふっ、ちゅふっ、んゅるるっ、んひぁっ、んっ、ふちゅうぅっ
+#sub "r_ho_12_21_02"
+
+//#sub r_ho_12_90_00 づっ、あっ、ぐっ、うっ、あっ、ぐっ、うっ、うっ、んっ、くっ、うっ、つっ、うっ、うぅっ
+#sub "r_ho_12_90_00"
+
+//#sub r_ho_12_90_01 くっ、あっ、うっ、んぐっ、うっ、うっ、んっ、づっ、うっ、あぐっ、うっ、んっ、くぅっ
+#sub "r_ho_12_90_01"
+
+//#sub r_ho_12_90_02 ぐっ、あっ、んっ、くっ、うっ、あぐっ、うっ、うぅっ、んっ、づっ、うっ、んぐっ、あぐっ
+#sub "r_ho_12_90_02"
+
+//#sub r_ho_12_91_00 んっ、うっ、ふぐっ、んっ、うっ、うぅっ、んむっ、んうぅっ
+#sub "r_ho_12_91_00"
+
+//#sub r_ho_12_91_01 んんっ、うっ、んうっ、うっ、うっ、ふぅっ、んっ、んむっ、むぅっ
+#sub "r_ho_12_91_01"
+
+//#sub r_ho_12_92_00 んぅっ！うっ、んんっ、んっ、んふっ、うっ、んぅんっ、うっ、むぅっ
+#sub "r_ho_12_92_00"
+
+//#sub r_ho_12_92_01 んっ！んんっ、ぅんっ、んっ、うぅっ、んっ、んぅっ、うっ、んむんっ
+#sub "r_ho_12_92_01"
+
+//#sub r_ho_12_93_00 んっ、むっ、んんっ、うっ、んちゅっ、ふっ、ふっ、んんっ、んくっ、むぅっ
+#sub "r_ho_12_93_00"
+
+//#sub r_ho_12_93_01 ぅっ、んっ、むふっ、んっ、んっ、ちゅふっ、んっ、うぅっ、んむっ、うぅっ
+#sub "r_ho_12_93_01"
+
+//#sub r_ho_12_94_00 ぁんっ、あっ、むっ、んむっ、ちゅっ、はぁっ、はっ、んんっ、んむっ、んぁむっ
+#sub "r_ho_12_94_00"
+
+//#sub r_ho_12_94_01 あっ、んっ、ちゅっ、ちゅっ、ふっ、んぁっ、はぁっ、んっ、はむっ、むふっ、ふぅっ
+#sub "r_ho_12_94_01"
+
+//#sub r_ho_13_00_00 ん゛っ！
+#sub "r_ho_13_00_00"
+
+//#sub r_ho_13_10_00 あぁっ！
+#sub "r_ho_13_10_00"
+
+//#sub r_ho_13_20_00 はへぇっ♪
+#sub "r_ho_13_20_00"
+
+//#sub r_ho_13_90_00 っぐっ！
+#sub "r_ho_13_90_00"
+
+//#sub r_ho_13_91_00 んう゛ぅっ！
+#sub "r_ho_13_91_00"
+
+//#sub r_ho_20_00_00 ん……ぅ……くっ……んん……ふぅ……んくっ……う……んっ……んぅ……ふん……
+#sub "r_ho_20_00_00"
+
+//#sub r_ho_20_10_00 うぅ……んっ……はぁ……ん……んんっ……んふぅ……ふっ……ふぅ……んぅ……う……
+#sub "r_ho_20_10_00"
+
+//#sub r_ho_20_91_00 ん……んん……ぅ……んっ……んぅ……すぅ……んんっ……んふ……ふ……ふぅ……
+#sub "r_ho_20_91_00"
+
+//#sub r_ho_21_00_00 んっ……っ……ふっ……っ……ん……んふ……ん……ん……は……ぁ……んん……んっ……
+#sub "r_ho_21_00_00"
+
+//#sub r_ho_21_00_01 ふっ……ん……ん……ぁ……んん……ん……ふ……ん……ふぅ……ん……ぁ……は……
+#sub "r_ho_21_00_01"
+
+//#sub r_ho_21_10_00 う……んぅ……うぅ……んっ……ふぅ……ぁう……う……んんっ……ん……
+#sub "r_ho_21_10_00"
+
+//#sub r_ho_21_10_01 うぅ……んぐ……ん……ふぁ……ぅ……んっ、うぅ……ん……うぅぅ……
+#sub "r_ho_21_10_01"
+
+//#sub r_ho_21_91_00 んぅ……ふぅ……ん……う……んむ……んっ……ぅ……ぉう……
+#sub "r_ho_21_91_00"
+
+//#sub r_ho_22_00_00 くっ、うっ、んっ、んんっ、ふぅっ、ふぅっ、んっ、ふんっ、んんっ
+#sub "r_ho_22_00_00"
+
+//#sub r_ho_22_00_01 ふんっ、んっ、んんっ、ふっ、んんっ、くっ、うっ、んっ、んっ、んんっ
+#sub "r_ho_22_00_01"
+
+//#sub r_ho_22_10_00 んぅっ、うっ、うぅっ、んんっ、はぁっ、んっ、んわっ、んっ、ふぅっ、んんっ
+#sub "r_ho_22_10_00"
+
+//#sub r_ho_22_10_01 うぅっ、ぐすっ、んっ、うっ、ふぅ、んぐっ、んっ、うぅっ、んんっ、うっ
+#sub "r_ho_22_10_01"
+
+//#sub r_ho_22_91_00 んっ、んっ、ふっ、んんっ、んずっ、ふっ、ふっ、んんっ、ふぅっ、んんっ
+#sub "r_ho_22_91_00"
+
+//#sub r_ho_30_92_00 あむぅ
+#sub "r_ho_30_92_00"
+
+//#sub r_ho_31_00_00 んん……りゅ……んっ……ぇろ……ろ……んむ、ぅ……ん……はぅ……ん……
+#sub "r_ho_31_00_00"
+
+//#sub r_ho_31_00_01 んぅ、んん……はぁ、ん……ん……りゅ……んりゅ……ぅ……れろ……んむ……
+#sub "r_ho_31_00_01"
+
+//#sub r_ho_31_01_00 んじゅぅ……んはっぁ……ちゅじゅ……ちゅ……えろ……ん……にゅちゅ……にちゅ……じゅる、ん……
+#sub "r_ho_31_01_00"
+
+//#sub r_ho_31_01_01 すじゅ……んっちゅ……ん……ちゅっ……しゅる……んん……ちゅ……ちゅっ……にゅる……ちぅ……
+#sub "r_ho_31_01_01"
+
+//#sub r_ho_31_10_00 んむ……う……ぉむ……づ……ん……おぶ……むづ……んっ……んむぅ……ん……
+#sub "r_ho_31_10_00"
+
+//#sub r_ho_31_10_01 んっ……む……ぇむ……ちゅ……づむ……ん……ん……ぉぶ……づ……むぬ……
+#sub "r_ho_31_10_01"
+
+//#sub r_ho_31_11_00 ぐっぽん……ぱも……はぽ……んぼ……んっぉ……じゅぽ……じゅぽ……はぷ……ぐゅっぽ……もむぅ……ぷふぁっ……
+#sub "r_ho_31_11_00"
+
+//#sub r_ho_31_11_01 ふぶ……ん……ぷじゅ……はぽ……んっ……ぉ……かぽ……かぽ……じゅぽ……ん……ん……はもぉ……
+#sub "r_ho_31_11_01"
+
+//#sub r_ho_32_00_00 んっ、んっ、ふっ、んんっ、りゅにゅっ、んっ、にちっ、にちゅっ、んんっ、んぅっ
+#sub "r_ho_32_00_00"
+
+//#sub r_ho_32_00_01 んっふ、んっ、くちっ、んっ、ちゅっ、んんっ、ふっ、んぅっ、うっ、んりゅっ、んちゅっ
+#sub "r_ho_32_00_01"
+
+//#sub r_ho_32_01_00 すじゅっ、ちゅっ、ちゅっ、んんっ、はふっ、ちゅじゅっ、じゅっ、じゅるっ、にゅるっ、にゅるっ、ちゅっ、ちゅくっ、ちゅくっ
+#sub "r_ho_32_01_00"
+
+//#sub r_ho_32_01_01 はじゅっ、ぢゅっ、じゅるるっ、んっ、ふっ、ちゅくっ、ちぅぅっ、んっ、すじゅっ、じゅっ、んっ、はぁっ、んっ、にゅっ、にちっ
+#sub "r_ho_32_01_01"
+
+//#sub r_ho_32_10_00 んっ、ぶっ、んんっ、んっ、むぅっ、んっ、んっ、ぉむっ、んっ、ぅむっ、んっ、むぅっ
+#sub "r_ho_32_10_00"
+
+//#sub r_ho_32_10_01 ぉむっ、ぶっ、んづっ、むっ、ちゅっ、んっ、んっ、んっ、ぇむっ、んっ、ぶっ、んむっ
+#sub "r_ho_32_10_01"
+
+//#sub r_ho_32_11_00 かぽっ、かぽっ、はもっ、んっ、ぶっ、ちゅぶっ、ちゅぶっ、んんっ、んぼっ、んっ、ふっ、んんっ、あもっ、あもっ
+#sub "r_ho_32_11_00"
+
+//#sub r_ho_32_11_01 ふぶっ、んっ、ぬぼっ、ぼちゅっ、ぼちゅっ、ぽちゅっ、んっ、ぶっ、ちゅぶっ、んんっ、ぉぼっ、んっ、ほもっ、ほむっ
+#sub "r_ho_32_11_01"
+
+//#sub r_ho_32_20_00 おぼっ、ぽっ、ぶもっ、んごっ、おっ、おぶっ、ぶぶっ、んぶっ、んぶっ、おっ、ごっ、おぼっ、ぶぼっ、ぼぉっ
+#sub "r_ho_32_20_00"
+
+//#sub r_ho_32_20_01 ぶぶっ、ぬぶっ、ぬぼっ、ぼっ、ぼぶっ、おぼっ、んっ、ふっ、ふぶっ、んごぉっ、ぉぼっ、んっ、ばもっ、ぶむっ
+#sub "r_ho_32_20_01"
+
+//#sub r_ho_32_21_00 ぶぼっ、ぢゅぼっ、おっごっ、ぶぉっ、んづるるるるっ、ぶっ、んぶるっ
+#sub "r_ho_32_21_00"
+
+//#sub r_ho_32_21_01 おぶちゅっ、んぼっ、ぢゅぶっ、ぢゅぶっ、おっごっ、ぶっ、ずろろっ、ぢゅぶりゅっ
+#sub "r_ho_32_21_01"
+
+//#sub r_ho_40_00_00 んぐぅぅぅううううんんんんっんっんっんっうっくうぅぅぅんんんっふっんっんーっんーっんんん―――
+#sub "r_ho_40_00_00"
+
+//#sub r_ho_40_10_00 んあぁぁぁっあっあっあーっあーーっあーーーっんあんっやっあっああっああぁぁぁあああああ―――
+#sub "r_ho_40_10_00"
+
+//#sub r_ho_40_20_00 ひああぁぁぁぁあぉおおぉぉぉぉんぉぉおおんひっひっひぃぃぁぁあああああぁぁぁぁっあっあっあっあっ―――
+#sub "r_ho_40_20_00"
+
+//#sub r_ho_40_21_00 んんぢゅるるんちゅうぅぅんっじゅるっじゅぅぅんんんぅぅちゅりゅりゅんっえうっえうぅぅぅぅぅ―――
+#sub "r_ho_40_21_00"
+
+//#sub r_ho_40_91_00 んうぅぅんんんっんっんーっんんーーっんっ、んんんーーーっ！
+#sub "r_ho_40_91_00"
+
+//#sub r_ho_41_00_00 んくうぅぅぅぅんんんっんっんっんぅっうぅぅぅんっうっんうぅぅぅっ―――
+#sub "r_ho_41_00_00"
+
+//#sub r_ho_41_10_00 ぅんんんんあぁぁぁっあっあっあんっんんんんうぅぅぅああっあっんっんっんんんぅぅぅぅ―――
+#sub "r_ho_41_10_00"
+
+//#sub r_ho_41_20_00 んぉおおぉぉぉぉひぃぃいっんひっひっひぁぁああああおあっおっんおっおっ―――
+#sub "r_ho_41_20_00"
+
+//#sub r_ho_41_21_00 じゅりゅうんじゅづろちゅちゅぅんじゅるじゅるじゅりゅにゅるるるるんちゅにゅっちゅっちゅっちゅるるるる―――
+#sub "r_ho_41_21_00"
+
+//#sub r_ho_41_30_00 んっんっんっふっんっんんっんっふっんんんっ
+#sub "r_ho_41_30_00"
+
+//#sub r_ho_41_31_00 びゅずぢゅっくうぇづるるるぅぅぅっ～んぐぽんっんぶぼぉんっぶぁぢゅずっぅっんっはぁんんふんんっんくぐっ
+#sub "r_ho_41_31_00"
+
+//#sub r_ho_41_32_00 ぶぼっおっおぶっんっぶっんぶっちゅぶっづぶぶっんぶぉっ
+#sub "r_ho_41_32_00"
+
+//#sub r_ho_41_91_00 んうっうっんっんーっんんっんっんーっんーーっ！
+#sub "r_ho_41_91_00"
+
+//#sub r_ho_50_00_00 んくぅぅぅっっ、ふっ、んくっ、う、うぅぅ……
+#sub "r_ho_50_00_00"
+
+//#sub r_ho_50_01_00 ん゛ん゛ん゛ん゛っっっ～～～～～～～～～～っ……んんっ……んっんっ……んんぅ……んっ……ん―っ……っ……ぅんっ……んっ……んく……
+#sub "r_ho_50_01_00"
+
+//#sub r_ho_50_10_00 くあぁぁっあっ、んんっ、は、はぁ、んん、はぁ……
+#sub "r_ho_50_10_00"
+
+//#sub r_ho_50_11_00 あっ―――――っ―――――っ……っあっあっあ……ふぁっ、っぅぐ……っんぁ……はぁ～っ、……あぁ～～～ぁ……あ……ぁあ……はぁはぁ…
+#sub "r_ho_50_11_00"
+
+//#sub r_ho_50_21_00 はぁひぃっっ～～～～いひぃっあ゛ぁぁぁぁぁ～～～～～っ……ふぁぁっ……はひっ……んはっっ、っんふっ……んっはぁっ
+#sub "r_ho_50_21_00"
+
+//#sub r_ho_50_22_00 ちゅふぅぅっ、ふっ、んんっ、ちゅ、ふぅぅ……
+#sub "r_ho_50_22_00"
+
+//#sub r_ho_50_23_00 ふぅんん、んちゅっっっ～～～～～～～～～ちゅりゅりゅ……んはぁっんずりゅ……んぁんはぁんちゅ……んっんんっっぅっ、ちゅ、ちゅ、ちゅ…ちゅはぁ……
+#sub "r_ho_50_23_00"
+
+//#sub r_ho_50_91_00 んん゛んんんっ、んんっ、ふっ、ん゛ふっ、ふぅっ
+#sub "r_ho_50_91_00"
+
+//#sub r_ho_50_92_00 んん゛ぅ～～～～っっふっ、んぐっ、ふっ、ふぐっ、う、ふっ、ふっ、んんぅ、ふぅ……
+#sub "r_ho_50_92_00"
+
+//#sub r_ho_51_00_00 んくぅぅっ、うぅ……んっ、う……はぁ……
+#sub "r_ho_51_00_00"
+
+//#sub r_ho_51_01_00 くうぅぅぅ……んっぐ……うぅぅ……んぁ……あ……や……うぅ……んっ……く……ふぅ、ふぅ……んんん……
+#sub "r_ho_51_01_00"
+
+//#sub r_ho_51_02_00 んうぅぅっあっ、んん……う……んうぅ……
+#sub "r_ho_51_02_00"
+
+//#sub r_ho_51_03_00 やっあぁぁぁっんぁっ、あっ、んんっ、あぁぁ……んん、ぁん……あ……ふぁ……
+#sub "r_ho_51_03_00"
+
+//#sub r_ho_51_10_00 いやぁぁぁ……う、あぁぁ……んうぅ……
+#sub "r_ho_51_10_00"
+
+//#sub r_ho_51_11_00 いやぁぁぁぁぁっあっ、んんっ、やぁぁ、あっ、んぅぅ……くっ、あぁ……
+#sub "r_ho_51_11_00"
+
+//#sub r_ho_51_12_00 ふあぁぁぁっ、あっ、あは、んぁ……やぁ……
+#sub "r_ho_51_12_00"
+
+//#sub r_ho_51_13_00 やあぁぁぁ……んっ、あぁぁ……あは……んん、やぁ……あ……は……んぁ……あ……ん……はぁ……ぁ……
+#sub "r_ho_51_13_00"
+
+//#sub r_ho_51_20_00 くひぃぃっ、あっ、ひっ、は、あは、はぁぁ……
+#sub "r_ho_51_20_00"
+
+//#sub r_ho_51_21_00 ひゃうぅっああぁ……おっおぉぉ……んひっ、いっ、いひっ、ひひひ……はひぅ……―――
+#sub "r_ho_51_21_00"
+
+//#sub r_ho_51_22_00 んむっう、んうぅ、う……んんむ……
+#sub "r_ho_51_22_00"
+
+//#sub r_ho_51_23_00 んむぅっふぶっ……んっ、あ……んじゅ……ぷはぅっ……ちゅっ……ふぅ……あっ……はぷぅ……
+#sub "r_ho_51_23_00"
+
+//#sub r_ho_51_91_00 んうぅっ！　う、んん……うぅぅ……
+#sub "r_ho_51_91_00"
+
+//#sub r_ho_51_92_00 んっう！　うっ、んんぅ……んっ、ふっ、ふっ、んん……ん……うぅ……
+#sub "r_ho_51_92_00"
+
+//#sub r_ho_52_00_00 んぶぉっ、おぐ、ん、んぅ……
+#sub "r_ho_52_00_00"
+
+//#sub r_ho_52_01_00 んぉぐ……んっんーっ……んぐぅおっ……んぐっんぐっ……ん、ごくっ……えぐっ……ん……んぅ……
+#sub "r_ho_52_01_00"
+
+//#sub r_ho_52_10_00 んんっ、ぐ、んむぅ……ん……
+#sub "r_ho_52_10_00"
+
+//#sub r_ho_52_11_00 ん゛んんっ ん゛っ、んっ……んぶっ……っむぐっ……ん――――っ、んん……んふ……んっ……ん……
+#sub "r_ho_52_11_00"
+
+//#sub r_ho_52_20_00 んぶっ、ふっ、んん……ふふ……
+#sub "r_ho_52_20_00"
+
+//#sub r_ho_52_21_00 んぷふぅっ……んっ、ふふ……んっ、んーーっ、んーーーっ、ん……ちゅじゅ……ん……んぐ……んぐ……んぐ……
+#sub "r_ho_52_21_00"
+
+//#sub r_ho_53_00_00 うくっ、うぅ……んぅ……ん……
+#sub "r_ho_53_00_00"
+
+//#sub r_ho_53_01_00 うぅっ……んっ……くぅ……うっ……あぅ……んんっ……いや……あぁ……はぁ……
+#sub "r_ho_53_01_00"
+
+//#sub r_ho_53_10_00 んぅっ……う……はぁ……
+#sub "r_ho_53_10_00"
+
+//#sub r_ho_53_11_00 んっ……う……あ……ふわっ……んん……はふ……きゃっ……はぁ……ふぅ……っ……
+#sub "r_ho_53_11_00"
+
+//#sub r_ho_53_20_00 んやぁ、んん……うぅ……ふふ……
+#sub "r_ho_53_20_00"
+
+//#sub r_ho_53_21_00 ふぁっ……あっ……んんっ……あはっ……んっ……はぁ……ひゃっ……あぁ……はふ……んふ……
+#sub "r_ho_53_21_00"
+
+//#sub r_ho_53_91_00 んうぅっ……う、んん……ん……
+#sub "r_ho_53_91_00"
+
+//#sub r_ho_53_92_00 んっ、うぅ……うぅ……んんっ、ん……うぅ、ん……うぅ……
+#sub "r_ho_53_92_00"
+
+//#sub r_ho_60_00_00 けほっげほっ、んん゛っ、んっ、くふ……
+#sub "r_ho_60_00_00"
+
+//#sub r_ho_60_01_00 んぐ、ん……んふぅ……
+#sub "r_ho_60_01_00"
+
+//#sub r_ho_60_02_00 んえぇ～……ぇう……
+#sub "r_ho_60_02_00"
+
+//#sub r_ho_60_03_00 ぇう……ほぉ……ほぅ……
+#sub "r_ho_60_03_00"
+
+//#sub r_hh_00_00_00_00 嫌、なのに……っ
+#sub "r_hh_00_00_00_00" No, and yet...
+
+//#sub r_hh_00_00_00_01 大した事、ないわ……っ
+#sub "r_hh_00_00_00_01" This is...nothing...
+
+//#sub r_hh_00_00_00_02 こんな、事で……っ
+#sub "r_hh_00_00_00_02" This...kind of things...
+
+//#sub r_hh_00_00_00_03 気持ちよく、なんか……っ
+#sub "r_hh_00_00_00_03" Something...is feeling good...
+
+//#sub r_hh_00_00_00_04 もう、いいでしょ……っ
+#sub "r_hh_00_00_00_04" Come on, isn't this enough...
+
+//#sub r_hh_00_00_00_05 絶対、許さないわ……っ
+#sub "r_hh_00_00_00_05" I...absolutely won't forgive you...
+
+//#sub r_hh_00_00_00_06 この程度で……っ
+#sub "r_hh_00_00_00_06" Only this much is...
+
+//#sub r_hh_00_00_00_07 何で、こんな……っ
+#sub "r_hh_00_00_00_07" Why...is this...
+
+//#sub r_hh_00_00_00_08 冗談じゃ、ないわ……っ
+#sub "r_hh_00_00_00_08" Don't joke with me...
+
+//#sub r_hh_00_00_00_09 何なの、よぉ……っ
+#sub "r_hh_00_00_00_09" What is this...?
+
+//#sub r_hh_00_00_01_00 いっやぁっ
+#sub "r_hh_00_00_01_00" Nooo
+
+//#sub r_hh_00_00_01_01 大したっ事ぉっ
+#sub "r_hh_00_00_01_01" ...isn't a big deal
+
+//#sub r_hh_00_00_01_02 こんな事っでぇっ
+#sub "r_hh_00_00_01_02" Something like this is...
+
+//#sub r_hh_00_00_01_03 気持ちよくっ、なんかぁっ
+#sub "r_hh_00_00_01_03" Some..thing...is feeling good...
+
+//#sub r_hh_00_00_01_04 もぉっいいでっしょぉっ
+#sub "r_hh_00_00_01_04" Come on, isn't this enough
+
+//#sub r_hh_00_00_01_05 許さないっからぁっ
+#sub "r_hh_00_00_01_05" I won't forgive you
+
+//#sub r_hh_00_00_01_06 このっ程度っでぇっ
+#sub "r_hh_00_00_01_06" Only...this much is
+
+//#sub r_hh_00_00_01_07 感じてっなんっかぁっ
+#sub "r_hh_00_00_01_07" Feeling...something
+
+//#sub r_hh_00_00_01_08 何でっこんっなぁっ
+#sub "r_hh_00_00_01_08" Why is this...
+
+//#sub r_hh_00_00_01_09 何なのっよぉっ
+#sub "r_hh_00_00_01_09" What is this?
+
+//#sub r_hh_00_01_00_00 何、感じてるのよ……
+#sub "r_hh_00_01_00_00" kek...what, can't you feel it...
+
+//#sub r_hh_00_01_00_01 汚らしい……
+#sub "r_hh_00_01_00_01" Filthy...
+
+//#sub r_hh_00_01_00_02 気持ち悪い顔……
+#sub "r_hh_00_01_00_02" What a creepy face...
+
+//#sub r_hh_00_01_00_03 何で、こんな事……
+#sub "r_hh_00_01_00_03" Why, is something like this...
+
+//#sub r_hh_00_01_00_04 嬉しそうにしないで……
+#sub "r_hh_00_01_00_04" This doesn't make me happy...
+
+//#sub r_hh_00_01_00_05 こんなの、馬鹿みたい……
+#sub "r_hh_00_01_00_05" This...is ridiculous...
+
+//#sub r_hh_00_01_00_06 今、反応したわね……？
+#sub "r_hh_00_01_00_06" Just now, didn't you react...?
+
+//#sub r_hh_00_01_00_07 こんなのが気持ちいいの……？
+#sub "r_hh_00_01_00_07" Doesn't this feel good...?
+
+//#sub r_hh_00_01_00_08 早くイってくれないかしら……
+#sub "r_hh_00_01_00_08" Hurry up, do you hear...
+
+//#sub r_hh_00_01_00_09 変な汁垂らさないで……
+#sub "r_hh_00_01_00_09" Don’t make this weird liquid come out...
+
+//#sub r_hh_00_01_01_00 感じてるならっ早くっ
+#sub "r_hh_00_01_01_00" If you feel it, then hurry up
+
+//#sub r_hh_00_01_01_01 ここがっいいのっ？
+#sub "r_hh_00_01_01_01" Is here fine?
+
+//#sub r_hh_00_01_01_02 ふんっ、気持ち悪いっ顔っ
+#sub "r_hh_00_01_01_02" humph...what a creepy face 
+
+//#sub r_hh_00_01_01_03 何でっこんなっ事っ
+#sub "r_hh_00_01_01_03" Why is something like this...
+
+//#sub r_hh_00_01_01_04 こんなっ馬鹿みたいなっ事ぉっ
+#sub "r_hh_00_01_01_04" These...ridiculous...things
+
+//#sub r_hh_00_01_01_05 我慢っしてるんじゃっないでしょうねっ？
+#sub "r_hh_00_01_01_05" Just be...a bit more...patient...okay?
+
+//#sub r_hh_00_01_01_06 出しなさいよっ、ほらっ
+#sub "r_hh_00_01_01_06" Cum already, take this
+
+//#sub r_hh_00_01_01_07 ほらっ、気持ちいいんでしょっ？
+#sub "r_hh_00_01_01_07" Look, doesn’t this feel good?
+
+//#sub r_hh_00_01_01_08 さっさとっイきなさいよっ
+#sub "r_hh_00_01_01_08" Please...cum already
+
+//#sub r_hh_00_01_01_09 ダラダラとっだらしないわねっ
+#sub "r_hh_00_01_01_09" Keeping this up, I’ll make you go limp
+
+//#sub r_hh_00_02_00_00 にゃに、かんりてるにょよ……（何、感じてるのよ
+#sub "r_hh_00_02_00_00" mmmggg...what, are you feeling it?...mmmggg
+
+//#sub r_hh_00_02_00_01 けがりゃわひぃ……（汚らわしい
+#sub "r_hh_00_02_00_01" mmmggg...filthy...
+
+//#sub r_hh_00_02_00_02 きもひわるい、かお……（気持ち悪い顔
+#sub "r_hh_00_02_00_02" mmmggg...creepy face...
+
+//#sub r_hh_00_02_00_03 にゃんれ、こんにゃころ……（何でこんな事
+#sub "r_hh_00_02_00_03" mmmggg...why, is something like this...
+
+//#sub r_hh_00_02_00_04 うれひそーに、ひないれ……（嬉しそうにしないで
+#sub "r_hh_00_02_00_04" mmmggg...this doesn't make me happy...
+
+//#sub r_hh_00_02_00_05 こんにゃ、うぁかみひゃい……（こんな馬鹿みたい
+#sub "r_hh_00_02_00_05" mmmggg...this...is ridiculous...
+
+//#sub r_hh_00_02_00_06 はんにょー、ひひゃわね……（反応したわね
+#sub "r_hh_00_02_00_06" mmmggg...you just...reacted...
+
+//#sub r_hh_00_02_00_07 こんにゃんが、ひもひーにゃんれ……（こんなのが気持ちいいなんて
+#sub "r_hh_00_02_00_07" mmmggg...doesn't this...feel good...?
+
+//#sub r_hh_00_02_00_08 はやふ、いっひぇ……（早くイって
+#sub "r_hh_00_02_00_08" mmmggg...hurry up...you hear...
+
+//#sub r_hh_00_02_00_09 くひゃい……（臭い
+#sub "r_hh_00_02_00_09" mmmggg...it stinks
+
+//#sub r_hh_00_02_01_00 かんりてるにゃらっはやふっ（感じてるなら早く
+#sub "r_hh_00_02_01_00" mmmggg...if you feel it, then hurry up
+
+//#sub r_hh_00_02_01_01 ここがっいいにょっ？（ここがいいの？
+#sub "r_hh_00_02_01_01" mmmggg...is here fine?
+
+//#sub r_hh_00_02_01_02 きもひわるいっ（気持ち悪い
+#sub "r_hh_00_02_01_02" mmmggg...I feel sick
+
+//#sub r_hh_00_02_01_03 にゃんれっこんにゃっころぉっ（何でこんな事
+#sub "r_hh_00_02_01_03" mmmggg...why is something like this...
+
+//#sub r_hh_00_02_01_04 こんにゃっばかみひゃいっ（こんな馬鹿みたい
+#sub "r_hh_00_02_01_04" mmmggg...this...is ridiculous...
+
+//#sub r_hh_00_02_01_05 がぁんっひてるんやっにゃいわよっ（我慢してるんじゃないわよ
+#sub "r_hh_00_02_01_05" mmmggg...just be...a bit more...patient...okay?
+
+//#sub r_hh_00_02_01_06 らひなさいよっほりゃぁっ（出しなさいよ、ほら
+#sub "r_hh_00_02_01_06" mmmggg...cum already...take this
+
+//#sub r_hh_00_02_01_07 ほりゃっきもひっいいんれひょっ？（ほら、気持ちいいんでしょ？
+#sub "r_hh_00_02_01_07" mmmggg...look...doesn’t this feel good?
+
+//#sub r_hh_00_02_01_08 ひゃっひゃとっいひなひゃいっ（さっさとイきなさい
+#sub "r_hh_00_02_01_08" mmmggg...please...cum already
+
+//#sub r_hh_00_02_01_09 だりゃひっにゃいわねっ（だらしないわね
+#sub "r_hh_00_02_01_09" mmmggg...go limp already
+
+//#sub r_hh_00_03_00_00 早く出して……
+#sub "r_hh_00_03_00_00" ...hurry and cum...
+
+//#sub r_hh_00_03_00_01 まだなの……？
+#sub "r_hh_00_03_00_01" ...still not over...?
+
+//#sub r_hh_00_03_00_02 いい加減に……
+#sub "r_hh_00_03_00_02" ...enough...
+
+//#sub r_hh_00_03_00_03 嫌なのに……
+#sub "r_hh_00_03_00_03" ...I hate this...
+
+//#sub r_hh_00_03_00_04 気持ち悪い……
+#sub "r_hh_00_03_00_04" ...I feel sick...
+
+//#sub r_hh_00_03_01_00 早くっしてっ
+#sub "r_hh_00_03_01_00" ...hurry...cum
+
+//#sub r_hh_00_03_01_01 まだっなのっ？
+#sub "r_hh_00_03_01_01" ...still not over?
+
+//#sub r_hh_00_03_01_02 いいっ加減っにぃっ
+#sub "r_hh_00_03_01_02" ...enough
+
+//#sub r_hh_00_03_01_03 もぉっ嫌ぁっ
+#sub "r_hh_00_03_01_03" ...come on...noo
+
+//#sub r_hh_00_03_01_04 くるっしいっ
+#sub "r_hh_00_03_01_04" ...painful
+
+//#sub r_hh_10_00_00_00 うぅ、気持ちいいのぉ……っ
+#sub "r_hh_10_00_00_00" uuu...this feels good...
+
+//#sub r_hh_10_00_00_01 ダメ、なのぉ……っ
+#sub "r_hh_10_00_00_01" Don't do it...
+
+//#sub r_hh_10_00_00_02 感じたく、ないのにぃ……っ
+#sub "r_hh_10_00_00_02" I don't want to...feel it...
+
+//#sub r_hh_10_00_00_03 許し、てぇ……っ
+#sub "r_hh_10_00_00_03" Forgive me...
+
+//#sub r_hh_10_00_00_04 やだ、うぅ、やだぁ……っ
+#sub "r_hh_10_00_00_04" Don't...uuu...don't...
+
+//#sub r_hh_10_00_00_05 嫌ぁ……っ
+#sub "r_hh_10_00_00_05" Nooo...
+
+//#sub r_hh_10_00_00_06 お願い、だからぁ……っ
+#sub "r_hh_10_00_00_06" Please, because...
+
+//#sub r_hh_10_00_00_07 こんな、のぉ……っ
+#sub "r_hh_10_00_00_07" This is...
+
+//#sub r_hh_10_00_00_08 んくっ、私ぃ……っ
+#sub "r_hh_10_00_00_08" nnn...I...
+
+//#sub r_hh_10_00_00_09 何で、よぉ……っ
+#sub "r_hh_10_00_00_09" Why is...
+
+//#sub r_hh_10_00_01_00 気持ちっいいのぉっ
+#sub "r_hh_10_00_01_00" Feeling good
+
+//#sub r_hh_10_00_01_01 ダメっえぇっ
+#sub "r_hh_10_00_01_01" Don't
+
+//#sub r_hh_10_00_01_02 すごいぃっ
+#sub "r_hh_10_00_01_02" Amazing
+
+//#sub r_hh_10_00_01_03 許しってぇっ
+#sub "r_hh_10_00_01_03" Forgive me
+
+//#sub r_hh_10_00_01_04 やだっやだぁっ
+#sub "r_hh_10_00_01_04" Don't don't
+
+//#sub r_hh_10_00_01_05 嫌ぁっもっとぉっ
+#sub "r_hh_10_00_01_05" No...more
+
+//#sub r_hh_10_00_01_06 お願いっよぉっ
+#sub "r_hh_10_00_01_06" Please
+
+//#sub r_hh_10_00_01_07 こんっなのぉっ
+#sub "r_hh_10_00_01_07" This is
+
+//#sub r_hh_10_00_01_08 わたっしぃっ
+#sub "r_hh_10_00_01_08" I'm
+
+//#sub r_hh_10_00_01_09 私っどうしてっこんなぁっ
+#sub "r_hh_10_00_01_09" Why am I
+
+//#sub r_hh_10_01_00_00 何……？
+#sub "r_hh_10_01_00_00" What...?
+
+//#sub r_hh_10_01_00_01 ピクピク、してる……
+#sub "r_hh_10_01_00_01" It's really twitching...
+
+//#sub r_hh_10_01_00_02 気持ちいいの……？
+#sub "r_hh_10_01_00_02" Does it feel good...?
+
+//#sub r_hh_10_01_00_03 これで、私を……
+#sub "r_hh_10_01_00_03" With this, I...
+
+//#sub r_hh_10_01_00_04 感じてるの……？
+#sub "r_hh_10_01_00_04" Are you feeling it...?
+
+//#sub r_hh_10_01_00_05 ここがいいの……？
+#sub "r_hh_10_01_00_05" Is here fine...?
+
+//#sub r_hh_10_01_00_06 もっと激しくする……？
+#sub "r_hh_10_01_00_06" Should I do it more intensely...?
+
+//#sub r_hh_10_01_00_07 どうなのよ……
+#sub "r_hh_10_01_00_07" How is it...
+
+//#sub r_hh_10_01_00_08 動かないで……
+#sub "r_hh_10_01_00_08" Don't move...
+
+//#sub r_hh_10_01_00_09 気持ちよく、なりなさいよ……っ
+#sub "r_hh_10_01_00_09" Please...feel good...
+
+//#sub r_hh_10_01_01_00 んんっ何っ？
+#sub "r_hh_10_01_01_00" nnn...what?
+
+//#sub r_hh_10_01_01_01 ピクピクっしてるっ
+#sub "r_hh_10_01_01_01" It's really twitching
+
+//#sub r_hh_10_01_01_02 気持ちっいいのっ？
+#sub "r_hh_10_01_01_02" Does it feel good?
+
+//#sub r_hh_10_01_01_03 私がっ私がぁっ
+#sub "r_hh_10_01_01_03" I...I
+
+//#sub r_hh_10_01_01_04 感じてるのっ？
+#sub "r_hh_10_01_01_04" Are you feeling it?
+
+//#sub r_hh_10_01_01_05 ここがっ、いいのっ？
+#sub "r_hh_10_01_01_05" Is here...fine?
+
+//#sub r_hh_10_01_01_06 まだっ出ないっのぉっ？
+#sub "r_hh_10_01_01_06" Still not cuming yet?
+
+//#sub r_hh_10_01_01_07 これはっどうっ？
+#sub "r_hh_10_01_01_07" How about this?
+
+//#sub r_hh_10_01_01_08 ほらっほらぁっ
+#sub "r_hh_10_01_01_08" Take this and that
+
+//#sub r_hh_10_01_01_09 こっのぉっ
+#sub "r_hh_10_01_01_09" This
+
+//#sub r_hh_10_02_00_00 にゃに……？（何？
+#sub "r_hh_10_02_00_00" mmggg...what?
+
+//#sub r_hh_10_02_00_01 ひくひく、ひてりゅ……（ピクピクしてる
+#sub "r_hh_10_02_00_01" mmggg...it's really twitching...
+
+//#sub r_hh_10_02_00_02 きもひいぃにょ……？（気持ちいいの？
+#sub "r_hh_10_02_00_02" mmmggg...does it feel good...?
+
+//#sub r_hh_10_02_00_03 これりぇ、わらひを……（これで私を
+#sub "r_hh_10_02_00_03" mmmggg...with this I...
+
+//#sub r_hh_10_02_00_04 かんりてりゅの……？（感じてるの？
+#sub "r_hh_10_02_00_04" mmmggg...are you feeling it...?
+
+//#sub r_hh_10_02_00_05 ここぁいいにょ……？（ここがいいの？
+#sub "r_hh_10_02_00_05" mmmggg...is here fine...?
+
+//#sub r_hh_10_02_00_06 もっろ、ひゅる……？（もっとする？
+#sub "r_hh_10_02_00_06" mmmggg...more?
+
+//#sub r_hh_10_02_00_07 ろぉにゃのよ……（どうなのよ
+#sub "r_hh_10_02_00_07" mmm...how is it...
+
+//#sub r_hh_10_02_00_08 うぉかにゃいれ……（動かないで
+#sub "r_hh_10_02_00_08" mmmggg...don't move
+
+//#sub r_hh_10_02_00_09 ろぉひて、わらひがぁ……（どうして私が
+#sub "r_hh_10_02_00_09" mmmggg...why am I...
+
+//#sub r_hh_10_02_01_00 にゃにっ？（何？
+#sub "r_hh_10_02_01_00" w..what?
+
+//#sub r_hh_10_02_01_01 ひくひくっひてりゅっ（ピクピクしてる
+#sub "r_hh_10_02_01_01" really...twitching
+
+//#sub r_hh_10_02_01_02 きもひっいいにょっ？（気持ちいいの？
+#sub "r_hh_10_02_01_02" does it...feel good?
+
+//#sub r_hh_10_02_01_03 わらひがっわらひがぁっ（私が、私が
+#sub "r_hh_10_02_01_03" I'm...I'm...
+
+//#sub r_hh_10_02_01_04 かんりてるにょっ？（感じてるの？
+#sub "r_hh_10_02_01_04" are you...feeling it?
+
+//#sub r_hh_10_02_01_05 ここぁっいいにょっ？（ここがいいの？
+#sub "r_hh_10_02_01_05" is here...fine?
+
+//#sub r_hh_10_02_01_06 まらっれにゃいのっ？（まだ出ないの？
+#sub "r_hh_10_02_01_06" still...have't cum yet?
+
+//#sub r_hh_10_02_01_07 こりぇはっろぉっ？（これはどう？
+#sub "r_hh_10_02_01_07" how about...this?
+
+//#sub r_hh_10_02_01_08 ほりゃっほりゃぁっ（ほら、ほら
+#sub "r_hh_10_02_01_08" take this...and that
+
+//#sub r_hh_10_02_01_09 こにょっこにょぉっ（この、この
+#sub "r_hh_10_02_01_09" this is...this is
+
+//#sub r_hh_10_03_00_00 こんなの……
+#sub "r_hh_10_03_00_00" Something like this is...
+
+//#sub r_hh_10_03_00_01 いつまで、続くの……
+#sub "r_hh_10_03_00_01" How long...will this go on...
+
+//#sub r_hh_10_03_00_02 何、してるんだろう……
+#sub "r_hh_10_03_00_02" What...are you planning...
+
+//#sub r_hh_10_03_00_03 美味しい訳、ないのに……
+#sub "r_hh_10_03_00_03" This doesn't...taste good...
+
+//#sub r_hh_10_03_00_04 もっと……
+#sub "r_hh_10_03_00_04" More...
+
+//#sub r_hh_10_03_01_00 こいつっがぁっ
+#sub "r_hh_10_03_01_00" This guy
+
+//#sub r_hh_10_03_01_01 いつまでっこんなっ
+#sub "r_hh_10_03_01_01" This...how much longer
+
+//#sub r_hh_10_03_01_02 なんっなのぉっ
+#sub "r_hh_10_03_01_02" W..why
+
+//#sub r_hh_10_03_01_03 美味しいっのぉっ
+#sub "r_hh_10_03_01_03" Doesn't...taste good
+
+//#sub r_hh_10_03_01_04 このっこのぉっ
+#sub "r_hh_10_03_01_04" This is...this is
+
+//#sub r_hh_20_00_00_00 きぼひぃのぉ……♪（気持ちいのぉ
+#sub "r_hh_20_00_00_00" This feels good...♪
+
+//#sub r_hh_20_00_00_01 こりぇ、しゅごいぃ……♪（これすごい
+#sub "r_hh_20_00_00_01" This is...amazing...♪
+
+//#sub r_hh_20_00_00_02 にゃによ、こりぇぇ……（何よこれ
+#sub "r_hh_20_00_00_02" What is...this...
+
+//#sub r_hh_20_00_00_03 わらひは、まりゃぁ……（私はまだ
+#sub "r_hh_20_00_00_03" I...not enough...
+
+//#sub r_hh_20_00_00_04 しょのままぁ……（そのままぁ
+#sub "r_hh_20_00_00_04" Just like this...
+
+//#sub r_hh_20_00_01_00 ぎぼひぃっにょぉっ♪（気持ちいのぉ
+#sub "r_hh_20_00_01_00" Feeling good♪
+
+//#sub r_hh_20_00_01_01 しゅっごいぃっ♪（すごいぃ
+#sub "r_hh_20_00_01_01" Amazing♪
+
+//#sub r_hh_20_00_01_02 こんにゃっこんにゃぁっ（こんな、こんな
+#sub "r_hh_20_00_01_02" This is...this is...
+
+//#sub r_hh_20_00_01_03 あらひっひうっかんじてっりゅぅっ（私感じてる
+#sub "r_hh_20_00_01_03" I'm...feeling it
+
+//#sub r_hh_20_00_01_04 らめっにゃるっのぉっ♪（ダメになるのぉ
+#sub "r_hh_20_00_01_04" I'll become no good♪
+
+//#sub r_hh_20_01_00_00 こにょぉ……（このぉ
+#sub "r_hh_20_01_00_00" This...
+
+//#sub r_hh_20_01_00_01 にゃんなにょよぉ……（何なのよぉ
+#sub "r_hh_20_01_00_01" What is this...
+
+//#sub r_hh_20_01_00_02 かんじりょぉ……っ（感じろ
+#sub "r_hh_20_01_00_02" Feel it...
+
+//#sub r_hh_20_01_00_03 こいちゅの、しぇいれぇ……っ（こいつのせいで
+#sub "r_hh_20_01_00_03" Because of...this guy...
+
+//#sub r_hh_20_01_00_04 はやく、んゅっ、イきなしゃいよぉ……っ（早くイきなさいよ
+#sub "r_hh_20_01_00_04" Please hurry up...and cum...
+
+//#sub r_hh_20_01_01_00 こっにょぉっ（このぉ
+#sub "r_hh_20_01_01_00" This...
+
+//#sub r_hh_20_01_01_01 にゃにっよぉっ（何よぉ
+#sub "r_hh_20_01_01_01" What?
+
+//#sub r_hh_20_01_01_02 しゃしぇーっしりょぉっ（射精しろ
+#sub "r_hh_20_01_01_02" Ejaculate
+
+//#sub r_hh_20_01_01_03 がまんっするにゃぁっ（我慢するな
+#sub "r_hh_20_01_01_03" Don't hold it in
+
+//#sub r_hh_20_01_01_04 はやくっらしぇえっ（早く出せ
+#sub "r_hh_20_01_01_04" Hurry and let it out
+
+//#sub r_kn_90_02_91_00_00 お願い、やめてぇ……っ
+#sub "r_kn_90_02_91_00_00" Please, stop...
+
+//#sub r_kn_90_02_91_00_01 明子……明子ぉ……っ
+#sub "r_kn_90_02_91_00_01" Akiko...Akiko...
+
+//#sub r_kn_90_04_91_00_00 明子……そんな……っ
+#sub "r_kn_90_04_91_00_00" Akiko...it can't be...
+
+//#sub r_kn_90_04_91_00_01 私が……っ
+#sub "r_kn_90_04_91_00_01" I...
+
+//#sub r_kn_90_05_00_00_00 んんっ！？　何なのよ貴方……っ
+#sub "r_kn_90_05_00_00_00" nnn!? What is up with you...
+
+//#sub r_kn_90_09_00_00_00 くぅ……っ（口塞がれて）
+#sub "r_kn_90_09_00_00_00" Kek...
+
+//#sub r_kn_90_09_00_00_01 やめてぇ……っ（口塞がれて）
+#sub "r_kn_90_09_00_00_01" Stop...
+
+//#sub r_kn_00_02_02_01_00 やめて……それ以上、その子を汚さないで……っ
+#sub "r_kn_00_02_02_01_00" Stop it...anymore and...Don't defile her...
+
+//#sub r_kn_00_02_02_01_01 明子……くっ……
+#sub "r_kn_00_02_02_01_01" Akiko...kek
+
+//#sub r_kn_00_02_02_11_00 嘘よ……嘘だと言って、明子ぉ……っ
+#sub "r_kn_00_02_02_11_00" It's a lie...tell me it's a lie, Akiko
+
+//#sub r_kn_00_02_02_11_01 明子は……明子は、そんな子じゃない……っ
+#sub "r_kn_00_02_02_11_01" Akiko is...Akiko isn't that kind of girl...
+
+//#sub r_kn_00_02_02_02_00 随分とご執心ね……
+#sub "r_kn_00_02_02_02_00" You're really attached to her
+
+//#sub r_kn_00_02_02_02_01 くっ……おかあ、さん……
+#sub "r_kn_00_02_02_02_01" Kek...mother
+
+//#sub r_kn_00_02_02_12_00 相変わらず、醜い本性ね……
+#sub "r_kn_00_02_02_12_00" As usual, you're despicable
+
+//#sub r_kn_00_02_02_12_01 こんな女の娘だなんて……っ
+#sub "r_kn_00_02_02_12_01" To think I'm this woman's daughter...
+
+//#sub r_kn_00_02_02_03_00 男なんて、どいつもこいつも一緒よ……
+#sub "r_kn_00_02_02_03_00" With this guy, together every single time...
+
+//#sub r_kn_00_02_02_03_01 貴方が父親だなんて……絶対に認めないわ……っ
+#sub "r_kn_00_02_02_03_01" You are not my father...I'll never accept it...
+
+//#sub r_kn_00_02_03_00_00 貴方……最低よ……っ
+#sub "r_kn_00_02_03_00_00" You...are the worst...
+
+//#sub r_kn_00_02_03_00_01 こんなの、狂ってるわ……っ
+#sub "r_kn_00_02_03_00_01" This is crazy...
+
+//#sub r_kn_00_02_04_00_00 いい加減にしなさい……っ
+#sub "r_kn_00_02_04_00_00" That's enough...
+
+//#sub r_kn_00_02_05_00_00 狂ってるわ……何もかも……
+#sub "r_kn_00_02_05_00_00" Crazy...everything is...
+
+//#sub r_kn_00_02_91_00_00 そんな……っ
+#sub "r_kn_00_02_91_00_00" It can't be...
+
+//#sub r_kn_00_02_91_00_01 外しなさい……っ
+#sub "r_kn_00_02_91_00_01" Take this offf...
+
+//#sub r_kn_00_04_02_01_00 気が済んだなら……もう、解放してあげて……っ
+#sub "r_kn_00_04_02_01_00" If you're satisfied...then release us already...
+
+//#sub r_kn_00_04_02_01_01 もうやめて……私なら、何でもするから……っ
+#sub "r_kn_00_04_02_01_01" Please stop it...I'll do anything you want...
+
+//#sub r_kn_00_04_02_11_00 明子……正気に戻って……っ
+#sub "r_kn_00_04_02_11_00" Akiko...return to normal...
+
+//#sub r_kn_00_04_02_11_01 嫌……明子の、そんな姿……っ
+#sub "r_kn_00_04_02_11_01" No...Akiko, in that state...
+
+//#sub r_kn_00_04_02_02_00 ふん、らしくないじゃない……
+#sub "r_kn_00_04_02_02_00" Humph, It's no different from usual...
+
+//#sub r_kn_00_04_02_02_01 そんな女……いくらでも使いなさいよ……
+#sub "r_kn_00_04_02_02_01" This woman...use her as much as you like...
+
+//#sub r_kn_00_04_02_12_00 こんな女の血を引いてるなんて……
+#sub "r_kn_00_04_02_12_00" To think I'm related to this woman...
+
+//#sub r_kn_00_04_02_12_01 何で……何でそんなに悦べるのよ……っ
+#sub "r_kn_00_04_02_12_01" Why...Why is it that you look so happy...
+
+//#sub r_kn_00_04_02_03_00 こんな情けない男が父親とはね……
+#sub "r_kn_00_04_02_03_00" To think this pathetic man is my father...
+
+//#sub r_kn_00_04_02_03_01 ……何でこんなモノを見せつけられなきゃいけないのよ……
+#sub "r_kn_00_04_02_03_01" ...Why are you showing me this...
+
+//#sub r_kn_00_04_03_00_00 ……済んだなら早く出て行って
+#sub "r_kn_00_04_03_00_00" If you're done, then hurry up and get out
+
+//#sub r_kn_00_04_03_00_01 こんな事、いつまで続ける気なのよ……っ
+#sub "r_kn_00_04_03_00_01" These things, how long is this going to continue...
+
+//#sub r_kn_00_04_04_00_00 これ以上、無茶よ……っ
+#sub "r_kn_00_04_04_00_00" Any more is, unreasonable...
+
+//#sub r_kn_00_04_05_00_00 っ……どれだけ私達を狂わせれば気が済むのよっ
+#sub "r_kn_00_04_05_00_00" If this keeps up, we're all gonna go crazy
+
+//#sub r_kn_00_04_91_00_00 もういいでしょ……？
+#sub "r_kn_00_04_91_00_00" Isn't this enough...?
+
+//#sub r_kn_00_04_91_00_01 終わりにしなさい……っ
+#sub "r_kn_00_04_91_00_01" Finish this already...
+
+//#sub r_kn_00_05_00_00_00 きゃっ！？　んんっ、汚いわね……っ
+#sub "r_kn_00_05_00_00_00" Kya!? nnn, that's filthy...
+
+//#sub r_kn_00_09_00_00_00 ふんっ……
+#sub "r_kn_00_09_00_00_00" humph...
+
+//#sub r_kn_00_09_00_00_01 くっ……
+#sub "r_kn_00_09_00_00_01" kek...
+
+//#sub r_kn_00_09_00_00_02 この……っ
+#sub "r_kn_00_09_00_00_02" this...
+
+//#sub r_kn_00_09_00_00_03 むぅ……
+#sub "r_kn_00_09_00_00_03" muuu...
+
+//#sub r_kn_00_09_00_00_04 はぁ……
+#sub "r_kn_00_09_00_00_04" haa...
+
+//#sub r_kn_10_02_00_00_00 あんな抜き差しして……
+#sub "r_kn_10_02_00_00_00" Please pull it out...
+
+//#sub r_kn_10_02_00_00_01 どうして、そんなに受け入れられるのよ……
+#sub "r_kn_10_02_00_00_01" Why, accepting something like this...
+
+//#sub r_kn_10_02_00_01_00 お尻……あんなに広がって……
+#sub "r_kn_10_02_00_01_00" The ass...spread out like that...
+
+//#sub r_kn_10_02_00_01_01 すごい、捲れてる……ごくっ……
+#sub "r_kn_10_02_00_01_01" Amazing, turned inside out...*gulp*...
+
+//#sub r_kn_10_02_01_00_00 そんなもの……粗末に扱ってしまえばいいじゃない……
+#sub "r_kn_10_02_01_00_00" It's just like him...treating her like shit...
+
+//#sub r_kn_10_02_01_00_01 どうして、そんな楽しそうに弄れるの……？
+#sub "r_kn_10_02_01_00_01" Why, is doing it that much fun...?
+
+//#sub r_kn_10_02_02_01_00 明子を……許さない……許さないからぁ……っ
+#sub "r_kn_10_02_02_01_00" Akiko...unforgivable...I'll never forgive you...
+
+//#sub r_kn_10_02_02_01_01 明子……ダメ、受け入れちゃダメよ……っ
+#sub "r_kn_10_02_02_01_01" Akiko...don't, don't accept it...
+
+//#sub r_kn_10_02_02_11_00 ごめんなさい……お姉ちゃんが、全部悪かったからぁ……っ
+#sub "r_kn_10_02_02_11_00" I'm sorry...this is all onee-chan's fault...
+
+//#sub r_kn_10_02_02_11_01 お願い……元の明子に戻って……っ
+#sub "r_kn_10_02_02_11_01" Please...go back to the original Akiko...
+
+//#sub r_kn_10_02_02_02_00 ふん……どうせすぐ、雌の顔になるんだから……
+#sub "r_kn_10_02_02_02_00" Humph...any time now, you'll show the face of a bitch...
+
+//#sub r_kn_10_02_02_02_01 その自己犠牲面……ほんと、大ッ嫌い……っ
+#sub "r_kn_10_02_02_02_01" And now you're all selfless...really, I hate it...
+
+//#sub r_kn_10_02_02_12_00 わからないの？　貴方もその女にキープされてるだけの存在って事を……
+#sub "r_kn_10_02_02_12_00" Do you not get it? Your only purpose is to be kept by that woman...
+
+//#sub r_kn_10_02_02_12_01 醜い女の本性……ほんと、醜い……あは、あはは……♪
+#sub "r_kn_10_02_02_12_01" The true nature of that unsightly woman...really, how unsightly...aha ahaha...♪
+
+//#sub r_kn_10_02_02_03_00 貴方が……アナタが、余計な事をしたせいで……っ
+#sub "r_kn_10_02_02_03_00" You...You, it's all because you did something unnecessary...
+
+//#sub r_kn_10_02_02_03_01 こんな男と同じ空間にいるだけでも嫌なのに……っ
+#sub "r_kn_10_02_02_03_01" I don't want to be in the same space as this guy...
+
+//#sub r_kn_10_02_03_00_00 私達が何をしたっていうの……？
+#sub "r_kn_10_02_03_00_00" What did we ever do to deserve this...?
+
+//#sub r_kn_10_02_03_00_01 私達……このまま、雌奴隷として生きていくのね……ふふ、あはは……
+#sub "r_kn_10_02_03_00_01" All of us...just like this, will live forever as female slaves...huhu, ahaha...
+
+//#sub r_kn_10_02_04_00_00 少しは手加減してあげて……っ
+#sub "r_kn_10_02_04_00_00" Please go a little bit easier on her...
+
+//#sub r_kn_10_02_05_00_00 私も、ああなれば全部忘れられるのかしら……
+#sub "r_kn_10_02_05_00_00" I wonder if I could just forget that all of this happened
+
+//#sub r_kn_10_02_91_00_00 もう、ダメなのよ……
+#sub "r_kn_10_02_91_00_00" I can't take this anymore...
+
+//#sub r_kn_10_02_91_00_01 私は、無力よ……
+#sub "r_kn_10_02_91_00_01" I'm...powerless...
+
+//#sub r_kn_10_04_00_00_00 私もあんな風にイって……
+#sub "r_kn_10_04_00_00_00" I was also like that...
+
+//#sub r_kn_10_04_00_01_00 あんな雌の顔……見たくない……
+#sub "r_kn_10_04_00_01_00" The face of a bitch...I don't want to see...
+
+//#sub r_kn_10_04_00_02_00 気持ちよくなるなら、どの穴でもいいって事よね……
+#sub "r_kn_10_04_00_02_00" If it feels that good, then you're fine with any hole...
+
+//#sub r_kn_10_04_01_00_00 何でそんな……中に出されて喜べるのよ……
+#sub "r_kn_10_04_01_00_00" Why is it...that you look so happy from taking it in...
+
+//#sub r_kn_10_04_01_01_00 あんなの、絶対届いちゃってるじゃない……
+#sub "r_kn_10_04_01_01_00" These kinds of things, it can't be happening...
+
+//#sub r_kn_10_04_01_02_00 出せるならどこでシたって一緒なんでしょ……？
+#sub "r_kn_10_04_01_02_00" It doesn't matter where you cum as long as you're together, right?
+
+//#sub r_kn_10_04_01_10_00 ……気持ちよさそうに出すわね
+#sub "r_kn_10_04_01_10_00" ...It must feel good to cum
+
+//#sub r_kn_10_04_01_11_00 精液、あんなに……んぐ……（唾飲み
+#sub "r_kn_10_04_01_11_00" Semen, that much...*drool*
+
+//#sub r_kn_10_04_01_12_00 あんな、汚らわしいものを……
+#sub "r_kn_10_04_01_12_00" These kind of, filthy things...
+
+//#sub r_kn_10_04_02_01_00 私が……お姉ちゃんが、不甲斐ないから……っ
+#sub "r_kn_10_04_02_01_00" I'm...onee-chan is...not worthless...
+
+//#sub r_kn_10_04_02_01_01 明子……明子ぉ……っ
+#sub "r_kn_10_04_02_01_01" Akiko...Akiko...
+
+//#sub r_kn_10_04_02_11_00 明子が、あんな淫らに……
+#sub "r_kn_10_04_02_11_00" Akiko is, such obscenity...
+
+//#sub r_kn_10_04_02_11_01 明子が、喜んでる……ふふ、あはは……
+#sub "r_kn_10_04_02_11_01" Akiko...looks so happy...fufu, ahaha...
+
+//#sub r_kn_10_04_02_02_00 ……そうやって男を扇動させる……だから嫌いなのよ……っ
+#sub "r_kn_10_04_02_02_00" These things just encourages this guy...that's why I hate it...
+
+//#sub r_kn_10_04_02_02_01 それで私達を庇ってるつもりなの……？
+#sub "r_kn_10_04_02_02_01" So are you planning on taking us under your wing...?
+
+//#sub r_kn_10_04_02_12_00 私も、あんな風に狂えば楽になれるのかしら……
+#sub "r_kn_10_04_02_12_00" I wonder if I gonna end up crazy like that...
+
+//#sub r_kn_10_04_02_12_01 この女は、セックスさえ楽しめればどんな男とでも寝るのよ……？
+#sub "r_kn_10_04_02_12_01" This woman, enjoys having sex with any man...
+
+//#sub r_kn_10_04_02_03_00 お前がいなければ……お前が、アイツと出会わなければ……っ
+#sub "r_kn_10_04_02_03_00" If it wasn't for you...If you, because you happened to run into him...
+
+//#sub r_kn_10_04_02_03_01 こんな奴が父親……あは、信じられない……アハハハハ……！
+#sub "r_kn_10_04_02_03_01" This guy's a father...aha, I can't believe it...ahahaha...!
+
+//#sub r_kn_10_04_03_00_00 ……ねぇ、私はいつ犯されるの？
+#sub "r_kn_10_04_03_00_00" ...Hey, when you going to fuck me?
+
+//#sub r_kn_10_04_03_00_01 ……嫌……見てるだけなんて、嫌ぁ……っ
+#sub "r_kn_10_04_03_00_01" ...No...I don't want to see it...no...
+
+//#sub r_kn_10_04_04_00_00 ふっ、容赦なんて、最初から無かったわね……
+#sub "r_kn_10_04_04_00_00" humph, forgiveness, it was never possible from the start...
+
+//#sub r_kn_10_04_05_00_00 ふふ、全部、全部壊れてしまえばいいのよ……あは、あはははは……
+#sub "r_kn_10_04_05_00_00" fufu, everything, I hope everything breaks apart...aha, ahahahaha...
+
+//#sub r_kn_10_04_91_00_00 ……出番はまだ？
+#sub "r_kn_10_04_91_00_00" ...Still not my turn?
+
+//#sub r_kn_10_04_91_00_01 何が、こんな……
+#sub "r_kn_10_04_91_00_01" What is this...
+
+//#sub r_kn_10_05_00_00_00 んうっ……私が便器だから……
+#sub "r_kn_10_05_00_00_00" nuuu...I'm just a toilet...
+
+//#sub r_kn_10_09_00_00_00 うぅ……
+#sub "r_kn_10_09_00_00_00" uuu...
+
+//#sub r_kn_10_09_00_00_01 あは……
+#sub "r_kn_10_09_00_00_01" aha...
+
+//#sub r_kn_10_09_00_00_02 うぁ……
+#sub "r_kn_10_09_00_00_02" ahh...
+
+//#sub r_kn_10_09_00_00_03 んはぁ……
+#sub "r_kn_10_09_00_00_03" nnnhaa...
+
+//#sub r_kn_10_09_00_00_04 んう……
+#sub "r_kn_10_09_00_00_04" uuu...
+
+//#sub r_kn_11_02_00_00_00 オマンコ、あんなに……
+#sub "r_kn_11_02_00_00_00" pussy, that much...
+
+//#sub r_kn_11_02_00_00_01 どうして……そんなにオチンチンを欲しがるの……？
+#sub "r_kn_11_02_00_00_01" Why is it...that you want his cock so much...?
+
+//#sub r_kn_11_02_00_01_00 アナル……ずぼずぼ……オチンチン……はぁ……
+#sub "r_kn_11_02_00_01_00" Anal...thrusting in...cock...haaa...
+
+//#sub r_kn_11_02_00_01_01 わ、私にも、アナルセックス……
+#sub "r_kn_11_02_00_01_01" I, me too, anal sex...
+
+//#sub r_kn_11_02_01_01_00 あは……口マンコがじゅぼじゅぼ……あはは……
+#sub "r_kn_11_02_01_01_00" aha...mouth pussy...slurping...ahaha
+
+//#sub r_kn_11_02_01_01_01 あぁ……あんなオチンチン、美味しいに決まってる……
+#sub "r_kn_11_02_01_01_01" aaaa...that cock, it looks so tasty...
+
+//#sub r_kn_11_02_01_02_00 カウパー、垂れすぎ……
+#sub "r_kn_11_02_01_02_00" pre-cum, so much leaking...
+
+//#sub r_kn_11_02_01_02_01 ……そんなにオチンチンの味が……
+#sub "r_kn_11_02_01_02_01" ...the taste of such a cock...
+
+//#sub r_kn_11_02_01_03_00 出させるには、１番手っ取り早そうね……
+#sub "r_kn_11_02_01_03_00" To make it cum, that seems to be the quickest way...
+
+//#sub r_kn_11_02_01_03_01 オチンチン、シコシコ……シコシコ……
+#sub "r_kn_11_02_01_03_01" Cock, fap fap...fap fap...
+
+//#sub r_kn_11_04_00_01_00 あんなの……オマンコがイかない方がおかしいわ……
+#sub "r_kn_11_04_00_01_00" This is...how odd that your pussy didn't cum...
+
+//#sub r_kn_11_04_00_02_00 アナルアクメ……あんな、獣みたいに……
+#sub "r_kn_11_04_00_02_00" Anal monster...that, like a beast...
+
+//#sub r_kn_11_04_01_01_00 今頃、ザーメンが子宮内を……
+#sub "r_kn_11_04_01_01_00" By now, the semen should have reached the womb...
+
+//#sub r_kn_11_04_01_02_00 ……アナルでオチンチン絞り出すの、好きなの……？
+#sub "r_kn_11_04_01_02_00" ...squeezing the cock in the ass, do you like it...?
+
+//#sub r_kn_11_04_01_11_00 あぁ……ザーメン臭い……♪
+#sub "r_kn_11_04_01_11_00" aaaa...the smell of semen...♪
+
+//#sub r_kn_11_04_01_12_00 ザーメン……私も、飲みたい……
+#sub "r_kn_11_04_01_12_00" Semen...I also want to swallow it...

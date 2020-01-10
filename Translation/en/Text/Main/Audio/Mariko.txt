@@ -1,0 +1,2470 @@
+// Translated by Aria#1551
+
+//#sub m_hs_90_00_00_00_00 = い、嫌だ……離せ、離せよぉ……っ - h_voice_mariko
+#sub "m_hs_90_00_00_00_00" I, I don't want to....let go, let me go...
+
+//#sub m_hs_90_00_04_00_00 = くっ、何なんだよぉ……っ - h_voice_mariko
+#sub "m_hs_90_00_04_00_00" kuu, what the heck...
+
+//#sub m_hs_90_00_04_02_00 = 離せよぉ……っ - h_voice_mariko
+#sub "m_hs_90_00_04_02_00" Release me...
+
+//#sub m_hs_90_00_91_00_00 = 嫌……嫌だぁ……っ - h_voice_mariko
+#sub "m_hs_90_00_91_00_00" No...no more...
+
+//#sub m_hs_90_02_03_00_00 = ふぶっ、ぉえっ……どうして、こんな事に、う、ぶぅ…… - h_voice_mariko
+#sub "m_hs_90_02_03_00_00" mmmggg...why...is this...mmmggg
+
+//#sub m_hs_90_02_03_00_10 = おっ、ぶぶっ、くるっ、しぃっ、おごっ、ぇぶっ - h_voice_mariko
+#sub "m_hs_90_02_03_00_10" mmmggg...pain..ful...mmmggg
+
+//#sub m_hs_90_02_15_00_00 = やめ、てぇ、はひ、もぉ、犯さないでぇ…… - h_voice_mariko
+#sub "m_hs_90_02_15_00_00" Stop it...please...don't violate me....
+
+//#sub m_hs_90_02_15_00_10 = い、や、んんっ、あっ、やだっ、やだぁっ - h_voice_mariko
+#sub "m_hs_90_02_15_00_10" No...stop...stop
+
+//#sub m_hs_90_02_91_00_00 = 何なの、これ…… - h_voice_mariko
+#sub "m_hs_90_02_91_00_00" What is this
+
+//#sub m_hs_90_02_91_00_10 = やめ、てぇっ - h_voice_mariko
+#sub "m_hs_90_02_91_00_10" Stop it
+
+//#sub m_hs_90_03_00_01_00 = や、だ、んぐっ、イくのっ、やだぁっ、あっ、もうっ、嫌ぁぁぁっ！ - h_voice_mariko
+#sub "m_hs_90_03_00_01_00" Stop...cuming...ahhh...no moreeee!
+
+//#sub m_hs_90_03_01_00_00 = やめ、てよぉっ、うぐっ、お願いっ、んっ、出さ、ないでぇっ、んっ、ぐぅぅっ - h_voice_mariko
+#sub "m_hs_90_03_01_00_00" Stop...uuu...please...don't cum...ahhhh
+
+//#sub m_hs_90_03_02_01_00 = おごっ、ぶっ、やめっ、ぶっ、んむっ、やめ、てぇっ、んぼっ、おぐぅっ - h_voice_mariko
+#sub "m_hs_90_03_02_01_00" mmmggg...stop...stop it...mmmggg
+
+//#sub m_hs_90_04_00_00_00 = ふぐっ、ふっ、ふぅっ、んぐっ、もぉ、終わりに、してぇ、ふぅぅ…… - h_voice_mariko
+#sub "m_hs_90_04_00_00_00" mmmggg...finish...already....mmmggg
+
+//#sub m_hs_90_04_01_01_00 = んぐ、やだぁ、んんっ、早く、早く、洗わない、とぉ、あぐぅぅ…… - h_voice_mariko
+#sub "m_hs_90_04_01_01_00" uugg...stop...hurry...hurry up and finish this...
+
+//#sub m_hs_90_04_01_02_00 = うぇぅぅ、んんっ、お尻、気持ち悪いぃ…… - h_voice_mariko
+#sub "m_hs_90_04_01_02_00" ueuuu...my butt...this feels disgusting...
+
+//#sub m_hs_90_04_02_01_00 = けほっげほっ、えうぅ、きぼち悪いぃ、けふ…… - h_voice_mariko
+#sub "m_hs_90_04_02_01_00" *cough* *cough* I feel sick...
+
+//#sub m_hs_90_04_03_00_00 = うぅ、んんっ、ボク、いつまで、犯されるの……？ - h_voice_mariko
+#sub "m_hs_90_04_03_00_00" uuuu...I..how much longer...will I be raped...?
+
+//#sub m_hs_90_04_05_00_00 = はっ、はっ、ふぐっ、むりっ、んぐっ、こんっ、なのっ、はぐ、ふっ、ふぅっ - h_voice_mariko
+#sub "m_hs_90_04_05_00_00" ha ha ha...can't anymore...this...
+
+//#sub m_hs_90_05_00_02_00 = あぅぅ、う、み、見るなぁ……っ - h_voice_mariko
+#sub "m_hs_90_05_00_02_00" uuuu...don't stare...
+
+//#sub m_hs_90_05_00_03_00 = ダメぇぇ、んぁ、見ないでぇぇ……っ - h_voice_mariko
+#sub "m_hs_90_05_00_03_00" Don't,,,look at me...
+
+//#sub m_hs_90_06_00_00_00 = んぅ……こんな事になるなんて…… - h_voice_mariko
+#sub "m_hs_90_06_00_00_00" nnn...with this...what will happen to me...
+
+//#sub m_hs_90_06_91_00_00 = 終わ、った……？ - h_voice_mariko
+#sub "m_hs_90_06_91_00_00" Finished...?
+
+//#sub m_hs_00_00_00_00_00 = もぉ、いい加減解放してよ…… - h_voice_mariko
+#sub "m_hs_00_00_00_00_00" Come on, let me go already...
+
+//#sub m_hs_00_00_00_00_01 = また、始まるんだ…… - h_voice_mariko
+#sub "m_hs_00_00_00_00_01" Once again, it begins...
+
+//#sub m_hs_00_00_01_00_00 = どうせココに入れるんでしょ？　ほら…… - h_voice_mariko
+#sub "m_hs_00_00_01_00_00" Why don't you just stick it in? Here...
+
+//#sub m_hs_00_00_02_01_00 = うぅ、見られてるよぉ…… - h_voice_mariko
+#sub "m_hs_00_00_02_01_00" uuu...people are staring...
+
+//#sub m_hs_00_00_02_02_00 = どうしてこんな汚いとこでしなきゃいけないのさ……！ - h_voice_mariko
+#sub "m_hs_00_00_02_02_00" Why are we doing it in this dirty place...!
+
+//#sub m_hs_00_00_02_03_00 = わざわざこんなとこでするなんて…… - h_voice_mariko
+#sub "m_hs_00_00_02_03_00" Going through all this trouble for this...
+
+//#sub m_hs_00_00_03_00_00 = 見てないで助けてよ！　……って言っても無駄だよね - h_voice_mariko
+#sub "m_hs_00_00_03_00_00" Don't just look, help me!...It's useless
+
+//#sub m_hs_00_00_03_02_00 = こ、こんないっぺんに相手するなんて…… - h_voice_mariko
+#sub "m_hs_00_00_03_02_00" This many at once...
+
+//#sub m_hs_00_00_04_00_00 = ……しないの？ - h_voice_mariko
+#sub "m_hs_00_00_04_00_00" Not going to do it?
+
+//#sub m_hs_00_00_04_01_00 = ……いつまでこうさせとく気だよぉ - h_voice_mariko
+#sub "m_hs_00_00_04_01_00" uuu...how much longer will this continue
+
+//#sub m_hs_00_00_04_02_00 = ……やるならやってよぉ - h_voice_mariko
+#sub "m_hs_00_00_04_02_00" ...just do it
+
+//#sub m_hs_00_00_91_00_00 = こんな事したって、ボクは……っ - h_voice_mariko
+#sub "m_hs_00_00_91_00_00" Doing these kind of things, I...
+
+//#sub m_hs_00_01_00_00_00 = ふん、好きにすればいいじゃないか…… - h_voice_mariko
+#sub "m_hs_00_01_00_00_00" humph, just do what you like...
+
+//#sub m_hs_00_01_00_00_01 = ……そんなにココ、使いたいの……？ - h_voice_mariko
+#sub "m_hs_00_01_00_00_01" ...Did you wan't to use me that much...?
+
+//#sub m_hs_00_01_00_01_00 = ゃだ……こんな初めて、嫌だぁ……っ - h_voice_mariko
+#sub "m_hs_00_01_00_01_00" No...for my first time to be...no...
+
+//#sub m_hs_00_01_01_00_00 = くっ、ボクは変態じゃないからね……！ - h_voice_mariko
+#sub "m_hs_00_01_01_00_00" kuu, I'm not a pervert you know...!
+
+//#sub m_hs_00_01_01_00_01 = 何でそんな汚いとこ使おうとするのさぁ……っ - h_voice_mariko
+#sub "m_hs_00_01_01_00_01" Why are you trying to use such a dirty place...?
+
+//#sub m_hs_00_01_01_01_00 = え、お、お尻でするの？　……冗談だよね……？ - h_voice_mariko
+#sub "m_hs_00_01_01_01_00" Eh...in my a a ass?...You're joking right...?
+
+//#sub m_hs_00_01_02_00_00 = くっ、そんな手でボクに触るなぁ……っ - h_voice_mariko
+#sub "m_hs_00_01_02_00_00" kuu, don't touch me with those hands...
+
+//#sub m_hs_00_01_02_00_01 = ふん、いやらしい手つき…… - h_voice_mariko
+#sub "m_hs_00_01_02_00_01" humph, such filthy hands...
+
+//#sub m_hs_00_01_02_01_00 = 何でお前に見せ付けなきゃいけないんだよぉ……っ - h_voice_mariko
+#sub "m_hs_00_01_02_01_00" Why do I have to show this to you...?
+
+//#sub m_hs_00_01_02_02_00 = ……普段からそんなもの持ち歩いてるの？ - h_voice_mariko
+#sub "m_hs_00_01_02_02_00" Do you always carry around those things?
+
+//#sub m_hs_00_01_03_00_00 = ふん、すればいいんでしょすれば…… - h_voice_mariko
+#sub "m_hs_00_01_03_00_00" humph, like this, it's fine, isn't that so...
+
+//#sub m_hs_00_01_03_00_01 = う……ぼ、ボクにどうして欲しいんだよ…… - h_voice_mariko
+#sub "m_hs_00_01_03_00_01" uuu...what do you want me to do...?
+
+//#sub m_hs_00_01_03_01_00 = えっ……口、使わなきゃだめ……？ - h_voice_mariko
+#sub "m_hs_00_01_03_01_00" Eh...I should use my mouth, no...?
+
+//#sub m_hs_00_01_04_00_00 = やっぱりボクともするんだよね…… - h_voice_mariko
+#sub "m_hs_00_01_04_00_00" As I thought, I'm going to become like that...
+
+//#sub m_hs_00_02_00_01_00 = んうぅ、締め付けてなんか、ないもん、んあぁ…… - h_voice_mariko
+#sub "m_hs_00_02_00_01_00" nnn...I'm not...tightening it...
+
+//#sub m_hs_00_02_00_01_10 = んゃっ、あっ、ダメっ、やっ、あっ、しびれっ、きゃうっ♪ - h_voice_mariko
+#sub "m_hs_00_02_00_01_10" ahhh...don't...ahhh...it's tingling...kyaaa♪ 
+
+//#sub m_hs_00_02_00_02_00 = いっぐ、うぅ……アソコ、あづいぃ……ふぐぅ…… - h_voice_mariko
+#sub "m_hs_00_02_00_02_00" For awhile...uuu...down there...it's getting hot...
+
+//#sub m_hs_00_02_00_02_10 = ひっぎっ、やっ、あ゛っ、おがしぐっ、なるぅっ、あぎぃっ - h_voice_mariko
+#sub "m_hs_00_02_00_02_10" hiigii ahhh...I'm going to break...ahhh
+
+//#sub m_hs_00_02_00_03_00 = あぎっ、いっ、痛いっ、痛いからぁ、ぐ、うぅぅ…… - h_voice_mariko
+#sub "m_hs_00_02_00_03_00" agiii...it hurts...it really hurts...uuu...
+
+//#sub m_hs_00_02_00_03_10 = やっ、あ゛っ、あ゛っ、じぬっ、あがっ、じぬぅっ、んぎぁっ！ - h_voice_mariko
+#sub "m_hs_00_02_00_03_10" no...ahhh...hips...my hips...ahhhh!
+
+//#sub m_hs_00_02_01_01_00 = こん、な、んあっ、お尻がいいわけ、ん、あひ……♪ - h_voice_mariko
+#sub "m_hs_00_02_01_01_00" This is...my ass isn't...♪
+
+//#sub m_hs_00_02_01_01_10 = こんなっ、ひうっ、こんなっ、汚いとこっ、なのにぃっ、んひっ、ひあっ♪ - h_voice_mariko
+#sub "m_hs_00_02_01_01_10" This can't...ahhh...this can't be...it's dirty...yet why...ahhh♪
+
+//#sub m_hs_00_02_01_02_00 = んぐ、う、ぁ、何、これぇ……あぐ、うぅ…… - h_voice_mariko
+#sub "m_hs_00_02_01_02_00" nguuu...what is this...aguuu....
+
+//#sub m_hs_00_02_01_02_10 = ぐっ、やっ、あっ、お尻なのにっ、んぎっ、お尻なのにぃっ、くあっ - h_voice_mariko
+#sub "m_hs_00_02_01_02_10" ahhh...what's happening to my ass...what's happening to my ass
+
+//#sub m_hs_00_02_01_03_00 = ひぎっ、いだいぃ……んぐ、無理ぃ……っ - h_voice_mariko
+#sub "m_hs_00_02_01_03_00" higiii...it's difficult...nguu...it's impossible...
+
+//#sub m_hs_00_02_01_03_10 = いっぎっ、やっ、お尻っ、さげっ、さげるぅっ、ぎっ、あぁっ！ - h_voice_mariko
+#sub "m_hs_00_02_01_03_10" iiahhh...my ass...not so...not so rough...ahhhh!
+
+//#sub m_hs_00_02_02_00_00 = んく、うぅ……いやらしい手つき……う、あぅ…… - h_voice_mariko
+#sub "m_hs_00_02_02_00_00" uuuu...it's disgusting using hands like this...uuu...
+
+//#sub m_hs_00_02_02_00_10 = くっふっ、そんなっ、掻き回すっ、なぁっ、んあうっ - h_voice_mariko
+#sub "m_hs_00_02_02_00_10" uuu...this can't be...moving it around like this...nnn
+
+//#sub m_hs_00_02_02_03_00 = んうっ、べ、別に、いつもしてるわけじゃ……んぁ…… - h_voice_mariko
+#sub "m_hs_00_02_02_03_00" uuu...it's not like I...do this all the time...nnn...
+
+//#sub m_hs_00_02_02_03_10 = くっ、やぁっ、んあっ、そんなっ、見るなぁっ、んあぁっ - h_voice_mariko
+#sub "m_hs_00_02_02_03_10" ahhh...this can't be...they can see...ahhh
+
+//#sub m_hs_00_02_02_06_00 = んく、うぅ……変なの、入ってくる、んうぅ…… - h_voice_mariko
+#sub "m_hs_00_02_02_06_00" nnnn...this is strange...it's coming in...
+
+//#sub m_hs_00_02_02_06_10 = やっあぁっ、このっ、乱暴にっ、するなぁっ、んっ、あぁっ - h_voice_mariko
+#sub "m_hs_00_02_02_06_10" ahhh...this is...doing it so rough...ahhhh
+
+//#sub m_hs_00_02_03_00_00 = おぶ、う、んんっ、おっきい……おぐ、んぶう…… - h_voice_mariko
+#sub "m_hs_00_02_03_00_00" mmmggg...so big...mmmggg....
+
+//#sub m_hs_00_02_03_00_10 = おごっ、うっぶっ、くっ、臭いっ、うっ、ぶ、うぅぅっ - h_voice_mariko
+#sub "m_hs_00_02_03_00_10" mmmggg...the smell...mmmggg
+
+//#sub m_hs_00_02_03_03_00 = んぅ……ほんと、こんなので気持ちいいの……？んん…… - h_voice_mariko
+#sub "m_hs_00_02_03_03_00" nnn...really, does it feel good like this...? nnn...
+
+//#sub m_hs_00_02_03_03_10 = んくっ、うぅっ、おっぱいっ、ひりひりっ、するよぉっ、んんっ - h_voice_mariko
+#sub "m_hs_00_02_03_03_10" nnn...my breast...it's burning up...nnn
+
+//#sub m_hs_00_02_10_00_00 = んぁぅ……気持ちいいだなんて、言うもんかぁ……っ - h_voice_mariko
+#sub "m_hs_00_02_10_00_00" nnn...something feels good...why do I even care...
+
+//#sub m_hs_00_02_10_00_01 = ぁう……か、感じてなんか、ないし……んぁ…… - h_voice_mariko
+#sub "m_hs_00_02_10_00_01" uuu...I'm not...feeling it...
+
+//#sub m_hs_00_02_10_00_10 = んぁっ、あっ、いいっ（恍惚）、んんっ、くないっ、もんっ（我に返る）、んぁんっ - h_voice_mariko
+#sub "m_hs_00_02_10_00_10" ahhh...amazing...ahhh...(no return to my senses)...ahhh
+
+//#sub m_hs_00_02_10_00_11 = やめっ、んあっ、あっ、そこっ、ダメだってばぁっ！ - h_voice_mariko
+#sub "m_hs_00_02_10_00_11" Stop...ahhh...right there is...ahhh...doing it there is not good!
+
+//#sub m_hs_00_02_10_01_00 = んぅ、そんな事したって……ん……っ - h_voice_mariko
+#sub "m_hs_00_02_10_01_00" nnn...doing this with...your tongue...
+
+//#sub m_hs_00_02_10_01_01 = ふん、んんっ、大した事、ないじゃないか……んんっ - h_voice_mariko
+#sub "m_hs_00_02_10_01_01" humph...something like this...is no big deal...
+
+//#sub m_hs_00_02_10_01_10 = やっ、あっ、やだっ、んぁっ、はげしっ、んんっ、やだぁっ！ - h_voice_mariko
+#sub "m_hs_00_02_10_01_10" St..ahhh...stop...ahhh...too fast...ahhh...stop!
+
+//#sub m_hs_00_02_10_01_11 = うっ、あっ、乱暴にっ、するなぁっ、んぅっ - h_voice_mariko
+#sub "m_hs_00_02_10_01_11" ahhh...this is...too rough...ahhh
+
+//#sub m_hs_00_02_11_00_00 = きゃうっ……う、うるさい、うるさいぃ……っ - h_voice_mariko
+#sub "m_hs_00_02_11_00_00" Kya...uuu...shut up...shut up...
+
+//#sub m_hs_00_02_11_00_10 = んぁっ、こんなのっ、んっ、好きでっ、してるわけじゃっ、あんっ - h_voice_mariko
+#sub "m_hs_00_02_11_00_10" ahhh...this...I like...ahhh...as if I'd say...ahhh
+
+//#sub m_hs_00_02_11_01_00 = んう、何だよ、んんっ、こんなの……くぅ…… - h_voice_mariko
+#sub "m_hs_00_02_11_01_00" nnn...what?...this kind of thing is...nnn...
+
+//#sub m_hs_00_02_11_01_10 = んんっ、くぅっ、お前がっ、しろってっ、言うからぁっ、んんっ - h_voice_mariko
+#sub "m_hs_00_02_11_01_10" nnn...it's because you...keep doing this to me..ahh
+
+//#sub m_hs_00_02_13_00_00 = んう……何、硬くしてるのさ……んんっ…… - h_voice_mariko
+#sub "m_hs_00_02_13_00_00" nnnn...what...getting all hard...nnn...
+
+//#sub m_hs_00_02_13_00_01 = んん、喜ばれても、嬉しくないし……んっ…… - h_voice_mariko
+#sub "m_hs_00_02_13_00_01" nnn...even if you're happy, I'm not particularly pleased...nnn...
+
+//#sub m_hs_00_02_13_00_10 = んっ、そんなにっ、いいならっ、んんっ、早くっ、終わらせてっよぉっ、んんっ - h_voice_mariko
+#sub "m_hs_00_02_13_00_10" nnn...if this is fine...nnn...then hurry up and finnish...nnn
+
+//#sub m_hs_00_02_13_00_11 = んくっ、こんなっ、強くしなきゃっ、ダメなのっ？ - h_voice_mariko
+#sub "m_hs_00_02_13_00_11" nnn...I guess I have to...do it stronger...is this not good?
+
+//#sub m_hs_00_02_13_01_00 = んうぅ……何でこんな、恥ずかしい事……ん…… - h_voice_mariko
+#sub "m_hs_00_02_13_01_00" nnn...why do I have to...do something so humiliating...nnn...
+
+//#sub m_hs_00_02_13_01_01 = んくっ、もぉっ、いつまでっ、続けるっ、のさぁっ、んんっ - h_voice_mariko
+#sub "m_hs_00_02_13_01_01" nnn...come on...how much longer...will this go on...?
+
+//#sub m_hs_00_02_13_01_10 = んうっ、どれがいいかっ、んっ、わかんないよぉっ、んんっ - h_voice_mariko
+#sub "m_hs_00_02_13_01_10" nnn...what is good...as if I know...nnn
+
+//#sub m_hs_00_02_13_01_11 = ...- h_voice_mariko
+#sub "m_hs_00_02_13_01_11" This...aren't you tired already?
+
+//#sub m_hs_00_02_14_00_00 = んちゅる……ぉくのひひゃ、んんっ、ひもひーの？　れりゅ……（ボクの舌、気持ちいいの？ - h_voice_mariko
+#sub "m_hs_00_02_14_00_00" mmmggg...my tongue...does it feel good? mmmggg...
+
+//#sub m_hs_00_02_14_00_10 = んじゅっ、うっんんっ、ろんろんっ、ひゃれてくゆっ、んっ、ちゅるっ（どんどん垂れてくる - h_voice_mariko
+#sub "m_hs_00_02_14_00_10" mmmggg...it keeps on dripping out...mmmggg
+
+//#sub m_hs_00_02_14_01_00 = れろ、うぅ、へんにゃあじ……れろ、ちゅる……（変な味 - h_voice_mariko
+#sub "m_hs_00_02_14_01_00" mmmggg...such a weird taste...
+
+//#sub m_hs_00_02_14_01_10 = んりゅっ、もぉっ、んんっ、ひりにゃいよぉっ、れろっ（もぉ、切り無いよぉ - h_voice_mariko
+#sub "m_hs_00_02_14_01_10" mmmggg...come on...does it not stop
+
+//#sub m_hs_00_02_15_00_00 = んあ、うぅ……力、入んないのにぃ、あう、んん…… - h_voice_mariko
+#sub "m_hs_00_02_15_00_00" nnnn...I don't have...any more strength...
+
+//#sub m_hs_00_02_15_00_10 = やっ、あっ、このっ、手加減っ、しろぉっ、はっ、うぁっ - h_voice_mariko
+#sub "m_hs_00_02_15_00_10" yahhh...this is...go easy on me...blanking out...
+
+//#sub m_hs_00_02_20_00_00 = んやぁ、こんなの、んんっ、見ないで、よぉ……んぁ…… - h_voice_mariko
+#sub "m_hs_00_02_20_00_00" ahhh...don't...look at me...ahhh...
+
+//#sub m_hs_00_02_20_00_10 = や、だぁっ、んあっ、見るな、見るなぁっ、んぁぁっ - h_voice_mariko
+#sub "m_hs_00_02_20_00_10" No...ahhh...don't look...don't look...ahhh
+
+//#sub m_hs_00_02_20_01_00 = んん、うぅ、見られてる、よぉ……あう…… - h_voice_mariko
+#sub "m_hs_00_02_20_01_00" nnn...I've been seen...uuu...
+
+//#sub m_hs_00_02_20_01_10 = く、うぅ、こんなの、見られる、なんてぇ、ん、うっ - h_voice_mariko
+#sub "m_hs_00_02_20_01_10" uuuu...this is...being exposed...I guess...
+
+//#sub m_hs_00_02_20_02_00 = れりゅ、うぅ、みりゃれひぇる、んちゅ、れろ……（見られてる - h_voice_mariko
+#sub "m_hs_00_02_20_02_00" mmmggg...they can see...
+
+//#sub m_hs_00_02_20_02_10 = や、じゅるっ、んっ、みにゃいれっ、よぉっ、れりゅりゅっ（見ないでよ - h_voice_mariko
+#sub "m_hs_00_02_20_02_10" mmmggg...don't look...mmmggg
+
+//#sub m_hs_00_02_20_03_00 = おぶ、んちゅぶ……見ないでぇ、んぶぶ…… - h_voice_mariko
+#sub "m_hs_00_02_20_03_00" mmmggg...don't...look...mmmggg...
+
+//#sub m_hs_00_02_20_03_10 = んぶっ、ちゅぶっ、見る、なぁっ、んぼっ、ちゅぼっ - h_voice_mariko
+#sub "m_hs_00_02_20_03_10" mmmggg...they can see...mmmggg
+
+//#sub m_hs_00_02_91_00_00 = もぉ、やだよぉ…… - h_voice_mariko
+#sub "m_hs_00_02_91_00_00" Please...stop...
+
+//#sub m_hs_00_02_91_00_10 = やだ、やだぁっ - h_voice_mariko
+#sub "m_hs_00_02_91_00_10" No..stop
+
+//#sub m_hs_00_03_00_00_00 = や、だぁっ、んっあっあっイっちゃうっ、イっちゃうからぁっ、あっあっあぁぁぁっ！ - h_voice_mariko
+#sub "m_hs_00_03_00_00_00" Stop...ahhh..I'm cuming...I'm going to cum...ahhhhh!
+
+//#sub m_hs_00_03_00_00_01 = ダメっ、あっんっ、コレ以上はっ、んぁっ、ボクっ、ぼ、く、んっあぁぁぁぁっ！ - h_voice_mariko
+#sub "m_hs_00_03_00_00_01" Don't...ahhh...any more and...I'll...I'll...ahhhhh!
+
+//#sub m_hs_00_03_00_01_10 = んあっ、あっ、こんなっ、んぁっ、もぉっ、無理っ、だからっあっあっあっあ――――！ - h_voice_mariko
+#sub "m_hs_00_03_00_01_10" ahhh...this is...I can't take any more...that's why...ahhhh!
+
+//#sub m_hs_00_03_00_02_10 = やっあっ、んおっ、お尻っ、んあっ、お尻っ、ダメにっなるぅぅぅぅぅっ！ - h_voice_mariko
+#sub "m_hs_00_03_00_02_10" No...ahhh...my ass...my ass is...going to be brokennnn!
+
+//#sub m_hs_00_03_01_00_00 = んうっ、どうせっ、嫌って言ってもっ、出すんでしょっ？　んっくっ、うっ、んんんっ - h_voice_mariko
+#sub "m_hs_00_03_01_00_00" ahh...at this rate...even though I hate it...are you going to cum? ahhhh
+
+//#sub m_hs_00_03_01_01_00 = い、やぁっ、んぐっ、中でっ、んぁっ、おっきくなってっ、んっ、あっ、んうぅぅぅっ - h_voice_mariko
+#sub "m_hs_00_03_01_01_00" No...ah ah ah...it's getting bigger...ah ah ahhhhh
+
+//#sub m_hs_00_03_01_01_10 = んくっ、好きに出せばっ、いいじゃんっ、んぁっ、あっ、ほらっ、ほらぁっ - h_voice_mariko
+#sub "m_hs_00_03_01_01_10" nnn...you like to cum...don't you...then here..,take thissss
+
+//#sub m_hs_00_03_01_02_00 = んっううっ、お腹っ、気持ち悪くっ、なるのにぃ、んっうっ、あうっうううっ - h_voice_mariko
+#sub "m_hs_00_03_01_02_00" nnnn...my stomach...feels terrible...ahh ahh ahhhh
+
+//#sub m_hs_00_03_01_02_10 = ふんっ、んんっ、もぉっ、お尻に出されたってっ、んぁっ、平気だもんっ、んうっ、んあっあうっ - h_voice_mariko
+#sub "m_hs_00_03_01_02_10" ahhh...come on...cuming in my ass...I'm fine with it...ahhhhh
+
+//#sub m_hs_00_03_02_00_00 = くっ、このっ、んんっ、出すならっ、早くっ、出せよぉっ、んぅ、ふっ、うぅっ - h_voice_mariko
+#sub "m_hs_00_03_02_00_00" nnnn...cum...hurry up and...cum...nnnnn
+
+//#sub m_hs_00_03_02_01_00 = んぼっ、ぼっ、んぐっ、出そうっ？　んっ、ぶっ、んっ、んんっ - h_voice_mariko
+#sub "m_hs_00_03_02_01_00" mmmggg...cuming?...mmmggg
+
+//#sub m_hs_00_03_02_02_00 = んりゅっ、れろっ、らひゅのっ？　んっ、れりゅっ、んっ、わかっひゃ、んっ、れろろ、れろぉっ（出すの？わかった - h_voice_mariko
+#sub "m_hs_00_03_02_02_00" mmmggg...cuming?...mmmggg...I understand...mmmggg
+
+//#sub m_hs_00_03_00_00_00 = や、だぁっ、んっあっあっイっちゃうっ、イっちゃうからぁっ、あっあっあぁぁぁっ！ - h_voice_mariko
+#sub "m_hs_00_03_00_00_00" Stop...ahhh..I'm cuming...I'm going to cum...ahhhhh!
+
+//#sub m_hs_00_03_00_00_01 = ダメっ、あっんっ、コレ以上はっ、んぁっ、ボクっ、ぼ、く、んっあぁぁぁぁっ！ - h_voice_mariko
+#sub "m_hs_00_03_00_00_01" Don't...ahhh...any more and...I'll...I'll...ahhhhh!
+
+//#sub m_hs_00_03_00_01_10 = んあっ、あっ、こんなっ、んぁっ、もぉっ、無理っ、だからっあっあっあっあ――――！ - h_voice_mariko
+#sub "m_hs_00_03_00_01_10" ahhh...this is...I can't take any more...that's why...ahhhh!
+
+//#sub m_hs_00_03_00_02_10 = やっあっ、んおっ、お尻っ、んあっ、お尻っ、ダメにっなるぅぅぅぅぅっ！ - h_voice_mariko
+#sub "m_hs_00_03_00_02_10" No...ahhh...my ass...my ass is...going to be brokennnn!
+
+//#sub m_hs_00_03_01_00_00 = んうっ、どうせっ、嫌って言ってもっ、出すんでしょっ？　んっくっ、うっ、んんんっ - h_voice_mariko
+#sub "m_hs_00_03_01_00_00" ahh...at this rate...even though I hate it...are you going to cum? ahhhh
+
+//#sub m_hs_00_03_01_01_00 = い、やぁっ、んぐっ、中でっ、んぁっ、おっきくなってっ、んっ、あっ、んうぅぅぅっ - h_voice_mariko
+#sub "m_hs_00_03_01_01_00" No...ah ah ah...it's getting bigger...ah ah ahhhhh
+
+//#sub m_hs_00_03_01_01_10 = んくっ、好きに出せばっ、いいじゃんっ、んぁっ、あっ、ほらっ、ほらぁっ - h_voice_mariko
+#sub "m_hs_00_03_01_01_10" nnn...you like to cum...don't you...then here..,take thissss
+
+//#sub m_hs_00_03_01_02_00 = んっううっ、お腹っ、気持ち悪くっ、なるのにぃ、んっうっ、あうっうううっ - h_voice_mariko
+#sub "m_hs_00_03_01_02_00" nnnn...my stomach...feels terrible...ahh ahh ahhhh
+
+//#sub m_hs_00_03_01_02_10 = ふんっ、んんっ、もぉっ、お尻に出されたってっ、んぁっ、平気だもんっ、んうっ、んあっあうっ - h_voice_mariko
+#sub "m_hs_00_03_01_02_10" ahhh...come on...cuming in my ass...I'm fine with it...ahhhhh
+
+//#sub m_hs_00_03_02_00_00 = くっ、このっ、んんっ、出すならっ、早くっ、出せよぉっ、んぅ、ふっ、うぅっ - h_voice_mariko
+#sub "m_hs_00_03_02_00_00" nnnn...cum...hurry up and...cum...nnnnn
+
+//#sub m_hs_00_03_02_01_00 = んぼっ、ぼっ、んぐっ、出そうっ？　んっ、ぶっ、んっ、んんっ - h_voice_mariko
+#sub "m_hs_00_03_02_01_00" mmmggg...cuming?...mmmggg
+
+//#sub m_hs_00_03_02_02_00 = んりゅっ、れろっ、らひゅのっ？　んっ、れりゅっ、んっ、わかっひゃ、んっ、れろろ、れろぉっ（出すの？わかった - h_voice_mariko
+#sub "m_hs_00_03_02_02_00" mmmggg...cuming?...mmmggg...I understand...mmmggg
+
+//#sub m_hs_00_04_00_00_00 = はふ、はう、んんっ、イったら、終わりじゃないの……？　んん、はぁ…… - h_voice_mariko
+#sub "m_hs_00_04_00_00_00" ha ha haaa...is it..over yet? haa...
+
+//#sub m_hs_00_04_00_00_01 = く、ふぅっ、どうだったって、んんっ、見れば、わかるでしょ、はふ、ぅぅ…… - h_voice_mariko
+#sub "m_hs_00_04_00_00_01" ha haa...how's that...I can tell from looking...haaa
+
+//#sub m_hs_00_04_00_01_10 = はぁ、はぁ、んん、ダメ、はふ、まだ、ヒクヒク、してる、んん、ふぅ…… - h_voice_mariko
+#sub "m_hs_00_04_00_01_10" ha ha haa...not good...I'm still convulsing...haaa
+
+//#sub m_hs_00_04_00_02_10 = はひ、こんなの、続けてたら、んふっ、お尻、おかしくなっちゃうよぉ、はふぅ…… - h_voice_mariko
+#sub "m_hs_00_04_00_02_10" haa haa...if this keeps up...my ass..will start to become strange...haa
+
+//#sub m_hs_00_04_01_00_00 = くふ、うう、もぉ、どれだけ出せば、気が済むのさ、んん、はふ…… - h_voice_mariko
+#sub "m_hs_00_04_01_00_00" haa haa..come on...how much more will you cum...till you're done...haa...
+
+//#sub m_hs_00_04_01_00_01 = うぅ、はふ、また、洗わなくちゃ、はふ、ふぅ、ふぅ…… - h_voice_mariko
+#sub "m_hs_00_04_01_00_01" haa ha haa...again...I'll to clean myself...haa haa haa...
+
+//#sub m_hs_00_04_01_01_00 = うぐ、うぅ、妊娠、したくないよぉ、はふ、うぅ…… - h_voice_mariko
+#sub "m_hs_00_04_01_01_00" uuuu...I don't want to...get pregnant...haaa...
+
+//#sub m_hs_00_04_01_01_10 = んぐ、また、そんな奥に出して、んん、どんだけ好きなのさ、はふぅ…… - h_voice_mariko
+#sub "m_hs_00_04_01_01_10" ha haa...again...you came deep inside...you really like doing that...haa...
+
+//#sub m_hs_00_04_01_02_00 = ふぐ、出したなら抜いて、んぁっ、いや、抜かないで……んうぅ、漏れちゃうぅ…… - h_voice_mariko
+#sub "m_hs_00_04_01_02_00" uuu...if you pull out after cuming...nnn...no...don't pull out...it'll leak...
+
+//#sub m_hs_00_04_01_02_10 = んん、別に、平気ってだけだし、んぅ、お尻に出されるの、好きなわけじゃないし、はふ…… - h_voice_mariko
+#sub "m_hs_00_04_01_02_10" nnn...doesn't matter...I'm just fine...even if you cum in my ass...it's not like I enjoy it...
+
+//#sub m_hs_00_04_02_00_00 = んぅ……何？　まだ口でしなきゃダメ……？ - h_voice_mariko
+#sub "m_hs_00_04_02_00_00" nnnn...what? Do I still have to do it with my mouth...?
+
+//#sub m_hs_00_04_02_01_00 = げほっ、うぅ、喉に、んんっ、けふ…… - h_voice_mariko
+#sub "m_hs_00_04_02_01_00" *cough* *cough* ...uuu...my throat...
+
+//#sub m_hs_00_04_02_02_00 = んん、何だよ、飲めって言うから飲んだんだよ……？ - h_voice_mariko
+#sub "m_hs_00_04_02_02_00" *gulp* nnn...what is it...you told me to swallow so I swallowed, didn't you...?
+
+//#sub m_hs_00_04_02_03_00 = んぇう、こんな事させて、何が楽しいのさぁ…… - h_voice_mariko
+#sub "m_hs_00_04_02_03_00" eehhh...doing something like this...how is it enjoyable...
+
+//#sub m_hs_00_04_02_04_00 = えう、ほえ、おーふうおはぁ……（これ、どーするのさぁ - h_voice_mariko
+#sub "m_hs_00_04_02_04_00" eee....here...now what...?
+
+//#sub m_hs_00_04_03_00_00 = んえぇ、何でわざわざかけるのさぁ…… - h_voice_mariko
+#sub "m_hs_00_04_03_00_00" eee...what did you make me do that for...?
+
+//#sub m_hs_00_04_03_00_01 = はぁ、これだけ出したなら、もう終わりでいいよね……？ - h_voice_mariko
+#sub "m_hs_00_04_03_00_01" haa...since you came this much...are you finished...?
+
+//#sub m_hs_00_04_03_01_10 = んん、すごい匂い……クラクラ、する……はぁ…… - h_voice_mariko
+#sub "m_hs_00_04_03_01_10" nnn...incredible smell...feeling faint...haaa...
+
+//#sub m_hs_00_04_05_00_00 = はぁ、はぁ、もぉ、むり、はふ、ふぅ、おね、がい、はぁ、はぁ…… - h_voice_mariko
+#sub "m_hs_00_04_05_00_00" ha ha...come on...that's enough...haa...please...haa haa...
+
+//#sub m_hs_00_05_00_02_00 = ふあぁ、んんっ、急に抜くからぁ、んあぁ…… - h_voice_mariko
+#sub "m_hs_00_05_00_02_00" ahhh...nnn...suddenly pulling out...haaa...
+
+//#sub m_hs_00_05_00_03_00 = んぁ、うぅ……おしっこ、出ちゃった……あぅ…… - h_voice_mariko
+#sub "m_hs_00_05_00_03_00" ahhh...uuu...pee...it's coming out...haaa...
+
+//#sub m_hs_00_06_00_00_00 = はぁ、終わり、かぁ…… - h_voice_mariko
+#sub "m_hs_00_06_00_00_00" haa...it's over...
+
+//#sub m_hs_00_06_00_00_01 = うぅ、お疲れさま、じゃないよぉ…… - h_voice_mariko
+#sub "m_hs_00_06_00_00_01" uuu...it's not...good job for today...
+
+//#sub m_hs_00_06_00_01_00 = す、好きであんなにイったわけじゃないし……ふんっ…… - h_voice_mariko
+#sub "m_hs_00_06_00_01_00" It's not like I particularly enjoyed it...humph...
+
+//#sub m_hs_00_06_00_04_00 = はぁ、イったボクを見れて満足……？ - h_voice_mariko
+#sub "m_hs_00_06_00_04_00" haa...where you satisfied with choosing me...?
+
+//#sub m_hs_00_06_00_05_00 = うぅ、これ、匂い取れるのかなぁ……はぁ…… - h_voice_mariko
+#sub "m_hs_00_06_00_05_00" uuu...I wonder if the smell will come out...haa...
+
+//#sub m_hs_00_06_00_08_00 = え、これだけでいいの？　……ふぅん - h_voice_mariko
+#sub "m_hs_00_06_00_08_00" Eh, are you fine with just this? ...mmm
+
+//#sub m_hs_00_06_00_10_00 = もぉ、何しにボクを呼び出したのさぁっ - h_voice_mariko
+#sub "m_hs_00_06_00_10_00" Come on, what did even call me here for?
+
+//#sub m_hs_00_06_91_00_00 = もぐぅ、終わり……？ - h_voice_mariko
+#sub "m_hs_00_06_91_00_00" mmgg...finished...?
+
+//#sub m_hs_01_02_00_01_00 = くぅぅ、んぁっ、オマンコが、気持ちよくないわけ、ないじゃないかぁ、んあぁっ - h_voice_mariko
+#sub "m_hs_01_02_00_01_00" ahhh...it's not like my...pussy...feels good...ahhhh
+
+//#sub m_hs_01_02_00_01_10 = きゃうっ、うっ、オマンコっ、壊れっちゃったらっ、どうするのさぁっ、んぁんっ♪ - h_voice_mariko
+#sub "m_hs_01_02_00_01_10" Kya...uuu...my pussy...is going to break...what should I do...ahhhh♪
+
+//#sub m_hs_01_02_01_01_00 = くひぅぅ、これ、絶対アナル捲れてるよぉ、んあぁ…… - h_voice_mariko
+#sub "m_hs_01_02_01_01_00" kuuuu...with this, my ass will definitely be turned inside out...ahhh
+
+//#sub m_hs_01_02_01_01_10 = はひっ、お尻がっ、んあっ、あっ、アナルっがぁっ♪ - h_voice_mariko
+#sub "m_hs_01_02_01_01_10" ha ahhh...my butt...ahh...my ass...ahhh♪ 
+
+//#sub m_hs_91_00_00_00_00 = ほら、するならしてよ……早くぅ……っ - h_voice_mariko
+#sub "m_hs_91_00_00_00_00" Come on, let's do it already...hurry up...
+
+//#sub m_hs_91_03_00_00_00 = いいよっ、もぉっ、んぁっ、あっ、何度だって、きゃぅっ、イってやる、さぁっ、あっ、んあぁっ！ - h_voice_mariko
+#sub "m_hs_91_03_00_00_00" ahh...that's fine...ahhh...come on...how many times...ahhhhhh
+
+//#sub m_hs_91_03_01_00_00 = んぁっ、種付けでもっ、何でもいいからっ、あっ、早くっ、ボクの中にっ、出してよぉぉっ！ - h_voice_mariko
+#sub "m_hs_91_03_01_00_00" ahhh...go and pour your seed...anything is fine...hurry...inside of me...let it out!
+
+//#sub m_hs_91_03_02_00_00 = んぅ、射精、見たい、んっ、んっ、ねぇ、んんっ、出してっ？　んっ、ふっ、んんっ - h_voice_mariko
+#sub "m_hs_91_03_02_00_00" nnn...I want to see...you cum...nnnn...hey...you gonna cum?...nnnnn
+
+//#sub m_hs_91_04_00_00_00 = はぁ、はぁ、こんなの、んぐっ、ふっ、気持ちいいに、決まってるじゃんかぁ、はふ……♪ - h_voice_mariko
+#sub "m_hs_91_04_00_00_00" haa haa haa...this...feels really good...no ifs about it....♪
+
+//#sub m_hs_91_04_01_00_00 = く、ふふっ、すごい、んんっ、ボクの中に、んぁ、こんなに……あは……♪ - h_voice_mariko
+#sub "m_hs_91_04_01_00_00" haa fu fu...amazing...nnn...inside of me...so much...aha♪
+
+//#sub m_hs_91_04_03_00_00 = ふぅ……ほら、気持ちよかったんでしょ？　まだシ足りないんでしょ……？ - h_voice_mariko
+#sub "m_hs_91_04_03_00_00" haaa...hey, it felt good, right? It's still not enough, right?
+
+//#sub m_hs_91_06_00_00_00 = ふ、あは……もぉ、どーでもいいやぁ……あはははは……♪ - h_voice_mariko
+#sub "m_hs_91_06_00_00_00" ahaha...come on...anything is fine...ahahaha...♪
+
+//#sub m_hs_10_00_00_00_00 = んふ、今度はどうやって犯してくれるのかなぁ……♪ - h_voice_mariko
+#sub "m_hs_10_00_00_00_00" aha, I wonder how we're gonna fuck this time around...♪
+
+//#sub m_hs_10_00_00_00_01 = あは、ボクとエッチしてくれるんだね？ - h_voice_mariko
+#sub "m_hs_10_00_00_00_01" aha, do you want to do perverted things with me?
+
+//#sub m_hs_10_00_01_00_00 = ほら、ボクの穴、また犯されたがってるでしょ？　ねぇ～……♪ - h_voice_mariko
+#sub "m_hs_10_00_01_00_00" Look, my ass, it wants to be fucked again, dontcha think? hey...♪
+
+//#sub m_hs_10_00_01_01_00 = ねぇ～、そろそろ挿れてくれたっていいでしょ？　ねぇ～……っ - h_voice_mariko
+#sub "m_hs_10_00_01_01_00" Hey, you're gonna put it in soon right? hey....
+
+//#sub m_hs_10_00_01_02_00 = ボク、お尻がうずいて仕方ないの……ねぇ、お願いだよぉ……っ - h_voice_mariko
+#sub "m_hs_10_00_01_02_00" My ass can't help but ache...hey...please do something about it...
+
+//#sub m_hs_10_00_02_01_00 = んふふ、みなさーん、ボクのセックス姿、いーっぱい見てってね～♪ - h_voice_mariko
+#sub "m_hs_10_00_02_01_00" ahaha....everyone, look at me having sex, look at me alot♪
+
+//#sub m_hs_10_00_02_02_00 = こんなとこでしなくても、ボクはいつでもキミの便器になれるんだけどなぁ…… - h_voice_mariko
+#sub "m_hs_10_00_02_02_00" Even in a place like this, I can always be your toilet instead....
+
+//#sub m_hs_10_00_02_03_00 = ふふ、キミの息が当たるだけで、ボクは……んん……♪ - h_voice_mariko
+#sub "m_hs_10_00_02_03_00" huhu...I just touched your thing...nnn...♪
+
+//#sub m_hs_10_00_03_00_00 = んふ、いくらでも見せ付けちゃうんだからね♪ - h_voice_mariko
+#sub "m_hs_10_00_03_00_00" nfu, I'll show you as much as you want♪
+
+//#sub m_hs_10_00_03_02_00 = みーんなでボクを犯してくれる……ふふ、あはははは♪ - h_voice_mariko
+#sub "m_hs_10_00_03_02_00" Everyyyyone is gonna fuck me...fufu, ahahaha♪ 
+
+//#sub m_hs_10_00_04_00_00 = ねぇ、まーだー？ - h_voice_mariko
+#sub "m_hs_10_00_04_00_00" Hey, not yet?
+
+//#sub m_hs_10_00_04_01_00 = うぅ、ボク、早くシたいんだけどー……？ - h_voice_mariko
+#sub "m_hs_10_00_04_01_00" uuu...I...want to do it soon...
+
+//#sub m_hs_10_00_04_02_00 = むぐ、早くシよーよー…… - h_voice_mariko
+#sub "m_hs_10_00_04_02_00" mmmgu...hurry up and do it...
+
+//#sub m_hs_10_00_91_00_00 = んふ、これ、ぞくぞくしてきちゃう……♪ - h_voice_mariko
+#sub "m_hs_10_00_91_00_00" nfu, this, is getting exciting...♪
+
+//#sub m_hs_10_01_00_00_00 = あは、セックスって言ったらコレだよねぇ♪ - h_voice_mariko
+#sub "m_hs_10_01_00_00_00" aha, it has to be sex♪ 
+
+//#sub m_hs_10_01_00_00_01 = んふ、好きなだけズボズボしていってね♪ - h_voice_mariko
+#sub "m_hs_10_01_00_00_01" nfu, I like it when you ram it in♪
+
+//#sub m_hs_10_01_00_01_00 = ボク、処女なんだ……だから……滅茶苦茶に壊して欲しいの……♪ - h_voice_mariko
+#sub "m_hs_10_01_00_01_00" I'm, a virgin ya know...that's why...I want you to break me and mess me up...♪
+
+//#sub m_hs_10_01_01_00_00 = ふふ、ボクのお尻、使ってくれるの？ - h_voice_mariko
+#sub "m_hs_10_01_01_00_00" hehe, my ass, are you going to use it?
+
+//#sub m_hs_10_01_01_00_01 = だいじょーぶ、毎日中まで綺麗に洗ってるからね？ - h_voice_mariko
+#sub "m_hs_10_01_01_00_01" Nothing to worry about, I wash and keep it clean every single day
+
+//#sub m_hs_10_01_01_01_00 = はぁ、お尻セックス、どんな感じなんだろう……ねぇ、早くぅ♪ - h_voice_mariko
+#sub "m_hs_10_01_01_01_00" haaa, anal sex, I wonder how it'll feel...hey, hurry with it♪
+
+//#sub m_hs_10_01_02_00_00 = もう十分濡れてるけど……触りたいならいいよ？ - h_voice_mariko
+#sub "m_hs_10_01_02_00_00" Come on, it's already wet enough...it's fine to touch
+
+//#sub m_hs_10_01_02_00_01 = いいよ？　ボクの身体、乱暴に扱ってね♪ - h_voice_mariko
+#sub "m_hs_10_01_02_00_01" That's right, my body, treat it roughly♪
+
+//#sub m_hs_10_01_02_01_00 = ボクのオナニー見せたらセックスしてくれるの？ - h_voice_mariko
+#sub "m_hs_10_01_02_01_00" Will you fuck me after I show you how I mastubate?
+
+//#sub m_hs_10_01_02_02_00 = ふふ、玩具に犯されるのも嫌いじゃないよ？ - h_voice_mariko
+#sub "m_hs_10_01_02_02_00" hehe, I don't dislike being fucked by toys, ya know?
+
+//#sub m_hs_10_01_03_00_00 = んー、どうやってご奉仕していこうかなぁ…… - h_voice_mariko
+#sub "m_hs_10_01_03_00_00" nnn...how should I service you, I wonder...
+
+//#sub m_hs_10_01_03_00_01 = ボクの身体、ぜーんぶ使ってご奉仕しちゃうんだからね？ - h_voice_mariko
+#sub "m_hs_10_01_03_00_01" I'm going to use my entire body to serve you....ok?
+
+//#sub m_hs_10_01_03_01_00 = ん、舐めてお掃除すればいいんだね？ - h_voice_mariko
+#sub "m_hs_10_01_03_01_00" nn...I'll lick and clean it up for you...ok?
+
+//#sub m_hs_10_01_03_02_00 = んふ、ボクの手でシコシコされるの、好き？ - h_voice_mariko
+#sub "m_hs_10_01_03_02_00" nfu, do you like it when I do it with my hands? 
+
+//#sub m_hs_10_01_04_00_00 = やった、ボクの出番だね！ - h_voice_mariko
+#sub "m_hs_10_01_04_00_00" Yay, it's my turn now!
+
+//#sub m_hs_10_01_05_00_00 = あは♪　ほら、早くきてぇ♪ - h_voice_mariko
+#sub "m_hs_10_01_05_00_00" aha♪ Here, come quickly♪
+
+//#sub m_hs_10_02_00_01_00 = んぁぁ……んふ、ボクの中、んぁ、トロトロでしょぉ……んぁ……♪ - h_voice_mariko
+#sub "m_hs_10_02_00_01_00" nnn ahh...inside of me...nnn...it's all goopy
+
+//#sub m_hs_10_02_00_01_10 = あんっ、あっ、ボクっ、交尾っ、あっ、あはっ、あはぁっ♪ - h_voice_mariko
+#sub "m_hs_10_02_00_01_10" ahh ahh ahhh...I'm...mating...ahh ahh ahhh♪
+
+//#sub m_hs_10_02_00_02_00 = ふぐ、こんな、痛くて、気持ちよくて、んぎっ、たまんないよぉ……♪ - h_voice_mariko
+#sub "m_hs_10_02_00_02_00" uugg...this hurts...yet it feels good...nnn...I can't take anymore...♪
+
+//#sub m_hs_10_02_00_02_10 = あぐっ、うっ、こんなの、んぐっ、癖になるにっ、決まってるよぉっ、はぐぅっ♪ - h_voice_mariko
+#sub "m_hs_10_02_00_02_10" ahhh...this...is definitely gonna become a habit♪ 
+
+//#sub m_hs_10_02_00_03_00 = くぎっ、いっ、さ、流石に、んぐっ、痛い、かな……あぐ…… - h_voice_mariko
+#sub "m_hs_10_02_00_03_00" kuugii...as I thought...nnn...this hurts...
+
+//#sub m_hs_10_02_00_03_10 = んぐっ、うっ、これっ、早くっ、慣れないっとぉっ、あぐぅっ - h_voice_mariko
+#sub "m_hs_10_02_00_03_10" nnnn...I have to...hurry...and get used to this...
+
+//#sub m_hs_10_02_01_01_00 = んぁん……この、お尻がじんじんするの、ぁん、好きなのぉ……♪ - h_voice_mariko
+#sub "m_hs_10_02_01_01_00" nnn...this...doing it in the ass tingles...ahh...yet I love it...♪
+
+//#sub m_hs_10_02_01_01_10 = くおっ、んっ、ボクはっ、んぉっ、お尻でっ、感じちゃうっ、変態犬（へんたいけん）っ、ですぅっ♪ - h_voice_mariko
+#sub "m_hs_10_02_01_01_10" ahhh...I...feel it...from my ass...like a perverted dog♪
+
+//#sub m_hs_10_02_01_02_00 = んん、これ、んぁ……お尻の交尾、いいかも……んくっ……♪ - h_voice_mariko
+#sub "m_hs_10_02_01_02_00" nnn...this...mating with my ass...is alright...nnn...♪ 
+
+//#sub m_hs_10_02_01_02_10 = おっほっ、んおっ、これっ、んんっ、変な声っ、出ちゃうっ、んおぉっ♪ - h_voice_mariko
+#sub "m_hs_10_02_01_02_10" oooo....doing this...my strange voice...will leak out...oooo♪
+
+//#sub m_hs_10_02_01_03_00 = んぐぅ……あんな太いのが、くふ、今、ボクのお尻の中に……あは……♪ - h_voice_mariko
+#sub "m_hs_10_02_01_03_00" nguu...that thick thing...right now...inside my ass...ahhh...♪
+
+//#sub m_hs_10_02_01_03_10 = ぐぅっ、んぐっ、お尻っ、裂けっ、んぎっ、うぅっ - h_voice_mariko
+#sub "m_hs_10_02_01_03_10" guu..nnn...my ass...tearing...nnnnn
+
+//#sub m_hs_10_02_02_00_00 = あは、んん、もっとまさぐっても、いいんだよ？　んぁ……♪ - h_voice_mariko
+#sub "m_hs_10_02_02_00_00" aha...nnn...play with it more, dontcha think? nnn...♪
+
+//#sub m_hs_10_02_02_00_10 = んぁっ、もぉっ、んんっ、ビチョビチョだよぉっ♪ - h_voice_mariko
+#sub "m_hs_10_02_02_00_10" nnn...come on...it's all wet now♪
+
+//#sub m_hs_10_02_02_01_00 = んぁむ……ちゅーも、あひょこも、んちゅる、きもひいぃ……♪（ちゅーもアソコも気持ちいい - h_voice_mariko
+#sub "m_hs_10_02_02_01_00" mmmggg...kissing...and my pussy...feels so good...♪
+
+//#sub m_hs_10_02_02_01_10 = はじゅっ、んっ、うえもひたもっ、ぁむっ、べちょべちょらよぉっ、んむぅっ（上も下もべちょべちょだよ - h_voice_mariko
+#sub "m_hs_10_02_02_01_10" mmmggg...both above here...and below there...are all messy...mmmggg
+
+//#sub m_hs_10_02_02_02_00 = んぁ……ボクのおっぱい、好き……？　んん…… - h_voice_mariko
+#sub "m_hs_10_02_02_02_00" nnn...my boobs...do you like? nnn...
+
+//#sub m_hs_10_02_02_02_10 = んぁぅっ、これっ、んんっ、乳首までっ、熱くなっちゃうっ、んあぁっ♪ - h_voice_mariko
+#sub "m_hs_10_02_02_02_10" ahhh...with this...my nipples...are getting hot...ahhh♪
+
+//#sub m_hs_10_02_02_03_00 = んぅ……ねぇ、んんっ、本当にボク一人で、んぁ、シてていいの……？ - h_voice_mariko
+#sub "m_hs_10_02_02_03_00" nnn...hey...nnn...I;m all alone here...nnn...can you do something about it...?
+
+//#sub m_hs_10_02_02_03_10 = んぁっ、折角っ、するならっ、んんっ、見せつけてっ、あげたいのぉっ、あんっ♪ - h_voice_mariko
+#sub "m_hs_10_02_02_03_10" nnn...how I...have sex...I want to...show it off...ahhh♪
+
+//#sub m_hs_10_02_02_06_00 = んあうぅ……ごりごりって、入ってくるぅ……♪ - h_voice_mariko
+#sub "m_hs_10_02_02_06_00" ahhh...it's scraping me...while entering...♪
+
+//#sub m_hs_10_02_02_06_10 = あひっ、んっ、もっとっ、ボクの身体でっ、んぁっ、遊んでよぉっ、んあぁっ♪ - h_voice_mariko
+#sub "m_hs_10_02_02_06_10" ahhh...more...my body...nnn...play with it more...ahhh♪
+
+//#sub m_hs_10_02_03_00_00 = んぶぅ……もちゅ、んふ、んんっ、んふふふふ……♪ - h_voice_mariko
+#sub "m_hs_10_02_03_00_00" mmmgg...mmmgg...mmmggg hehe....♪
+
+//#sub m_hs_10_02_03_00_10 = んぼっ、ちゅぶっ、どおっ？　んぶっ、ねぇ、どぉっ？ - h_voice_mariko
+#sub "m_hs_10_02_03_00_10" mmmggg...how is it?...mmmggg...hey....how is it?
+
+//#sub m_hs_10_02_10_00_00 = んあぁ……いいのぉ、気持ちいいのぉ……♪ - h_voice_mariko
+#sub "m_hs_10_02_10_00_00" ahhh...so good, feels soo good...♪
+
+//#sub m_hs_10_02_10_00_01 = ふあ……うん、感じてるよぉ……♪ - h_voice_mariko
+#sub "m_hs_10_02_10_00_01" ahhh..unn, I'm feeling it...♪
+
+//#sub m_hs_10_02_10_00_10 = きゃふっ、あっ、もっとっ、んぁっ、もっとっ、ぐちゃぐちゃにっ、してぇっ♪ - h_voice_mariko
+#sub "m_hs_10_02_10_00_10" kya...ahhh...more...more...pound me more please♪
+
+//#sub m_hs_10_02_10_00_11 = きゃんっ、ボクのっ、身体っ、んぁっ、雌犬にっ、なってるぅっ、わぅんっ♪ - h_voice_mariko
+#sub "m_hs_10_02_10_00_11" kya...ahhh...my...body...is turning into...your bitch♪
+
+//#sub m_hs_10_02_10_01_00 = んう……激しくしてもいいんだよ……？ - h_voice_mariko
+#sub "m_hs_10_02_10_01_00" nnn...nnnn...can you do it more intensely...?
+
+//#sub m_hs_10_02_10_01_01 = んぁぅ……もっと、もっとボクを……んぁ…… - h_voice_mariko
+#sub "m_hs_10_02_10_01_01" nnn...more...more...I...nnn...
+
+//#sub m_hs_10_02_10_01_10 = あっ、んくっ、ボクっ、乱暴にっ、されるてるぅっ♪ - h_voice_mariko
+#sub "m_hs_10_02_10_01_10" ahhh...you're doing me...so roughly♪
+
+//#sub m_hs_10_02_10_01_11 = んんっ、もっとっ、もっとだよっ、んぁっ、もっとぉっ♪ - h_voice_mariko
+#sub "m_hs_10_02_10_01_11" ahhh...more...more please...do it more♪
+
+//#sub m_hs_10_02_11_00_00 = んぁん……犯すのって、気持ちいいねぇ……あは……♪ - h_voice_mariko
+#sub "m_hs_10_02_11_00_00" nnnn...fucking...feels so good...aha...♪
+
+//#sub m_hs_10_02_11_00_10 = ボクっ、んぁっ、犯すのもっ、犯されるのもっ、んんっ、大好きぃっ♪ - h_voice_mariko
+#sub "m_hs_10_02_11_00_10" ahhh...fuck me...fuck me more...nnn...I love this♪
+
+//#sub m_hs_10_02_11_01_00 = んぁぅ、もぉ、ボクの好きにさせてよぉ、んぁ……♪ - h_voice_mariko
+#sub "m_hs_10_02_11_01_00" nnnn...come on...I love it when you do me...nnn...♪
+
+//#sub m_hs_10_02_11_01_10 = ボクがっ、んぁっ、ヤってっ、ヤってっ、ヤりまくるんだからぁっ、んぁぁっ♪ - h_voice_mariko
+#sub "m_hs_10_02_11_01_10" I'm...gonna...gonna...gonna go crazy...ahhhh♪
+
+//#sub m_hs_10_02_12_00_00 = んひゅ、ちゅむ、いりょんなひょこ、べひょべひょらぉ……♪（いろんなとこベトベトだよ - h_voice_mariko
+#sub "m_hs_10_02_12_00_00" mmmggg...this place...is all sticky...♪
+
+//#sub m_hs_10_02_12_00_10 = ひゅじゅっ、こんにゃのっ、はじゅっ、じゅりゅいぃっ、んむぅっ♪（こんなのずるい - h_voice_mariko
+#sub "m_hs_10_02_12_00_10" mmmgg...this is...unfair...mmmggg♪
+
+//#sub m_hs_10_02_12_01_00 = ちゅりゅ……ん、もっろ、ちゅーしれぇ……はむぅ……（もっとチューして - h_voice_mariko
+#sub "m_hs_10_02_12_01_00" mmmggg...more...kisses...mmmggg
+
+//#sub m_hs_10_02_12_01_10 = んじゅるっ、んむっ、ろっちもっ、ほひいのぉっ、んむちゅっ（どっちもほしいの - h_voice_mariko
+#sub "m_hs_10_02_12_01_10" mmmggg...which one...do you want...mmmggg
+
+//#sub m_hs_10_02_13_00_00 = あ、んん……ふふっ、反応したねぇ……♪ - h_voice_mariko
+#sub "m_hs_10_02_13_00_00" ahhh...hehe...it reacted...♪ 
+
+//#sub m_hs_10_02_13_00_01 = えへへ、んっ、ここがいいの、知ってるよぉ……♪ - h_voice_mariko
+#sub "m_hs_10_02_13_00_01" hehehe...nnn...this is good...trust me I know♪
+
+//#sub m_hs_10_02_13_00_10 = んんっ、ほらっ、んっ、気持ちよくっ、なっちゃってっ、いいんだよっ？　んんっ♪ - h_voice_mariko
+#sub "m_hs_10_02_13_00_10" nnn...look...this is starting...to feel good...right?...nnn♪
+
+//#sub m_hs_10_02_13_00_11 = あはっ、んんっ、ピクピクっ、してるのっ、丸わかりっ♪ - h_voice_mariko
+#sub "m_hs_10_02_13_00_11" aha...nnn...I know it's twitching...just as expected♪
+
+//#sub m_hs_10_02_13_01_00 = んふ、いつでもイっていいんだからね？　んん……♪ - h_voice_mariko
+#sub "m_hs_10_02_13_01_00" nfu, it always feel good, doesn't it? ahhh...♪
+
+//#sub m_hs_10_02_13_01_01 = んん、いっぱい、感じてほしいなぁ……♪ - h_voice_mariko
+#sub "m_hs_10_02_13_01_01" nnn...many times over, I wan't you feel it...♪
+
+//#sub m_hs_10_02_13_01_10 = んっ、んっ、ボクならっ、いくらでもっ、シてあげるからねっ？ - h_voice_mariko
+#sub "m_hs_10_02_13_01_10" nnn...nnn...I'll dedicate...myself to you...as much as possible...ok?
+
+//#sub m_hs_10_02_13_01_11 = んんっ、他にもっ、使って欲しいとこっ、ないっ？　んくっ - h_voice_mariko
+#sub "m_hs_10_02_13_01_11" nnn...is there anything else...you want to...use me for? nnn
+
+//#sub m_hs_10_02_14_00_00 = ちゅる……あは、れろ、おひゆまみれぇ……れろぉ……♪（あは、お汁塗れ♪ - h_voice_mariko
+#sub "m_hs_10_02_14_00_00" mmmggg...aha...it's covered in juice...♪
+
+//#sub m_hs_10_02_14_00_10 = はぶ、しゅるっ、おいひいっ、んちゅ、おいひいよぉっ、んれろぉっ（美味しい、美味しいよぉ - h_voice_mariko
+#sub "m_hs_10_02_14_00_10" mmmgg...tasty...delicious...mmmggg
+
+//#sub m_hs_10_02_14_01_00 = んれろ、にゃめたいにゃいとこ、んりゅ、あいあひぇんか～？（舐め足りないとこありませんかー？ - h_voice_mariko
+#sub "m_hs_10_02_14_01_00" mmmggg...isn't there...not enough here...to lick up?
+
+//#sub m_hs_10_02_14_01_10 = んひゅ、ちゅりゅっ、ろぉっ？　んじゅっ、いぬみひゃいっれひょっ？　れろっ♪ - h_voice_mariko
+#sub "m_hs_10_02_14_01_10" mmmgg...how is it?...mmmggg...am I like a dog? mmmgg♪
+
+//#sub m_hs_10_02_15_00_00 = はひ……ボク、まだまだいけるからぁ……んあぁ……♪ - h_voice_mariko
+#sub "m_hs_10_02_15_00_00" haa haa...I...can still keep on going...haa...♪
+
+//#sub m_hs_10_02_15_00_10 = あっ、んんっ、あはっ、んぁっ、ボクっ、んぁっ、オナホにっ、なっちゃったっ、んぁんっ♪ - h_voice_mariko
+#sub "m_hs_10_02_15_00_10" ahhh...aha...I've...become...an onahole...ahhhh♪
+
+//#sub m_hs_10_02_20_00_00 = あは、んぁっ、どぉ？　ボク達のセックス、えっちぃかなぁ？　んぁっ♪ - h_voice_mariko
+#sub "m_hs_10_02_20_00_00" aha...nnn...so? Will you have sex and do perverted things with me? ahh♪
+
+//#sub m_hs_10_02_20_00_10 = ほらっ、んぁんっ、これがっ、ボクのっ、恥ずかしい姿だよぉっ、あはぁっ♪ - h_voice_mariko
+#sub "m_hs_10_02_20_00_10" ahh...look...ahhh...this is...my...shameful appearance...aha♪
+
+//#sub m_hs_10_02_20_01_00 = んふ、ほらぁ、んっ、ギンギンにそそり立ってるの、見えるかなぁ……？ - h_voice_mariko
+#sub "m_hs_10_02_20_01_00" nfu, look, it's energetically standing up, can you see it...?
+
+//#sub m_hs_10_02_20_01_10 = すごいよねっ、んっ、ボク達、こんなので凶暴なのでっ、犯されてるんだよっ？　んんっ♪ - h_voice_mariko
+#sub "m_hs_10_02_20_01_10" Isn't this amazing...nnn...I'm being fucked...so ferociously...like this...nnn♪
+
+//#sub m_hs_10_02_20_02_00 = んれろ……ボクにょぺりょぺりょ、みへてにぇ……れろぉ……（ボクのペロペロ、見ててね - h_voice_mariko
+#sub "m_hs_10_02_20_02_00" mmmggg...my licking...look closely...mmmggg
+
+//#sub m_hs_10_02_20_02_10 = んひゅっ、ぺろっ、だりゃだりゃおひりゅっ、んじゅっ、みえりゅっ？（ダラダラお汁、見える？ - h_voice_mariko
+#sub "m_hs_10_02_20_02_10" mmmggg...this flowing juice...can you see it?
+
+//#sub m_hs_10_02_20_03_00 = んむぅ……んん、見てるぅ……？　おぶぅ…… - h_voice_mariko
+#sub "m_hs_10_02_20_03_00" mmmggg....are you watching? mmmggg...
+
+//#sub m_hs_10_02_20_03_10 = んぼっ、んっ、お口っ、出し入れっ、すごいっ、でしょっ、んぶぅっ - h_voice_mariko
+#sub "m_hs_10_02_20_03_10" mmmggg...putting it...in my mouth...amazing...mmmggg
+
+//#sub m_hs_10_02_91_00_00 = なぁに？ - h_voice_mariko
+#sub "m_hs_10_02_91_00_00" What is it?
+
+//#sub m_hs_10_02_91_00_10 = よく、聞こえないよぉっ、 - h_voice_mariko
+#sub "m_hs_10_02_91_00_10" You won't be able to...hear me
+
+//#sub m_hs_10_03_00_00_00 = イっきそっ、んあっあっあっ、ボクっ、イくっ、イくっ、イ、くっ！！ - h_voice_mariko
+#sub "m_hs_10_03_00_00_00" Cum...ahhh ahhh...I'm...cum...cum...cumingggg!!
+
+//#sub m_hs_10_03_00_00_01 = んぁぁっ、ボクっ、イくよっ、んぁっ、イくからっ、んんっ、しっかりっ、みて、てぇっ！ - h_voice_mariko
+#sub "m_hs_10_03_00_00_01" ahhh...I'm gonna cum...cuming...ahhh...be sure to properly look!
+
+//#sub m_hs_10_03_00_01_10 = やっあぁっ、気持ちっ、いいのっ、あっ、んぁっ、あっ、だっ、めぇぇっ！ - h_voice_mariko
+#sub "m_hs_10_03_00_01_10" ahhh...it feels good...ahhh ahhh...nooooo!
+
+//#sub m_hs_10_03_00_02_10 = あひっ、ぼ、ボクはっ、んあっ、お尻でっ、イっちゃうっ、変態っ、なん、でっ、す、ぅぅっ！ - h_voice_mariko
+#sub "m_hs_10_03_00_02_10" ahhh...my ass...is cuming...so pervertedddd!
+
+//#sub m_hs_10_03_01_00_00 = あは、来てっ、んんっ、ボクの中にっ、好きなだけっ、ぶちまけてぇっ♪ - h_voice_mariko
+#sub "m_hs_10_03_01_00_00" aha...cum...nnn...inside of me...as much as you want...let it out♪
+
+//#sub m_hs_10_03_01_01_00 = んふ、んっ、ボク、んぁっ、お腹いっぱいっ、出されたいなぁっ、んっ、ねっ、お願いだよぉっ、んっ、んんぁっ♪ - h_voice_mariko
+#sub "m_hs_10_03_01_01_00" nfu...I...ahhh...in my stomach...let it all out...nnn...hey...pretty please...ahhh♪
+
+//#sub m_hs_10_03_01_01_10 = んっ、中に、出してくれるの？　んぁっ、あは、嬉しいなぁ、あは、あははははっ♪ - h_voice_mariko
+#sub "m_hs_10_03_01_01_10" nnn...inside...are you gonna cum?...ahhh...that makes me happy...ahh ahahaha♪
+
+//#sub m_hs_10_03_01_02_00 = んんっ、いいよっ？　んぁっ、そのまま、お尻の中、んくっ、ドロドロに、してっ、んっ、んっ、んんっ♪ - h_voice_mariko
+#sub "m_hs_10_03_01_02_00" nnn...it's fine...nnn...just like that...inside my ass...go ahead and cum...nnnn♪
+
+//#sub m_hs_10_03_01_02_10 = ボク、んぁっ、お尻にっ、出されるのっ、好きなのっ、ぁんっ、だからっ、んんっ、お願い、だよぉっ、んぁっ、ああっ - h_voice_mariko
+#sub "m_hs_10_03_01_02_10" I...nnn...in my ass...cum...I like it...that's why...please...ahhhh
+
+//#sub m_hs_10_03_02_00_00 = んふ、今度は、どの位出るのかな？　んふふふふっ♪ - h_voice_mariko
+#sub "m_hs_10_03_02_00_00" nfu...next time...how long will it take you to cum, I wonder?...nfufufufu♪
+
+//#sub m_hs_10_03_02_01_00 = んぼっ、んっ、いっぱいっ、んぶっ、吸い出すからねっ、ちゅぶっ、つぼぼぼぼっ♪ - h_voice_mariko
+#sub "m_hs_10_03_02_01_00" mmmggg...so much...to suck out...mmmggg
+
+//#sub m_hs_10_03_02_02_00 = んりゅっ、もぉっ、ぱんぱんらねっ、しゅるっ、りゅっ、んふっ、ほりゃぁっ、れろろろっ♪（もうパンパンだね、ほらぁ♪ - h_voice_mariko
+#sub "m_hs_10_03_02_02_00" mmmggg...come on...it's about to burst...see♪...mmmggg
+
+//#sub m_hs_10_04_00_00_00 = あふ、ん、ふぅ、えへへ、んんっ、じょーずに、イけたでしょぉ……？　んぅ……♪ - h_voice_mariko
+#sub "m_hs_10_04_00_00_00" ahhh...haaa...hehe...as expected...you came...nnn
+
+//#sub m_hs_10_04_00_00_01 = んふぅ、んんっ、こんな、気持ちいいの、はふっ、やめられるわけ、ないよぉ、はふぅ……♪ - h_voice_mariko
+#sub "m_hs_10_04_00_00_01" nnnn...this...good feeling...haa...just won't stop...haaa...♪
+
+//#sub m_hs_10_04_00_01_10 = うふぅっ、ふぅっ、まだ、しびれて、んぁっ、敏感に、んんっ、ふふっ、あはぁ……♪ - h_voice_mariko
+#sub "m_hs_10_04_00_01_10" uuuu...I'm still...numb...and sensitive...nnnn...aha...♪
+
+//#sub m_hs_10_04_00_02_10 = あひ、んっ、ふぅっ、んんっ、お尻、ヒクヒク、止まんないぃ、あふ……♪ - h_voice_mariko
+#sub "m_hs_10_04_00_02_10" ahh...nnn...my ass...twitching...won't stop...ahhaaa...♪
+
+//#sub m_hs_10_04_01_00_00 = はふ……んふふ、ボクの中、たぁっくさん出したねぇ……♪ - h_voice_mariko
+#sub "m_hs_10_04_01_00_00" ahh...nnn...inside of me...you let out so much...♪
+
+//#sub m_hs_10_04_01_00_01 = ふぅ、こんなにボクに出してくれるなんて、はふ、そんなに気持ちよかったのかなぁ……？ - h_voice_mariko
+#sub "m_hs_10_04_01_00_01" haaa...cuming like this with me...haa...does it always feel so good, I wonder?
+
+//#sub m_hs_10_04_01_01_00 = んあぁ……子宮まで、届いてるの、んん、わかるよ……うふふ……♪ - h_voice_mariko
+#sub "m_hs_10_04_01_01_00" haa...it's gone all the way to my womb...nnn...I just know...ufufu...♪
+
+//#sub m_hs_10_04_01_01_10 = はあぁ、んんっ、赤ちゃん、出来たっていい、んふっ、もっと中、んっ、中にぃ……あはは……♪ - h_voice_mariko
+#sub "m_hs_10_04_01_01_10" haaa...a baby...growing in me...nnn...more...inside...inside...ahaha...♪
+
+//#sub m_hs_10_04_01_02_00 = んおぉ……お尻、んんっ、お腹、ぱんぱん、んんっ、あぅ……♪ - h_voice_mariko
+#sub "m_hs_10_04_01_02_00" oooo...my ass...and stomach...about to burst...nnn ahhh...♪
+
+//#sub m_hs_10_04_01_02_10 = んふぅぅ……キミも、お尻に中出し、経験してみる？　んんっ、すっごく気持ちいんだよ♪ - h_voice_mariko
+#sub "m_hs_10_04_01_02_10" nnnn...you too...getting cumed in the ass...wan't to try it?...It feels really good♪
+
+//#sub m_hs_10_04_02_00_00 = んんぅ……この味、んん、この匂い……んふぅ……♪ - h_voice_mariko
+#sub "m_hs_10_04_02_00_00" haaa...this taste...nnn...this smell...haaa...♪
+
+//#sub m_hs_10_04_02_01_00 = けほっ、けふっ、んぐ、ごめん、喉が、んんっ、びっくりしちゃった、ん、んん゛っ…… - h_voice_mariko
+#sub "m_hs_10_04_02_01_00" *gulp* *cough* *cough* *gulp*...sorry...my throat...nnn...that surprised me...nnn
+
+//#sub m_hs_10_04_02_02_00 = んふぅ……ねぇ、おかわりちょーだい♪ - h_voice_mariko
+#sub "m_hs_10_04_02_02_00" *gulp* *gulp* haaa...hey...seconds please♪
+
+//#sub m_hs_10_04_02_03_00 = んん……もぉ、何で勿体ない事させるのさぁ…… - h_voice_mariko
+#sub "m_hs_10_04_02_03_00" nnn...eeee...why are you making me do something so wasteful...?
+
+//#sub m_hs_10_04_02_04_00 = えぅ、おーお？　いぇうー？（どーお？　見えるー？ - h_voice_mariko
+#sub "m_hs_10_04_02_04_00" eeee...how's this?...see it?
+
+//#sub m_hs_10_04_03_00_00 = んふぅ、スッキリした？　それとも……もっと出したい？ - h_voice_mariko
+#sub "m_hs_10_04_03_00_00" nfu...are you refreshed? or maybe...want to cum more?
+
+//#sub m_hs_10_04_03_00_01 = はふぅ、ボクが、こんなに出させたんだ……ふふ、あはは……♪ - h_voice_mariko
+#sub "m_hs_10_04_03_00_01" haaa...I...you came so much...ahaha...♪
+
+//#sub m_hs_10_04_03_01_10 = んふ、ボクにかけて……ボクを汚して、満足してくれたかな？ - h_voice_mariko
+#sub "m_hs_10_04_03_01_10" nfu...about my body...defiling my body...are you satisfied?
+
+//#sub m_hs_10_04_05_00_00 = んぁぅ、んんっ、力、入んないや……あはは、はふぅ…… - h_voice_mariko
+#sub "m_hs_10_04_05_00_00" haaaa...my strength...no more...hehe...haaa....
+
+//#sub m_hs_10_05_00_02_00 = んあぁ、んんっ、折角出してくれたのにぃ……あぅ…… - h_voice_mariko
+#sub "m_hs_10_05_00_02_00" nnnnn...I need to rest a bit...nnnn...
+
+//#sub m_hs_10_05_00_03_00 = んぁ、あは、お漏らし、癖になりそ、んんっ、あふぅ……♪ - h_voice_mariko
+#sub "m_hs_10_05_00_03_00" nnn...aha...it's leaking...I could get used to this...nnnn...afu...♪
+
+//#sub m_hs_10_06_00_00_00 = はふ……もう終わりかぁ……もっとしたかったなぁ～…… - h_voice_mariko
+#sub "m_hs_10_06_00_00_00" haaa...over already...I wanted to do more...
+
+//#sub m_hs_10_06_00_00_01 = えへへ、ボク、どうだった？　ちゃんと雌犬になれてたかな？ - h_voice_mariko
+#sub "m_hs_10_06_00_00_01" ehe...so how was I? Did I properly act like a bitch?
+
+//#sub m_hs_10_06_00_01_00 = はぁ、あんなにイくなんて……んふ、ほーんと、セックスはやめられないな～♪ - h_voice_mariko
+#sub "m_hs_10_06_00_01_00" haaa...that was quite difficult...nfu...really...I just can't stop having sex♪ 
+
+//#sub m_hs_10_06_00_04_00 = えぇ、ボクもっとイきたいよぉ…………はぁ、帰ってオナニーするかぁ…… - h_voice_mariko
+#sub "m_hs_10_06_00_04_00" Ehhh...but I want to cum more...haaa...guess I'll go home and masturbate...
+
+//#sub m_hs_10_06_00_05_00 = は～、アレだけ出しといて、よく枯れないよねぇ…… - h_voice_mariko
+#sub "m_hs_10_06_00_05_00" haa...cuming only that much...I'm surprised it hasn't withered away...
+
+//#sub m_hs_10_06_00_08_00 = え、これだけでいいの？　たった１回だよ？　……体調でも悪いの？ - h_voice_mariko
+#sub "m_hs_10_06_00_08_00" Eh, are you fine with just this? Only one time? ...are you perhaps feeling bad?
+
+//#sub m_hs_10_06_00_10_00 = あー……ボク、何しに呼ばれたの……？ - h_voice_mariko
+#sub "m_hs_10_06_00_10_00" ah...what, did you call me out for...?
+
+//#sub m_hs_10_06_91_00_00 = んぐ、終わりかぁ…… - h_voice_mariko
+#sub "m_hs_10_06_91_00_00" ngu...its over...
+
+//#sub m_hs_11_00_01_01_00 = うぅ、寂しいよぉ……オマンコ、犯されたいよぉ……っ - h_voice_mariko
+#sub "m_hs_11_00_01_01_00" uuu...it's lonely...my pussy...it wants to be fucked...
+
+//#sub m_hs_11_00_01_02_00 = お願いします、ボクのアナルでオチンチンシコシコして下さい。　お願いしますぅ……っ - h_voice_mariko
+#sub "m_hs_11_00_01_02_00" Pretty please...my ass...with your cock...please drive it in...pretty please
+
+//#sub m_hs_11_01_00_00_00 = ボクのオマンコなら、いつでもセックス出来るからね？ - h_voice_mariko
+#sub "m_hs_11_01_00_00_00" With my pussy...please feel free to have sex with it anytime
+
+//#sub m_hs_11_01_01_00_00 = んふ、ボクみたいな変態って、ケツマンコセックスがお似合いだと思わない？ - h_voice_mariko
+#sub "m_hs_11_01_01_00_00" nfu, do I look like a pervert...don't you think ass pussy sex suits me?
+
+//#sub m_hs_11_01_03_00_00 = いつも犯してくれるオチンチン、たーくさんご奉仕してあげないとねー♪ - h_voice_mariko
+#sub "m_hs_11_01_03_00_00" This cock that always fucks me, I have to be sure to give it lots of service♪
+
+//#sub m_hs_11_01_03_01_00 = お口マンコでセックスするけど、いいよね？　ね？ - h_voice_mariko
+#sub "m_hs_11_01_03_01_00" Sex with my mouth pussy...it's fine right? right?
+
+//#sub m_hs_11_01_03_02_00 = ふふ、キミのオチンチンオナニー、ボクが手伝ってあげるね♪ - h_voice_mariko
+#sub "m_hs_11_01_03_02_00" fufu, gonna mastubate with your cock...allow me to help♪
+
+//#sub m_hs_11_02_00_01_00 = んぁん……ふふ、ボクのオマンコ、んぁ、こーんなえっちになっちゃったんだよ？　あん……♪ - h_voice_mariko
+#sub "m_hs_11_02_00_01_00" ahhh...fufu...my pussy...has become really perverted...ahhh
+
+//#sub m_hs_11_02_00_01_10 = あはっ、あっ、コレっ、オチンチンっ、大好きぃっ♪ - h_voice_mariko
+#sub "m_hs_11_02_00_01_10" aha...ahh...right there...your cock...I love it♪
+
+//#sub m_hs_11_02_00_02_00 = んくっ、あは、んぁっ、ついに、オマンコセックス、しちゃったぁ、はぐぅ……♪ - h_voice_mariko
+#sub "m_hs_11_02_00_02_00" nnnn...at last...pussy sex...I've done it...aha...♪
+
+//#sub m_hs_11_02_00_02_10 = くふっ、んっ、すごっ、んぎっ、これがっ、オチンチンっ、くっ、はっ、あはぁっ♪ - h_voice_mariko
+#sub "m_hs_11_02_00_02_10" ahhhh...amazing...this...cock...ahhhh
+
+//#sub m_hs_11_02_00_03_00 = はぐ……ふふ、ボクの処女マンコ、んぐ、いかがですかぁ……？ - h_voice_mariko
+#sub "m_hs_11_02_00_03_00" guuu...fufu...my virgin pussy...what do you think of it...?
+
+//#sub m_hs_11_02_00_03_10 = うぎっ、痛っ、ぐっ、オマンコっ、痛ぁっ！ - h_voice_mariko
+#sub "m_hs_11_02_00_03_10" uuggguuu...my pussy...this hurts!
+
+//#sub m_hs_11_02_01_01_00 = あは♪　んんっ、お尻が、オチンチン飲み込んでるぅ……んあ……♪ - h_voice_mariko
+#sub "m_hs_11_02_01_01_00" aha...nnnn...my ass...is swallowing your cock...nnn...♪
+
+//#sub m_hs_11_02_01_01_10 = アナルっ、んひっ、ボクのアナルっ、どぉっ？　んふっ、ねぇっ、ねぇぇっ♪ - h_voice_mariko
+#sub "m_hs_11_02_01_01_10" ahh...ass...my ass...how is it?...tell me...let me know♪
+
+//#sub m_hs_11_02_01_02_00 = んあぅ、お、オチンチンが、んぐ、ボクのアナル、こじ開けて、ふぐ、んあぁ……♪ - h_voice_mariko
+#sub "m_hs_11_02_01_02_00" ahh...your cock...is prying open my ass...ahhh♪
+
+//#sub m_hs_11_02_01_02_10 = おぅっ、やばっ、んぉっ、アナルセックスっ、好きになっちゃうぅっ♪ - h_voice_mariko
+#sub "m_hs_11_02_01_02_10" ahhh...this is bad...anal sex...I'll get addicted to it♪
+
+//#sub m_hs_11_02_01_03_00 = んくぅ……これ、んぐ、アナル、んんっ、閉じてくれるかなぁ……あく…… - h_voice_mariko
+#sub "m_hs_11_02_01_03_00" uuu...this...is anal...I wonder if it'll close up again afterwards...
+
+//#sub m_hs_11_02_01_03_10 = ふぎっ、あっ、アナルっ、んぎっ、壊れっ、ぎ、んぐぅっ - h_voice_mariko
+#sub "m_hs_11_02_01_03_10" ahhh...my ass...your breaking it...ahhh
+
+//#sub m_hs_11_02_02_04_00 = んふ、んんっ、ボクのオマンコ穴、綺麗でしょぉ……？ - h_voice_mariko
+#sub "m_hs_11_02_02_04_00" nfu...nnn...my pussy hole...isn't it beautiful...?
+
+//#sub m_hs_11_02_02_04_10 = こうっやってっ、んぁっ、オマンコっ、犯されてるのっ、妄想しながらっ、んんっ、オナニーっ、してるんだよっ？ - h_voice_mariko
+#sub "m_hs_11_02_02_04_10" Doing this...ahh...I'm imagining...my pussy being fucked...while mastubating...did you know?
+
+//#sub m_hs_11_02_02_05_00 = んぅ、アナルオナニー、気持ちいいよ？　んぁ、キミもしてみる？　んんっ♪ - h_voice_mariko
+#sub "m_hs_11_02_02_05_00" nnnn...anal masturbation...feels good...you should try it too...nnn♪
+
+//#sub m_hs_11_02_02_05_10 = ふぁぅっ、こんなっ、指なんかよりっ、んんっ、オチンチンがっ、欲しいのぉっ、んぅぅっ - h_voice_mariko
+#sub "m_hs_11_02_02_05_10" ahhh...this finger...not enough...nnn...your cock...I want it...nnnn
+
+//#sub m_hs_11_02_02_07_00 = んあぁ……ボクんちのバイブより、んんっ、気持ちいい……♪ - h_voice_mariko
+#sub "m_hs_11_02_02_07_00" ahhh...this vibe...feels so good...♪
+
+//#sub m_hs_11_02_02_07_10 = んぁっ♪　これっ、んっ、オマンコっ、ずっとっ、ハメてたいぃっ♪ - h_voice_mariko
+#sub "m_hs_11_02_02_07_10" ahhh...this pussy...is always...being screwed♪
+
+//#sub m_hs_11_02_02_08_00 = んぉぅ……この、アナルが捲れる感じが、んぁっ、堪らないよぉ……♪ - h_voice_mariko
+#sub "m_hs_11_02_02_08_00" ahhh...this feeling...of my ass getting turned inside out...I can't get enough♪
+
+//#sub m_hs_11_02_02_08_10 = くぁっ♪　オチンチンでもっ、んんっ、こんな風にっ、犯されたいのぉっ♪ - h_voice_mariko
+#sub "m_hs_11_02_02_08_10" ahhh...your cock...just like this...fuck me♪
+
+//#sub m_hs_11_02_03_00_00 = んぶぅ……お口マンコ、じゅぶじゅぶ……♪ - h_voice_mariko
+#sub "m_hs_11_02_03_00_00" mmmggg...mouth pussy...mmmggg...♪
+
+//#sub m_hs_11_02_03_00_10 = おぶっ、んひゅっ、オチンチンっ♪　オチンチンっ♪ - h_voice_mariko
+#sub "m_hs_11_02_03_00_10" mmmggg...cock♪...cock♪
+
+//#sub m_hs_11_02_03_01_00 = んちゅる……おひんひん、れろ、ぉくが、きえいきぇいひゅるにょぉ……れろろ……♪（オチンチン、ボクがキレイキレイするのぉ - h_voice_mariko
+#sub "m_hs_11_02_03_01_00" mmmgg...your cock...I'll clean it up...♪
+
+//#sub m_hs_11_02_03_01_10 = んちゅっ、こにゃおひんひんはっ、んりゅっ、ボクぁっ、とりょとりょにっ、ひゅるのぉっ♪（オチンチンはボクがトロトロにするの - h_voice_mariko
+#sub "m_hs_11_02_03_01_10" mmmggg...your cock...I'll make it...nice and plump
+
+//#sub m_hs_11_02_03_02_00 = シコシコぴゅっぴゅっ♪　シコシコぴゅっぴゅっ♪ - h_voice_mariko
+#sub "m_hs_11_02_03_02_00" Rub rub squirt squirt♪ Rub rub squirt squirt♪
+
+//#sub m_hs_11_02_03_02_10 = ボクの手っ、んんっ、オマンコ代わりにっ、なってくれてるかなっ？ - h_voice_mariko
+#sub "m_hs_11_02_03_02_10" My hands...nnn..is it a good substitute...for my pussy?
+
+//#sub m_hs_11_02_03_03_00 = んん、おっぱいだって、んっ、立派な性処理道具なんだよ？　んっ♪ - h_voice_mariko
+#sub "m_hs_11_02_03_03_00" nnn...my boobs...aren't they a good sex tool?...nnn♪
+
+//#sub m_hs_11_02_03_03_10 = んっ、ボクのっ、おっぱいマンコっ、んんっ、ちゃんとっ、ずりずりっ、出来てるかなっ？ - h_voice_mariko
+#sub "m_hs_11_02_03_03_10" nnn...my...breast pussy...is it properly...enveloping you?
+
+//#sub m_hs_11_03_00_01_10 = くひっ、オマンコっ、イきたがってるっ、んぁっ、ほらっ、んっ、ほら、あぁぁっ♪ - h_voice_mariko
+#sub "m_hs_11_03_00_01_10" ahhh...my pussy...gonna cum...look...look...ahhhh♪
+
+//#sub m_hs_11_03_00_02_10 = あはっ、あっ、見ててねっ、んぁっ、あっ、ボクっ、ケツマンコでっ、くぁっ、イく、か、らぁぁっ！ - h_voice_mariko
+#sub "m_hs_11_03_00_02_10" ahhh...be sure to watch...my ass pussy...cuming...ahhhh!
+
+//#sub m_hs_11_03_01_01_00 = んんっ、オマンコにっ、出したいんだねっ？　ぁうっ、んっ、漏らさないようにっ、しなきゃっ、んっ、んんっ♪ - h_voice_mariko
+#sub "m_hs_11_03_01_01_00" nnn...in my pussy...want to cum?...I must not...let any of it leak...ahhh♪
+
+//#sub m_hs_11_03_01_01_10 = あはっ♪　来てっ、んぁっ、中出しっ、妊娠セックスっ、来てぇっ♪ - h_voice_mariko
+#sub "m_hs_11_03_01_01_10" ahhh♪...it's here...inside...baby making sex...it's finally here♪
+
+//#sub m_hs_11_03_01_02_00 = んんっ、ボクがっ、んぁっ、ボクのケツマンコがっ、んんっ、精液っ、絞り出すんだぁっ♪ - h_voice_mariko
+#sub "m_hs_11_03_01_02_00" ahhh...with my...my ass pussy...your sperm...I'll wring it out...ahhh♪
+
+//#sub m_hs_11_03_01_02_10 = 出してっ、んぁっ、ボクのっ、んんっ、雌犬のっ、ケツ穴便器にっ、思いっきりぃっ♪ - h_voice_mariko
+#sub "m_hs_11_03_01_02_10" Let it out...in my...bitch ass hole toilet...with all your strength♪
+
+//#sub m_hs_11_03_02_00_00 = ねぇ、んっ、ボクにっ、オチンチンミルクっ、見せてよっ、んんっ、ねぇっ、ねぇっ♪ - h_voice_mariko
+#sub "m_hs_11_03_02_00_00" Hey...nnn...I...your cock milk...show it to me...please...please♪
+
+//#sub m_hs_11_03_02_01_00 = おぶっ、オチンチン、んぼっ、口マンコ、にぃっ、んぶっ、しゅぶっ♪ - h_voice_mariko
+#sub "m_hs_11_03_02_01_00" mmmggg...cock...in my mouth pussy...mmmggg♪
+
+//#sub m_hs_11_03_02_02_00 = れりゅっ、じゃーめん、らしたそうらよっ？　んりゅっ、れろろっ、らしゃないのっ？　んりゅ、ちゅるるっ♪（ザーメン出したそうだよ？出さないの？ - h_voice_mariko
+#sub "m_hs_11_03_02_02_00" mmmggg...semem...you're about to cum, right?...You're cuming, right?
+
+//#sub m_hs_11_04_00_01_10 = くふっ、オマンコイき、はふ、好き過ぎて、んんっ、やめらんないぃ……♪ - h_voice_mariko
+#sub "m_hs_11_04_00_01_10" haaa...pussy cuming...too addicting...can't any more...♪
+
+//#sub m_hs_11_04_00_02_10 = はふっ、ふっ、ボク、アナルでっ、あんなにっ、喜んじゃって、ふひ、んん、あはぁ……♪ - h_voice_mariko
+#sub "m_hs_11_04_00_02_10" haaa...my ass...feels...so happy...ahhh♪
+
+//#sub m_hs_11_04_01_01_00 = んふ、ん、こんなに出されて、んんっ、オマンコ、すっごく喜んでる……♪ - h_voice_mariko
+#sub "m_hs_11_04_01_01_00" haaa...cuming this much...my pussy...is really pleased♪
+
+//#sub m_hs_11_04_01_01_10 = んはぁ……ボク、んんっ、オマンコ、ザーメン無しじゃ、生きてけないよぉ、はふ……♪ - h_voice_mariko
+#sub "m_hs_11_04_01_01_10" haa...my pussy...won't be able to...live without...semen...ahh♪
+
+//#sub m_hs_11_04_01_02_00 = あふぅぅ、今抜いたら、んんっ、アナルから、噴き出しちゃうかも……んふふ……♪ - h_voice_mariko
+#sub "m_hs_11_04_01_02_00" ahhfuu...if you pull it out now...from my ass...it'll gush out...nfufu...♪
+
+//#sub m_hs_11_04_01_02_10 = はふ……んふふ、ボクのアナル、んんっ、ザーメンタンクにぴったりでしょぉ……あはは……♪ - h_voice_mariko
+#sub "m_hs_11_04_01_02_10" haaa...nfufu...my ass...is perfect as semen tank...ahaha♪
+
+//#sub m_hs_11_04_02_01_00 = けふっ、んぐっ、もー、ザーメン元気よすぎだよぉ……えふ…… - h_voice_mariko
+#sub "m_hs_11_04_02_01_00" *cough* *cough*...come on, your too excited releasing semen...*cough*
+
+//#sub m_hs_11_04_02_02_00 = んはぁ……ザーメン飲む度に、んんっ、オマンコ、熱くなってきちゃう……はぁ……♪ - h_voice_mariko
+#sub "m_hs_11_04_02_02_00" *gulp* haa...everytime I swallow semen...my pussy ends up getting hotter...haa♪
+
+//#sub m_hs_11_04_02_03_00 = えふぅ……んふ、ねぇ、新しいザーメンまだぁ……？ - h_voice_mariko
+#sub "m_hs_11_04_02_03_00" eemmmgg...hey...more fresh semen...?
+
+//#sub m_hs_11_04_03_01_10 = んぅ……ザーメン、もっと浴びたい……ねぇ、もっと出してよぉ……っ - h_voice_mariko
+#sub "m_hs_11_04_03_01_10" nnn...semen...spray me more...hey...cum more...
+
+//#sub m_hs_11_05_00_00_00 = んぁぅ、ダメ、んんっ、オマンコ緩んじゃってるぅ……♪ - h_voice_mariko
+#sub "m_hs_11_05_00_00_00" ahhh...no...nnn...my pussy is all loose...♪
+
+//#sub m_hs_11_05_00_01_00 = あふぅぅ、んんっ、ザーメンで、お尻の中、んぁっ、洗ってもらっちゃった……あは……♪ - h_voice_mariko
+#sub "m_hs_11_05_00_01_00" haaa...my ass...has been washed out...with semen...aha...♪ 
+
+//#sub m_hs_11_06_00_02_00 = はふ……ねぇ、こんなイきすぎオマンコでも、また、犯してくれるかな……？ - h_voice_mariko
+#sub "m_hs_11_06_00_02_00" haaa...hey...this super slutty pussy...will you fuck it again...?
+
+//#sub m_hs_11_06_00_03_00 = はひ……アナル、何回イったか覚えてないや、あはは…… - h_voice_mariko
+#sub "m_hs_11_06_00_03_00" haa...anal sex, I've lost track of how many times we did it...ahaha...
+
+//#sub m_hs_11_06_00_06_00 = あは、子宮、ザーメンでタプタプなの、よ～くわかるよぉ……♪ - h_voice_mariko
+#sub "m_hs_11_06_00_06_00" aha...my womb...is filled with semen...I just  know...♪
+
+//#sub m_hs_11_06_00_07_00 = んふふ、こんな雌犬アナルでも、オチンチン絞りには使えるでしょ～？ - h_voice_mariko
+#sub "m_hs_11_06_00_07_00" nfufu...even this bitch ass of mine...can be used to squeeze your cock, ya know?
+
+//#sub m_hs_92_00_00_00_00 = んふふ、おじさんのオチンチンで、ボクをハメ苛めて下さい♪ - h_voice_mariko
+#sub "m_hs_92_00_00_00_00" nfufu...with oji-san's cock, bully me pretty please♪
+
+//#sub m_hs_92_06_00_00_00 = あはは、もっと、もっとだよおじさん、もっと、ボクとセックス、もっとぉ、あはははは♪ - h_voice_mariko
+#sub "m_hs_92_06_00_00_00" ahaha...more...oji-san more...have sex with me...more...ahahahaha♪
+
+//#sub m_hs_20_01_00_00_00 = はひぃ、おみゃんこ、んんっ、おひんひん、おみゃんこにぃっ♪（オマンコ、オチンチンオマンコにぃ - h_voice_mariko
+#sub "m_hs_20_01_00_00_00" hahiii...pussy...cock...my pussy♪
+
+//#sub m_hs_20_01_00_01_00 = あひゃ、ボクにょしょじょみゃんこ、ひゅかう？　んひゅ、つかっひゃうぅ？（ボクの処女マンコ使う？　使っちゃう？ - h_voice_mariko
+#sub "m_hs_20_01_00_01_00" ahaa...did you use my virgin pussy? Did you use it?
+
+//#sub m_hs_20_01_01_00_00 = あひひ、おひりが、んひゅ、あにゃるが、しぇっくひゅひたがってりゅのぉ♪（お尻が、アナルがセックスしたがってるの - h_voice_mariko
+#sub "m_hs_20_01_01_00_00" ahihi...my ass...wants to do anal sex♪
+
+//#sub m_hs_20_01_01_01_00 = おひり……？　んひゅ、しゅる、んんっ、あにゃるしぇっくしゅ、してみひゃいぃ……♪（お尻？　する、アナルセックスしてみたい - h_voice_mariko
+#sub "m_hs_20_01_01_01_00" My ass?...nihi...I wan't to have anal sex, see?...♪
+
+//#sub m_hs_20_01_02_00_00 = はひ、もぉ、にゅれにゅれなのにぃ……（もぉ濡れ濡れなのに - h_voice_mariko
+#sub "m_hs_20_01_02_00_00" wahi...even though it's already wet...
+
+//#sub m_hs_20_01_02_01_00 = んゅぅ、おにゃにー？　んんっ、しぇっくしゅさせれよぉ……（オナニー？　セックスさせてよ - h_voice_mariko
+#sub "m_hs_20_01_02_01_00" nyaaa...masturbate?...Let's have sex instead
+
+//#sub m_hs_20_01_02_02_00 = んえぇ、おひんひんじゃにゃいのぉ……？（オチンチンじゃないの？ - h_voice_mariko
+#sub "m_hs_20_01_02_02_00" fuee...no cock..?
+
+//#sub m_hs_20_01_03_00_00 = はひゅ、らんぼーおひんひん、ふひ、ぼくが、こりゃしめてやるんらからぁ……♪（乱暴オチンチン、ボクが懲らしめてやるんだから - h_voice_mariko
+#sub "m_hs_20_01_03_00_00" wahuee...this rough cock...I'll punish it
+
+//#sub m_hs_20_01_03_00_01 = んひゅひゅ、しゅこしゅこ、ぺりょぺりょ、ふひひひひ♪（シコシコペロペロ - h_voice_mariko
+#sub "m_hs_20_01_03_00_01" nehuehue...rub rub...lick lick...fuhuehuehue♪
+
+//#sub m_hs_20_02_00_00_00 = はひ、ボクのおみゃんこ、んんっ、じゅぼじゅぼしゅるために、ありゅのぉ、んひっ♪（ボクのオマンコ、ズボズボするためにあるの - h_voice_mariko
+#sub "m_hs_20_02_00_00_00" haa...my pussy...is being pounded♪
+
+//#sub m_hs_20_02_00_00_10 = ひっ、あっ、しゅごっ、あひっ、もっろっ、おかひっ、んひぃっ♪（すごっ、もっと、犯し - h_voice_mariko
+#sub "m_hs_20_02_00_00_10" ahhh...amazing...more...fuck me♪
+
+//#sub m_hs_20_02_01_00_00 = んひひ、おほっ、おひりほじほじっ、んひゅっ、しゅきにゃのぉ……♪（お尻ほじほじ好きなの - h_voice_mariko
+#sub "m_hs_20_02_01_00_00" nihihi...I love how you're relentless with my ass...♪
+
+//#sub m_hs_20_02_01_00_10 = あひゅっ、ひひっ、あにゃるっ、んひっ、あにゃるしぇっくしゅっ、いいにょぉっ♪（アナル、アナルセックスいいの - h_voice_mariko
+#sub "m_hs_20_02_01_00_10" ahhh...anal...anal sex is nice♪
+
+//#sub m_hs_20_02_03_00_00 = おぶぅ……ボクの、お口でぇ……んむぅ……♪ - h_voice_mariko
+#sub "m_hs_20_02_03_00_00" mmmggg...my...mouth...mmmggg...♪
+
+//#sub m_hs_20_02_03_00_10 = もご、ぷじゅっ、もっとっ、んぶぶっ、もっとぉっ、おむぅっ - h_voice_mariko
+#sub "m_hs_20_02_03_00_10" mmmggg...more...more...mmmggg
+
+//#sub m_hs_20_02_10_00_00 = あひぅ……んんっ、もっろ、ひてよぉ……♪（もっとしてよぉ - h_voice_mariko
+#sub "m_hs_20_02_10_00_00" ahhhh...more...do me more...♪
+
+//#sub m_hs_20_02_10_00_01 = んひゅっ、ボク、いひっ、じゅっとこーゆーにょ、ひたかったにょぉ、あひひっ♪（ボク、ずっとこういうのしたかったの - h_voice_mariko
+#sub "m_hs_20_02_10_00_01" ahhh...I...want this to last forever...nihihi♪
+
+//#sub m_hs_20_02_10_00_10 = あひっ、あっ、ひっ、きもっ、くひっ、きもひっいいにょぉっ、はひぃっ♪（気持、気持ちいいの - h_voice_mariko
+#sub "m_hs_20_02_10_00_10" ahhh...feels good...this feels so good...ahhh♪
+
+//#sub m_hs_20_02_10_00_11 = ひゃぅっ、もっろっ、んきっ、もっろっ、ぼくをっ、おかひてっ、よぉっ、んひぃっ♪（もっと、もっとボクを犯してよ - h_voice_mariko
+#sub "m_hs_20_02_10_00_11" ahhh...more...fuck me more...ahhh♪
+
+//#sub m_hs_20_02_11_00_00 = んぁっ、ひひっ、ボクねっ、ぼくにぇぇ、あひっ、あははははっ♪ - h_voice_mariko
+#sub "m_hs_20_02_11_00_00" ahaha...I...you know I...ahahahaha♪
+
+//#sub m_hs_20_02_11_00_10 = いひっ、ぼくっ、じょーずれしょっ？　んひゅっ、にぇえ、んんっ、にぇえっ♪（ボク、上手でしょ？　ねぇ、ねぇ - h_voice_mariko
+#sub "m_hs_20_02_11_00_10" hehehe...aren't I...pretty skilled?...hey...hey♪
+
+//#sub m_hs_20_02_12_00_00 = ちゅぶっ、んひゅっ、ちゅーとおひんひん、ろっちがいーい？（ちゅーとオチンチン、どっちがいい？ - h_voice_mariko
+#sub "m_hs_20_02_12_00_00" mmmggg...kissing cock...where do you prefer?
+
+//#sub m_hs_20_02_12_00_10 = んぢゅっ、くひもっ、おみゃんこもっ、ぁむっ、じゅるるっ、おかひゃれっ、んむうっ♪（口もオマンコも犯され - h_voice_mariko
+#sub "m_hs_20_02_12_00_10" mmmggg...my mouth pussy...is being fucked♪
+
+//#sub m_hs_20_02_13_00_00 = んひぅ、ふふっ、ぼくらってぇ……♪（ボクだって - h_voice_mariko
+#sub "m_hs_20_02_13_00_00" fufu...even I...♪
+
+//#sub m_hs_20_02_13_00_01 = んひひ、んんっ、どーらぁ、あはははは♪（どーだ - h_voice_mariko
+#sub "m_hs_20_02_13_00_01" nihihi...how's this?...ahahaha♪
+
+//#sub m_hs_20_02_13_00_10 = あはっ、んひゅっ、きもひーんれしょ？　んんっ、ねぇっ、きもひーんれひょぉっ？（気持ちいいんでしょ？　ねぇ、気持ちいいんでしょ？ - h_voice_mariko
+#sub "m_hs_20_02_13_00_10" aha...does it feel good?...hey, does it feel good?
+
+//#sub m_hs_20_02_13_00_11 = ひひっ、ぼくにっ、まかひぇてっ、んひっ、ぼくがっ、しゅるのぉっ♪（ボクに任せて、ボクがするの - h_voice_mariko
+#sub "m_hs_20_02_13_00_11" hehe...leave it to me...I'll take care of it♪
+
+//#sub m_hs_20_02_14_00_00 = えろぉ、ちゅる、んひゅ、きょーあく、おひんひん、ちゅるる……♪（凶悪オチンチン - h_voice_mariko
+#sub "m_hs_20_02_14_00_00" mmmggg...this devilish cock...mmmggg♪
+
+//#sub m_hs_20_02_14_00_10 = れりゅっ、おひんひんっ、じゅるっ、げんきひゅぎぃっ、すじゅるっ♪(オチンチン元気すぎ - h_voice_mariko
+#sub "m_hs_20_02_14_00_10" mmmggg...this cock is really energetic♪
+
+//#sub m_hs_20_02_20_00_00 = あひひ、にぇぇ、みてりゅぅ……？（ねぇ、見てる？ - h_voice_mariko
+#sub "m_hs_20_02_20_00_00" ahehe...hey, are you looking...?
+
+//#sub m_hs_20_02_20_00_10 = んひゅっ、えっひなぼくっ、んひっ、いっぱいみひぇえっ♪（えっちなボク、いっぱい見て - h_voice_mariko
+#sub "m_hs_20_02_20_00_10" nihihi...my perverted self...look at it a lot♪
+
+//#sub m_hs_20_02_20_01_00 = うひゅ、んんっ、こにょおひんひん、ぼくんらじょ～♪（このオチンチン、ボクのだぞ～ - h_voice_mariko
+#sub "m_hs_20_02_20_01_00" hehe...this cock...is all mine♪
+
+//#sub m_hs_20_02_20_01_10 = あひゃっ、ほりゃ、んんっ、おひんひん、えっひににゃってるの、わかるれしょぉ？（ほら、オチンチンエッチになってるのわかるでしょ？ - h_voice_mariko
+#sub "m_hs_20_02_20_01_10" hehe...look, this cock is really perverted, don't you agree?
+
+//#sub m_hs_20_02_91_00_00 = あはは……♪ - h_voice_mariko
+#sub "m_hs_20_02_91_00_00" ahaha...♪
+
+//#sub m_hs_20_02_91_00_10 = んひっ、ひひっ♪ - h_voice_mariko
+#sub "m_hs_20_02_91_00_10" nihi...hihihi♪
+
+//#sub m_hs_20_03_00_00_00 = はひゃっ、あっ、またっ、イぐっ、はひっ、あっ、イっ、ぐっうっ！ - h_voice_mariko
+#sub "m_hs_20_03_00_00_00" ahhh...again...cuming...I'm cumminggg!
+
+//#sub m_hs_20_03_00_01_00 = ゃひっ、おみゃんこっ、こわれりゅっ、ひっ、あっ、イきしゅぎっ、ぃぎっ、こわっ、りぇっ、きっ、ひぃぃっ！！（オマンコ壊れる、イきすぎ、こわ、れ - h_voice_mariko
+#sub "m_hs_20_03_00_01_00" ahhh...my pussy...is gonna break...it's gonna break...hiiiiiii!!
+
+//#sub m_hs_20_03_00_02_00 = はひっ、あにゃるっ、イきっ、ひっ、イぎましゅっ、あひっ、イぎましゅぅぅっ！！（アナルイきます、イきます - h_voice_mariko
+#sub "m_hs_20_03_00_02_00" ahhh...cuming from my ass...cumingggg!
+
+//#sub m_hs_20_03_01_00_00 = いひっ、らひてっ、んんっ、ぼくにょなかっ、んひっ、びゅるびゅるってぇっ♪（出して、ボクの中、びゅるびゅるって - h_voice_mariko
+#sub "m_hs_20_03_01_00_00" ahhh...cum...inside of me...squirt it all out♪
+
+//#sub m_hs_20_03_01_01_00 = おぉみゃんこっ、くひっ、にんひんっ、しゃせるきらなぁ？　んひっ、ひっ、あひぃっ♪（オマンコ、妊娠させる気だな？ - h_voice_mariko
+#sub "m_hs_20_03_01_01_00" My pussy...are you trying to get me pregnant?...ahhhh♪
+
+//#sub m_hs_20_03_01_02_00 = おほっ、おっ、おひりっ、らひてっ、んひっ、しゃしぇー、はやくぅっ、ひっ、んひひひひぃっ♪（お尻、出して、射精、早く - h_voice_mariko
+#sub "m_hs_20_03_01_02_00" oooo...my ass...let it out...ejaculate...hurry...nihi...ahhhh♪
+
+//#sub m_hs_20_03_02_00_00 = んひっ、ほりゃほりゃ、んっ、おひんひんっ、びゅーびゅーしまひょうにぇ～♪（ほらほら、オチンチンびゅーびゅーしましょうね - h_voice_mariko
+#sub "m_hs_20_03_02_00_00" nihi...take this and that...have your cock...squirt it out please♪
+
+//#sub m_hs_20_03_02_01_00 = ぐもっ、んぶっ、はや（く）っ、せーえきっ、んぼっ、はやっ、くぅっ、んぶっ、じゅぶぶっ♪（早く、精液早く - h_voice_mariko
+#sub "m_hs_20_03_02_01_00" mmmggg...hurry...semen...hurry...mmmggg♪
+
+//#sub m_hs_20_03_02_02_00 = んじゅりゅっ、おひんひんっ、がぁんしにゃいれっ、ちゅるっ、りゅりゅっ、ほりゃぁっ♪（オチンチン我慢しないで、ほらぁ - h_voice_mariko
+#sub "m_hs_20_03_02_02_00" mmmgg...your cock...don't hold back...take this♪
+
+//#sub m_hs_20_04_00_00_00 = はひ、ひ、こんにゃ、の、んひっ、やめりゃれる、わけ、んんっ、にゃいよぉ……♪（こんなのやめられるわけないよぉ - h_voice_mariko
+#sub "m_hs_20_04_00_00_00" haa...this can't...end...just like this♪
+
+//#sub m_hs_20_04_00_00_01 = ふひっ、ありぇっ、んんっ、ぼく、にゃんかい、イったっけ、はふ、ふっ、んひ、ま、いっかぁ、んひひ……♪（あれ、ボク何回イったっけ……まいっか - h_voice_mariko
+#sub "m_hs_20_04_00_00_01" haaa...huh?...how many times have I...well who cares♪
+
+//#sub m_hs_20_04_00_01_00 = はっ、はっ、あぅっ、おみゃんこ、けーりぇん、あひっ、とまりゃ、にゃい、ひっ、あひぃ……♪（オマンコ、痙攣止まらない - h_voice_mariko
+#sub "m_hs_20_04_00_01_00" haa haa...pussy...convulsions...it never ends♪
+
+//#sub m_hs_20_04_00_02_00 = はっ、あにゃ、んっ、あにゃるっ、イった、いひっ、イっひゃぁ、くひひひひっ♪（あな、アナル、イった、イった - h_voice_mariko
+#sub "m_hs_20_04_00_02_00" haaa...anal...anal...I did it..I did it...hihihi♪
+
+//#sub m_hs_20_04_01_00_00 = んうぅ、んひ、おひんひん、んっ、ぼくのにゃかれ、んんっ、まりゃ、ぴくぴくしへる……♪（オチンチン、ボクの中でまだぴくぴくしてる - h_voice_mariko
+#sub "m_hs_20_04_01_00_00" uuu...your cock...is still twitching...inside of me...♪
+
+//#sub m_hs_20_04_01_00_01 = はひ、んもぉ、んんっ、おひんひん、きもひよしゃそーに、んっ、びゅーびゅーしてぇ……♪（オチンチン、気持ちよさそうにびゅーびゅーしてぇ - h_voice_mariko
+#sub "m_hs_20_04_01_00_01" haa...your cock...feels soo good when it squirts...♪
+
+//#sub m_hs_20_04_01_01_00 = あひ、ひひっ、ぼく、にんしんしちぇも、んひゅっ、しぇっくしゅ、やめにゃいかりゃぁ、あひひ……♪（ボク、妊娠してもセックスやめないから - h_voice_mariko
+#sub "m_hs_20_04_01_01_00" hihihi...even if I get pregnant, let's keep having sex...♪
+
+//#sub m_hs_20_04_01_02_00 = おほぅ……んっ、あにゃる、ぱんぱん、いっ、ひぅっ、もれひゃうぅ……♪（アナルパンパン、漏れちゃう - h_voice_mariko
+#sub "m_hs_20_04_01_02_00" ooo...my ass...so full...it's leaking out...♪
+
+//#sub m_hs_20_04_02_00_00 = んぇぅ、まらおくひれしゅるのぉ……？（まだお口でするの？ - h_voice_mariko
+#sub "m_hs_20_04_02_00_00" mmgg...do you still want to do it with my mouth...?
+
+//#sub m_hs_20_04_02_02_00 = んふぅ、もっとのむぅ、んひっ、のみゃせてぇ……♪（もっと飲む、飲ませて - h_voice_mariko
+#sub "m_hs_20_04_02_02_00" *gulp* *gulp* let me swallow more...please♪
+
+//#sub m_hs_20_04_02_03_00 = んゆぅ、もっひゃいないぃ……（勿体ない - h_voice_mariko
+#sub "m_hs_20_04_02_03_00" ahhh...there's no more...
+
+//#sub m_hs_20_04_03_00_00 = んひ、ふひっ、イカくひゃ～い……♪（イカ臭い - h_voice_mariko
+#sub "m_hs_20_04_03_00_00" hi hihi...smells like squid...♪
+
+//#sub m_hs_20_04_03_00_01 = んひゅぅ、にぇぇ～、んんっ、ぼくもイきひゃいよぉ……（ねぇ、ボクもイきたいよぉ - h_voice_mariko
+#sub "m_hs_20_04_03_00_01" Hey...I'm expecting more...
+
+//#sub m_hs_20_04_03_01_00 = あひひ、じゃーめん、かけられひゃったぁ……はひ……♪（ザーメンかけられちゃった - h_voice_mariko
+#sub "m_hs_20_04_03_01_00" ahihi...semen is all over me..ahi♪
+
+//#sub m_hs_20_05_00_00_00 = んぃぅ……ぼくのおみゃんこ、んひっ、がばみゃんこぉ……はひ……♪（ボクのオマンコ、ガバマンコ - h_voice_mariko
+#sub "m_hs_20_05_00_00_00" nnnn...my pussy...get ready my pussy
+
+//#sub m_hs_20_05_00_01_00 = んひぃぃ……あは、ぼく、あにゃるでしゃせーしひゃったぁ……はひ……♪（ボク、アナルで射精しちゃった - h_voice_mariko
+#sub "m_hs_20_05_00_01_00" nihihi...I got cumed...in my ass...ahi...♪
+
+//#sub m_hs_20_05_00_02_00 = らめぇ……あひ、しぇーえきがぁ……んぅ……（ダメぇ、精液がぁ - h_voice_mariko
+#sub "m_hs_20_05_00_02_00" Don't...semen is...nnn...
+
+//#sub m_hs_20_05_00_03_00 = はひぅ、あは、おひっこぉ、んうぅぅ……♪（おしっこ - h_voice_mariko
+#sub "m_hs_20_05_00_03_00" aha...pee...nuhuu...♪
+
+//#sub m_hs_20_06_00_00_00 = はひ、ぼく、まられきるよぉ……んひ、しぇっくしゅしよぉ？　ふひひひひ……♪（ボク、まだ出来るよ？　セックスしよ？ - h_voice_mariko
+#sub "m_hs_20_06_00_00_00" ahi...I...can't you still do it?...let's have sex?...♪
+
+//#sub m_hs_20_06_00_00_01 = あひ、はひ、しぇっくしゅ、しゃいっこぉ……あはははは……♪（セックス最高 - h_voice_mariko
+#sub "m_hs_20_06_00_00_01" ahihi...sex...is the best...ahahaha...♪
+
+//#sub m_hs_20_06_00_01_00 = ひひっ、イくにょ、んひっ、ぼく、もっろイくにょ、ひひ、あはははは……♪（イくの、ボク、もっとイくのぉ - h_voice_mariko
+#sub "m_hs_20_06_00_01_00" hihihi...let's do it...I want to do it more♪
+
+//#sub m_hs_20_06_00_05_00 = んひひ、もー、んひゅ、ろんらけらひたのしゃあ……あは……♪（もぉ、どんだけ出したのさ - h_voice_mariko
+#sub "m_hs_20_06_00_05_00" nhihi...come on, you've only cum that much...♪
+
+//#sub m_hs_20_06_00_08_00 = あえ、おひんひんおわりにゃの？　もーいぃにょ？（あれ、オチンチン終わりなの？　もういいの？ - h_voice_mariko
+#sub "m_hs_20_06_00_08_00" Huh...is your cock finished?...Is that enough?
+
+//#sub m_hs_20_06_91_00_00 = しゅごかったぁ……♪ - h_voice_mariko
+#sub "m_hs_20_06_91_00_00" haa...that surprised me...♪
+
+//#sub m_ho_00_00_00 = すぅ……はぁ…… - h_voice_mariko 
+#sub "m_ho_00_00_00" 
+
+//#sub m_ho_00_01_00 = んん、はぁ……はぁ……んっふぅ……はぁ…… - h_voice_mariko 
+#sub "m_ho_00_01_00" 
+
+//#sub m_ho_00_02_00 = はぁ、はぁ、んんっ、 - h_voice_mariko 
+#sub "m_ho_00_02_00" 
+
+//#sub m_ho_00_03_00 = はひ、ふひっ、あはっ…あはぁ…はぁはぁ……んは……はぁ…… - h_voice_mariko 
+#sub "m_ho_00_03_00" 
+
+//#sub m_ho_00_04_00 = あひ、はひっ、はふ - h_voice_mariko 
+#sub "m_ho_00_04_00" 
+
+//#sub m_ho_00_05_00 = すぅ……ん…… - h_voice_mariko 
+#sub "m_ho_00_05_00" 
+
+//#sub m_ho_00_06_00 = すっ、すっ、んんっ、ずっ - h_voice_mariko 
+#sub "m_ho_00_06_00" 
+
+//#sub m_ho_00_07_00 = すっ、ずっ、すぅっ、んんっ、ん、すぅ、すぅ…ん…す……すぅ……すぅ…… - h_voice_mariko 
+#sub "m_ho_00_07_00" 
+
+//#sub m_ho_11_00_00 = んっ……っんぐ……んー……ん……んぐっ……ん……ふっ……ん……んん……んぅ…… - h_voice_mariko 
+#sub "m_ho_11_00_00" 
+
+//#sub m_ho_11_00_01 = ふっ……ん……んっ……んぐ……ぅ……うぅ……んっ……ん……んくっ……ん……んん…… - h_voice_mariko 
+#sub "m_ho_11_00_01" 
+
+//#sub m_ho_11_00_02 = んく……っ……ん……んっ……んぅ……ん……くっ……ん……ん……んっ……う……ん…… - h_voice_mariko 
+#sub "m_ho_11_00_02" 
+
+//#sub m_ho_11_01_00 = ぁっ……うく……ん……ぁん……ん……ん……あふ、ん……はぁ……んっ……ぅ……ぁ…… - h_voice_mariko 
+#sub "m_ho_11_01_00" 
+
+//#sub m_ho_11_01_01 = んっ……ふぁ……ぁ……んっぁ……ん……う……ぁん……ぁ……ん……はふ……んん…… - h_voice_mariko 
+#sub "m_ho_11_01_01" 
+
+//#sub m_ho_11_01_02 = ふぁ……ん……んく……ん……ぁ……ぁん……んふ……あ……んっぁ……はぅ……ぅ…… - h_voice_mariko 
+#sub "m_ho_11_01_02" 
+
+//#sub m_ho_11_10_00 = うぅ……ん……むぅ……ん……んん？……うーん……んっ……ん…… - h_voice_mariko 
+#sub "m_ho_11_10_00" 
+
+//#sub m_ho_11_10_01 = ん……むぅ……んっ……はぁ……んん……んー……ぅん……ん…… - h_voice_mariko 
+#sub "m_ho_11_10_01" 
+
+//#sub m_ho_11_10_02 = んっ……う……んぐ……んぅ……む……んん……はぁ……ん…… - h_voice_mariko 
+#sub "m_ho_11_10_02" 
+
+//#sub m_ho_11_11_00 = んぁ……んっ……んふっ……ぁん……ん……ぁ……あは……んふふ…… - h_voice_mariko 
+#sub "m_ho_11_11_00" 
+
+//#sub m_ho_11_11_01 = んっ……ぁ……あん……ぁ……ひゃっ、ん……んふ……んぁぁ…… - h_voice_mariko 
+#sub "m_ho_11_11_01" 
+
+//#sub m_ho_11_11_02 = ぁん……ん、ふふっ……んぁっ……あ……ん……ぁは……んん…… - h_voice_mariko 
+#sub "m_ho_11_11_02" 
+
+//#sub m_ho_11_20_00 = はひぃ……ひゃ……あ……あは……は……ふゃ……や……ひゃぅ……ひゃ……やぁ…… - h_voice_mariko 
+#sub "m_ho_11_20_00" 
+
+//#sub m_ho_11_20_01 = あ゛ひっ……っん゛あっ……ひゃん……は……はひぃ……ん……っはぁ……ひ……ひひ…… - h_voice_mariko 
+#sub "m_ho_11_20_01" 
+
+//#sub m_ho_11_20_02 = んあ゛っ……ひっあ……あ……ひゃ……はひ……ひ……ひん……んっ……あ……あひ…… - h_voice_mariko 
+#sub "m_ho_11_20_02" 
+
+//#sub m_ho_11_21_00 = はじゅぅ……んひっぁ……ちゅぢゅる……ふゅ……へろぉ……んひゅ……にゅひゅ……にりゅ……じゅる、ふひゅ…… - h_voice_mariko 
+#sub "m_ho_11_21_00" 
+
+//#sub m_ho_11_21_01 = すひゅる……ひっちゅ……んひ……ぢゅっ……じゅる……んひん……ちゅ……ふひゅっ……にゅるりゅ……ちぅぅ…… - h_voice_mariko 
+#sub "m_ho_11_21_01" 
+
+//#sub m_ho_11_21_02 = はじゅ……ふにゅ……くひゅ……ふに……りりゅ……りゅ……ふひぃ……ひちゅ……ん……あひ……ちゅひぃ…… - h_voice_mariko 
+#sub "m_ho_11_21_02" 
+
+//#sub m_ho_11_90_00 = あぐっ……うっ……くっ……っつぅ……んんっ……くっ……うっ……ぐぅっ……ぅっ……くぅっ…… - h_voice_mariko 
+#sub "m_ho_11_90_00" 
+
+//#sub m_ho_11_90_01 = んぐっ……あっ……っく……つっ……ぐっ……うっ……つぁっ……くっ……うっ……うぅっ…… - h_voice_mariko 
+#sub "m_ho_11_90_01" 
+
+//#sub m_ho_11_90_02 = くっ……んぐっ……うっ……ぁっ……つっ……うっ……んっ……ぐっ……んくっ……ぅっ…… - h_voice_mariko 
+#sub "m_ho_11_90_02" 
+
+//#sub m_ho_11_91_00 = んぅ……う……んっ……ふぅ……んん……うっ……うぅ…… - h_voice_mariko 
+#sub "m_ho_11_91_00" 
+
+//#sub m_ho_11_91_01 = んむ……うぅ……う……んっ……んぅ……う……んっ……んぅ…… - h_voice_mariko 
+#sub "m_ho_11_91_01" 
+
+//#sub m_ho_11_92_00 = んぅっ……うっ……んっ……ふぅっ……んんっ……うっ……うぅっ…… - h_voice_mariko 
+#sub "m_ho_11_92_00" 
+
+//#sub m_ho_11_92_01 = んむっ……うぅっ……うっ……んっ……んぅっ……うっ……んっ……んぅっ…… - h_voice_mariko 
+#sub "m_ho_11_92_01" 
+
+//#sub m_ho_11_93_00 = んぅ……ん、ちゅ……んむ……ぅ……んっ……つふ……うぅ……つる……む……ぅむ…… - h_voice_mariko 
+#sub "m_ho_11_93_00" 
+
+//#sub m_ho_11_93_01 = ぁう……んっ……ちゅ……ちゅる……ん……はぁ……んんっ……うぅ……んぅ…… - h_voice_mariko 
+#sub "m_ho_11_93_01" 
+
+//#sub m_ho_11_94_00 = んぁ……ちゅる、ん……ん……ぁん……ちゅふ……ちゅる、る……ぁぁ……んっ……はぁ…… - h_voice_mariko 
+#sub "m_ho_11_94_00" 
+
+//#sub m_ho_11_94_01 = ぁん……ん……ちゅふ……んっちゅ……ちゅぅ……んぁ……あ……ぁむ……む……んむぅ…… - h_voice_mariko 
+#sub "m_ho_11_94_01" 
+
+//#sub m_ho_12_00_00 = ん゛んっ、んっ、くっ、んっ、んんっ、ふっ、んっ、んっ、んーっ、んっ、くっ、うっ、んっ、んっ、んんっ - h_voice_mariko 
+#sub "m_ho_12_00_00" 
+
+//#sub m_ho_12_00_01 = んぐっ、んっ、んっ、ふっ、んっ、ぐっ、くっ、んっ、んんっ、んっ、んふっ、んっ、んっ、ぐっ、んぅっ - h_voice_mariko 
+#sub "m_ho_12_00_01" 
+
+//#sub m_ho_12_00_02 = んんっ、ふっ、んっ、んっ、んくっ、うっ、んっ、んっ、んっ、んっ、ふっ、んっ、ぐっ、んっ、んつっ - h_voice_mariko 
+#sub "m_ho_12_00_02" 
+
+//#sub m_ho_12_01_00 = ぃっ、んくっ、んっ、んっ、ぁっ、ふっ、んっ、んぁっ、んっ、ぁんっ、ぁっ、んっ、ふっ、んんっ、んぁんっ - h_voice_mariko 
+#sub "m_ho_12_01_00" 
+
+//#sub m_ho_12_01_01 = んっ、うっ、ぁっ、あっ、んっ、ぁんっ、ぁっ、はぁっ、んっ、んっ、んっ、ふっ、んっ、んっ、んくっ、んんっ - h_voice_mariko 
+#sub "m_ho_12_01_01" 
+
+//#sub m_ho_12_01_02 = ぃっ、んくっ、んっ、ぁっ、んっ、はっ、ぁっ、んっ、んっ、んっ、ふっ、んんっ、ぁうっ、んっ、ぁんっ、んっ - h_voice_mariko 
+#sub "m_ho_12_01_02" 
+
+//#sub m_ho_12_10_00 = んうっ、んっ、うっ、もぉっ、んんっ、くっ、んぅっ、んっ、んんっ - h_voice_mariko 
+#sub "m_ho_12_10_00" 
+
+//#sub m_ho_12_10_01 = んくっ、うっ、んんっ、むぅっ、んっ、うっ、んんっ、ふんっ、んんっ - h_voice_mariko 
+#sub "m_ho_12_10_01" 
+
+//#sub m_ho_12_10_02 = んっ、んっ、んっ、うっ、んんっ、ふぅっ、んんっ、うっ、んぐっ、むぅっ - h_voice_mariko 
+#sub "m_ho_12_10_02" 
+
+//#sub m_ho_12_11_00 = んふっ、あっ、んぁっ、あっ、ひゃっ、んっ、あはっ、んっ、あははっ、んぁっ - h_voice_mariko 
+#sub "m_ho_12_11_00" 
+
+//#sub m_ho_12_11_01 = んはっ、んっ、あんっ、あっ、んぁっ、んっ、ふふっ、んんっ、あっ、んぁぁっ - h_voice_mariko 
+#sub "m_ho_12_11_01" 
+
+//#sub m_ho_12_11_02 = ぁんっ、あっ、んんっ、ひゃっ、んぁっ、あっ、あっ、んぁんっ、んっ、ふふっ - h_voice_mariko 
+#sub "m_ho_12_11_02" 
+
+//#sub m_ho_12_20_00 = はひっ、あっ、ひゃっ、はひゃっ、やぅっ、あっ、ひゃんっ、はっ、はひぃっ、ひっ、ひっ、ひゃっ - h_voice_mariko 
+#sub "m_ho_12_20_00" 
+
+//#sub m_ho_12_20_01 = あ゛っ、ぁ゛っ、ん゛っ、あん゛っ、はひっ、やっ、やうっ、んっ、ひぃっ、うっ、うひっ、ひぃっ - h_voice_mariko 
+#sub "m_ho_12_20_01" 
+
+//#sub m_ho_12_20_02 = ふひゃっ、あっ、ひゃうっ、んっ、やっ、ひゃっ、はひっ、あひっ、ひっ、やっ、あっ、あっ、あっ - h_voice_mariko 
+#sub "m_ho_12_20_02" 
+
+//#sub m_ho_12_21_00 = ふじゅっ、ちゅっ、ひゅっ、んひっ、はひっ、ちゅひゅっ、ぢゅっ、じゅりゅっ、にゅひっ、にゅひっ、ひっ、ちゅりゅっ、りゅくっ - h_voice_mariko 
+#sub "m_ho_12_21_00" 
+
+//#sub m_ho_12_21_01 = はひゅっ、ぢゅっ、じゅるるっ、んひっ、ひっ、じゅづるっ、ちぅぅっ、んっひ、すふゅっ、じゅっ、にゅひっ、はひっ、ひんっ、にゅっ、にちゅっ - h_voice_mariko 
+#sub "m_ho_12_21_01" 
+
+//#sub m_ho_12_21_02 = れひゅっ、んりゅっ、んふっ、ひゅるるっ、ひっ、ふひっ、ちゅぅっ、ちゅふっ、ちゅふっ、んゅるるっ、んひぁっ、んっ、ふちゅうぅっ - h_voice_mariko 
+#sub "m_ho_12_21_02" 
+
+//#sub m_ho_12_90_00 = づっ、あっ、ぐっ、うっ、あっ、ぐっ、うっ、うっ、んっ、くっ、うっ、つっ、うっ、うぅっ - h_voice_mariko 
+#sub "m_ho_12_90_00" 
+
+//#sub m_ho_12_90_01 = くっ、あっ、うっ、んぐっ、うっ、うっ、んっ、づっ、うっ、あぐっ、うっ、んっ、くぅっ - h_voice_mariko 
+#sub "m_ho_12_90_01" 
+
+//#sub m_ho_12_90_02 = ぐっ、あっ、んっ、くっ、うっ、あぐっ、うっ、うぅっ、んっ、づっ、うっ、んぐっ、あぐっ - h_voice_mariko 
+#sub "m_ho_12_90_02" 
+
+//#sub m_ho_12_91_00 = んっ、うっ、ふぐっ、んっ、うっ、うぅっ、んむっ、んうぅっ - h_voice_mariko 
+#sub "m_ho_12_91_00" 
+
+//#sub m_ho_12_91_01 = んんっ、うっ、んうっ、うっ、うっ、ふぅっ、んっ、んむっ、むぅっ - h_voice_mariko 
+#sub "m_ho_12_91_01" 
+
+//#sub m_ho_12_92_00 = んぅっ！うっ、んんっ、んっ、んふっ、うっ、んぅんっ、うっ、むぅっ - h_voice_mariko 
+#sub "m_ho_12_92_00" 
+
+//#sub m_ho_12_92_01 = んっ！んんっ、ぅんっ、んっ、うぅっ、んっ、んぅっ、うっ、んむんっ - h_voice_mariko 
+#sub "m_ho_12_92_01" 
+
+//#sub m_ho_12_93_00 = んっ、むっ、んんっ、うっ、んちゅっ、ふっ、ふっ、んんっ、んくっ、むぅっ - h_voice_mariko 
+#sub "m_ho_12_93_00" 
+
+//#sub m_ho_12_93_01 = ぅっ、んっ、むふっ、んっ、んっ、ちゅふっ、んっ、うぅっ、んむっ、うぅっ - h_voice_mariko 
+#sub "m_ho_12_93_01" 
+
+//#sub m_ho_12_94_00 = ぁんっ、あっ、むっ、んむっ、ちゅっ、はぁっ、はっ、んんっ、んむっ、んぁむっ - h_voice_mariko 
+#sub "m_ho_12_94_00" 
+
+//#sub m_ho_12_94_01 = あっ、んっ、ちゅっ、ちゅっ、ふっ、んぁっ、はぁっ、んっ、はむっ、むふっ、ふぅっ - h_voice_mariko 
+#sub "m_ho_12_94_01" 
+
+//#sub m_ho_13_00_00 = んぁっ！ - h_voice_mariko 
+#sub "m_ho_13_00_00" 
+
+//#sub m_ho_13_10_00 = あはぁっ♪ - h_voice_mariko 
+#sub "m_ho_13_10_00" 
+
+//#sub m_ho_13_20_00 = はへぇっ♪ - h_voice_mariko 
+#sub "m_ho_13_20_00" 
+
+//#sub m_ho_13_90_00 = っぐっ！ - h_voice_mariko 
+#sub "m_ho_13_90_00" 
+
+//#sub m_ho_13_91_00 = んう゛ぅっ！ - h_voice_mariko 
+#sub "m_ho_13_91_00" 
+
+//#sub m_ho_20_00_00 = ん……んん……ぅ……んっ……んぅ……すぅ……んんっ……んふ……ふ……ふぅ…… - h_voice_mariko 
+#sub "m_ho_20_00_00" 
+
+//#sub m_ho_20_10_00 = ん……ぅ……ふっ……んん……ふぅ……んふっ……ふふっ……んっ……んぅ……あは…… - h_voice_mariko 
+#sub "m_ho_20_10_00" 
+
+//#sub m_ho_20_91_00 = んふ……ん……んっ……ふぅ……んんっ……んぅ……あは……ふっ……ふふっ……んうっ…… - h_voice_mariko 
+#sub "m_ho_20_91_00" 
+
+//#sub m_ho_21_00_00 = んっ……っ……ふっ……っ……ん……んふ……ん……ん……は……ぁ……んん……んっ…… - h_voice_mariko 
+#sub "m_ho_21_00_00" 
+
+//#sub m_ho_21_00_01 = ふっ……ん……ん……ぁ……んん……ん……ふ……ん……ふぅ……ん……ぁ……は…… - h_voice_mariko 
+#sub "m_ho_21_00_01" 
+
+//#sub m_ho_21_10_00 = ん……ふふっ……ん……ん……ふぅ……ん……ぁは……んんっ、ん…… - h_voice_mariko 
+#sub "m_ho_21_10_00" 
+
+//#sub m_ho_21_10_01 = んふ……ん……んっ……ふぅ……んん……う……んっく……ふふ…… - h_voice_mariko 
+#sub "m_ho_21_10_01" 
+
+//#sub m_ho_21_91_00 = んぅ……ふぅ……ん……う……んむ……んっ……ぅ……ぉう…… - h_voice_mariko 
+#sub "m_ho_21_91_00" 
+
+//#sub m_ho_22_00_00 = くっ、うっ、んっ、んんっ、ふぅっ、ふぅっ、んっ、ふんっ、んんっ - h_voice_mariko 
+#sub "m_ho_22_00_00" 
+
+//#sub m_ho_22_00_01 = ふんっ、んっ、んんっ、ふっ、んんっ、くっ、うっ、んっ、んっ、んんっ - h_voice_mariko 
+#sub "m_ho_22_00_01" 
+
+//#sub m_ho_22_10_00 = あはっ、んっ、んんっ、ふっ、んっ、んふっ、ふっ、んんっ、んふふっ - h_voice_mariko 
+#sub "m_ho_22_10_00" 
+
+//#sub m_ho_22_10_01 = んっ、ふっ、んっ、んっ、んひっ、んんっ、ふぅっ、んっ、んふふっ - h_voice_mariko 
+#sub "m_ho_22_10_01" 
+
+//#sub m_ho_22_91_00 = んっ、んっ、ふっ、んんっ、んずっ、ふっ、ふっ、んんっ、ふぅっ、んんっ - h_voice_mariko 
+#sub "m_ho_22_91_00" 
+
+//#sub m_ho_30_92_00 = あむぅ - h_voice_mariko 
+#sub "m_ho_30_92_00" 
+
+//#sub m_ho_31_00_00 = んん……りゅ……んっ……ぇろ……ろ……んむ、ぅ……ん……はぅ……ん…… - h_voice_mariko 
+#sub "m_ho_31_00_00" 
+
+//#sub m_ho_31_00_01 = んぅ、んん……はぁ、ん……ん……りゅ……んりゅ……ぅ……れろ……んむ…… - h_voice_mariko 
+#sub "m_ho_31_00_01" 
+
+//#sub m_ho_31_01_00 = んじゅぅ……んはっぁ……ちゅじゅ……ちゅ……えろ……ん……にゅちゅ……にちゅ……じゅる、ん…… - h_voice_mariko 
+#sub "m_ho_31_01_00" 
+
+//#sub m_ho_31_01_01 = すじゅ……んっちゅ……ん……ちゅっ……しゅる……んん……ちゅ……ちゅっ……にゅる……ちぅ…… - h_voice_mariko 
+#sub "m_ho_31_01_01" 
+
+//#sub m_ho_31_10_00 = んむ……う……ぉむ……づ……ん……おぶ……むづ……んっ……んむぅ……ん…… - h_voice_mariko 
+#sub "m_ho_31_10_00" 
+
+//#sub m_ho_31_10_01 = んっ……む……ぇむ……ちゅ……づむ……ん……ん……ぉぶ……づ……むぬ…… - h_voice_mariko 
+#sub "m_ho_31_10_01" 
+
+//#sub m_ho_31_11_00 = ぐっぽん……ぱも……はぽ……んぼ……んっぉ……じゅぽ……じゅぽ……はぷ……ぐゅっぽ……もむぅ……ぷふぁっ…… - h_voice_mariko 
+#sub "m_ho_31_11_00" 
+
+//#sub m_ho_31_11_01 = ふぶ……ん……ぷじゅ……はぽ……んっ……ぉ……かぽ……かぽ……じゅぽ……ん……ん……はもぉ…… - h_voice_mariko 
+#sub "m_ho_31_11_01" 
+
+//#sub m_ho_32_00_00 = んっ、んっ、ふっ、んんっ、りゅにゅっ、んっ、にちっ、にちゅっ、んんっ、んぅっ - h_voice_mariko 
+#sub "m_ho_32_00_00" 
+
+//#sub m_ho_32_00_01 = んっふ、んっ、くちっ、んっ、ちゅっ、んんっ、ふっ、んぅっ、うっ、んりゅっ、んちゅっ - h_voice_mariko 
+#sub "m_ho_32_00_01" 
+
+//#sub m_ho_32_01_00 = すじゅっ、ちゅっ、ちゅっ、んんっ、はふっ、ちゅじゅっ、じゅっ、じゅるっ、にゅるっ、にゅるっ、ちゅっ、ちゅくっ、ちゅくっ - h_voice_mariko 
+#sub "m_ho_32_01_00" 
+
+//#sub m_ho_32_01_01 = はじゅっ、ぢゅっ、じゅるるっ、んっ、ふっ、ちゅくっ、ちぅぅっ、んっ、すじゅっ、じゅっ、んっ、はぁっ、んっ、にゅっ、にちっ - h_voice_mariko 
+#sub "m_ho_32_01_01" 
+
+//#sub m_ho_32_10_00 = んっ、ぶっ、んんっ、んっ、むぅっ、んっ、んっ、ぉむっ、んっ、ぅむっ、んっ、むぅっ - h_voice_mariko 
+#sub "m_ho_32_10_00" 
+
+//#sub m_ho_32_10_01 = ぉむっ、ぶっ、んづっ、むっ、ちゅっ、んっ、んっ、んっ、ぇむっ、んっ、ぶっ、んむっ - h_voice_mariko 
+#sub "m_ho_32_10_01" 
+
+//#sub m_ho_32_11_00 = かぽっ、かぽっ、はもっ、んっ、ぶっ、ちゅぶっ、ちゅぶっ、んんっ、んぼっ、んっ、ふっ、んんっ、あもっ、あもっ - h_voice_mariko 
+#sub "m_ho_32_11_00" 
+
+//#sub m_ho_32_11_01 = ふぶっ、んっ、ぬぼっ、ぼちゅっ、ぼちゅっ、ぽちゅっ、んっ、ぶっ、ちゅぶっ、んんっ、ぉぼっ、んっ、ほもっ、ほむっ - h_voice_mariko 
+#sub "m_ho_32_11_01" 
+
+//#sub m_ho_32_20_00 = おぼっ、ぽっ、ぶもっ、んごっ、おっ、おぶっ、ぶぶっ、んぶっ、んぶっ、おっ、ごっ、おぼっ、ぶぼっ、ぼぉっ - h_voice_mariko 
+#sub "m_ho_32_20_00" 
+
+//#sub m_ho_32_20_01 = ぶぶっ、ぬぶっ、ぬぼっ、ぼっ、ぼぶっ、おぼっ、んっ、ふっ、ふぶっ、んごぉっ、ぉぼっ、んっ、ばもっ、ぶむっ - h_voice_mariko 
+#sub "m_ho_32_20_01" 
+
+//#sub m_ho_32_21_00 = ぶぼっ、ぢゅぼっ、おっごっ、ぶぉっ、んづるるるるっ、ぶっ、んぶるっ - h_voice_mariko 
+#sub "m_ho_32_21_00" 
+
+//#sub m_ho_32_21_01 = おぶちゅっ、んぼっ、ぢゅぶっ、ぢゅぶっ、おっごっ、ぶっ、ずろろっ、ぢゅぶりゅっ - h_voice_mariko 
+#sub "m_ho_32_21_01" 
+
+//#sub m_ho_40_00_00 = んぐぅぅぅううううんんんんっんっんっんっうっくうぅぅぅんんんっふっんっんーっんーっんんん――― - h_voice_mariko 
+#sub "m_ho_40_00_00" 
+
+//#sub m_ho_40_10_00 = んあぁぁぁっあっあっあーっあーーっあーーーっんあんっやっあっああっああぁぁぁあああああ――― - h_voice_mariko 
+#sub "m_ho_40_10_00" 
+
+//#sub m_ho_40_20_00 = ひああぁぁぁぁあぉおおぉぉぉぉんぉぉおおんひっひっひぃぃぁぁあああああぁぁぁぁっあっあっあっあっ――― - h_voice_mariko 
+#sub "m_ho_40_20_00" 
+
+//#sub m_ho_40_21_00 = んんぢゅるるんちゅうぅぅんっじゅるっじゅぅぅんんんぅぅちゅりゅりゅんっえうっえうぅぅぅぅぅ――― - h_voice_mariko 
+#sub "m_ho_40_21_00" 
+
+//#sub m_ho_40_91_00 = んうぅぅんんんっんっんーっんんーーっんっ、んんんーーーっ！ - h_voice_mariko 
+#sub "m_ho_40_91_00" 
+
+//#sub m_ho_41_00_00 = んくうぅぅぅぅんんんっんっんっんぅっうぅぅぅんっうっんうぅぅぅっ――― - h_voice_mariko 
+#sub "m_ho_41_00_00" 
+
+//#sub m_ho_41_10_00 = ぅんんんんあぁぁぁっあっあっあんっんんんんうぅぅぅああっあっんっんっんんんぅぅぅぅ――― - h_voice_mariko 
+#sub "m_ho_41_10_00" 
+
+//#sub m_ho_41_20_00 = んぉおおぉぉぉぉひぃぃいっんひっひっひぁぁああああおあっおっんおっおっ――― - h_voice_mariko 
+#sub "m_ho_41_20_00" 
+
+//#sub m_ho_41_21_00 = じゅりゅうんじゅづろちゅちゅぅんじゅるじゅるじゅりゅにゅるるるるんちゅにゅっちゅっちゅっちゅるるるる――― - h_voice_mariko 
+#sub "m_ho_41_21_00" 
+
+//#sub m_ho_41_30_00 = んっんっんっふっんっんんっんっふっんんんっ - h_voice_mariko 
+#sub "m_ho_41_30_00" 
+
+//#sub m_ho_41_31_00 = びゅずぢゅっくうぇづるるるぅぅぅっ～んぐぽんっんぶぼぉんっぶぁぢゅずっぅっんっはぁんんふんんっんくぐっ - h_voice_mariko 
+#sub "m_ho_41_31_00" 
+
+//#sub m_ho_41_32_00 = ぶぼっおっおぶっんっぶっんぶっちゅぶっづぶぶっんぶぉっ - h_voice_mariko 
+#sub "m_ho_41_32_00" 
+
+//#sub m_ho_41_91_00 = んうっうっんっんーっんんっんっんーっんーーっ！ - h_voice_mariko 
+#sub "m_ho_41_91_00" 
+
+//#sub m_ho_50_00_00 = んくぅぅぅっっ、ふっ、んくっ、う、うぅぅ…… - h_voice_mariko 
+#sub "m_ho_50_00_00" 
+
+//#sub m_ho_50_01_00 = ん゛ん゛ぅぅっっっ～～～～～～～～～～っ……んんっ……んっうっ……うぅぅ……んっ……ん―っ……っ……ぅんっ……んっ……んく…… - h_voice_mariko 
+#sub "m_ho_50_01_00" 
+
+//#sub m_ho_50_10_00 = くあぁぁっあっ、んんっ、は、はぁ、んん、はぁ…… - h_voice_mariko 
+#sub "m_ho_50_10_00" 
+
+//#sub m_ho_50_11_00 = あっ―――――っ―――――っ……っあっあっあ……ふぁっ、っぅぐ……っんぁ……はぁ～っ、……あぁ～～～ぁ……あ……ぁあ……はぁはぁ… - h_voice_mariko 
+#sub "m_ho_50_11_00" 
+
+//#sub m_ho_50_21_00 = はぁひぃっっ～～～～いひぃっあ゛ぁぁぁぁぁ～～～～～っ……ふぁぁっ……はひっ……んはっっ、っんふっ……んっはぁっ - h_voice_mariko 
+#sub "m_ho_50_21_00" 
+
+//#sub m_ho_50_22_00 = ちゅふぅぅっ、ふっ、んんっ、ちゅ、ふぅぅ…… - h_voice_mariko 
+#sub "m_ho_50_22_00" 
+
+//#sub m_ho_50_23_00 = ふぅんん、んちゅっっっ～～～～～～～～～ちゅりゅりゅ……んはぁっんずりゅ……んぁんはぁんちゅ……んっんんっっぅっ、ちゅ、ちゅ、ちゅ…ちゅはぁ…… - h_voice_mariko 
+#sub "m_ho_50_23_00" 
+
+//#sub m_ho_50_91_00 = んん゛んんんっ、んんっ、ふっ、ん゛ふっ、ふぅっ - h_voice_mariko 
+#sub "m_ho_50_91_00" 
+
+//#sub m_ho_50_92_00 = んん゛ぅ～～～～っっふっ、んぐっ、ふっ、ふぐっ、う、ふっ、ふっ、んんぅ、ふぅ…… - h_voice_mariko 
+#sub "m_ho_50_92_00" 
+
+//#sub m_ho_51_00_00 = んくぅぅっ、うぅ……んっ、う……はぁ…… - h_voice_mariko 
+#sub "m_ho_51_00_00" 
+
+//#sub m_ho_51_01_00 = くうぅぅぅ……んっぐ……うぅぅ……んぁ……あ……や……うぅ……んっ……く……ふぅ、ふぅ……んんん…… - h_voice_mariko 
+#sub "m_ho_51_01_00" 
+
+//#sub m_ho_51_02_00 = んうぅぅっあっ、んん……う……んうぅ…… - h_voice_mariko 
+#sub "m_ho_51_02_00" 
+
+//#sub m_ho_51_03_00 = やっあぁぁぁっんぁっ、あっ、んんっ、あぁぁ……んん、ぁん……あ……ふぁ…… - h_voice_mariko 
+#sub "m_ho_51_03_00" 
+
+//#sub m_ho_51_10_00 = んあっうぅ、んんっ、うぅ……もぉ…… - h_voice_mariko 
+#sub "m_ho_51_10_00" 
+
+//#sub m_ho_51_11_00 = んうぅぅぅっんっ、うぅ……んっ、ん……ぁ……んうっ、ん……はぁ…… - h_voice_mariko 
+#sub "m_ho_51_11_00" 
+
+//#sub m_ho_51_12_00 = ふあぁぁぁっ、あっ、あは、んぁ……やぁ…… - h_voice_mariko 
+#sub "m_ho_51_12_00" 
+
+//#sub m_ho_51_13_00 = ふあぁぁぁ……んっ、あぁぁ……あは……んん……あ……は……んぁ……あ……ん……はぁ……ぁ…… - h_voice_mariko 
+#sub "m_ho_51_13_00" 
+
+//#sub m_ho_51_20_00 = くひぃぃっ、あっ、ひっ、は、あは、はぁぁ…… - h_voice_mariko 
+#sub "m_ho_51_20_00" 
+
+//#sub m_ho_51_21_00 = ひゃうぅっああぁ……おっおぉぉ……んひっ、いっ、いひっ、ひひひ……はひぅ……――― - h_voice_mariko 
+#sub "m_ho_51_21_00" 
+
+//#sub m_ho_51_22_00 = んむっう、んうぅ、う……んんむ…… - h_voice_mariko 
+#sub "m_ho_51_22_00" 
+
+//#sub m_ho_51_23_00 = んむぅっふぶっ……んっ、あ……んじゅ……ぷはぅっ……ちゅっ……ふぅ……あっ……はぷぅ…… - h_voice_mariko 
+#sub "m_ho_51_23_00" 
+
+//#sub m_ho_51_91_00 = んうぅっ！　う、んん……うぅぅ…… - h_voice_mariko 
+#sub "m_ho_51_91_00" 
+
+//#sub m_ho_51_92_00 = んっう！　うっ、んんぅ……んっ、ふっ、ふっ、んん……ん……うぅ…… - h_voice_mariko 
+#sub "m_ho_51_92_00" 
+
+//#sub m_ho_52_00_00 = んぶぉっ、おぐ、ん、んぅ…… - h_voice_mariko 
+#sub "m_ho_52_00_00" 
+
+//#sub m_ho_52_01_00 = んぉぐ……んっんーっ……んぐぅおっ……んぐっんぐっ……ん、ごくっ……えぐっ……ん……んぅ…… - h_voice_mariko 
+#sub "m_ho_52_01_00" 
+
+//#sub m_ho_52_10_00 = んんっ、ぐ、んむぅ……ん…… - h_voice_mariko 
+#sub "m_ho_52_10_00" 
+
+//#sub m_ho_52_11_00 = ん゛んんっ ん゛っ、んっ……んぶっ……っむぐっ……ん――――っ、んん……んふ……んっ……ん…… - h_voice_mariko 
+#sub "m_ho_52_11_00" 
+
+//#sub m_ho_52_20_00 = んぶっ、ふっ、んん……ふふ…… - h_voice_mariko 
+#sub "m_ho_52_20_00" 
+
+//#sub m_ho_52_21_00 = んぷふぅっ……んっ、ふふ……んっ、んーーっ、んーーーっ、ん……ちゅじゅ……ん……んぐ……んぐ……んぐ…… - h_voice_mariko 
+#sub "m_ho_52_21_00" 
+
+//#sub m_ho_53_00_00 = うぇっ、うぅ……んぅ……ん…… - h_voice_mariko 
+#sub "m_ho_53_00_00" 
+
+//#sub m_ho_53_01_00 = うぅっ……んっ……くぅ……うっ……あぅ……んんっ……いや……あぁ……はぁ…… - h_voice_mariko 
+#sub "m_ho_53_01_00" 
+
+//#sub m_ho_53_10_00 = んぅっ……う……はぁ…… - h_voice_mariko 
+#sub "m_ho_53_10_00" 
+
+//#sub m_ho_53_11_00 = んっ……う……あ……ふわっ……んん……はふ……きゃっ……はぁ……ふぅ……っ…… - h_voice_mariko 
+#sub "m_ho_53_11_00" 
+
+//#sub m_ho_53_20_00 = あはっ、んん……んふふ……♪ - h_voice_mariko 
+#sub "m_ho_53_20_00" 
+
+//#sub m_ho_53_21_00 = ふぁっ……あっ……んんっ……あはっ……んっ……はぁ……ひゃっ……あぁ……はふ……んふ…… - h_voice_mariko 
+#sub "m_ho_53_21_00" 
+
+//#sub m_ho_53_91_00 = んうぅっ……う、んん……ん…… - h_voice_mariko 
+#sub "m_ho_53_91_00" 
+
+//#sub m_ho_53_92_00 = んっ、うぅ……うぅ……んんっ、ん……うぅ、ん……うぅ…… - h_voice_mariko 
+#sub "m_ho_53_92_00" 
+
+//#sub m_ho_60_00_00 = けほっげほっ、んん゛っ、んっ、くふ…… - h_voice_mariko 
+#sub "m_ho_60_00_00" 
+
+//#sub m_ho_60_01_00 = んぐ、ん……んふぅ…… - h_voice_mariko 
+#sub "m_ho_60_01_00" 
+
+//#sub m_ho_60_02_00 = んえぇ～……ぇう…… - h_voice_mariko 
+#sub "m_ho_60_02_00" 
+
+//#sub m_ho_60_03_00 = ぇう……ほぉ……ほぅ…… - h_voice_mariko 
+#sub "m_ho_60_03_00" 
+
+//#sub m_hh_00_00_00_00 = こんなのぉ…… - h_voice_mariko
+#sub "m_hh_00_00_00_00" This is...
+
+//#sub m_hh_00_00_00_01 = な、何だよぉ…… - h_voice_mariko
+#sub "m_hh_00_00_00_01" Wha what is it....?
+
+//#sub m_hh_00_00_00_02 = ふんだ……っ - h_voice_mariko
+#sub "m_hh_00_00_00_02" humph
+
+//#sub m_hh_00_00_00_03 = やめてよぉ……っ - h_voice_mariko
+#sub "m_hh_00_00_00_03" Stop it...
+
+//#sub m_hh_00_00_00_04 = は、恥ずかしいよぉ…… - h_voice_mariko
+#sub "m_hh_00_00_00_04" haa, how embarrassing...
+
+//#sub m_hh_00_00_00_05 = 平気、だもん…… - h_voice_mariko
+#sub "m_hh_00_00_00_05" I'm...fine...
+
+//#sub m_hh_00_00_00_06 = うぅ、ボクはぁ…… - h_voice_mariko
+#sub "m_hh_00_00_00_06" uuu...I'm...
+
+//#sub m_hh_00_00_00_07 = 感じて、ないもん…… - h_voice_mariko
+#sub "m_hh_00_00_00_07" I'm not...feeling it...
+
+//#sub m_hh_00_00_00_08 = 別に、このくらい…… - h_voice_mariko
+#sub "m_hh_00_00_00_08" Doesn't matter...just this much is...
+
+//#sub m_hh_00_00_00_09 = そ、そんなんじゃないもん……っ - h_voice_mariko
+#sub "m_hh_00_00_00_09" It's...it's not like that...
+
+//#sub m_hh_00_00_01_00 = こん、なのぉっ - h_voice_mariko
+#sub "m_hh_00_00_01_00" This...is
+
+//#sub m_hh_00_00_01_01 = 何、だよぉっ - h_voice_mariko
+#sub "m_hh_00_00_01_01" What...is it
+
+//#sub m_hh_00_00_01_02 = そこ、はぁ……っ - h_voice_mariko
+#sub "m_hh_00_00_01_02" Right there is...
+
+//#sub m_hh_00_00_01_03 = やめ、てよぉっ - h_voice_mariko
+#sub "m_hh_00_00_01_03" Stop...it
+
+//#sub m_hh_00_00_01_04 = 恥ずかしい、のにぃっ - h_voice_mariko
+#sub "m_hh_00_00_01_04" It's embarrassing...yet
+
+//#sub m_hh_00_00_01_05 = 我慢、しな、きゃぁっ - h_voice_mariko
+#sub "m_hh_00_00_01_05" I can...endure
+
+//#sub m_hh_00_00_01_06 = ボク、はぁ……っ - h_voice_mariko
+#sub "m_hh_00_00_01_06" I'm...
+
+//#sub m_hh_00_00_01_07 = 感じて、なんかぁっ - h_voice_mariko
+#sub "m_hh_00_00_01_07" Feeling...something
+
+//#sub m_hh_00_00_01_08 = この、くらいぃっ - h_voice_mariko
+#sub "m_hh_00_00_01_08" Just this much is...
+
+//#sub m_hh_00_00_01_09 = ち、違うもんっ - h_voice_mariko
+#sub "m_hh_00_00_01_09" It's...it's not like that
+
+//#sub m_hh_00_01_00_00 = これ、どうなの……？ - h_voice_mariko
+#sub "m_hh_00_01_00_00" This, how is it...?
+
+//#sub m_hh_00_01_00_01 = 気持ちいいの……？ - h_voice_mariko
+#sub "m_hh_00_01_00_01" Does it feel good...?
+
+//#sub m_hh_00_01_00_02 = お、お前がしろって言ったから…… - h_voice_mariko
+#sub "m_hh_00_01_00_02" You're the one who told me to...
+
+//#sub m_hh_00_01_00_03 = まだするの……？ - h_voice_mariko
+#sub "m_hh_00_01_00_03" Still not done...?
+
+//#sub m_hh_00_01_00_04 = ちゃんと出来てる……？ - h_voice_mariko
+#sub "m_hh_00_01_00_04" Am I doing it right...?
+
+//#sub m_hh_00_01_00_05 = こうすればいいんでしょ……？ - h_voice_mariko
+#sub "m_hh_00_01_00_05" Like this is fine, right...?
+
+//#sub m_hh_00_01_00_06 = 早く出しちゃってよぉ…… - h_voice_mariko
+#sub "m_hh_00_01_00_06" Hurry up and cum already...
+
+//#sub m_hh_00_01_00_07 = 感じてくれてるの……？ - h_voice_mariko
+#sub "m_hh_00_01_00_07" Are you feeling it...?
+
+//#sub m_hh_00_01_00_08 = ピクピクしてる…… - h_voice_mariko
+#sub "m_hh_00_01_00_08" It's twitching...
+
+//#sub m_hh_00_01_00_09 = じっとしててよ…… - h_voice_mariko
+#sub "m_hh_00_01_00_09" Stay still...
+
+//#sub m_hh_00_01_01_00 = ねぇっ、どうなのっ？ - h_voice_mariko
+#sub "m_hh_00_01_01_00" Hey, how is it?
+
+//#sub m_hh_00_01_01_01 = 気持ち、いいの？ - h_voice_mariko
+#sub "m_hh_00_01_01_01" Feeling good, right?
+
+//#sub m_hh_00_01_01_02 = もぉ、いいでしょ？ - h_voice_mariko
+#sub "m_hh_00_01_01_02" Come on, isn't this enough?
+
+//#sub m_hh_00_01_01_03 = まだ、するの？ - h_voice_mariko
+#sub "m_hh_00_01_01_03" Still not done?
+
+//#sub m_hh_00_01_01_04 = 何で、こんな、ことぉっ - h_voice_mariko
+#sub "m_hh_00_01_01_04" Why am I doing something like this?
+
+//#sub m_hh_00_01_01_05 = これで、いいんでしょ？ - h_voice_mariko
+#sub "m_hh_00_01_01_05" Like this is fine, right?
+
+//#sub m_hh_00_01_01_06 = 早く、出してよぉっ - h_voice_mariko
+#sub "m_hh_00_01_01_06" Hurry up and cum
+
+//#sub m_hh_00_01_01_07 = 感じ、てるの？ - h_voice_mariko
+#sub "m_hh_00_01_01_07" Are you feeling it?
+
+//#sub m_hh_00_01_01_08 = ピクピク、してるっ - h_voice_mariko
+#sub "m_hh_00_01_01_08" It's twitching
+
+//#sub m_hh_00_01_01_09 = 動かないでっ - h_voice_mariko
+#sub "m_hh_00_01_01_09" Don't move
+
+//#sub m_hh_00_02_00_00 = こりぇ、ろーなの……？（これ、どうなの？ - h_voice_mariko
+#sub "m_hh_00_02_00_00" mmmggg...how's this...?
+
+//#sub m_hh_00_02_00_01 = きもひーの……？（気持ちいいの？ - h_voice_mariko
+#sub "m_hh_00_02_00_01" mmmggg...feeling good...?
+
+//#sub m_hh_00_02_00_02 = おまえが、ちゅるっ、ひろってぇ（お前がしろって - h_voice_mariko
+#sub "m_hh_00_02_00_02" mmmggg...you told me to
+
+//#sub m_hh_00_02_00_03 = まらしゅるの……？（まだするの？ - h_voice_mariko
+#sub "m_hh_00_02_00_03" mmmggg...still not done...?
+
+//#sub m_hh_00_02_00_04 = ひゃんと、れきてる……？（ちゃんと出来てる？ - h_voice_mariko
+#sub "m_hh_00_02_00_04" mmmgg...am I doing it right...?
+
+//#sub m_hh_00_02_00_05 = こーひゅれば、いいんれひょ？（こうすればいいんでしょ？ - h_voice_mariko
+#sub "m_hh_00_02_00_05" mmmggg...like this is fine, right?
+
+//#sub m_hh_00_02_00_06 = はやく、んじゅ、らひひゃっへよ……（早く出しちゃってよ - h_voice_mariko
+#sub "m_hh_00_02_00_06" mmmggg...hurry...cum...
+
+//#sub m_hh_00_02_00_07 = かんりて、くれひぇるの……？（感じてくれてるの？ - h_voice_mariko
+#sub "m_hh_00_02_00_07" mmmggg...feeling...it...?
+
+//#sub m_hh_00_02_00_08 = ぴきゅぴきゅひへる……（ピクピクしてる - h_voice_mariko
+#sub "m_hh_00_02_00_08" mmmggg...twitching...
+
+//#sub m_hh_00_02_00_09 = じっとひへへ……（じっとしてて - h_voice_mariko
+#sub "m_hh_00_02_00_09" mmmggg..stay...still...
+
+//#sub m_hh_00_02_01_00 = ろーなのっ？（どうなの？ - h_voice_mariko
+#sub "m_hh_00_02_01_00" mmmggg...how is it?
+
+//#sub m_hh_00_02_01_01 = きもひ、いいにょ？（気持ちいいの？ - h_voice_mariko
+#sub "m_hh_00_02_01_01" mmmggg...feels...good?
+
+//#sub m_hh_00_02_01_02 = もぉ、いーれひょっ？（もぉいいでしょ？ - h_voice_mariko
+#sub "m_hh_00_02_01_02" mmmggg...come on...isn't this enough?
+
+//#sub m_hh_00_02_01_03 = まら、しゅるのっ？（まだするの？ - h_voice_mariko
+#sub "m_hh_00_02_01_03" mmmggg...still not done?
+
+//#sub m_hh_00_02_01_04 = にゃんれ、こんにゃ、ころぉ（何でこんな事 - h_voice_mariko
+#sub "m_hh_00_02_01_04" mmmggg...why...something like this...
+
+//#sub m_hh_00_02_01_05 = こりぇで、いーんれひょ？（これでいいんでしょ？ - h_voice_mariko
+#sub "m_hh_00_02_01_05" mmmggg...like this is fine, right?
+
+//#sub m_hh_00_02_01_06 = はやく、らひてよ（早く出してよ - h_voice_mariko
+#sub "m_hh_00_02_01_06" mmmggg...hurry up...and cum
+
+//#sub m_hh_00_02_01_07 = かんじ、へるの？（感じてるの？ - h_voice_mariko
+#sub "m_hh_00_02_01_07" mmmggg...feeling it?
+
+//#sub m_hh_00_02_01_08 = ぴくぴきゅ、しへる（ピクピクしてる - h_voice_mariko
+#sub "m_hh_00_02_01_08" mmmggg...it's twitching
+
+//#sub m_hh_00_02_01_09 = うごか、にゃいれっ（動かないで - h_voice_mariko
+#sub "m_hh_00_02_01_09" mmmggg...don't move
+
+//#sub m_hh_00_03_00_00 = 早く出して…… - h_voice_mariko
+#sub "m_hh_00_03_00_00" ...hurry up...and cum...
+
+//#sub m_hh_00_03_00_01 = まだなの……？ - h_voice_mariko
+#sub "m_hh_00_03_00_01" ....still not done...?
+
+//#sub m_hh_00_03_00_02 = 疲れちゃう…… - h_voice_mariko
+#sub "m_hh_00_03_00_02" ...I'm tired...
+
+//#sub m_hh_00_03_00_03 = すごい匂い…… - h_voice_mariko
+#sub "m_hh_00_03_00_03" ...incredible smell...
+
+//#sub m_hh_00_03_00_04 = 気持ちいいの……？ - h_voice_mariko
+#sub "m_hh_00_03_00_04" ...does it feel good...?
+
+//#sub m_hh_00_03_01_00 = 早く、してよぉ - h_voice_mariko
+#sub "m_hh_00_03_01_00" ...hurry up...cum
+
+//#sub m_hh_00_03_01_01 = まだぁ？ - h_voice_mariko
+#sub "m_hh_00_03_01_01" ...not yet?
+
+//#sub m_hh_00_03_01_02 = 疲れる、よぉ - h_voice_mariko
+#sub "m_hh_00_03_01_02" ...exhausted
+
+//#sub m_hh_00_03_01_03 = 息、がぁっ - h_voice_mariko
+#sub "m_hh_00_03_01_03" ...can't breath
+
+//#sub m_hh_00_03_01_04 = おっきいすぎぃっ - h_voice_mariko
+#sub "m_hh_00_03_01_04" ...too big
+
+//#sub m_hh_10_00_00_00 = いいよぉ…… - h_voice_mariko
+#sub "m_hh_10_00_00_00" That's nice...
+
+//#sub m_hh_10_00_00_01 = んん、そこぉ……♪ - h_voice_mariko
+#sub "m_hh_10_00_00_01" nnn, right there...♪
+
+//#sub m_hh_10_00_00_02 = もっとだよぉ…… - h_voice_mariko
+#sub "m_hh_10_00_00_02" More please...
+
+//#sub m_hh_10_00_00_03 = 来て来てぇ……♪ - h_voice_mariko
+#sub "m_hh_10_00_00_03" Here come here...♪
+
+//#sub m_hh_10_00_00_04 = 気持ちいいよぉ……♪ - h_voice_mariko
+#sub "m_hh_10_00_00_04" Feels so good...♪
+
+//#sub m_hh_10_00_00_05 = ぁん、これこれぇ……♪ - h_voice_mariko
+#sub "m_hh_10_00_00_05" ann, this is the life...♪
+
+//#sub m_hh_10_00_00_06 = ボクの、どうなってる……？ - h_voice_mariko
+#sub "m_hh_10_00_00_06" What would you like be to become...?
+
+//#sub m_hh_10_00_00_07 = もっとしてよぉ…… - h_voice_mariko
+#sub "m_hh_10_00_00_07" Do it more...
+
+//#sub m_hh_10_00_00_08 = んぁ、我慢なんてしないからね……？ - h_voice_mariko
+#sub "m_hh_10_00_00_08" nnn...can't hold back any longer...
+
+//#sub m_hh_10_00_00_09 = ボク、感じてるぅ……♪ - h_voice_mariko
+#sub "m_hh_10_00_00_09" I'm...feeling it...♪
+
+//#sub m_hh_10_00_01_00 = いい、よぉっ♪ - h_voice_mariko
+#sub "m_hh_10_00_01_00" Soo...nice♪
+
+//#sub m_hh_10_00_01_01 = んんっ、そこぉっ♪ - h_voice_mariko
+#sub "m_hh_10_00_01_01" nnn...right there♪
+
+//#sub m_hh_10_00_01_02 = もっと、だよぉっ♪ - h_voice_mariko
+#sub "m_hh_10_00_01_02" More please♪
+
+//#sub m_hh_10_00_01_03 = 来て、来てぇっ♪ - h_voice_mariko
+#sub "m_hh_10_00_01_03" Here come here♪
+
+//#sub m_hh_10_00_01_04 = 気持ち、いいよぉっ♪ - h_voice_mariko
+#sub "m_hh_10_00_01_04" Feels soo good♪
+
+//#sub m_hh_10_00_01_05 = これだよ、これぇっ♪ - h_voice_mariko
+#sub "m_hh_10_00_01_05" This is what I want, this♪
+
+//#sub m_hh_10_00_01_06 = す、ごぉっ♪ - h_voice_mariko
+#sub "m_hh_10_00_01_06" Amazing♪
+
+//#sub m_hh_10_00_01_07 = もっと、もっとぉっ♪ - h_voice_mariko
+#sub "m_hh_10_00_01_07" More more♪
+
+//#sub m_hh_10_00_01_08 = 我慢、出来ないよぉっ♪ - h_voice_mariko
+#sub "m_hh_10_00_01_08" I can't...hold back any more♪
+
+//#sub m_hh_10_00_01_09 = ボク、感じてる、よぉっ♪ - h_voice_mariko
+#sub "m_hh_10_00_01_09" I'm...feeling it♪
+
+//#sub m_hh_10_01_00_00 = んふ、気持ちいい？ - h_voice_mariko
+#sub "m_hh_10_01_00_00" nfu, does it feel good?
+
+//#sub m_hh_10_01_00_01 = いっぱいするからね……？ - h_voice_mariko
+#sub "m_hh_10_01_00_01" I'll be sure to do it a lot...
+
+//#sub m_hh_10_01_00_02 = ここがいいんだぁ……♪ - h_voice_mariko
+#sub "m_hh_10_01_00_02" Right here is nice...♪
+
+//#sub m_hh_10_01_00_03 = どうですかぁ～？ - h_voice_mariko
+#sub "m_hh_10_01_00_03" How is it?
+
+//#sub m_hh_10_01_00_04 = こーいうの好きでしょ～♪ - h_voice_mariko
+#sub "m_hh_10_01_00_04" Do you like it like this♪...?
+
+//#sub m_hh_10_01_00_05 = 我慢しないでよね～？ - h_voice_mariko
+#sub "m_hh_10_01_00_05" You don't need to hold back, ya know?
+
+//#sub m_hh_10_01_00_06 = ボクが出させてあげるんだからね？ - h_voice_mariko
+#sub "m_hh_10_01_00_06" I'll help you cum, ok?
+
+//#sub m_hh_10_01_00_07 = あ、感じたなぁ～……？ - h_voice_mariko
+#sub "m_hh_10_01_00_07" Ah, felt that...?
+
+//#sub m_hh_10_01_00_08 = ほらほらぁ～♪ - h_voice_mariko
+#sub "m_hh_10_01_00_08" Take this and that♪
+
+//#sub m_hh_10_01_00_09 = んふ、こーすればぁ……♪ - h_voice_mariko
+#sub "m_hh_10_01_00_09" nfu, if I do this...♪
+
+//#sub m_hh_10_01_01_00 = 気持ち、いいでしょ？ - h_voice_mariko
+#sub "m_hh_10_01_01_00" Feels good, doesn't it?
+
+//#sub m_hh_10_01_01_01 = どんどん、するからねっ？ - h_voice_mariko
+#sub "m_hh_10_01_01_01" Like it faster?
+
+//#sub m_hh_10_01_01_02 = ここが、いいんだぁっ♪ - h_voice_mariko
+#sub "m_hh_10_01_01_02" Right here, is nice♪
+
+//#sub m_hh_10_01_01_03 = どう、かなぁ？ - h_voice_mariko
+#sub "m_hh_10_01_01_03" How...is it?
+
+//#sub m_hh_10_01_01_04 = こーいうの、好きでしょっ？ - h_voice_mariko
+#sub "m_hh_10_01_01_04" Do you like it like this?
+
+//#sub m_hh_10_01_01_05 = 我慢、しちゃだめだよっ？ - h_voice_mariko
+#sub "m_hh_10_01_01_05" Don't hold back you hear
+
+//#sub m_hh_10_01_01_06 = ほら、出してよぉっ♪ - h_voice_mariko
+#sub "m_hh_10_01_01_06" Here, let is out♪
+
+//#sub m_hh_10_01_01_07 = あは、感じてるぅ♪ - h_voice_mariko
+#sub "m_hh_10_01_01_07" aha, you're feeling it♪
+
+//#sub m_hh_10_01_01_08 = ほら、ほらぁっ♪ - h_voice_mariko
+#sub "m_hh_10_01_01_08" Take this...and that♪
+
+//#sub m_hh_10_01_01_09 = こーすれば、いいんだよね？ - h_voice_mariko
+#sub "m_hh_10_01_01_09" If I do this...isn't this nice?
+
+//#sub m_hh_10_02_00_00 = きもひいーれひょぉ……（気持ちいいでしょ - h_voice_mariko
+#sub "m_hh_10_02_00_00" mmmggg...must feel good
+
+//#sub m_hh_10_02_00_01 = いっふぁい、しゅるからにぇ？（いっぱいするからね？ - h_voice_mariko
+#sub "m_hh_10_02_00_01" mmmggg...let out a lot, ok?
+
+//#sub m_hh_10_02_00_02 = ここが、んりゅ、いいんらぁ……（ここがいいんだ - h_voice_mariko
+#sub "m_hh_10_02_00_02" mmmggg...right here is nice...
+
+//#sub m_hh_10_02_00_03 = ろ～れすか～？（どうですか？ - h_voice_mariko
+#sub "m_hh_10_02_00_03" mmmggg...how is it?
+
+//#sub m_hh_10_02_00_04 = こーいうにょ、れろ、しゅきれしょ？（こーいうの好きでしょ？ - h_voice_mariko
+#sub "m_hh_10_02_00_04" mmmggg...like it...like this?
+
+//#sub m_hh_10_02_00_05 = がぁん、しにゃいれね？（我慢しないでね？ - h_voice_mariko
+#sub "m_hh_10_02_00_05" mmmggg...don't hold back, ok?
+
+//#sub m_hh_10_02_00_06 = ぼくが、らしゃせてあげゆ（ボクが出させてあげる - h_voice_mariko
+#sub "m_hh_10_02_00_06" mmmggg...I'll help you...cum
+
+//#sub m_hh_10_02_00_07 = んひゅ、かんりてりゅぅ……♪（感じてる - h_voice_mariko
+#sub "m_hh_10_02_00_07" mmmggg...you're feeling it...♪
+
+//#sub m_hh_10_02_00_08 = ほりゃ、れりゅ、ほりゃぁ……♪（ほらほら - h_voice_mariko
+#sub "m_hh_10_02_00_08" Take this...mmmggg...and that...♪
+
+//#sub m_hh_10_02_00_09 = んひゅ、こーしゅればぁ……♪（こーすればぁ - h_voice_mariko
+#sub "m_hh_10_02_00_09" mmmggg...if I do this...♪
+
+//#sub m_hh_10_02_01_00 = きもひ、いーれひょ？（気持ちいいでしょ？ - h_voice_mariko
+#sub "m_hh_10_02_01_00" mmmggg...feels good, doesn't it?
+
+//#sub m_hh_10_02_01_01 = ろんろん、しゅるからにぇ？（どんどんするからね？ - h_voice_mariko
+#sub "m_hh_10_02_01_01" mmmggg...like it faster?
+
+//#sub m_hh_10_02_01_02 = ここ、んじゅ、いーんらぁっ♪（ここいいんだ - h_voice_mariko
+#sub "m_hh_10_02_01_02" mmmggg...right here...is nice♪
+
+//#sub m_hh_10_02_01_03 = ろぉ、かにゃあ？（どう、かなぁ？ - h_voice_mariko
+#sub "m_hh_10_02_01_03" mmmggg...how is it?
+
+//#sub m_hh_10_02_01_04 = こーゆーにょ、しゅきれしょ？（こーゆーの好きでしょ？ - h_voice_mariko
+#sub "m_hh_10_02_01_04" mmmggg...like is like this?
+
+//#sub m_hh_10_02_01_05 = がぁん、しひゃ、らめらよ？（我慢しちゃダメだよ？ - h_voice_mariko
+#sub "m_hh_10_02_01_05" mmmggg...don't hold back, ok?
+
+//#sub m_hh_10_02_01_06 = ほりゃ、らひてよぉ（ほら、出してよ - h_voice_mariko
+#sub "m_hh_10_02_01_06" mmmggg...take this...cum
+
+//#sub m_hh_10_02_01_07 = んひゅ、かんりてりゅぅ♪(感じてる - h_voice_mariko
+#sub "m_hh_10_02_01_07" mmmggg...must feel it♪
+
+//#sub m_hh_10_02_01_08 = ほりゃっ、ほりゃぁっ♪（ほらほら - h_voice_mariko
+#sub "m_hh_10_02_01_08" mmmggg...take this and that♪
+
+//#sub m_hh_10_02_01_09 = こーしゅれ、ばぁ♪（こーすればぁ♪ - h_voice_mariko
+#sub "m_hh_10_02_01_09" mmmggg...if I do this♪
+
+//#sub m_hh_10_03_00_00 = ほらほらぁ♪ - h_voice_mariko
+#sub "m_hh_10_03_00_00" ...take this and that♪
+
+//#sub m_hh_10_03_00_01 = 出してよぉ…… - h_voice_mariko
+#sub "m_hh_10_03_00_01" ...let it out....
+
+//#sub m_hh_10_03_00_02 = とろとろぉ……♪ - h_voice_mariko
+#sub "m_hh_10_03_00_02" ....gooey gooey♪
+
+//#sub m_hh_10_03_00_03 = ピクピクしてる……♪ - h_voice_mariko
+#sub "m_hh_10_03_00_03"...it's twitching...♪
+
+//#sub m_hh_10_03_00_04 = すごぉ……♪ - h_voice_mariko
+#sub "m_hh_10_03_00_04" ...amazing...♪
+
+//#sub m_hh_10_03_01_00 = ほらっ、ほらぁっ♪ - h_voice_mariko
+#sub "m_hh_10_03_01_00"...take this...and that♪
+
+//#sub m_hh_10_03_01_01 = 出してっ、よぉっ - h_voice_mariko
+#sub "m_hh_10_03_01_01" ...let it...out
+
+//#sub m_hh_10_03_01_02 = とろっ、とろぉ♪ - h_voice_mariko
+#sub "m_hh_10_03_01_02" ...gooey gooey♪
+
+//#sub m_hh_10_03_01_03 = ちょぉっ、だいぃっ♪ - h_voice_mariko
+#sub "m_hh_10_03_01_03" ...give it...to me♪
+
+//#sub m_hh_10_03_01_04 = す、ごぉっ♪ - h_voice_mariko
+#sub "m_hh_10_03_01_04" ...amazing♪
+
+//#sub m_hh_20_00_00_00 = きぼひぃのぉ……♪（気持ちいのぉ - h_voice_mariko
+#sub "m_hh_20_00_00_00" Feels soo good...♪
+
+//#sub m_hh_20_00_00_01 = しゅごいぃ……♪（すごいぃ - h_voice_mariko
+#sub "m_hh_20_00_00_01" Amazing...♪
+
+//#sub m_hh_20_00_00_02 = もっろぉ……♪（もっとぉ - h_voice_mariko
+#sub "m_hh_20_00_00_02" More...♪
+
+//#sub m_hh_20_00_00_03 = らめぇぇ……♪（ダメぇ - h_voice_mariko
+#sub "m_hh_20_00_00_03" Nooo...♪
+
+//#sub m_hh_20_00_00_04 = んん、しょこぉ……♪（そこぉ - h_voice_mariko
+#sub "m_hh_20_00_00_04" nnn...right there...♪
+
+//#sub m_hh_20_00_01_00 = きもひっいぃっ♪（気持ちいい - h_voice_mariko
+#sub "m_hh_20_00_01_00" Feels good♪
+
+//#sub m_hh_20_00_01_01 = しゅごいっにょぉっ（すごいのぉ - h_voice_mariko
+#sub "m_hh_20_00_01_01" So amazing
+
+//#sub m_hh_20_00_01_02 = もっろっもっろぉっ（もっともっと - h_voice_mariko
+#sub "m_hh_20_00_01_02" More...more
+
+//#sub m_hh_20_00_01_03 = らっめぇっ♪（ダメぇ - h_voice_mariko
+#sub "m_hh_20_00_01_03" Nooo♪
+
+//#sub m_hh_20_00_01_04 = あはっ、しゃいっこぉっ♪（最っ高 - h_voice_mariko
+#sub "m_hh_20_00_01_04" aha, this is the best♪
+
+//#sub m_hh_20_01_00_00 = ほりゃぁ……♪（ほらぁ - h_voice_mariko
+#sub "m_hh_20_01_00_00" Take this...♪
+
+//#sub m_hh_20_01_00_01 = ろーぉ……？（どぉ？ - h_voice_mariko
+#sub "m_hh_20_01_00_01" How is it...?
+
+//#sub m_hh_20_01_00_02 = きもひーれしょぉ……♪（気持ちいいでしょ？ - h_voice_mariko
+#sub "m_hh_20_01_00_02" Feels good?...♪
+
+//#sub m_hh_20_01_00_03 = にゃんらよぉ……♪（何だよぉ - h_voice_mariko
+#sub "m_hh_20_01_00_03" What?...♪
+
+//#sub m_hh_20_01_00_04 = らしてよぉ……♪（出してよぉ - h_voice_mariko
+#sub "m_hh_20_01_00_04" Let it out...♪
+
+//#sub m_hh_20_01_01_00 = ほっりゃぁっ♪（ほらぁ - h_voice_mariko
+#sub "m_hh_20_01_01_00" Take this♪
+
+//#sub m_hh_20_01_01_01 = ろぉっ、にゃのっ？（どぉなの？ - h_voice_mariko
+#sub "m_hh_20_01_01_01" How...is this?
+
+//#sub m_hh_20_01_01_02 = きもひっ、いーれしょっ？（気持ちいいでしょ？ - h_voice_mariko
+#sub "m_hh_20_01_01_02" Does it...feel good?
+
+//#sub m_hh_20_01_01_03 = にゃんっ、らよぉっ♪（何だよぉ - h_voice_mariko
+#sub "m_hh_20_01_01_03" What is it?...♪
+
+//#sub m_hh_20_01_01_04 = はやくっ、らしてよぉっ♪（早く出してよ - h_voice_mariko
+#sub "m_hh_20_01_01_04" Hurry up and let it out♪
+
+//#sub m_kn_00_02_03_00_00 = なんだよ、コレ……なんなんだよぉ…… - h_voice_mariko 
+#sub "m_kn_00_02_03_00_00" What is this...what is going on...
+
+//#sub m_kn_00_02_03_00_01 = こ、こんなの見せられたって、ボクは…… - h_voice_mariko 
+#sub "m_kn_00_02_03_00_01" E..Even if you show me this, I...
+
+//#sub m_kn_00_02_04_00_00 = ね、ねぇ、もうやめたげなよ…… - h_voice_mariko 
+#sub "m_kn_00_02_04_00_00" He..hey, please stop this already...
+
+//#sub m_kn_00_02_05_00_00 = んぐ、すっご…… - h_voice_mariko 
+#sub "m_kn_00_02_05_00_00" ngu, wow...
+
+//#sub m_kn_00_02_91_00_00 = これ、邪魔だよぉ…… - h_voice_mariko 
+#sub "m_kn_00_02_91_00_00" This...is a nuisance​...
+
+//#sub m_kn_00_02_91_00_01 = んむぅ、これ取ってよぉ…… - h_voice_mariko 
+#sub "m_kn_00_02_91_00_01" nmuuu, take this off...
+
+//#sub m_kn_00_04_03_00_00 = こ、こんなの見せられたって、ボクは…… - h_voice_mariko 
+#sub "m_kn_00_04_03_00_00" E..Even if you show me this, I...
+
+//#sub m_kn_00_04_03_00_01 = えっと、終わったの、かな……？ - h_voice_mariko 
+#sub "m_kn_00_04_03_00_01" Ummm, are you done...?
+
+//#sub m_kn_00_04_04_00_00 = もぉ、それ以上は無茶だよぉ…… - h_voice_mariko 
+#sub "m_kn_00_04_04_00_00" Come on, any more is unreasonable...
+
+//#sub m_kn_00_04_05_00_00 = ごく……あれが、雌の顔…… - h_voice_mariko 
+#sub "m_kn_00_04_05_00_00" *gulp*...that's, the face of a bitch...
+
+//#sub m_kn_00_04_91_00_00 = んん……ボクもああなっちゃうの……？ - h_voice_mariko 
+#sub "m_kn_00_04_91_00_00" Will I also fall like this...?
+
+//#sub m_kn_00_04_91_00_01 = んぐ、次は、ボク……？ - h_voice_mariko 
+#sub "m_kn_00_04_91_00_01" ngu, next is, me?
+
+//#sub m_kn_00_05_00_00_00 = うわっ、や、やめてよぉっ - h_voice_mariko 
+#sub "m_kn_00_05_00_00_00" uwaa, st..stop this
+
+//#sub m_kn_00_09_00_00_00 = うぅ…… - h_voice_mariko 
+#sub "m_kn_00_09_00_00_00" uuu
+
+//#sub m_kn_00_09_00_00_01 = ごく…… - h_voice_mariko 
+#sub "m_kn_00_09_00_00_01" *gulp*
+
+//#sub m_kn_00_09_00_00_02 = うわぁ…… - h_voice_mariko 
+#sub "m_kn_00_09_00_00_02" uwaa...
+
+//#sub m_kn_00_09_00_00_03 = はぁ…… - h_voice_mariko 
+#sub "m_kn_00_09_00_00_03" haaa...
+
+//#sub m_kn_00_09_00_00_04 = んん…… - h_voice_mariko 
+#sub "m_kn_00_09_00_00_04" nnn...
+
+//#sub m_kn_10_02_00_00_00 = ねぇ、ボクも混ざっていい？　ダメ？ - h_voice_mariko 
+#sub "m_kn_10_02_00_00_00" Hey, can I join in? No?
+
+//#sub m_kn_10_02_00_00_01 = もー、ボクも犯してよ～…… - h_voice_mariko 
+#sub "m_kn_10_02_00_00_01" Come on, fuck me too...
+
+//#sub m_kn_10_02_00_01_00 = はぁ、ボクもあんな風に、お尻ずぼずぼされたいなー……♪ - h_voice_mariko 
+#sub "m_kn_10_02_00_01_00" haaa, I want to be like that too, to have my ass rammed in...♪
+
+//#sub m_kn_10_02_00_01_01 = お尻気持ちいい？　ボクのと比べてみる？ - h_voice_mariko 
+#sub "m_kn_10_02_00_01_01" Does her ass feel good? How does it compare to mine?
+
+//#sub m_kn_10_02_01_00_00 = ねぇ、それ、オナニーとどっちが気持ちいいの？ - h_voice_mariko 
+#sub "m_kn_10_02_01_00_00" Hey, that, or mastubating, what feels better?
+
+//#sub m_kn_10_02_01_00_01 = うんうん、前戯は大事だしねー - h_voice_mariko 
+#sub "m_kn_10_02_01_00_01" unn unn, foreplay is important
+
+//#sub m_kn_10_02_03_00_00 = もぉ、見てるだけじゃつまんないよぉ…… - h_voice_mariko 
+#sub "m_kn_10_02_03_00_00" mmmm, just watching is no fun...
+
+//#sub m_kn_10_02_03_00_01 = あーあ、ボクも早くシたいなー - h_voice_mariko 
+#sub "m_kn_10_02_03_00_01" awww, I want to hurry up and do it
+
+//#sub m_kn_10_02_04_00_00 = ほーら、がんばれがんばれー♪ - h_voice_mariko 
+#sub "m_kn_10_02_04_00_00" Here, keep it up, keep it up♪
+
+//#sub m_kn_10_02_05_00_00 = いーなぁ、ボクもアヘアヘしたいなー♪ - h_voice_mariko 
+#sub "m_kn_10_02_05_00_00" So nice, I also want to be like ahaha♪
+
+//#sub m_kn_10_02_91_00_00 = んむぅ、見てるだけなんてぇ…… - h_voice_mariko 
+#sub "m_kn_10_02_91_00_00" nmuuu, only watching is....
+
+//#sub m_kn_10_02_91_00_01 = ボクも、ボクもーっ - h_voice_mariko 
+#sub "m_kn_10_02_91_00_01" Me too, me too
+
+//#sub m_kn_10_04_00_00_00 = ほら、イったんでしょ？　ボクと代わってよぉっ - h_voice_mariko 
+#sub "m_kn_10_04_00_00_00" See, didn't I tell you? Let me take over
+
+//#sub m_kn_10_04_00_01_00 = うんうんわかるよー、イくの気持ちいいもんねー♪ - h_voice_mariko 
+#sub "m_kn_10_04_00_01_00" unn unn I totally get it, cuming feels great♪
+
+//#sub m_kn_10_04_00_02_00 = ふん、ボクだってお尻でアクメ顔出来るもん…… - h_voice_mariko 
+#sub "m_kn_10_04_00_02_00" humph, I can also make an ahehehe face when doing it with my ass...
+
+//#sub m_kn_10_04_01_00_00 = いいなぁ……うぅ、ボクにも早く出してよぉ…… - h_voice_mariko 
+#sub "m_kn_10_04_01_00_00" So nice...uuu, hurry up and do me as well
+
+//#sub m_kn_10_04_01_01_00 = どぉ？　精液、子宮まで届いた？ - h_voice_mariko 
+#sub "m_kn_10_04_01_01_00" How was is? Did the semen make it to your womb?
+
+//#sub m_kn_10_04_01_02_00 = ねぇねぇ、今度はボクのお尻、試してみない？ - h_voice_mariko 
+#sub "m_kn_10_04_01_02_00" Hey hey, why don't you try out my ass next?
+
+//#sub m_kn_10_04_01_10_00 = んぅ、ビクビクしてるの見てたら、ボク…… - h_voice_mariko 
+#sub "m_kn_10_04_01_10_00" nuuu, If I see you twitching, then I...
+
+//#sub m_kn_10_04_01_11_00 = はぁぁ、精液の匂い……んん……♪ - h_voice_mariko 
+#sub "m_kn_10_04_01_11_00" haaaa, the smell of semen...nnn...♪
+
+//#sub m_kn_10_04_01_12_00 = 美味しい？　ねぇ、どんな味？　ねぇ～♪ - h_voice_mariko 
+#sub "m_kn_10_04_01_12_00" Delicious? Hey, what kind of taste? Hey♪
+
+//#sub m_kn_10_04_03_00_00 = さ、次はボクとセックスだよ！ - h_voice_mariko 
+#sub "m_kn_10_04_03_00_00" Now, next have sex with me!
+
+//#sub m_kn_10_04_03_00_01 = 終わった？　交代する？　 - h_voice_mariko 
+#sub "m_kn_10_04_03_00_01" Done? Time to switch?
+
+//#sub m_kn_10_04_04_00_00 = ねぇ、もー十分でしょ？　ボクとシよーよーっ - h_voice_mariko 
+#sub "m_kn_10_04_04_00_00" Hey, haven't you had enough? I want to do it
+
+//#sub m_kn_10_04_05_00_00 = そんなに気持ちよかったの？　アヘ顔晒すほど？　いいな～…… - h_voice_mariko 
+#sub "m_kn_10_04_05_00_00" Did it feel that great? Did you make an ahehehe face? so nice...
+
+//#sub m_kn_10_04_91_00_00 = ん、終わったのー？ - h_voice_mariko 
+#sub "m_kn_10_04_91_00_00" nn, done yet?
+
+//#sub m_kn_10_04_91_00_01 = ボクにもさせてよー - h_voice_mariko 
+#sub "m_kn_10_04_91_00_01" Let me do it too
+
+//#sub m_kn_10_05_00_00_00 = ふわっ、もー、かけるくらいならボクとシてよぉ…… - h_voice_mariko 
+#sub "m_kn_10_05_00_00_00" fuwa, come on, I can do better than that...
+
+//#sub m_kn_10_09_00_00_00 = ふふっ♪ - h_voice_mariko 
+#sub "m_kn_10_09_00_00_00" fu fu♪
+
+//#sub m_kn_10_09_00_00_01 = んぁ…… - h_voice_mariko 
+#sub "m_kn_10_09_00_00_01" nnn...
+
+//#sub m_kn_10_09_00_00_02 = あはっ♪ - h_voice_mariko 
+#sub "m_kn_10_09_00_00_02" aha♪
+
+//#sub m_kn_10_09_00_00_03 = んんぅ…… - h_voice_mariko 
+#sub "m_kn_10_09_00_00_03" nuuu...
+
+//#sub m_kn_10_09_00_00_04 = はぁぁ……♪ - h_voice_mariko 
+#sub "m_kn_10_09_00_00_04" haa...♪
+
+//#sub m_kn_11_02_00_00_00 = あーあ、ボクのオマンコの方がぜーったい気持ちいいと思うんだけどなー？ - h_voice_mariko 
+#sub "m_kn_11_02_00_00_00" awww, my pussy definitely feels a whole lot better, don't you think?
+
+//#sub m_kn_11_02_00_00_01 = ねーえぇ、ボクのオマンコも苛めてよぉ～…… - h_voice_mariko 
+#sub "m_kn_11_02_00_00_01" Heyyy, mess with my pussy too...
+
+//#sub m_kn_11_02_00_01_00 = ふーん、ボクだってアナルセックスくらいできますぅ～…… - h_voice_mariko 
+#sub "m_kn_11_02_00_01_00" humph, I can do anal just as well...
+
+//#sub m_kn_11_02_00_01_01 = アナルが犯されてるっていう背徳感が、またいいんだよね～♪ - h_voice_mariko 
+#sub "m_kn_11_02_00_01_01" Being fucked silly via anal, it's always nice♪
+
+//#sub m_kn_11_02_01_01_00 = ねぇ、しゃぶるよりオマンコで吸い出した方が気持ちよくない？ - h_voice_mariko 
+#sub "m_kn_11_02_01_01_00" Hey, doesn't feel better to have it sucked out with a pussy?
+
+//#sub m_kn_11_02_01_01_01 = ボクもオチンチン生えてたら、お口マンコの気持ちよさが分かるんだろうけどな～ - h_voice_mariko 
+#sub "m_kn_11_02_01_01_01" If only I could grow a cock, then I'll be able to understand how good a mouth pussy feels
+
+//#sub m_kn_11_02_01_02_00 = ボクもオチンチン舐めたーいっ - h_voice_mariko 
+#sub "m_kn_11_02_01_02_00" I also want to lick your cock
+
+//#sub m_kn_11_02_01_02_01 = もぉ、オチンチン舐めるのは犬であるボクの役目だと思うんだけどなぁ…… - h_voice_mariko 
+#sub "m_kn_11_02_01_02_01" Come on, you're licking that cock as if you were a dog...
+
+//#sub m_kn_11_02_01_03_00 = オチンチン、どのシコシコが好きなのかな～？ - h_voice_mariko 
+#sub "m_kn_11_02_01_03_00" Mr. cock, what type of rubbing do you like?
+
+//#sub m_kn_11_02_01_03_01 = ねぇ、どれだけオチンチンの匂い染みついたか、あとで嗅がせて？ - h_voice_mariko 
+#sub "m_kn_11_02_01_03_01" Hey, what does the cock smell like, let me sniff it later, ok?
+
+//#sub m_kn_11_04_00_01_00 = イきマンコいいなぁ……ボクもオマンコ、イきたいよぉ…… - h_voice_mariko 
+#sub "m_kn_11_04_00_01_00" Cuming with your pussy looks so nice...I also want to cum with my pussy...
+
+//#sub m_kn_11_04_00_02_00 = うぅ、ボクのアナルも、犬みたいに犯されたがってるんだよぉ…… - h_voice_mariko 
+#sub "m_kn_11_04_00_02_00" uuu, I also want to be fucked in the ass like a dog...
+
+//#sub m_kn_11_04_01_01_00 = ね、今度はボクのオマンコでイこうよ、ね？　ね？ - h_voice_mariko 
+#sub "m_kn_11_04_01_01_00" Hey, do it with my pussy next, you hear? Listening?
+
+//#sub m_kn_11_04_01_02_00 = ボクのアナルも、肉便所として使って欲しいんだけどなぁ…… - h_voice_mariko 
+#sub "m_kn_11_04_01_02_00" I also want you to use my ass as a meat toilet...
+
+//#sub m_kn_11_04_01_11_00 = ねぇ、そのオチンチンミルク舐めとっていい？ - h_voice_mariko 
+#sub "m_kn_11_04_01_11_00" Hey, can I also lick your cock milk?
+
+//#sub m_kn_11_04_01_12_00 = オチンチンまだ出る？　ボクも口マンコ使っていい？ - h_voice_mariko 
+#sub "m_kn_11_04_01_12_00" Your cock still hasn't cum? Would you like to use my mouth pussy?

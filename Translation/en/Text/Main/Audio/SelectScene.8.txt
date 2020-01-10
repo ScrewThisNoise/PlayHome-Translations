@@ -1,0 +1,45 @@
+﻿// Translated by Aria#1551 based on audio alone
+
+#sub "CharaSelect_F00_A00" keh ... I understand
+#sub "CharaSelect_F00_A01" Just do what you want
+#sub "CharaSelect_F00_B00" Why me?
+#sub "CharaSelect_F00_B01" No ... more
+#sub "CharaSelect_F00_ContinuousA" Come on
+#sub "CharaSelect_F00_ContinuousB" Again ... me?
+#sub "CharaSelect_F00_EventA" Who whould ever give in to you!?
+#sub "CharaSelect_F00_EventB" ... Just end it
+#sub "CharaSelect_F00_GagA" You ... let me go!
+#sub "CharaSelect_F00_GagB" Hurry up already
+
+#sub "CharaSelect_F01_A00" me?
+#sub "CharaSelect_F01_A01" wah ... I understand
+#sub "CharaSelect_F01_B00" Yesss
+#sub "CharaSelect_F01_B01" Guess it can't be helped
+#sub "CharaSelect_F01_ContinuousA" We're doing it again?
+#sub "CharaSelect_F01_ContinuousB" aww...You like me alot, right
+#sub "CharaSelect_F01_EventA" I'm tired already
+#sub "CharaSelect_F01_EventB" Haah...I wonder if papa whould hurry up and come back already
+#sub "CharaSelect_F01_GagA" mmm ... no?
+#sub "CharaSelect_F01_GagB" mmm ... let me go!
+
+#sub "CharaSelect_F02_A00" I understand
+#sub "CharaSelect_F02_A01" If you're fine with me
+#sub "CharaSelect_F02_B00" tehehe...leave it to me
+#sub "CharaSelect_F02_B01" Oh...I wonder if you'll choose me?
+#sub "CharaSelect_F02_ContinuousA" Why me
+#sub "CharaSelect_F02_ContinuousB" tehehe...you're choosing me?
+#sub "CharaSelect_F02_EventA"  Any more than this and I'll...
+#sub "CharaSelect_F02_EventB" I wonder if it's time for him to come back
+#sub "CharaSelect_F02_GagA" this..release me please
+#sub "CharaSelect_F02_GagB" This is fun
+
+#sub "CharaSelect_F03_A00" Eh...me?
+#sub "CharaSelect_F03_A01" uuuu...I understand
+#sub "CharaSelect_F03_B00" lets go lets go
+#sub "CharaSelect_F03_B01" ehe...just leave it to me
+#sub "CharaSelect_F03_ContinuousA" Eh...me again
+#sub "CharaSelect_F03_ContinuousB" I'm ready to go
+#sub "CharaSelect_F03_EventA"  I'm...
+#sub "CharaSelect_F03_EventB" ehehe...I'm ready
+#sub "CharaSelect_F03_GagA" relese me
+#sub "CharaSelect_F03_GagB" This is....

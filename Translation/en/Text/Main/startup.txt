@@ -1,0 +1,1 @@
+ゲームを開始する前に、律子の変更を適用しますか？\n(ゲームで使用する場合は変更を適用する必要があります。\n適用しない場合、カスタム画面が開かれる前の状態に戻り\n現在のキャラはカードとして保存していない場合は失われます)=Apply Ritsuko's changes before starting the game? (If you use it in a game, you need to apply the changes. Otherwise, you will return to the state before the custom screen was opened and the current character will be lost if you have not saved it as a card)

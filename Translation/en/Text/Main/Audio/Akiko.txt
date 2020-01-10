@@ -1,0 +1,2647 @@
+// Translated by Aria#1551
+
+//#sub a_hs_90_00_00_00_00 = い、や……やだよ、こんなの……やだぁ……っ - h_voice_akiko 
+#sub "a_hs_90_00_00_00_00" No, I...I don't want to...this...I can't...
+
+//#sub a_hs_90_00_04_00_00 = うぅ、怖いよぉ……っ - h_voice_akiko 
+#sub "a_hs_90_00_04_00_00" uuuu, I'm scared...
+
+//#sub a_hs_90_00_04_02_00 = んぶ、おえぇ…… - h_voice_akiko 
+#sub "a_hs_90_00_04_02_00" nn...oy...
+
+//#sub a_hs_90_00_91_00_00 = やだよぉ……っ - h_voice_akiko 
+#sub "a_hs_90_00_91_00_00" I don't want to...
+
+//#sub a_hs_90_02_03_00_00 = おごぇ……ばっちぃよぉ…… - h_voice_akiko 
+#sub "a_hs_90_02_03_00_00" mmmggg...fine...mmmggg
+
+//#sub a_hs_90_02_03_00_10 = おぼっ、ぶっ、くるしっ、おごっ、おごっ、たすけっ、んぶっ、ぶぅぅっ - h_voice_akiko 
+#sub "a_hs_90_02_03_00_10" mmmggg...painful...help me...mmmggg
+
+//#sub a_hs_90_02_05_00_00 = やめ、て、んぐっ、うぅ……やめてよぉ……っ - h_voice_akiko 
+#sub "a_hs_90_02_05_00_00" Stop it...nnnn...please stop...
+
+//#sub a_hs_90_02_05_00_10 = なんっでっ、アダシっ、あぐっ、うっ、なんっでぇっ - h_voice_akiko 
+#sub "a_hs_90_02_05_00_10" Why am...I...why...
+
+//#sub a_hs_90_02_05_01_00 = いっぎっ、痛っ、痛いっ、よぉ……っ - h_voice_akiko 
+#sub "a_hs_90_02_05_01_00" igiii...it hurts...
+
+//#sub a_hs_90_02_05_01_10 = やっがっ、あ゛っ、ごわれっ、るっ、んぎっ、ごわれじゃうぅっ！ - h_voice_akiko 
+#sub "a_hs_90_02_05_01_10" yaggaaa...I'm breaking...I'm gonna break!
+
+//#sub a_hs_90_02_15_00_00 = ひう、うう……アタシ、どーなっちゃうの？　んはぅ…… - h_voice_akiko 
+#sub "a_hs_90_02_15_00_00" hiuuu...I, what's going to happen to me? nnn...
+
+//#sub a_hs_90_02_15_00_10 = あうっ、うっ、もぉっ、ゆるしてっ、よぉっ、くぅっ - h_voice_akiko 
+#sub "a_hs_90_02_15_00_10" uuuuu...please, forgive me...uuuu
+
+//#sub a_hs_90_02_20_00_00 = うぐ……おねえ、ちゃん、あっぐっ、おねえちゃぁん……っ - h_voice_akiko 
+#sub "a_hs_90_02_20_00_00" uuguuu...onee-chan...uuguu...onee-chan...
+
+//#sub a_hs_90_02_20_00_10 = だずっ、げでっ、いぎっ、おね゛ぇっ、ぢゃぁんっ！ - h_voice_akiko 
+#sub "a_hs_90_02_20_00_10" Sa..ve...me...onee..-chan!
+
+//#sub a_hs_90_02_20_03_00 = おごぅ……気持ち悪いぃ……んぼぉ…… - h_voice_akiko 
+#sub "a_hs_90_02_20_03_00" mmmggg...this feels sick...mmmggg
+
+//#sub a_hs_90_02_20_03_10 = えぶっ、おっ、ぶっ、くるっ、しぃっ、んぼぅっ - h_voice_akiko 
+#sub "a_hs_90_02_20_03_10" mmmggg...pain..ful...mmmggg
+
+//#sub a_hs_90_02_91_00_00 = うぅ、嫌ぁ……っ - h_voice_akiko 
+#sub "a_hs_90_02_91_00_00" mmmggg...no
+
+//#sub a_hs_90_02_91_00_10 = やっ、やめてぇっ - h_voice_akiko 
+#sub "a_hs_90_02_91_00_10" mmmggg...stop...stop
+
+//#sub a_hs_90_03_00_01_00 = やだっ、あぁっ、やっ、ダメなのっ、あぐっ、あっ、やっ、ダメっ、ダメぇぇぇっ！ - h_voice_akiko 
+#sub "a_hs_90_03_00_01_00" No...ahhh...don't do it...don't...don'tttt!
+
+//#sub a_hs_90_03_01_00_00 = やっ、出しちゃやぁっ、んぁっ、ぐっ、やだっ、やだぁぁっ！ - h_voice_akiko 
+#sub "a_hs_90_03_01_00_00" No...don't let it out...no...noooo!
+
+//#sub a_hs_90_03_02_01_00 = んぼっ、げっうっ、やっぶぼっ、やだっ、んぶっ、やだっ、んごっ、おっ、えぼっ - h_voice_akiko 
+#sub "a_hs_90_03_02_01_00" mmmggg...don't...don't...don't
+
+//#sub a_hs_90_04_00_00_00 = はっ、ふっ、なん、で、んぐっ、痛い、のに、んんっ、こん、なぁ…… - h_voice_akiko 
+#sub "a_hs_90_04_00_00_00" haaa...w..why...it hurts...nnn...this...
+
+//#sub a_hs_90_04_01_01_00 = やだよぉ……うぐ、赤ちゃんが、ぐすっ、赤ちゃんがぁ…… - h_voice_akiko 
+#sub "a_hs_90_04_01_01_00" I don't want to....uuu...have a baby...a baby...
+
+//#sub a_hs_90_04_01_02_00 = うぐうう……お腹゛、ぐるしぃよぉ…… - h_voice_akiko 
+#sub "a_hs_90_04_01_02_00" uugguuu...my stomach, it hurts...
+
+//#sub a_hs_90_04_02_01_00 = けほっ、こんなの、飲めないよぉ……っ - h_voice_akiko 
+#sub "a_hs_90_04_02_01_00" *cough* *couch* this *cough* I can't swallow it
+
+//#sub a_hs_90_04_03_00_00 = んうぅ……変な匂い……やだぁ……っ - h_voice_akiko 
+#sub "a_hs_90_04_03_00_00" uuuu...weird smell...noo...
+
+//#sub a_hs_90_04_05_00_00 = ひぐっ、やだぁ……もぉ、やだよぉ…… - h_voice_akiko 
+#sub "a_hs_90_04_05_00_00" hiiguu...no more...please, no more...
+
+//#sub a_hs_90_05_00_02_00 = ふぐっ、う、こんなに、出て……うぅ、嫌ぁ……っ - h_voice_akiko 
+#sub "a_hs_90_05_00_02_00" fuuguuu...so much, came out...uuu...nooooo...
+
+//#sub a_hs_90_05_00_03_00 = あうぅ……み、見ないで、よぉ……んぅ…… - h_voice_akiko 
+#sub "a_hs_90_05_00_03_00" uuuu...do..don't look at me...uuuu...
+
+//#sub a_hs_90_06_00_00_00 = なん、で……どうして、こんな事するのぉ…… - h_voice_akiko 
+#sub "a_hs_90_06_00_00_00" Why...why are you doing this...
+
+//#sub a_hs_90_06_91_00_00 = アタシ、何が……うぅ…… - h_voice_akiko 
+#sub "a_hs_90_06_91_00_00" I, what is this...uuu...
+
+//#sub a_hs_00_00_00_00_00 = は、はい……がんばり、ます…… - h_voice_akiko 
+#sub "a_hs_00_00_00_00_00" Y..Yes...I'll do my best...
+
+//#sub a_hs_00_00_00_00_01 = あの……どうすれば、満足してくれるんですか……？ - h_voice_akiko 
+#sub "a_hs_00_00_00_00_01" Um...how would you...like to be pleased...?
+
+//#sub a_hs_00_00_01_00_00 = …………え？　だって、いつもココでするから…… - h_voice_akiko 
+#sub "a_hs_00_00_01_00_00" ...Huh? But, we always do it here...
+
+//#sub a_hs_00_00_02_00_00 = あ、あんまり部屋、汚してほしくない、かも…… - h_voice_akiko 
+#sub "a_hs_00_00_02_00_00" This..this room, I don't want to dirty it...
+
+//#sub a_hs_00_00_02_01_00 = き、近所迷惑にならないかな…… - h_voice_akiko 
+#sub "a_hs_00_00_02_01_00" We..we're going to end up bothering the neighbors... 
+
+//#sub a_hs_00_00_02_02_00 = こ、こんなとこ、ばっちいよぉ…… - h_voice_akiko 
+#sub "a_hs_00_00_02_02_00" Do..doing it here...is dirty...
+
+//#sub a_hs_00_00_02_03_00 = うぅ、狭いよぉ…… - h_voice_akiko 
+#sub "a_hs_00_00_02_03_00" uuu...it's cramped...
+
+//#sub a_hs_00_00_03_00_00 = うぅ、見られるの、恥ずかしいよぉ……っ - h_voice_akiko 
+#sub "a_hs_00_00_03_00_00" uuu...anyone can see, it's embarrassing...
+
+//#sub a_hs_00_00_03_01_00 = ぱ、パパ……待って、落ち着いて、ね……？ - h_voice_akiko 
+#sub "a_hs_00_00_03_01_00" Pa..papa...wait a second, calm down, ok...?
+
+//#sub a_hs_00_00_03_02_00 = うぅ、一人じゃ、ないんだ…… - h_voice_akiko 
+#sub "a_hs_00_00_03_02_00" uuu...we're not...alone...
+
+//#sub a_hs_00_00_04_00_00 = ど、どうしたの……？ - h_voice_akiko 
+#sub "a_hs_00_00_04_00_00" Wha...what's wrong...?
+
+//#sub a_hs_00_00_04_01_00 = ま、まだシちゃダメなの……？ - h_voice_akiko 
+#sub "a_hs_00_00_04_01_00" Is..is this still not good...?
+
+//#sub a_hs_00_00_04_02_00 = あご、疲れる…… - h_voice_akiko 
+#sub "a_hs_00_00_04_02_00" Jaw, tired...
+
+//#sub a_hs_00_00_91_00_00 = どうするの……？ - h_voice_akiko 
+#sub "a_hs_00_00_91_00_00" What should I do...?
+
+//#sub a_hs_00_01_00_00_00 = また……挿れるんだ…… - h_voice_akiko 
+#sub "a_hs_00_01_00_00_00" Again...you're going to put it in...
+
+//#sub a_hs_00_01_00_00_01 = どうしてそこばっかり…… - h_voice_akiko 
+#sub "a_hs_00_01_00_00_01" Why there of all places...
+
+//#sub a_hs_00_01_00_01_00 = そ、そこは……うぅ、やだ、やだよぉ……っ - h_voice_akiko 
+#sub "a_hs_00_01_00_01_00" The...there...uuu...I don't...I don't want to...
+
+//#sub a_hs_00_01_01_00_00 = お、お尻……使うの……？ - h_voice_akiko 
+#sub "a_hs_00_01_01_00_00" You going to use...my butt...?
+
+//#sub a_hs_00_01_01_00_01 = そ、そんなとこ、汚いよぉ……っ - h_voice_akiko 
+#sub "a_hs_00_01_01_00_01" Not there, it's dirty...
+
+//#sub a_hs_00_01_01_01_00 = む、無理だよぉ、そんなおっきいの、お尻なんかに……っ - h_voice_akiko 
+#sub "a_hs_00_01_01_01_00" It's..it's impossible, something that big, can't fit in my butt...
+
+//#sub a_hs_00_01_02_00_00 = んぅ、痛く、しないで…… - h_voice_akiko 
+#sub "a_hs_00_01_02_00_00" nuuu...please don't, make it hurt...
+
+//#sub a_hs_00_01_02_00_01 = う……触るの……？ - h_voice_akiko 
+#sub "a_hs_00_01_02_00_01" uuu...touch it...?
+
+//#sub a_hs_00_01_02_01_00 = し、しろって言ったって、こんな恥ずかしい事……うぅ…… - h_voice_akiko 
+#sub "a_hs_00_01_02_01_00" Eve..even if you say that, this is really embarrassing...
+
+//#sub a_hs_00_01_02_02_00 = うぅ、そんなの挿れるの……？ - h_voice_akiko 
+#sub "a_hs_00_01_02_02_00" uuu...are you putting it in...?
+
+//#sub a_hs_00_01_03_00_00 = えっと、コレをしたら、満足してくれるの……？ - h_voice_akiko 
+#sub "a_hs_00_01_03_00_00" Umm, if I do it like this, will you be satisfied...?
+
+//#sub a_hs_00_01_03_00_01 = これを……気持ちよくさせればいいの……？ - h_voice_akiko 
+#sub "a_hs_00_01_03_00_01" This is...if I do it like this, does it feel good?
+
+//#sub a_hs_00_01_03_01_00 = ふぇ、フェラチオ、しろって事……だよね？ - h_voice_akiko 
+#sub "a_hs_00_01_03_01_00" Fe..fellatio, I do it like this...isn't that right?
+
+//#sub a_hs_00_01_04_00_00 = や、やっぱりアタシもシなきゃダメ……なんだよね…… - h_voice_akiko 
+#sub "a_hs_00_01_04_00_00" Af..after all, you don't have to worry about me...isn't that so...
+
+//#sub a_hs_00_02_00_01_00 = んんっ、ごめんなさいっ……勝手に、吸い付いちゃって……んぁ…… - h_voice_akiko 
+#sub "a_hs_00_02_00_01_00" nnn...I'm sorry...for doing it myself...nnn...
+
+//#sub a_hs_00_02_00_01_10 = はひっ、んぁっ、中っ、いっぱいっ、んんっ、こすれてっ、ますぅっ - h_voice_akiko 
+#sub "a_hs_00_02_00_01_10" ahhhh...inside...it's rubbing...a lot
+
+//#sub a_hs_00_02_00_02_00 = ぐ、うぅ……んん、まだ、大丈夫、です……ぁぐ…… - h_voice_akiko 
+#sub "a_hs_00_02_00_02_00" guuuu...I'm still ok...ahh...
+
+//#sub a_hs_00_02_00_02_10 = んぐっ、うぁっ、痛くてっ、熱いのにっ、つっ、んぁっ、あっ - h_voice_akiko 
+#sub "a_hs_00_02_00_02_10" ahhhh...it hurts...its hot...ahhhh
+
+//#sub a_hs_00_02_00_03_00 = あぐ、うぅ……結局、こうなっちゃうんだ、んぐ…… - h_voice_akiko 
+#sub "a_hs_00_02_00_03_00" ahhh...in the end, it'll turns out like this...
+
+//#sub a_hs_00_02_00_03_10 = 痛っ、痛いっ、んぎっ、痛いっからぁっ！ - h_voice_akiko 
+#sub "a_hs_00_02_00_03_10" ahh..it hurts...it hurts...nnn...it hurtsss!
+
+//#sub a_hs_00_02_01_01_00 = うぅ、んぁ……そんな、汚いとこなのに、んあぁ……っ - h_voice_akiko 
+#sub "a_hs_00_02_01_01_00" uuuu...even though...this is dirty...ahhh
+
+//#sub a_hs_00_02_01_01_10 = んやっ、あっ、はいっ、んぁっ、お尻っ、気持ちいいっ、ですっ、んひっ - h_voice_akiko 
+#sub "a_hs_00_02_01_01_10" ahhh...my butt...feels good...ahhh
+
+//#sub a_hs_00_02_01_02_00 = くぅっ、お尻、なのに……んぐっ、変な、感じ……ぁう…… - h_voice_akiko 
+#sub "a_hs_00_02_01_02_00" kuuuu...my butt...why does it...feels weird...ahh
+
+//#sub a_hs_00_02_01_02_10 = やっめっ、あぎっ、あっ、おしっ、お尻っ、おがしくっ、な゛るっ、ぎっ、んぁっ - h_voice_akiko 
+#sub "a_hs_00_02_01_02_10" Stop...ahhh...my butt...this is strange...ahhh
+
+//#sub a_hs_00_02_01_03_00 = ふぐ、は、はい、う、お尻、んぐ、きつくて、苦しい、です…… - h_voice_akiko 
+#sub "a_hs_00_02_01_03_00" uuu...yes...my butt...nnn...tight...painful...
+
+//#sub a_hs_00_02_01_03_10 = うぐっ、あ゛っ、あ゛っ、裂けっ、ちゃうぅっ、ぎぅっ！ - h_voice_akiko 
+#sub "a_hs_00_02_01_03_10" ahhhhh...it's tearingggg!
+
+//#sub a_hs_00_02_02_00_00 = や……ん、変な、触り方…… - h_voice_akiko 
+#sub "a_hs_00_02_02_00_00" No...it's weird...touching it...
+
+//#sub a_hs_00_02_02_00_10 = やっ、ダメっ、んっ、ジンジンっ、してきてっ、んぁっ - h_voice_akiko 
+#sub "a_hs_00_02_02_00_10" No...don't...its throbing, cuming...ahh
+
+//#sub a_hs_00_02_02_03_00 = あぅ……やだぁ、んん……見ないで、よぉ…… - h_voice_akiko 
+#sub "a_hs_00_02_02_03_00" ahhh...don't...look at me...
+
+//#sub a_hs_00_02_02_03_10 = んうぅっ、だってっ、んぁっ、こうしろってっ、言うからぁっ - h_voice_akiko 
+#sub "a_hs_00_02_02_03_10" nuuuu...but...you told me to do it like this
+
+//#sub a_hs_00_02_02_06_00 = なんか、んん……変な感じ、するよぉ…… - h_voice_akiko 
+#sub "a_hs_00_02_02_06_00" Something...nnn...feel weird...
+
+//#sub a_hs_00_02_02_06_10 = ずるいっ、よぉっ、んぁっ、そんなのっ、んっ、使うなんてぇっ - h_voice_akiko 
+#sub "a_hs_00_02_02_06_10" This is unfair...nnn...don't do something like that
+
+//#sub a_hs_00_02_03_00_00 = んぶぇ……んむ、変な味……んぶ…… - h_voice_akiko 
+#sub "a_hs_00_02_03_00_00" mmmggg...weird taste...mmmggg...
+
+//#sub a_hs_00_02_03_00_10 = ぶぶっ、んごっ、そんなっ、んぶっ、暴れないでっ、おごっ、ごふっ - h_voice_akiko 
+#sub "a_hs_00_02_03_00_10" mmmggg...don't...move it around...mmmggg
+
+//#sub a_hs_00_02_03_03_00 = んうぅ……おっぱい、熱いよぉ……っ - h_voice_akiko 
+#sub "a_hs_00_02_03_03_00" uuuu...boobs...it hot...
+
+//#sub a_hs_00_02_03_03_10 = こんなのっ、んっ、わざわざっ、おっぱいでっ、しなくてもぉっ - h_voice_akiko 
+#sub "a_hs_00_02_03_03_10" This is...going to...all the trouble...to use my boobs
+
+//#sub a_hs_00_02_04_00_00 = んぅっ……パパが、こんな風に、んぁっ、なるなんて…… - h_voice_akiko 
+#sub "a_hs_00_02_04_00_00" ahhh...papa, doing it like this is...
+
+//#sub a_hs_00_02_04_00_10 = やっ、んんっ、パパっ、落ち着いてっ、よぉっ、んくっ、うっ - h_voice_akiko 
+#sub "a_hs_00_02_04_00_10" No...papa...please calm down...ahhhh
+
+//#sub a_hs_00_02_04_01_00 = パパ、苦しそう……んっ、でも、気持ちよさそう…… - h_voice_akiko 
+#sub "a_hs_00_02_04_01_00" papa...this hurts...but...it also feels good...
+
+//#sub a_hs_00_02_04_01_10 = 待っててっ、んっ、アタシがっ、楽にっ、してあげるからっ、んんっ - h_voice_akiko 
+#sub "a_hs_00_02_04_01_10" Wait a moment...nnn...I'll make this easier...ahhh
+
+//#sub a_hs_00_02_10_00_00 = ぁん……だめ……声、出ちゃう……んぁ…… - h_voice_akiko 
+#sub "a_hs_00_02_10_00_00" ahhh...don't...my voice will leak...
+
+//#sub a_hs_00_02_10_00_01 = やっ、ん……我慢、しなきゃ……ぁぅ…… - h_voice_akiko 
+#sub "a_hs_00_02_10_00_01" No...nnn...endure it, I have to...ahhh
+
+//#sub a_hs_00_02_10_00_10 = んっ、ぁっ、どうしてっ、んんっ、気持ちいいのっ？　んぁっ、あっ - h_voice_akiko 
+#sub "a_hs_00_02_10_00_10" ahhh...why...does this feel good?...ahhh
+
+//#sub a_hs_00_02_10_00_11 = やっあっ、そんなっ激しくっ、しないでぇっ、んぁぁっ - h_voice_akiko 
+#sub "a_hs_00_02_10_00_11" No...please...don't do it so intensely...ahhh
+
+//#sub a_hs_00_02_10_01_00 = んぅ……あの、んんっ……まだ、するの……？ - h_voice_akiko 
+#sub "a_hs_00_02_10_01_00" uuuu...um...are you still not done...?
+
+//#sub a_hs_00_02_10_01_01 = ぁう……まだ、終わらないの……？ - h_voice_akiko 
+#sub "a_hs_00_02_10_01_01" uuuu...is it not over yet...?
+
+//#sub a_hs_00_02_10_01_10 = やっ、あっ、こんなのっ、気持よくっ、ないぃっ、んぐっ、うぅっ - h_voice_akiko 
+#sub "a_hs_00_02_10_01_10" No...ahhh...this...doesn't...feel good...ahhh
+
+//#sub a_hs_00_02_10_01_11 = うっ、んぅっ、ちがっ、んんっ、そこじゃっ、ないのにっ、んうぅっ - h_voice_akiko 
+#sub "a_hs_00_02_10_01_11" uuuu...you're wrong...there's nothing there...ahhhh
+
+//#sub a_hs_00_02_11_00_00 = んぁっ、ん……だってこれ、きもちーんだもん……んぅ…… - h_voice_akiko 
+#sub "a_hs_00_02_11_00_00" nnnn...even this...feels good...nnnn...
+
+//#sub a_hs_00_02_11_00_10 = んやっ、あっ、んっ、やめたくっ、ないのぉっ、んぁっ - h_voice_akiko 
+#sub "a_hs_00_02_11_00_10" No...I don't want to...stop...ahhh
+
+//#sub a_hs_00_02_11_01_00 = んぅ……なんか……ううん、何でもない……ぁう…… - h_voice_akiko 
+#sub "a_hs_00_02_11_01_00" uuu...something...nnn...it's nothing...aaa...
+
+//#sub a_hs_00_02_11_01_10 = んっ、これっ、んんっ、思ったよりっ、んっ、うっ - h_voice_akiko 
+#sub "a_hs_00_02_11_01_10" nnn...this...is more than I thought...
+
+//#sub a_hs_00_02_13_00_00 = あ……これ、気持ちいいんだ…… - h_voice_akiko 
+#sub "a_hs_00_02_13_00_00" ahh...this, is feeling good...
+
+//#sub a_hs_00_02_13_00_01 = ん……あ、びくってした…… - h_voice_akiko 
+#sub "a_hs_00_02_13_00_01" nnn...ah, that surprised me...
+
+//#sub a_hs_00_02_13_00_10 = んんっ、これっ、続ければっ、いいのっ？ - h_voice_akiko 
+#sub "a_hs_00_02_13_00_10" nnn...this pace...is it fine?
+
+//#sub a_hs_00_02_13_00_11 = んっ、まだっ、出ないのっ？　痛くっ、ないのっ？ - h_voice_akiko 
+#sub "a_hs_00_02_13_00_11" nn...not cuming yet? does it not hurt?
+
+//#sub a_hs_00_02_13_01_00 = え……気持ちよく、ないの……？ - h_voice_akiko 
+#sub "a_hs_00_02_13_01_00" Eh...does it not feel good...?
+
+//#sub a_hs_00_02_13_01_01 = んぅ……そんなの、わかんないよぉ…… - h_voice_akiko 
+#sub "a_hs_00_02_13_01_01" uuu...this, how am I supposed to know...
+
+//#sub a_hs_00_02_13_01_10 = やっ、んっ、ちゃんとやるっ、からぁっ - h_voice_akiko 
+#sub "a_hs_00_02_13_01_10" No...nnnn...I'll do it properly
+
+//#sub a_hs_00_02_13_01_11 = えっ、んんっ、こうすればっ、いいんじゃないのっ？ - h_voice_akiko 
+#sub "a_hs_00_02_13_01_11" Eh...like this, is it not good?
+
+//#sub a_hs_00_02_14_00_00 = ちろ、れろ……こんにゃのれ、いーにょ……？（こんなのでいーの？ - h_voice_akiko 
+#sub "a_hs_00_02_14_00_00" mmmggg...is this fine...mmmggg...?
+
+//#sub a_hs_00_02_14_00_10 = じゅるっ、りゅっ、んんっ、いっふぁいっ、れてくりゅよぉっ、ちゅづっ（いっぱい出てくるよ - h_voice_akiko 
+#sub "a_hs_00_02_14_00_10" mmmggg...a lot...will come out...mmmggg
+
+//#sub a_hs_00_02_14_01_00 = ちろ……んん、ろぉ、にゃめればいいにょぉ……？（どう舐めればいいの？ - h_voice_akiko 
+#sub "a_hs_00_02_14_01_00" mmmggg...how should I lick it...?
+
+//#sub a_hs_00_02_14_01_10 = はふっ、ちゅるっ、んっ、ふちゅうにっ、ひちゃっ、えろっ、らめなのっ？（普通にしちゃだめなの？ - h_voice_akiko 
+#sub "a_hs_00_02_14_01_10" mmmggg...is this not the right way?
+
+//#sub a_hs_00_02_15_00_00 = はぁっ、んっ……もう、無理ぃ……はう…… - h_voice_akiko 
+#sub "a_hs_00_02_15_00_00" haaa...no more...I can't...haa...
+
+//#sub a_hs_00_02_15_00_10 = んぁっ、だめっ、はくっ、力っ、はいんないっ、のにぃっ、ぁんっ - h_voice_akiko 
+#sub "a_hs_00_02_15_00_10" ahhh...don't...strength...don't have any left...ahhh
+
+//#sub a_hs_00_02_20_00_00 = んやっ、んん……見ちゃ、やぁ……んぅ…… - h_voice_akiko 
+#sub "a_hs_00_02_20_00_00" nnn...no...don't look...uuu...
+
+//#sub a_hs_00_02_20_00_10 = やだっ、んぁっ、見ないでぇっ、あっ、んぁっ - h_voice_akiko 
+#sub "a_hs_00_02_20_00_10" Stop...ahhh...don't look at me...ahhh
+
+//#sub a_hs_00_02_20_01_00 = んぅ……見ちゃ、ダメぇ……っ - h_voice_akiko 
+#sub "a_hs_00_02_20_01_00" uuuu...looking, please don't...
+
+//#sub a_hs_00_02_20_01_10 = やっ、んっ、見ないでぇっ、んんっ - h_voice_akiko 
+#sub "a_hs_00_02_20_01_10" No...nnn...don't look at me
+
+//#sub a_hs_00_02_20_02_00 = ちろ……ん、みにゃいれぇ……えろ……（見ないで - h_voice_akiko 
+#sub "a_hs_00_02_20_02_00" mmmggg...don't look...
+
+//#sub a_hs_00_02_20_02_10 = れろっ、やっ、んりゅっ、みにゃいっ、れっ、んちゅるっ（見ないで - h_voice_akiko 
+#sub "a_hs_00_02_20_02_10" mmmggg...don't...look...mmmggg
+
+//#sub a_hs_00_02_20_03_00 = んぶぅ……んもっ、見ないで……えぶ…… - h_voice_akiko 
+#sub "a_hs_00_02_20_03_00" mmmggg...please...don't look...mmmggg
+
+//#sub a_hs_00_02_20_03_10 = おごっ、ぶっ、見なっ、いでっ、んぶぶっ、っぷあっ - h_voice_akiko 
+#sub "a_hs_00_02_20_03_10" mmmggg...don't...look...mmmggg
+
+//#sub a_hs_00_02_91_00_00 = どうして…… - h_voice_akiko 
+#sub "a_hs_00_02_91_00_00" Why...
+
+//#sub a_hs_00_02_91_00_10 = んう、そんなぁっ - h_voice_akiko 
+#sub "a_hs_00_02_91_00_10" nn, no way
+
+//#sub a_hs_00_03_00_00_00 = だめっ、んぁっ、やっ、あっ、イっちゃうっ、んんっ、イっちゃう、からぁぁぁっ！ - h_voice_akiko 
+#sub "a_hs_00_03_00_00_00" Don't...nnnn...no...cuming...gonna cummmmm!
+
+//#sub a_hs_00_03_00_00_01 = やっ、あっ、んあっ、気持ちいいのっ、きちゃうっ、んぁっ、あっ、きちゃうぅぅ！ - h_voice_akiko 
+#sub "a_hs_00_03_00_00_01" No...ahhh...feels good...cuming...cumingggg!
+
+//#sub a_hs_00_03_00_01_10 = んあっ、あんっ、こんなのっ、やんっ、我慢っ、出来る訳っ、ないよぉぉぉっ！ - h_voice_akiko 
+#sub "a_hs_00_03_00_01_10" ahhh...this...there's no way I can endure itttttt!
+
+//#sub a_hs_00_03_00_02_10 = いやぁぁっ、お尻っ、イっちゃうっ、んぁっ、あっ、壊れっちゃうぅぅぅっ！ - h_voice_akiko 
+#sub "a_hs_00_03_00_02_10" Nooo...my butt...cuming...it's gonna breakkkk!
+
+//#sub a_hs_00_03_00_03_00 = んぁっ、待ってっ、パパっ、んんっ、それ以上っはっ、んっ、んんっ、んんぅっ！ - h_voice_akiko 
+#sub "a_hs_00_03_00_03_00" ahhh...wait...papa...any more than this and...ahhhhhh!
+
+//#sub a_hs_00_03_01_00_00 = んっ、うぅっ、中にっ、出すんだよねっ、んっ、うっ、うぅぅっ - h_voice_akiko 
+#sub "a_hs_00_03_01_00_00" nuuuu...inside...you're gonna release it...nuuu
+
+//#sub a_hs_00_03_01_01_00 = んうぅっ、赤ちゃんっ、出来ちゃうかもっ、しれないのにっ、あっ、んっ、やぁぁっ - h_voice_akiko 
+#sub "a_hs_00_03_01_01_00" nuuu...I'm gonna have a baby...even though I don't want to...nooooo
+
+//#sub a_hs_00_03_01_01_10 = んぁっ、別にっ、中だってっ、んんっ、平気っ、なんだからっ、んっ、あぁっ - h_voice_akiko 
+#sub "a_hs_00_03_01_01_10" uuu...I don't care...inside...I'm fine...why...ahhhh
+
+//#sub a_hs_00_03_01_02_00 = うぐっ、お尻にっ、出すのっ？　んっ、うぅっ、んっ、ゃあ……っ - h_voice_akiko 
+#sub "a_hs_00_03_01_02_00" uuu...cuming...in my butt?...ahhhh
+
+//#sub a_hs_00_03_01_02_10 = んぁ、んっ、お尻ならっ、あぅっ、んっ、でもぉっ、んっ、くっ、うぅっ - h_voice_akiko 
+#sub "a_hs_00_03_01_02_10" nnnn...my butt...uuuu...even though...ahhh
+
+//#sub a_hs_00_03_01_03_00 = んんっ、いいよっ、ん、パパのっ、好きにっ、してぇっ、んっくっ、んっ、んぅっ - h_voice_akiko 
+#sub "a_hs_00_03_01_03_00" nnn...it's fine...papa...I love you...cu..cuminggg
+
+//#sub a_hs_00_03_02_00_00 = んんっ、ふっ、もう少しっ、んんっ、もう少しっでぇ…… - h_voice_akiko 
+#sub "a_hs_00_03_02_00_00" nnnn...just a little more...just a little more...nnn...
+
+//#sub a_hs_00_03_02_01_00 = んぇぶっ、んぶっ、全部っ、飲めるかなっ、ごっ、ぶぼっ、んぼっ - h_voice_akiko 
+#sub "a_hs_00_03_02_01_00" mmmggg...I can't swallow...all of it...mmmggg
+
+//#sub a_hs_00_03_02_02_00 = えろっ、んっ、ひくひくっ、しへるっれこひょはっ、んちゅっ、にゅるっ、にゅちゅっ（ピクピクしてるって事は - h_voice_akiko 
+#sub "a_hs_00_03_02_02_00" mmmggg...it's twitching...mmmggg
+
+//#sub a_hs_00_04_00_00_00 = はふ、うぅ、私、イっちゃったんだ……んぅ…… - h_voice_akiko 
+#sub "a_hs_00_04_00_00_00" haaa...I...came...nnnn....
+
+//#sub a_hs_00_04_00_00_01 = んふ、ぅ、は、はい、んんっ、気持ち、よかったです……はふ…… - h_voice_akiko 
+#sub "a_hs_00_04_00_00_01" nnnn...yes...nnn...feels good, I'm glad...haa
+
+//#sub a_hs_00_04_00_01_10 = はう、ん、ダメ……これ、気持ちよすぎちゃう…… - h_voice_akiko 
+#sub "a_hs_00_04_00_01_10" haaa...don't...this, feels too good...
+
+//#sub a_hs_00_04_00_02_10 = んうぅ……こんな……私のお尻、どうなっちゃったの……？ - h_voice_akiko 
+#sub "a_hs_00_04_00_02_10" nuuuu...this...my butt...what just happened?
+
+//#sub a_hs_00_04_01_00_00 = んうぅ……お腹の中、熱いよぉ…… - h_voice_akiko 
+#sub "a_hs_00_04_01_00_00" uuuu...my stomach, it's hot...
+
+//#sub a_hs_00_04_01_00_01 = んぐ……出し、終わったの？　それとも……まだ、するの……？ - h_voice_akiko 
+#sub "a_hs_00_04_01_00_01" nnn...is it...finally over? Or are you...still not done?
+
+//#sub a_hs_00_04_01_01_00 = うぅ……早く洗わせてよぉ、んぐ……じゃないとぉ……っ - h_voice_akiko 
+#sub "a_hs_00_04_01_01_00" uuu...hurry up and let me wash myself...otherwise...
+
+//#sub a_hs_00_04_01_01_10 = んあぁ……すごい、んぅっ、まだ、ビクビクしてる……んぁ…… - h_voice_akiko 
+#sub "a_hs_00_04_01_01_10" ahhh...amazing...nnnn...it's still...twitching...ahhh...
+
+//#sub a_hs_00_04_01_02_00 = あうぅ……ダメ……んぐ、抜いたら……漏れちゃうからぁ…… - h_voice_akiko 
+#sub "a_hs_00_04_01_02_00" ahhh...don't...nnn...If you take it out...It'll leak...
+
+//#sub a_hs_00_04_01_02_10 = んっぁ……そ、そんなに、んんっ、お尻に、出したかったの……？　んんっ、はぁ…… - h_voice_akiko 
+#sub "a_hs_00_04_01_02_10" nnnn...no way, in my butt, you let our so much...haa...
+
+//#sub a_hs_00_04_02_00_00 = 少しは、上手に出来たかなぁ……？ - h_voice_akiko 
+#sub "a_hs_00_04_02_00_00" Just a bit, I wonder if I can do better...
+
+//#sub a_hs_00_04_02_01_00 = んぇう、なんか、喉に引っかかってる感じ……んん…… - h_voice_akiko 
+#sub "a_hs_00_04_02_01_00" ehhh...*cough* *cough* something, I feel is caught in my throat
+
+//#sub a_hs_00_04_02_02_00 = んんっ、何とか、全部飲み込んだよ……？ - h_voice_akiko 
+#sub "a_hs_00_04_02_02_00" *gulp* *gulp* somehow, I swallowed it all...
+
+//#sub a_hs_00_04_02_03_00 = こ、これ、どうすればいいのかな…… - h_voice_akiko 
+#sub "a_hs_00_04_02_03_00" *cough* *cough* this, what should I do...
+
+//#sub a_hs_00_04_02_04_00 = んぇう……おろおろふぅ……（ドロドロする - h_voice_akiko 
+#sub "a_hs_00_04_02_04_00" nehhhh...I feel like a puddle...
+
+//#sub a_hs_00_04_03_00_00 = んう……あの、出したなら終わり、だよね……？ - h_voice_akiko 
+#sub "a_hs_00_04_03_00_00" nnn...um, when you cum, it's over, right?
+
+//#sub a_hs_00_04_03_00_01 = んん……アタシ、ちゃんと出来たのかなぁ……？ - h_voice_akiko 
+#sub "a_hs_00_04_03_00_01" nnn...I wonder if I did it properly...
+
+//#sub a_hs_00_04_03_01_10 = んえぇ……わざわざかける必要ないでしょぉ……？ - h_voice_akiko 
+#sub "a_hs_00_04_03_01_10" nnnehhhh...you don't need to bother with that...
+
+//#sub a_hs_00_04_04_01_00 = んはっ、はぁ、はぁ、んんっ、パパ、んっ、すごいの……はふ…… - h_voice_akiko 
+#sub "a_hs_00_04_04_01_00" ahhhh...papa...amazing...ahhh...
+
+//#sub a_hs_00_04_04_02_00 = はふ、んっ、ぁう……パパに、出されちゃった、ん……はふ…… - h_voice_akiko 
+#sub "a_hs_00_04_04_02_00" ahhh...I ended up doing it with papa...haaa...
+
+//#sub a_hs_00_04_04_03_00 = はぁ……パパ、すっごく気持ちよさそーに出したね……ふふっ - h_voice_akiko 
+#sub "a_hs_00_04_04_03_00" haaa...papa, this feels really nice...hehehe...
+
+//#sub a_hs_00_04_05_00_00 = はぁ、はぁ、んぐっ、力、はふっ、はいらない、ん、はぁ…… - h_voice_akiko 
+#sub "a_hs_00_04_05_00_00" haa haaa nguuu...strength...don't have any left...haaa...
+
+//#sub a_hs_00_05_00_02_00 = うぐ、う……こんなの、溜めとく方が無理だよぉ……ぁぅ…… - h_voice_akiko 
+#sub "a_hs_00_05_00_02_00" uuuu...this, there's no way I can keep it up...uuu...
+
+//#sub a_hs_00_05_00_03_00 = うぁう……力、はいんないよぉ……ぅぁ…… - h_voice_akiko 
+#sub "a_hs_00_05_00_03_00" uwaaa...strength, I don't have any...uuu...
+
+//#sub a_hs_00_06_00_00_00 = アタシ……このままだと、どうなっちゃうんだろ…… - h_voice_akiko 
+#sub "a_hs_00_06_00_00_00" I...if this keeps up, what will happen to me...
+
+//#sub a_hs_00_06_00_00_01 = んっう……終わるなら、んっ、何でもいいけどぉ…… - h_voice_akiko 
+#sub "a_hs_00_06_00_00_01" nnnn...it's over...anything else is fine...
+
+//#sub a_hs_00_06_00_01_00 = い、いっぱいイったって……しょーがないじゃん、気持ちよかったんだから（ぼそぼそ）…… - h_voice_akiko 
+#sub "a_hs_00_06_00_01_00" Even though we did a lot...it can't be helped, (after all it felt good)
+
+//#sub a_hs_00_06_00_04_00 = もぉいいの？　……はぁ、疲れたぁ…… - h_voice_akiko 
+#sub "a_hs_00_06_00_04_00" Is this enough? ...haa...I'm tired...
+
+//#sub a_hs_00_06_00_05_00 = 流石に、あれだけ出せば満足してくれたって事……かな……？ - h_voice_akiko 
+#sub "a_hs_00_06_00_05_00" Is it fine just letting out that much...I wonder...?
+
+//#sub a_hs_00_06_00_08_00 = あ、これだけでいいんだ……もっとするのかと思ってたな…… - h_voice_akiko 
+#sub "a_hs_00_06_00_08_00" Oh, Is it fine with just this...I thought you would do more...
+
+//#sub a_hs_00_06_00_09_00 = はぁ……パパと、しちゃった……ん、う…… - h_voice_akiko 
+#sub "a_hs_00_06_00_09_00" haaa...with papa...I did it...uuuu...
+
+//#sub a_hs_00_06_00_10_00 = え？　えっと……終わりで、いいの……？ - h_voice_akiko 
+#sub "a_hs_00_06_00_10_00" Huh? Ummm...is it ok, ending it like this?
+
+//#sub a_hs_00_06_91_00_00 = 終わり……かな……？ - h_voice_akiko 
+#sub "a_hs_00_06_91_00_00" Is it...over...?
+
+//#sub a_hs_01_02_00_01_00 = んぅ……はい……んんっ、オマンコ、気持ちいいです……んん…… - h_voice_akiko 
+#sub "a_hs_01_02_00_01_00" nnnn...yes....my pussy feels good...nnn...
+
+//#sub a_hs_01_02_00_01_10 = んあっ、チンポっ、暴れてっ、んんうっ、あたっしぃ……っ - h_voice_akiko 
+#sub "a_hs_01_02_00_01_10" nnnn...cock...rampaging...I...
+
+//#sub a_hs_01_02_01_01_00 = 嫌っ、んんっ、そこっ、オマンコじゃないのにぃ……っ - h_voice_akiko 
+#sub "a_hs_01_02_01_01_00" No...not my pussy...
+
+//#sub a_hs_01_02_01_01_10 = ひっあっ、はいっ、んぁっ、明子のっ、アナルはっ、んんっ、チンポでっ、いっぱいっですっ - h_voice_akiko 
+#sub "a_hs_01_02_01_01_10" hiii...nnnn...Akiko...anal...cock...so much
+
+//#sub a_hs_91_00_00_00_00 = ちょ、ちょっと待って、覗いてたのは謝るからぁ……っ - h_voice_akiko 
+#sub "a_hs_91_00_00_00_00" Hol...hold on a moment, I'm sorry for peeping...
+
+//#sub a_hs_91_03_00_00_00 = 待っ、んぁっ、やっ、アタシっ、んんっ、イっちゃう、よぉっ、んあっ、あっ、あぁっ！ - h_voice_akiko 
+#sub "a_hs_91_03_00_00_00" Wai...nnn...I'm...nnn...cuming...ahhhhh!
+
+//#sub a_hs_91_03_01_00_00 = んんっ、イきたいのっ、わかってるんだからぁっ、んぁっ、んっ、んん……っ - h_voice_akiko 
+#sub "a_hs_91_03_01_00_00" nnnn...cuming...I know I know...nnnn...
+
+//#sub a_hs_91_03_02_00_00 = 出す、の？　んんっ、ぅん、わかった、んっ、んん…… - h_voice_akiko 
+#sub "a_hs_91_03_02_00_00" Are you cuming? nnn...I get it...nnn
+
+//#sub a_hs_91_04_00_00_00 = あふ、うぅ、激しく、するからぁ……はふ、ん…… - h_voice_akiko 
+#sub "a_hs_91_04_00_00_00" uuuu...this is...too intense...nnn...
+
+//#sub a_hs_91_04_01_00_00 = んうぅ……出したなら、抜いてよぉ……んぅ…… - h_voice_akiko 
+#sub "a_hs_91_04_01_00_00" nnnn...if you're going to cum, pull it out...nnn...
+
+//#sub a_hs_91_04_03_00_00 = ぁう……いっぱい、出したね……んん…… - h_voice_akiko 
+#sub "a_hs_91_04_03_00_00" ahh...you came...a lot...nnn...
+
+//#sub a_hs_91_06_00_00_00 = うぅ……こんな事になるなんてぇ…… - h_voice_akiko 
+#sub "a_hs_91_06_00_00_00" uuuu...so its going to be like this...
+
+//#sub a_hs_92_06_00_00_00 = んふふ、パパのせーしだぁ……あはは♪ - h_voice_akiko 
+#sub "a_hs_92_06_00_00_00" nfufu, so it's papa...ahaha♪
+
+//#sub a_hs_10_00_00_00_00 = こんな状況でもさ、折角ヤるんなら、楽しまなきゃ損でしょ？ - h_voice_akiko 
+#sub "a_hs_10_00_00_00_00" In this situation, even if your frustrated, we just have to have fun, right?
+
+//#sub a_hs_10_00_00_00_01 = わかってるって、怒られないよういっしょーけんめーがんばりまーす - h_voice_akiko 
+#sub "a_hs_10_00_00_00_01" I get it, I'm not angry so be sure to do your best
+
+//#sub a_hs_10_00_01_00_00 = ほーら、挿れるんでしょ？　早くしてよー♪ - h_voice_akiko 
+#sub "a_hs_10_00_01_00_00" Here, can you put it in? Hurry up already♪
+
+//#sub a_hs_10_00_01_01_00 = んふ、そろそろココ、使いたいんじゃないのー……？ - h_voice_akiko 
+#sub "a_hs_10_00_01_01_00" nfu, it's about time, you want to use me...?
+
+//#sub a_hs_10_00_01_02_00 = あんだけお尻使い込んだんだからさー、ほらぁ～……♪ - h_voice_akiko 
+#sub "a_hs_10_00_01_02_00" Feel free to use me as much as you want, here...♪
+
+//#sub a_hs_10_00_02_00_00 = あんまアタシの部屋にエロい匂い残したくないんだけどなー……？ - h_voice_akiko 
+#sub "a_hs_10_00_02_00_00" I really don't want to leave a suffocating smell in my room...
+
+//#sub a_hs_10_00_02_01_00 = ふふっ、アタシ達のせいで、ご近所さんまで元気になっちゃったりしてー♪ - h_voice_akiko 
+#sub "a_hs_10_00_02_01_00" fufu, thanks to me, the neighbors are getting along well♪
+
+//#sub a_hs_10_00_02_02_00 = なーに？　アタシに便器になれってゆーの？ - h_voice_akiko 
+#sub "a_hs_10_00_02_02_00" What is it? Do you want me to be your toilet?
+
+//#sub a_hs_10_00_02_03_00 = 何？　そんなにアタシと密着したかったの？ - h_voice_akiko 
+#sub "a_hs_10_00_02_03_00" What is it? Are you trying to get closer to me?
+
+//#sub a_hs_10_00_03_00_00 = なーに？　シてるとこでも見せつけてやろうってわけ？ - h_voice_akiko 
+#sub "a_hs_10_00_03_00_00" What is it? Are you trying to show off in this place?
+
+//#sub a_hs_10_00_03_01_00 = うーわ、血は繋がってないとはいえ、娘に手ぇ出しちゃうんだ～……んふっ♪ - h_voice_akiko 
+#sub "a_hs_10_00_03_01_00" uwa, since this is blood related, I'll be passing this down to my daughter ...nfu♪
+
+//#sub a_hs_10_00_03_02_00 = しょーがない、みーんなまとめてお世話してやるとしますかー - h_voice_akiko 
+#sub "a_hs_10_00_03_02_00" It can't be helped, I suppose I'll have to take care of all of you at once
+
+//#sub a_hs_10_00_04_00_00 = ねーまだー？ - h_voice_akiko 
+#sub "a_hs_10_00_04_00_00" Hey, not yet?
+
+//#sub a_hs_10_00_04_01_00 = 何？　犯され待ち？ - h_voice_akiko 
+#sub "a_hs_10_00_04_01_00" What? Are you waiting to fuck me?
+
+//#sub a_hs_10_00_04_02_00 = ねぇ、ふやけちゃうよ？ - h_voice_akiko 
+#sub "a_hs_10_00_04_02_00" Hey, are you going to start?
+
+//#sub a_hs_10_00_91_00_00 = これじゃまーっ - h_voice_akiko 
+#sub "a_hs_10_00_91_00_00" This is annoying
+
+//#sub a_hs_10_01_00_00_00 = セックスセックスセックスセックス……ほーんと飽きないねぇ…… - h_voice_akiko 
+#sub "a_hs_10_01_00_00_00" Sex sex sex sex, really, you don't get tired of it...
+
+//#sub a_hs_10_01_00_00_01 = 折角ヤるんだから、気持ちよーくしてよね？ - h_voice_akiko 
+#sub "a_hs_10_01_00_00_01" Since this is your fault, you better make it feel good
+
+//#sub a_hs_10_01_00_01_00 = え、今更処女狙ってんの……？ - h_voice_akiko 
+#sub "a_hs_10_01_00_01_00" Eh, are you always after virgins...?
+
+//#sub a_hs_10_01_01_00_00 = そりゃお尻でなら妊娠しないけどさぁ……準備する身にもなってほしいなぁ - h_voice_akiko 
+#sub "a_hs_10_01_01_00_00" If its in the ass I won't get pregnant...though I would like some time to prepare
+
+//#sub a_hs_10_01_01_00_01 = お尻でハメるのかぁ……ま、好きにすればぁ？ - h_voice_akiko 
+#sub "a_hs_10_01_01_00_01" Doing it in the ass...well, as long as it feels good
+
+//#sub a_hs_10_01_01_01_00 = うわ、お尻でシたいとか……何？　処女アナル好きなの？ - h_voice_akiko 
+#sub "a_hs_10_01_01_01_00" Uwa, What is is it like in the ass...what? Do you like anal virgins?
+
+//#sub a_hs_10_01_02_00_00 = ちょっと、ちゃんと手ぇ洗ってるんでしょーね？ - h_voice_akiko 
+#sub "a_hs_10_01_02_00_00" Hold on, you're properly washing your hands, right?
+
+//#sub a_hs_10_01_02_00_01 = 乙女の柔肌に触れるんだから、ありがたーく弄ってよねー？ - h_voice_akiko 
+#sub "a_hs_10_01_02_00_01" Because you get to touch a maiden's soft skin, you better be grateful
+
+//#sub a_hs_10_01_02_01_00 = え？　いつもシてる感じでいーの？ - h_voice_akiko 
+#sub "a_hs_10_01_02_01_00" Eh? Are you always feeling up to it?
+
+//#sub a_hs_10_01_02_02_00 = はいはい、好きに使えば～？ - h_voice_akiko 
+#sub "a_hs_10_01_02_02_00" Yes yes, you really like to use me
+
+//#sub a_hs_10_01_03_00_00 = よーは、アタシの好きにしていいって事でしょ？ - h_voice_akiko 
+#sub "a_hs_10_01_03_00_00" Oh hey, You really like me, isn't that so?
+
+//#sub a_hs_10_01_03_00_01 = ご奉仕かー……ご奉仕ねー……ま、いいけどさー - h_voice_akiko 
+#sub "a_hs_10_01_03_00_01" Service...service huh...eh, sure ok
+
+//#sub a_hs_10_01_03_01_00 = 口で？　別いーけど、顎疲れんのよねー…… - h_voice_akiko 
+#sub "a_hs_10_01_03_01_00" With my mouth? That's fine however, my jaw is kinda tired...
+
+//#sub a_hs_10_01_03_02_00 = うふふっ、さ、おててでヌキヌキしましょうね～♪ - h_voice_akiko 
+#sub "a_hs_10_01_03_02_00" nfufu, alright, let's get this sex started♪
+
+//#sub a_hs_10_01_04_00_00 = えー見てるだけじゃダメなのー？ - h_voice_akiko 
+#sub "a_hs_10_01_04_00_00" Ehh, are you just going to watch?
+
+//#sub a_hs_10_01_05_00_00 = あは♪　ほらほら、早くぅ～♪ - h_voice_akiko 
+#sub "a_hs_10_01_05_00_00" aha♪ Here here, hurry♪
+
+//#sub a_hs_10_02_00_01_00 = んふふっ、ぁんっ♪　セックスって、病みつきになっちゃうよね～、んぁっ♪ - h_voice_akiko 
+#sub "a_hs_10_02_00_01_00" nfufu...ahhh♪...sex...I could get addicted to this...ahhh♪
+
+//#sub a_hs_10_02_00_01_10 = んぁっ♪　やっぱっ、セックスはっ、んんっ、こうでなくっちゃっ♪ - h_voice_akiko 
+#sub "a_hs_10_02_00_01_10" nnnn♪...after all...sex...nnn...did it at last♪
+
+//#sub a_hs_10_02_00_02_00 = あはっ、んぐっ、遂にセックス、しちゃったぁ、くっ、んぁ……♪ - h_voice_akiko 
+#sub "a_hs_10_02_00_02_00" ahhh...finally sex, I did it...ahhh♪
+
+//#sub a_hs_10_02_00_02_10 = ぅぐっ、あっ、処女相手にっ、何マジにっ、なってんのよっ、あくっ♪ - h_voice_akiko 
+#sub "a_hs_10_02_00_02_10" with a virgin partner, you serious, don't, ahhhh♪
+
+//#sub a_hs_10_02_00_03_00 = ふぐ……あーあ、んんっ、処女ビッチで、いたかったんだけどなぁ、うぐ…… - h_voice_akiko 
+#sub "a_hs_10_02_00_03_00" nnnn...I wanted to be a virgin bitch...
+
+//#sub a_hs_10_02_00_03_10 = ちょっ、んぎっ、痛いっ、くぁっ、下手くそぉっ！ - h_voice_akiko 
+#sub "a_hs_10_02_00_03_10" hold...nguuu...it hurts...you're bad at this!
+
+//#sub a_hs_10_02_01_01_00 = んはぁ……お尻の穴、ずりずりされてるぅ……♪ - h_voice_akiko 
+#sub "a_hs_10_02_01_01_00" haaa...my ass hole, it's all broken...♪
+
+//#sub a_hs_10_02_01_01_10 = あんっ、がばがばんなったらっ、んひっ、責任っ、取ってよねっ？ - h_voice_akiko 
+#sub "a_hs_10_02_01_01_10" ahhh...its swishing and splashing...you're going to take responsibility, right?
+
+//#sub a_hs_10_02_01_02_00 = ふぐ、ぁ……流石に、お尻、あぐ……きっついわぁ……んぁ……♪ - h_voice_akiko 
+#sub "a_hs_10_02_01_02_00" ahh...as I though...my ass...its tight...ahhh♪
+
+//#sub a_hs_10_02_01_02_10 = やばっ、んぎっ、お尻っ、痛いのにっ、あぐっ、あっ、気持ちいぃっ、かもぉっ、あっくっ♪ - h_voice_akiko 
+#sub "a_hs_10_02_01_02_10" This is bad...my ass...it hurts...but it also feels good...ahh♪
+
+//#sub a_hs_10_02_01_03_00 = っつぅ……んっぐ、やっぱお尻、いったいわぁ……ふぐ…… - h_voice_akiko 
+#sub "a_hs_10_02_01_03_00" ugggg...my ass after all...it hurts...uggg...
+
+//#sub a_hs_10_02_01_03_10 = いづっ！　このっ、お尻っ、裂けたらっ、んぎっ、どーしてっ、くれんのよぉっ、いぎっ！ - h_voice_akiko 
+#sub "a_hs_10_02_01_03_10" idzuuu! This, my ass, your tearing...why, do you do this....igiii!
+
+//#sub a_hs_10_02_02_00_00 = はぁ、ん……ふふっ、えっろい触り方……ぁん……♪ - h_voice_akiko 
+#sub "a_hs_10_02_02_00_00" haaa...fufu, touch it erotically...ahhh...♪
+
+//#sub a_hs_10_02_02_00_10 = んぁっ、いいっ、んっ、んっ、濡れてっ、くるっ、んぁんっ - h_voice_akiko 
+#sub "a_hs_10_02_02_00_10" ahhh...good...I'm getting wet...ahhh
+
+//#sub a_hs_10_02_02_01_00 = ちゅぴ、ちゅ……ひたまれ、あいうふうき……？（舌まで愛撫する気？ - h_voice_akiko 
+#sub "a_hs_10_02_02_01_00" mmmggg...wraping our tongues...feel the mood...?
+
+//#sub a_hs_10_02_02_01_10 = んひゅっ、ちゅっ、もぉっ、んりゅっ、きひゅにっ、ひゅうひゅうっ、さへてよぉっ（キスに集中させてよ - h_voice_akiko 
+#sub "a_hs_10_02_02_01_10" mmmggg...just focus...on kissing...mmmggg
+
+//#sub a_hs_10_02_02_02_00 = んん……男って、どーしてそんなにおっぱいが好きなのかなぁ……ぁん…… - h_voice_akiko 
+#sub "a_hs_10_02_02_02_00" nnn...boys, I wonder why they like boobs so much...annn...
+
+//#sub a_hs_10_02_02_02_10 = んぁっ、もぉっ、んっ、形崩れたらっ、許さないからねっ？ - h_voice_akiko 
+#sub "a_hs_10_02_02_02_10" nnn...come on...nnn...if you mess up its shape, I won't forgive you, ok?
+
+//#sub a_hs_10_02_02_03_00 = ん……今更、オナニー見せつけるくらい、ねぇ……？ぁん…… - h_voice_akiko 
+#sub "a_hs_10_02_02_03_00" nnn...this time, I'll show you how I masturbate, right...? annnn...
+
+//#sub a_hs_10_02_02_03_10 = んふっ、オナニーがっ、きもちーなんてっ、当たり前じゃんっ♪ - h_voice_akiko 
+#sub "a_hs_10_02_02_03_10" nfu...masturbation...feels good...it's only natural♪
+
+//#sub a_hs_10_02_02_06_00 = んふっ、ふふっ、んっ、ごめっ、何か、アンタがこゆ玩具買ってる姿、想像しちゃったらさっ♪ - h_voice_akiko 
+#sub "a_hs_10_02_02_06_00" nfu...fufu...nnnn...sorry...its just, I was imagining you buying toys for women♪
+
+//#sub a_hs_10_02_02_06_10 = これはっ、これでっ、んぁっ、きもちーのよねっ - h_voice_akiko 
+#sub "a_hs_10_02_02_06_10" ahhh...this...this kind of thing...feels good...ahhh
+
+//#sub a_hs_10_02_03_00_00 = ぶちゅ、ん、んふ、ねぇ、噛んでもいい？　ちゅぶる……♪ - h_voice_akiko 
+#sub "a_hs_10_02_03_00_00" mmmggg...hey, can I chew it?...mmmggg♪
+
+//#sub a_hs_10_02_03_00_10 = んぶっ、このままっ、むちゅっ、吸い出してっ、やるんだからっ、んぢゅぢゅっ - h_voice_akiko 
+#sub "a_hs_10_02_03_00_10" mmmggg...this...sucking it...mmmggg
+
+//#sub a_hs_10_02_04_00_00 = んふっ、パパ、んぁっ、アタシの中、きもちーでしょー……♪ - h_voice_akiko 
+#sub "a_hs_10_02_04_00_00" nfu...papa...nnnn...inside of me...doesn't it feel good...♪
+
+//#sub a_hs_10_02_04_00_10 = あはっ、んぁっ、がむしゃらにっ、犯しちゃってっ、んっ、パパったらぁっ♪ - h_voice_akiko 
+#sub "a_hs_10_02_04_00_10" ahhhh...frantically...fucking me...papa♪
+
+//#sub a_hs_10_02_04_01_00 = ふふっ、んっ、パパの為なら、何でもしちゃうんだから……♪ - h_voice_akiko 
+#sub "a_hs_10_02_04_01_00" fufu...nnn...If it's for papa...I'll do anything...♪
+
+//#sub a_hs_10_02_04_01_10 = あはっ、パパがっ、アタシでっ、んっ、気持ちよくっ、なってるっ♪ - h_voice_akiko 
+#sub "a_hs_10_02_04_01_10" aha...papa..I feel...nnn...really good♪
+
+//#sub a_hs_10_02_10_00_00 = んぁ……まぁ、あれだけヤってれば、んんっ、きもちーとこくらいわかるよねぇ、ぁんっ♪ - h_voice_akiko 
+#sub "a_hs_10_02_10_00_00" nnn...well, now that you mention it, I get how good this dark stuff feels♪
+
+//#sub a_hs_10_02_10_00_01 = うん、そこ……ぁん……ふふっ、いー感じ……♪ - h_voice_akiko 
+#sub "a_hs_10_02_10_00_01" unnn...right there...annn...fufu...this is nice...♪
+
+//#sub a_hs_10_02_10_00_10 = ぁんっ、ふふっ、しょーがないじゃんっ、んぁっ、きもちーんだもんっ♪ - h_voice_akiko 
+#sub "a_hs_10_02_10_00_10" ahhhh...fufu...it can't be helped...this feels good♪
+
+//#sub a_hs_10_02_10_00_11 = あはっ、んんっ、感じてるのっ、ばれちゃったっ？ - h_voice_akiko 
+#sub "a_hs_10_02_10_00_11" ahahannnn...can you feel it...are you cuming?
+
+//#sub a_hs_10_02_10_01_00 = はいはい、じょーずですねーっと…… - h_voice_akiko 
+#sub "a_hs_10_02_10_01_00" Yes yes, just like this...
+
+//#sub a_hs_10_02_10_01_01 = ぅー、ちょっとー全然気持ちよくないんですけどー？ - h_voice_akiko 
+#sub "a_hs_10_02_10_01_01" uuuu...hold on, I'm not feeling good at all you know?
+
+//#sub a_hs_10_02_10_01_10 = んんっ、何っ？　激しくすればっ、よがるとでもっ、思ってんのっ？ - h_voice_akiko 
+#sub "a_hs_10_02_10_01_10" nnn...what is it? If you do it faster, do you think, it would be better?
+
+//#sub a_hs_10_02_10_01_11 = んぅっ、もぉっ、これならっ、他の男とヤったほうがっ、マシなんですけどっ？ - h_voice_akiko 
+#sub "a_hs_10_02_10_01_11" nuuu, come on, in that case, would it be better if you asked other guys to join?
+
+//#sub a_hs_10_02_11_00_00 = あはっ♪　んっ、犯すのって、たーのしっ♪ - h_voice_akiko 
+#sub "a_hs_10_02_11_00_00" aha♪ being fucked is really fun♪
+
+//#sub a_hs_10_02_11_00_10 = んふっ、何よっ、んっ、いーとこなんだからっ、んぁっ、邪魔しないでっ - h_voice_akiko 
+#sub "a_hs_10_02_11_00_10" nfu, what is it...this is good right now...so don't bother me
+
+//#sub a_hs_10_02_11_01_00 = んもぉ、んっ……アタシがヤってんだから、大人しく犯されてなさいっ - h_voice_akiko 
+#sub "a_hs_10_02_11_01_00" Come on...I don't care anymore, so be quiet and fuck me already
+
+//#sub a_hs_10_02_11_01_10 = んふっ、どぉっ？　んぁっ、アタシにっ、パコパコされる気分はっ♪ - h_voice_akiko 
+#sub "a_hs_10_02_11_01_10" nfu, how is it? I feel it going pow pow♪
+
+//#sub a_hs_10_02_12_00_00 = れろ、んぁむ……ろっちかにひにゃしゃいよぉ、んむちゅ……♪（どっちかにしなさいよ - h_voice_akiko 
+#sub "a_hs_10_02_12_00_00" mmmggg...what do you think...mmmggg♪
+
+//#sub a_hs_10_02_12_00_10 = ちゅふっ、んっ、もぉっ、あむっ、がっちゅきしゅぎっ、んむっ、ちゅむぅっ♪（もぉ、がっつき過ぎ - h_voice_akiko 
+#sub "a_hs_10_02_12_00_10" mmmggg...come on...you're really greedy...mmmggg♪
+
+//#sub a_hs_10_02_12_01_00 = ちゅふぅ……んひゅ、えりょいしたぁ……れろ♪（えろい舌 - h_voice_akiko 
+#sub "a_hs_10_02_12_01_00" mmmggg...erotic tongue...mmmggg♪
+
+//#sub a_hs_10_02_12_01_10 = んぁむっ、ちゅぷっ、もぉっ、きしゅくりゃいっ、んむっ、おちちゅいてっ、しゅればっ？　ちゅふっ、んむぅ（もぉ、キスくらい落ち着いてすれば？ - h_voice_akiko 
+#sub "a_hs_10_02_12_01_10" mmmggg...come on, forceful kisses...can't you calm down a bit?
+
+//#sub a_hs_10_02_13_00_00 = ん……だって、下手な事して痛い目見たくないしー？ - h_voice_akiko 
+#sub "a_hs_10_02_13_00_00" nnn...but you know, don't you think this looks kinda painful?
+
+//#sub a_hs_10_02_13_00_01 = ほーんと、えっろい形してるよねーコレ……あはっ♪ - h_voice_akiko 
+#sub "a_hs_10_02_13_00_01" Really, this kind of thing looks really erotic...haha♪
+
+//#sub a_hs_10_02_13_00_10 = んっ、しゃせーっ？　ふっ、したければっ、すればっ？ - h_voice_akiko 
+#sub "a_hs_10_02_13_00_10" nnn, cuming? Go ahead if you want?
+
+//#sub a_hs_10_02_13_00_11 = んんっ、気持ちっ、いいならっ、んっ、さっさとっ、出してっ、ほしいんっ、ですけどっ - h_voice_akiko 
+#sub "a_hs_10_02_13_00_11" nnn...feels good...it's fine...quickly...cum...I want it...
+
+//#sub a_hs_10_02_13_01_00 = ねー、さっさとイってくれないとつまんないんですけどー？ - h_voice_akiko 
+#sub "a_hs_10_02_13_01_00" hey, as I already told you, isn't this boring?
+
+//#sub a_hs_10_02_13_01_01 = はー……あーしんど…… - h_voice_akiko 
+#sub "a_hs_10_02_13_01_01" haaaa...it's stretched...
+
+//#sub a_hs_10_02_13_01_10 = ねぇっ、んっ、これっ、疲れるんっ、ですけどっ - h_voice_akiko 
+#sub "a_hs_10_02_13_01_10" Hey...this...aren't you tired of it
+
+//#sub a_hs_10_02_13_01_11 = こんなのっ、するならっ、んっ、絶対っ、挿れた方がっ、早いってっ - h_voice_akiko 
+#sub "a_hs_10_02_13_01_11" If you...absolutely...have to do this...when you put it in...you're always so quick
+
+//#sub a_hs_10_02_14_00_00 = れろぉ……んひゅ、にゃぁにぴくぴくひへんにょよぉ……♪（なぁにピクピクしてんのよ - h_voice_akiko 
+#sub "a_hs_10_02_14_00_00" mmmggg...wonder why it keeps on twitching...♪
+
+//#sub a_hs_10_02_14_00_10 = んひゅひゅっ、ちゅるっ、ちゅゆらくっ、とまらにゃいんっ？　じゅるっ、れろろっ（つゆだく止まらないん？ - h_voice_akiko 
+#sub "a_hs_10_02_14_00_10" mmmggg...juice...coming out...it doesn't stop?...mmmggg
+
+//#sub a_hs_10_02_14_01_00 = れろ、んえぇ、にゅる、かひゅちゅいへんじゃん……えろ……（んえぇ、カス付いてんじゃん - h_voice_akiko 
+#sub "a_hs_10_02_14_01_00" mmmggg...ehhh...this pointlessly attached thing...mmmggg
+
+//#sub a_hs_10_02_14_01_10 = えろっ、ちゅっ、ほんろっ、しゅるっ、むらにっ、れっかいんらからっ、れろろっ（ほんと、無駄にでっかいんだから - h_voice_akiko 
+#sub "a_hs_10_02_14_01_10" mmmggg...really...this is ridiculously big...mmmggg
+
+//#sub a_hs_10_02_15_00_00 = はぅ……うんうん、がんばって動いてねー、ぁん♪ - h_voice_akiko 
+#sub "a_hs_10_02_15_00_00" haaa...unnnn, keep it up and move...ahhh♪
+
+//#sub a_hs_10_02_15_00_10 = んぁっ、あんっ、こんなっ、アタシにもっ、よーしゃないんだねっ、はぅんっ - h_voice_akiko 
+#sub "a_hs_10_02_15_00_10" ahhh...this...personally...is not my kind of thing...ahhh
+
+//#sub a_hs_10_02_20_00_00 = んぁ……何？　そんなに、アタシのセックス、んんっ、見せつけたいの？ - h_voice_akiko 
+#sub "a_hs_10_02_20_00_00" nnn...what is it? Me having sex...do you want to show it off that much?
+
+//#sub a_hs_10_02_20_00_10 = ほらっ、んぁっ、セックス穴っ、犯されてるのっ、んんっ、見えるっ？ - h_voice_akiko 
+#sub "a_hs_10_02_20_00_10" ahhh...look...this sex hole...being fucked...can you see?
+
+//#sub a_hs_10_02_20_01_00 = んふふ、見てる見てる……♪ - h_voice_akiko 
+#sub "a_hs_10_02_20_01_00" nfufufu, look at me, look at me...♪
+
+//#sub a_hs_10_02_20_01_10 = んふっ、ほらっ、よーっくっ、見なさいっ♪ - h_voice_akiko 
+#sub "a_hs_10_02_20_01_10" nfu, hey, please, look at me carefully♪
+
+//#sub a_hs_10_02_20_02_00 = れろぉ……しょんなに、えろ、みせちゅけたいの……？（そんなに見せつけたいの？ - h_voice_akiko 
+#sub "a_hs_10_02_20_02_00" mmmggg...do you want to...look at me that much...?
+
+//#sub a_hs_10_02_20_02_10 = んちゅるっ、うふっ、よぉっくっ、じゅるっ、みひぇなしゃいっ、れろろっ、れろっ♪（よぉく見てなさい - h_voice_akiko 
+#sub "a_hs_10_02_20_02_10" mmmggg...please...watch me carefully...mmmggg♪
+
+//#sub a_hs_10_02_20_03_00 = んぼぅ……何、見てんのよぉ、んづづ…… - h_voice_akiko 
+#sub "a_hs_10_02_20_03_00" mmmggg...what are you looking at...mmmggg...
+
+//#sub a_hs_10_02_20_03_10 = んふっ、んぶっ、んっ、見てるっ？　んぶちゅっ、んぼぉっ♪ - h_voice_akiko 
+#sub "a_hs_10_02_20_03_10" mmmggg...are you watching?...mmmggg♪
+
+//#sub a_hs_10_02_91_00_00 = んふ、何よぉ……♪ - h_voice_akiko 
+#sub "a_hs_10_02_91_00_00" nfu, what is it...♪
+
+//#sub a_hs_10_02_91_00_10 = うるっさいなぁっ - h_voice_akiko 
+#sub "a_hs_10_02_91_00_10" shut up
+
+//#sub a_hs_10_03_00_00_00 = んあっ、んっ、あー、これっ、んんっ、イっちゃいますわぁっ、んっ、あっ、んあぁぁっ - h_voice_akiko 
+#sub "a_hs_10_03_00_00_00" ahhhh...this...cuming...ahhhh
+
+//#sub a_hs_10_03_00_00_01 = ほらっ、んぁっ、もちょいでっ、イくからっ、んぁっ、しっかりっ、見てなっ、よっ、んっあっんんんっ - h_voice_akiko 
+#sub "a_hs_10_03_00_00_01" look...ahhh...cuming...ahhh...look carefully...ahhh
+
+//#sub a_hs_10_03_00_01_10 = ぁんっ、こんだけっ、気持ちーんだからっ、んぁっ、イってもっ、しょーがないっ、よねぇっ、あっ、んぁっあっ - h_voice_akiko 
+#sub "a_hs_10_03_00_01_10" ahhh...This feels good...ahhhh...but it can't be helped...ahhhhh
+
+//#sub a_hs_10_03_00_02_10 = んぁっ、あっ、ちょっとぉっ、あんっ、お尻っ、んぁっ、イっちゃうじゃぁんっ、あっん、あっあっあっっ！ - h_voice_akiko 
+#sub "a_hs_10_03_00_02_10" ahhh...hold on...ahhh...I'm cuming from my ass...ahhhh!
+
+//#sub a_hs_10_03_00_03_00 = んあっ、あっ、もぉっ、パパのせいでっ、んぁっ、イっちゃうっ、じゃんかぁっ、あっ、んぁっ、あっ、あっ、あっ♪ - h_voice_akiko 
+#sub "a_hs_10_03_00_03_00" ahhh...its papa's fault...ahhh...that I'm cuming...ahhhhh
+
+//#sub a_hs_10_03_01_00_00 = あー出そうなんだっ、んぁっ、中でっ、びくびくしてるしぃっ♪　んはっ、あっ、んぁんっ - h_voice_akiko 
+#sub "a_hs_10_03_01_00_00" it's cuming...its twitching...ahhhh
+
+//#sub a_hs_10_03_01_01_00 = はいはいっ、んんっ、出したいんでしょっ？　んぁっ、ご主人様にはっ、逆らえないっしぃっ、んんっ、あんっ - h_voice_akiko 
+#sub "a_hs_10_03_01_01_00" yes yes...want to cum? After all I can't disobey master...ahhhhh
+
+//#sub a_hs_10_03_01_01_10 = んふっ、折角のナカなんだからっ、ぁんっ、しっかりっ、子宮にぶちまけてよねっ、んっ、はっ、んんっ - h_voice_akiko 
+#sub "a_hs_10_03_01_01_10" nfu...after all this effort, be sure to cum in my womb...ahhh
+
+//#sub a_hs_10_03_01_02_00 = んぇっ、お尻にっ、出すんだっ、んんっ、やだなぁっ、んんっ、うっ、ぅんっ - h_voice_akiko 
+#sub "a_hs_10_03_01_02_00" ehhh...cuming in my ass...no way...uuuu
+
+//#sub a_hs_10_03_01_02_10 = ほらっ、お尻なんだしっ、んぁっ、好きなだけっ、しゃせーしちゃえっ、んっ、あはっ、はっ - h_voice_akiko 
+#sub "a_hs_10_03_01_02_10" Here, in my ass, cum as much as you want...ahhhhhh
+
+//#sub a_hs_10_03_01_03_00 = パパっ、んんっ、出すんでしょっ？　んんっ、ふふっ、ほらっ、がんばれぇっ♪　んっ、あっ、ふっ♪ - h_voice_akiko 
+#sub "a_hs_10_03_01_03_00" Papa...cuming? Here, do your best...ahh hehe
+
+//#sub a_hs_10_03_02_00_00 = んふっ、しゃせーくる？　んっ、せーえき、こみ上がってきてる？　んふふっ♪ - h_voice_akiko 
+#sub "a_hs_10_03_02_00_00" fufu...cuming? letting out semen again?...fufufu♪
+
+//#sub a_hs_10_03_02_01_00 = ちゅぶっ、いい加減っ、んぶるっ、出してくれませんかーっ？　つぶっ、ぷじゅるるっ - h_voice_akiko 
+#sub "a_hs_10_03_02_01_00" mmmggg...can't help it...cuming again?...mmmggg
+
+//#sub a_hs_10_03_02_02_00 = んにゅる、んひっ、こにょままっ、かおにっ、れろっ、ふっかけひゃうっ？　ちゅっ、れろろっ（このまま顔にぶっかけちゃう？ - h_voice_akiko 
+#sub "a_hs_10_03_02_02_00" mmmggg...to cum on my face like this...mmmggg
+
+//#sub a_hs_10_04_00_00_00 = はふ、ん……ふふ、まーまーよかったんじゃない？ - h_voice_akiko 
+#sub "a_hs_10_04_00_00_00" haaa...fufu, wasn't it good?
+
+//#sub a_hs_10_04_00_00_01 = はふぅ……ほんと、イくにも体力使うわぁ…… - h_voice_akiko 
+#sub "a_hs_10_04_00_00_01" haaa...really, I don't have that much strength...
+
+//#sub a_hs_10_04_00_01_10 = んふぅ、そーそー、んんっ、そーやって、女をイかせるのが、男の役目ってもんでしょー……♪ - h_voice_akiko 
+#sub "a_hs_10_04_00_01_10" nnnn...right right...nnn...with this, making a woman his, that's a man's job...♪
+
+//#sub a_hs_10_04_00_02_10 = んふ、んっ、あーあ、ふっ、すっかりお尻、開発されちゃったわー、はふぅ…… - h_voice_akiko 
+#sub "a_hs_10_04_00_02_10" nnnn...ahhh...doing it in the ass, you've trained it well...haaa...
+
+//#sub a_hs_10_04_01_00_00 = んん……ふふっ、後でどれだけ出てくるか、楽しみだわぁ……♪ - h_voice_akiko 
+#sub "a_hs_10_04_01_00_00" nnn...fufufu, I'm looking forwards to seeing you cum later...♪
+
+//#sub a_hs_10_04_01_00_01 = んぁー、後でしっかり洗わないとな～…… - h_voice_akiko 
+#sub "a_hs_10_04_01_00_01" awwww...I'll have to wash it really good later...
+
+//#sub a_hs_10_04_01_01_00 = んう、あーあー、猿みたいにっ、んぁっ、出しちゃってさ～、んん、はぁ…… - h_voice_akiko 
+#sub "a_hs_10_04_01_01_00" haaa...you're like a monkey...haa...cuming like that...haaa...
+
+//#sub a_hs_10_04_01_01_10 = んふぅ……子作りセックス、はふっ、癖になるわぁ……はふぅ……♪ - h_voice_akiko 
+#sub "a_hs_10_04_01_01_10" nnnn...baby making sex...haa...I can get used to this...haa...♪
+
+//#sub a_hs_10_04_01_02_00 = んふぅぅ……抜く時はゆっくりだからね？　んんっ、じゃないと、ぶちまけちゃいそうだしぃ…… - h_voice_akiko 
+#sub "a_hs_10_04_01_02_00" nnnn...when you take it out, do it slowly, ok? Else, it'll be really fucked up...
+
+//#sub a_hs_10_04_01_02_10 = んはぁ、ケツ穴射精、んんっ、気持ちぃ～……はぁ……♪ - h_voice_akiko 
+#sub "a_hs_10_04_01_02_10" haaa...cuming in the ass...feels good...haa...♪
+
+//#sub a_hs_10_04_02_00_00 = は～、こーでかいと、顎が疲れるのなんの…… - h_voice_akiko 
+#sub "a_hs_10_04_02_00_00" haaa, with this, my jaw is getting tired...
+
+//#sub a_hs_10_04_02_01_00 = んぐ、ちょっとぉ、もー少しゆっくりびゅるびゅる出来ないのー？ - h_voice_akiko 
+#sub "a_hs_10_04_02_01_00" *cough* *cough*...come on, can't you squirt it out a bit more slowly?
+
+//#sub a_hs_10_04_02_02_00 = ふー、ほら、さっさと次の飲ませなさいよ - h_voice_akiko 
+#sub "a_hs_10_04_02_02_00" haa...hey, get on with it and let me swallow the next batch
+
+//#sub a_hs_10_04_02_03_00 = はぁ、飲ませたり吐かせたり忙しいなぁもぉ - h_voice_akiko 
+#sub "a_hs_10_04_02_03_00" haa...to swallow it or spit it out, it makes me all fidgety​
+
+//#sub a_hs_10_04_02_04_00 = ぉう、はやふおあえへお……（早く飲ませてよ - h_voice_akiko 
+#sub "a_hs_10_04_02_04_00" ahhhh...hurry up and let me swallow it...
+
+//#sub a_hs_10_04_03_00_00 = ま、とーぜんこの程度で萎えるわけないよねー - h_voice_akiko 
+#sub "a_hs_10_04_03_00_00" Well, with this much there's no way it'll die down yet
+
+//#sub a_hs_10_04_03_00_01 = んふっ、ほーんと、気持ちよさそーにぴゅっぴゅするよねー♪ - h_voice_akiko 
+#sub "a_hs_10_04_03_00_01" nfu, really, It must feel really good when you cum♪
+
+//#sub a_hs_10_04_03_01_10 = んふ、なぁに？　精液でマーキング？ - h_voice_akiko 
+#sub "a_hs_10_04_03_01_10" nfu, what is it? Are you going to mark me with your cum?
+
+//#sub a_hs_10_04_04_01_00 = んふぅぅ、あーあ、パパの前で、んんっ、アクメ顔晒しちゃったー、はふぅ…… - h_voice_akiko 
+#sub "a_hs_10_04_04_01_00" ahhh...In front of papa...I showed this kind of face...ahhh...
+
+//#sub a_hs_10_04_04_02_00 = はふ……んふっ、パパとの赤ちゃん、出来るといいねぇ……くふっ♪ - h_voice_akiko 
+#sub "a_hs_10_04_04_02_00" wafu nfu, to have papa's baby, I hope it happens...nfu♪
+
+//#sub a_hs_10_04_04_03_00 = んー、折角出すなら、アタシの中に思いっきり出してほしかったんだけどな～……？ - h_voice_akiko 
+#sub "a_hs_10_04_04_03_00" nnn, after finally cuming, I wanted you to do it inside of me, you know...?
+
+//#sub a_hs_10_04_05_00_00 = んはぅ、んんっ、ちょっと、マグロになるから、はふっ、好きに使ってていーよ？　はふぅ…… - h_voice_akiko 
+#sub "a_hs_10_04_05_00_00" haaa...hold on, I'm like a dead tuna...you really like you use me...haaa...
+
+//#sub a_hs_10_05_00_02_00 = んはぁぁ……ほんっと、こんなに出してくれちゃってさぁ……んん…… - h_voice_akiko 
+#sub "a_hs_10_05_00_02_00" nnn...really, to cum this much...nnn...
+
+//#sub a_hs_10_05_00_03_00 = はふ、ほぉら、美少女のお漏らしよぉ……んふふ……♪ - h_voice_akiko 
+#sub "a_hs_10_05_00_03_00" haaa...look, a beautiful girl peeing...nfufufu...♪
+
+//#sub a_hs_10_06_00_00_00 = ふー、折角のセックスだもん、楽しんだもん勝ちだよねー♪ - h_voice_akiko 
+#sub "a_hs_10_06_00_00_00" haa, a battle of sex, looks like I won♪
+
+//#sub a_hs_10_06_00_00_01 = ん、終わり？　んじゃ、シャワーでも浴びますかねーっと - h_voice_akiko 
+#sub "a_hs_10_06_00_00_01" mmm, you're done? Guess I'll go take a shower
+
+//#sub a_hs_10_06_00_01_00 = は～、イったイった、次犯す時もちゃーんとイかせてよねー？ - h_voice_akiko 
+#sub "a_hs_10_06_00_01_00" haaa, next time you ravish me, do it properly ok?
+
+//#sub a_hs_10_06_00_04_00 = ふ～、こんな状況だもん、イかなきゃ損でしょ？ - h_voice_akiko 
+#sub "a_hs_10_06_00_04_00" haaa, with these kind of things, is it my lost?
+
+//#sub a_hs_10_06_00_05_00 = やーっとかぁ……ほんと、どれだけ出せば気が済むのさー…… - h_voice_akiko 
+#sub "a_hs_10_06_00_05_00" Finally...really, you went all out in the end...
+
+//#sub a_hs_10_06_00_08_00 = あれ、終わりなの？　まー楽できていーんだけどさー？ - h_voice_akiko 
+#sub "a_hs_10_06_00_08_00" Huh, are you finished? Just when it was getting good
+
+//#sub a_hs_10_06_00_09_00 = んふ、パーパ、また犯しに来てよね？　アタシ、待ってるからね？ - h_voice_akiko 
+#sub "a_hs_10_06_00_09_00" nfu, papa, be sure to do it again, ok? I'll be waiting for you, ok?
+
+//#sub a_hs_10_06_00_10_00 = いやいや、これで終わりとかあり得なくない……？ - h_voice_akiko 
+#sub "a_hs_10_06_00_10_00" No no, to end it like this, isn't it impossible...?
+
+//#sub a_hs_10_06_91_00_00 = 終わりかー…… - h_voice_akiko 
+#sub "a_hs_10_06_91_00_00" Are you done...
+
+//#sub a_hs_11_00_01_01_00 = ちょっとー、いい加減マンコに挿れてほしーんですけどー？ - h_voice_akiko 
+#sub "a_hs_11_00_01_01_00" Hold on, It fine to just put it in my pussy you know?
+
+//#sub a_hs_11_00_01_02_00 = 誰かさんのせいで、アタシのケツマンコがチンポ欲しくて仕方ないって言ってるんですけどー？ - h_voice_akiko 
+#sub "a_hs_11_00_01_02_00" Because of someone, my ass is craving some cock you know?
+
+//#sub a_hs_11_01_00_00_00 = はいはい、マンコ奴隷に人権はありませんよーっと…… - h_voice_akiko 
+#sub "a_hs_11_01_00_00_00" Yeah yeah, pussy slaves don't have any rights...
+
+//#sub a_hs_11_01_01_00_00 = お尻でする？　アナルでする？　それとも……ケ・ツ・マ・ン・コ？ - h_voice_akiko 
+#sub "a_hs_11_01_01_00_00" In the butt? Do it anal? or how about...in..the..ass..hole?
+
+//#sub a_hs_11_01_03_00_00 = ふふーん……チンポ、期待しちゃってる？ - h_voice_akiko 
+#sub "a_hs_11_01_03_00_00" Fu funnn...Mr. cock, are you excited?
+
+//#sub a_hs_11_01_03_01_00 = はいはい、存分に私の口マンコをたんのーしてくださーい - h_voice_akiko 
+#sub "a_hs_11_01_03_01_00" Yeah yeah, in my mouth, please give it to me
+
+//#sub a_hs_11_01_03_02_00 = チンポさー、一人で扱けるんだから、アタシがやる必要なくない？ - h_voice_akiko 
+#sub "a_hs_11_01_03_02_00" Mr. cock, because you can't cum by yourself, you need my help right?
+
+//#sub a_hs_11_02_00_01_00 = んぁっ、オマンコ、気持ちいいよぉ……とでも言うと思ったぁ？ - h_voice_akiko 
+#sub "a_hs_11_02_00_01_00" nnnyaaaa...pussy, feeling good...is that what you were expecting?
+
+//#sub a_hs_11_02_00_01_10 = んふっ、マンコさぁっ、チンポにっ、絡みついてっ、んぁっ、離れないでしょっ♪ - h_voice_akiko 
+#sub "a_hs_11_02_00_01_10" Pussy...cock...connected together...don't take it out♪
+
+//#sub a_hs_11_02_00_02_00 = つっ……ふぅん、んんっ、マンコセックスって、こんなんなるんだ、んぐ…… - h_voice_akiko 
+#sub "a_hs_11_02_00_02_00" ahhh...pussy sex...so this is what it's like...
+
+//#sub a_hs_11_02_00_02_10 = あぎっ、やばっ、んぁっ、アタシのっ、処女マンコっ、んひっ、ドＭになってるぅっ、くひっ♪ - h_voice_akiko 
+#sub "a_hs_11_02_00_02_10" ahhh...this is bad...my virgin pussy...is becoming a masochist
+
+//#sub a_hs_11_02_00_03_00 = んぐっ……はぁ、いつかは処女マンコ、なくなるとは思ってたけどさー、あぐ…… - h_voice_akiko 
+#sub "a_hs_11_02_00_03_00" haaa...I knew that one day my virgin pussy would be taken...even so...
+
+//#sub a_hs_11_02_00_03_10 = んぎっ、ちょっ、初めてのっ、マンコくらいっ、優しくっ、しなさいっよぉっ - h_voice_akiko 
+#sub "a_hs_11_02_00_03_10" ahhh...hold on...this is my first time...be a bit nicer
+
+//#sub a_hs_11_02_01_01_00 = んひっ、この、アナルが捲れる感じ、たまんないわ～……♪ - h_voice_akiko 
+#sub "a_hs_11_02_01_01_00" hihi...this...is how anal feels...I can't take anymore...♪
+
+//#sub a_hs_11_02_01_01_10 = はひっ、ぁっ、ほらっ、もっとケツマンコっ、ずこばこしなさいよっ、んひっ♪ - h_voice_akiko 
+#sub "a_hs_11_02_01_01_10" ahhh...hey...my ass hole...smack smack...do it♪
+
+//#sub a_hs_11_02_01_02_00 = んお、ほぅ……ふぅん、アナルセックスって、んんっ、こんなんなるんだ、おほぅ……♪ - h_voice_akiko 
+#sub "a_hs_11_02_01_02_00" haaaaa...anal sex...so this this what it's like...♪
+
+//#sub a_hs_11_02_01_02_10 = おぐっ、んおっ、これっ、んぐっ、アナルっ、ぽっかりっ、しちゃうやつぅっ♪ - h_voice_akiko 
+#sub "a_hs_11_02_01_02_10" ahhh...this...anal...it's opening...I'm going to die♪
+
+//#sub a_hs_11_02_01_03_00 = あぐっ、う……チンポ、きっづぅ……ぅぐ…… - h_voice_akiko 
+#sub "a_hs_11_02_01_03_00" haaa...cock...piercing...
+
+//#sub a_hs_11_02_01_03_10 = いだっ、いだいっ！　このっ、チンポっ、暴れんなぁっ、ひぎっ！ - h_voice_akiko 
+#sub "a_hs_11_02_01_03_10" It hurts, it hurts! This cock is too rough!
+
+//#sub a_hs_11_02_02_04_00 = んん……ほらぁ、アタシのオマンコ、んぁっ、どーやってオナニーされてるか、教えてよぉ……♪ - h_voice_akiko 
+#sub "a_hs_11_02_02_04_00" nnnn...look, my pussy...how should I masturbate, please tell me...♪
+
+//#sub a_hs_11_02_02_04_10 = あはっ、んんっ、犯されてる時よりっ、んぁっ、マン汁っ、溢れてるかもっ♪ - h_voice_akiko 
+#sub "a_hs_11_02_02_04_10" ahhhh...even more than before...your man juice...it's overflowing♪
+
+//#sub a_hs_11_02_02_05_00 = ほ～ら、ケツ穴使うんでしょ？　んぁっ、じゅーぶん解れてるんだからさぁ～♪ - h_voice_akiko 
+#sub "a_hs_11_02_02_05_00" Hey, don't you want to use my ass? I know exactly what you want♪
+
+//#sub a_hs_11_02_02_05_10 = んんっ、早くシないとっ、ケツ穴っ、ゆるゆるになっちゃうよっ？ - h_voice_akiko 
+#sub "a_hs_11_02_02_05_10" Hurry up...or my ass hole...is going to become loose you know?
+
+//#sub a_hs_11_02_02_07_00 = んん……チンポにはチンポの、んぁっ、バイブにはバイブの、気持ちよさがあるよね……ぁん……♪ - h_voice_akiko 
+#sub "a_hs_11_02_02_07_00" nnnn...cocks are cocks...vibes are vibes...both feel really good...♪
+
+//#sub a_hs_11_02_02_07_10 = はっ、んっ、だいじょーぶっ、んぁっ、ガバマンなんかにっ、なんないってっ♪ - h_voice_akiko 
+#sub "a_hs_11_02_02_07_10" haaa...It's ok, I'm not just some huge cunt♪
+
+//#sub a_hs_11_02_02_08_00 = ふうぅ……この排泄感がまた……んひひっ♪ - h_voice_akiko 
+#sub "a_hs_11_02_02_08_00" haaa...this feeling of it coming out keeps going...hihihi♪
+
+//#sub a_hs_11_02_02_08_10 = おほっ、ヌポヌポってっ、アナルっ、捲れてんでしょっ？ - h_voice_akiko 
+#sub "a_hs_11_02_02_08_10" ohohoh...my ass...turned inside out you know?
+
+//#sub a_hs_11_02_03_00_00 = もちゅぅ……この、デカチンポ……♪ずりゅ、ちゅる…… - h_voice_akiko 
+#sub "a_hs_11_02_03_00_00" mmmggg..this cock...♪mmmggg...
+
+//#sub a_hs_11_02_03_00_10 = ちゅぶっ、ぬぶっ、ちょっとっ、にゅるっ、ザーメンっ、まだぁっ？　ちゅぶるるるっ - h_voice_akiko 
+#sub "a_hs_11_02_03_00_10" mmmggg...come on...semen...not yet? mmmggg
+
+//#sub a_hs_11_02_03_01_00 = ちゅるっ、にゃあに？　れろ、ひんかひゅにゃめらりぇんの、れろっ、ひょんにゃにうれひーにょ？（なぁに？チンカス舐められるのそんなにうれしーの？ - h_voice_akiko 
+#sub "a_hs_11_02_03_01_00" mmmggg...what is it? Aren't you happy that I'm licking it?
+
+//#sub a_hs_11_02_03_01_10 = れりゅっ、いひないっ、ひゃへーひないえよっ？　うぃっくいふうんあはらっ（いきなり射精しないでよ？　びっくりするんだから - h_voice_akiko 
+#sub "a_hs_11_02_03_01_10" mmmggg...don't cum so suddenly...I was really suprised
+
+//#sub a_hs_11_02_03_02_00 = こーやって、シコシコするだけでイけるんでしょ？　んっ、お手軽でいいよねー - h_voice_akiko 
+#sub "a_hs_11_02_03_02_00" Just like that, you rub it to cum, this is nice
+
+//#sub a_hs_11_02_03_02_10 = ねぇっ、んっ、ふふっ、手とマンコっ、どっちが気持ちーのっ？ - h_voice_akiko 
+#sub "a_hs_11_02_03_02_10" Heyyy...fufufu...which hole feels better?
+
+//#sub a_hs_11_02_03_03_00 = ねぇ、おっぱいでしこしこされるって、んっ、どーゆー気分なの？ - h_voice_akiko 
+#sub "a_hs_11_02_03_03_00" Heyyy...rubbing my breast, how does it feel?
+
+//#sub a_hs_11_02_03_03_10 = んふっ、カウパーっ、ローションみたいでっ、んっ、いい感じでしょっ？ - h_voice_akiko 
+#sub "a_hs_11_02_03_03_10" nfu, pre cum, looks like lotion, it's a nice feeling right?
+
+//#sub a_hs_11_03_00_01_10 = んゃっ、これっ、イくわっ、ぁんっ、マンコっ、イっちゃうわぁぁっ！ - h_voice_akiko 
+#sub "a_hs_11_03_00_01_10" ahhh...this...I'm cuming...my pussy's...cumingggg!
+
+//#sub a_hs_11_03_00_02_10 = あはっ、んぁっ、アタシのっ、ケツアクメっ、んんっ、よぉっくっ、見てなっさいぃっ、あっあっんっあっあっ！ - h_voice_akiko 
+#sub "a_hs_11_03_00_02_10" ahhhh...my ass hole...hey...look at me...ahhhhhhh!
+
+//#sub a_hs_11_03_01_01_00 = はぁ、んんっ、さっさと出せばっ？　んぁっ、ほらっ、マンコにっ、さぁっ、んっ、んぁんっ - h_voice_akiko 
+#sub "a_hs_11_03_01_01_00" haaa...cuming soon?...look...my pussy...ahhhhhh
+
+//#sub a_hs_11_03_01_01_10 = んぁっ、そんなにっ、アタシのマンコにっ、しゃせーしたいのっ？　んふっ、ねぇっ、んぁっ、ねぇっ♪ - h_voice_akiko 
+#sub "a_hs_11_03_01_01_10" ahhh...just like that...in my pussy...are you going to cum?...hey...hey♪
+
+//#sub a_hs_11_03_01_02_00 = んもぉっ、んんっ、アナルん中っ、出す気っしょっ、んぁっ、このっ、変態がぁっ、んうぁっ - h_voice_akiko 
+#sub "a_hs_11_03_01_02_00" ahhh...come on...in my ass...you're going to cum...you pervert...ahhhh
+
+//#sub a_hs_11_03_01_02_10 = おぅっ、んっ、あーあ、んぁっ、チンポっ、アナルに負けちゃうんだぁっ、んぁっ、あっ、あんっ♪ - h_voice_akiko 
+#sub "a_hs_11_03_01_02_10" ahhh...Mr. cock...my ass won't loose...ahhhhh♪
+
+//#sub a_hs_11_03_02_00_00 = んふっ、チンポ、限界なんでしょ？　ほら、早っくぅっ♪ - h_voice_akiko 
+#sub "a_hs_11_03_02_00_00" nfu, Mr. cock, you're at your limit right? look, hurry up♪
+
+//#sub a_hs_11_03_02_01_00 = じゅづっ、ほらっ、ザーメンっ、吸い出すからっ、んぶっ、じっとしててっ、おぼっ、ぶちゅっ、ぶじゅるっ - h_voice_akiko 
+#sub "a_hs_11_03_02_01_00" mmmggg...hey...semen...suck it out...stay still...mmmggg
+
+//#sub a_hs_11_03_02_02_00 = んにぇえっ、れろっ、ぢゅるっ、ひゃへーひんぽっ、まらぁっ？　ぬろろっ、すぢゅっ、にちゅっ（ねぇ、射精チンポまだ？ - h_voice_akiko 
+#sub "a_hs_11_03_02_02_00" mmmggg...you're still haven't cum yet?...mmmggg
+
+//#sub a_hs_11_04_00_01_10 = んはぁ……どぉ？　アタシのｲきマンコ、こーふんした？ - h_voice_akiko 
+#sub "a_hs_11_04_00_01_10" haaa...sooo? did you have fun with my pussy?
+
+//#sub a_hs_11_04_00_02_10 = んん……誰かさんのお陰で、すっかりアナルアクメキめられるようになっちゃったわぁ…… - h_voice_akiko 
+#sub "a_hs_11_04_00_02_10" haaa...because of someone, my ass is now all weird...
+
+//#sub a_hs_11_04_01_01_00 = んもー、んんっ、妊娠マンコになったら、んぐっ、どーすんのさー、んんっ、はふ…… - h_voice_akiko 
+#sub "a_hs_11_04_01_01_00" Come on...if I got pregnant...what would you do...?
+
+//#sub a_hs_11_04_01_01_10 = んふふっ、オナホマンコにびゅーびゅー、気持ちよかったでちゅか～？ - h_voice_akiko 
+#sub "a_hs_11_04_01_01_10" hehehe...my girl hole going swish swish, didn't it feel good?
+
+//#sub a_hs_11_04_01_02_00 = んんぅ、アタシのアナル、好きなのわかるけど、んぐっ、出される身にも、なんなよ、んふぅ…… - h_voice_akiko 
+#sub "a_hs_11_04_01_02_00" nnn...my ass...I know that you like it...even so cuming inside is...nnn...
+
+//#sub a_hs_11_04_01_02_10 = おふぅ……あー、これアナル締まらないやつだわー……絶対ザーメンお漏らすわー…… - h_voice_akiko 
+#sub "a_hs_11_04_01_02_10" haaa...my ass isn't that tight...semen is definitely going to leak out...
+
+//#sub a_hs_11_04_02_01_00 = けほっ、もー、自制の利かないチンポだなぁ…… - h_voice_akiko 
+#sub "a_hs_11_04_02_01_00" *cough* *cough*...come on, can't you control your cock better...
+
+//#sub a_hs_11_04_02_02_00 = 何？　こんくらいのザーメンで飲ませた気になってんの？ - h_voice_akiko 
+#sub "a_hs_11_04_02_02_00" *gulp*...What is it? Did you want me to swallow it that much?
+
+//#sub a_hs_11_04_02_03_00 = ねぇ、アタシの唾液混じりの精液なんか見て楽しいの？ - h_voice_akiko 
+#sub "a_hs_11_04_02_03_00" Hey, is it that fun to see semen mixed with my saliva?
+
+//#sub a_hs_11_04_03_01_10 = んはぁ、くっさいザーメン……早くシャワー浴びたーい - h_voice_akiko 
+#sub "a_hs_11_04_03_01_10" haaa...stinks of semen...I want to hurry up and take a shower
+
+//#sub a_hs_11_05_00_00_00 = んふっ、う……あーあー、マンコがアンタのザーメン、要らないってさ～……♪ - h_voice_akiko 
+#sub "a_hs_11_05_00_00_00" nfu...aaaa....my pussy with your semen, I don't really need it...♪
+
+//#sub a_hs_11_05_00_01_00 = んあっ、はぁぁ……いつか、アナルからぶっかけてやるんだから……んぅ…… - h_voice_akiko 
+#sub "a_hs_11_05_00_01_00" haaa...One of these days I'll give you a taste of anal...nnnn...
+
+//#sub a_hs_11_06_00_02_00 = あーあ、誰かさんのせいで馬鹿マンコになっちゃってるわ～……あは♪ - h_voice_akiko 
+#sub "a_hs_11_06_00_02_00" aaa...because of someone, my pussy is all weird now...aha♪
+
+//#sub a_hs_11_06_00_03_00 = はぁ、アナルでイきまくるとか……ま、変態の血筋だし、しょーがないよね？ - h_voice_akiko 
+#sub "a_hs_11_06_00_03_00" haaa, I'm getting used to anal...well, it's perverted genes, so it can't be helped 
+
+//#sub a_hs_11_06_00_06_00 = はいはい、性奴隷は大人しく孕んどけって事ねー - h_voice_akiko 
+#sub "a_hs_11_06_00_06_00" yeah yeah, as a sex slave, I'll obediently become pregnant
+
+//#sub a_hs_11_06_00_07_00 = んふぅ……もー、また便器アナルのお掃除しなきゃいけないじゃーん…… - h_voice_akiko 
+#sub "a_hs_11_06_00_07_00" nfufu...come on, I'll have to clean my toilet ass again...
+
+//#sub a_hs_20_01_00_00_00 = うひゅ、あひぇあへまんこに、ひんぽ、ぶっしゃしゅぅ……？（アヘアヘマンコにチンポぶっさす？ - h_voice_akiko 
+#sub "a_hs_20_01_00_00_00" aheahe...pussy...cock...shaking...?
+
+//#sub a_hs_20_01_00_01_00 = いひひっ、ゆぅゆぅしょりょまんこ、んひっ、いっひぇみよ～♪（ゆるゆる処女マンコいってみよー - h_voice_akiko 
+#sub "a_hs_20_01_00_01_00" ihihihi....loose maiden pussy♪
+
+//#sub a_hs_20_01_01_00_00 = あひひっ、あにゃるれひんぽ、たべひゃうよ～♪（アナルでチンポ食べちゃうぞ - h_voice_akiko 
+#sub "a_hs_20_01_01_00_00" hiiihiihehehe...cock in ass, I'll eat it up♪
+
+//#sub a_hs_20_01_01_01_00 = はひ、あにゃる、んひっ、ちゅいに、かいひゅーひちゃう？（アナル、ついに開通しちゃう？ - h_voice_akiko 
+#sub "a_hs_20_01_01_01_00" hehehehe...ass, finally opened up？
+
+//#sub a_hs_20_01_02_00_00 = んひゅ、、もー、んひゅ、よーひゃにゃいんらからぁ……♪（もー容赦ないんだから - h_voice_akiko 
+#sub "a_hs_20_01_02_00_00" hehe...come on...don't be so merciless...♪
+
+//#sub a_hs_20_01_02_01_00 = ほりゃぁ、んんっ、おにゃるの、ひゃんとみひぇてよぉ～♪（ほらぁ、オナるのちゃんと見ててよ - h_voice_akiko 
+#sub "a_hs_20_01_02_01_00" Hey...look at me properly♪
+
+//#sub a_hs_20_01_02_02_00 = むぅ、ひょんなのれ、あらひはひーひーいぁないかんにぇ？（そんなのでアタシはひーひー言わないかんね？ - h_voice_akiko 
+#sub "a_hs_20_01_02_02_00" Because of that...it won't stop...didn't I say?
+
+//#sub a_hs_20_01_03_00_00 = んひひ、ひんぽ、おひおきらぁ……♪（チンポお仕置きだぁ - h_voice_akiko 
+#sub "a_hs_20_01_03_00_00" hihihi...bad cock...♪
+
+//#sub a_hs_20_01_03_00_01 = いひっ、ひんぽたち、あらひのことしゅきしゅぎれひょー♪（チンポたち、私の事好き過ぎでしょー - h_voice_akiko 
+#sub "a_hs_20_01_03_00_01" hihihi...Mr. cock, I love you a lot♪
+
+//#sub a_hs_20_02_00_00_00 = んひひ、あらひのまんこ、ひんぽ、しゅきしゅぎぃ……♪（アタシのマンコ、チンポ好き過ぎ - h_voice_akiko 
+#sub "a_hs_20_02_00_00_00" hehehe...my pussy...really likes cock...♪
+
+//#sub a_hs_20_02_00_00_10 = あひっ、ひっ、どけりゅっ、くひっ、まんこっ、とけりゅぅぅっ♪（溶ける、マンコ溶ける - h_voice_akiko 
+#sub "a_hs_20_02_00_00_10" hihiheee...melting...my pussy...melting♪
+
+//#sub a_hs_20_02_01_00_00 = おひ、あにゃる、ひんぽ……もっろぉ……♪（アナル、チンポもっとぉ - h_voice_akiko 
+#sub "a_hs_20_02_01_00_00" hihihi...ass...cock...more...♪
+
+//#sub a_hs_20_02_01_00_10 = おっ、ほっ、こーもんっ、しぇくすっ、んおっ、しゅごぉっ♪（肛門セックスすごぉ - h_voice_akiko 
+#sub "a_hs_20_02_01_00_10" Anal...sex...amazing♪
+
+//#sub a_hs_20_02_03_00_00 = もぶぶ……チンポ、苛め足りないんだから、むちゅ、ぬちゅる…… - h_voice_akiko 
+#sub "a_hs_20_02_03_00_00" mmmggg...cock, haven't had enough...mmmggg...
+
+//#sub a_hs_20_02_03_00_10 = ぬぶっ、ちゅっ、ちゅっ、口まんこっ、どぉだぁっ、ぶちゅっ、ぷぢゅっ - h_voice_akiko 
+#sub "a_hs_20_02_03_00_10" mmmggg...my mouth...how's is it...mmmggg
+
+//#sub a_hs_20_02_10_00_00 = うひぁ……こりぇ、やヴぁいやぁ……♪（これやばいわ - h_voice_akiko 
+#sub "a_hs_20_02_10_00_00" ehhhhehehe...this...is really bad...♪
+
+//#sub a_hs_20_02_10_00_01 = いひ、ひゅ……きもひーの、つじゅきしゅぎぃ……はひぃ……♪（きもちーの続き過ぎ - h_voice_akiko 
+#sub "a_hs_20_02_10_00_01" ahhhh hihi...feels good...wont stop...hihi...♪
+
+//#sub a_hs_20_02_10_00_10 = あひっ、あっ、しょれよっ、んひっ、しょれっ、しょりぇぇっ♪（それよ、それ、それ - h_voice_akiko 
+#sub "a_hs_20_02_10_00_10" hehehehe...like that...just like that♪
+
+//#sub a_hs_20_02_10_00_11 = ひゃぃっ、どれらけっ、らめにしゅればっ、いひっ、きあしゅむのよぉっ、あひっ♪（どれだけダメにすれば気が済むのよ - h_voice_akiko 
+#sub "a_hs_20_02_10_00_11" heheh...keep going...until you're done...ahhh
+
+//#sub a_hs_20_02_11_00_00 = んひゅ、あんたらって、こーやって、あひゅっ、あらひのこと、りぇいぷしたれしょー♪（アンタだってこーやってアタシの事レイプしたでしょ？ - h_voice_akiko 
+#sub "a_hs_20_02_11_00_00" ahhh...I'm like this...because you raped me♪
+
+//#sub a_hs_20_02_11_00_10 = ふひっ、あらひのっ、じゃまはっ、んひゅっ、しゃせにゃいんらからっ♪（アタシの邪魔はさせないんだから - h_voice_akiko 
+#sub "a_hs_20_02_11_00_10" ahhhahhhh...I won't...let you...get away with this♪
+
+//#sub a_hs_20_02_12_00_00 = にゅむぁ……にゃにぃ？　ちゅむっ、あらひにょこと、らいひゅきにゃのぉ？　ふちゅぅ……♪（何？　アタシの事大好きなの？ - h_voice_akiko 
+#sub "a_hs_20_02_12_00_00" mmmggg...what is it?...mmmggg...what do you like about me?...mmmggg♪
+
+//#sub a_hs_20_02_12_00_10 = れりょっ、んみょっ、あらひっ、しぇっくすじゅけっ、しゅりゅきっ？　あむんっ、ぷぁっ（アタシをセックス漬けにする気？ - h_voice_akiko 
+#sub "a_hs_20_02_12_00_10" mmmggg...sex with me...are you addicted?
+
+//#sub a_hs_20_02_13_00_00 = にゃによぉ、んひっ、あらひのが、きもひよくにゃいってゆーにょ？（何よ、アタシのが気持ちよくないってゆーの？ - h_voice_akiko 
+#sub "a_hs_20_02_13_00_00" What...do you not...feel good...doing it with me?
+
+//#sub a_hs_20_02_13_00_01 = んひゅ、いーっふぁいいじめひゃうんらからぁ……♪（いーっぱい苛めちゃうんだから - h_voice_akiko 
+#sub "a_hs_20_02_13_00_01" hihihi...I'm going to...bully you lots...♪
+
+//#sub a_hs_20_02_13_00_10 = うひゅっ、こぇはっ、ひかえひっ、にゃんらからぁっ♪（これは仕返しなんだから - h_voice_akiko 
+#sub "a_hs_20_02_13_00_10" ehehe...This is...payback...for everything♪
+
+//#sub a_hs_20_02_13_00_11 = もっろっ、んひっ、あらひにっ、むひゅーになぃなひゃいっ♪（もっとアタシに夢中になりなさい - h_voice_akiko 
+#sub "a_hs_20_02_13_00_11" ehehe...more...I want to be drown in it♪
+
+//#sub a_hs_20_02_14_00_00 = にゅろぉ……んひ、いちゅまれも、びんびんにゃんらからぁ……れろぉ……♪（いつまでもビンビンなんだからぁ - h_voice_akiko 
+#sub "a_hs_20_02_14_00_00" mmmggg...It keeps on going...thump thump...♪
+
+//#sub a_hs_20_02_14_00_10 = んひゅるっ、ちゅびっ、おくひれっ、ごほーひっ、にゃのらぁっ、れろろっ、にゅるっ♪（お口でご奉仕なのだぁ - h_voice_akiko 
+#sub "a_hs_20_02_14_00_10" mmmggg...my mouth...will give you service
+
+//#sub a_hs_20_02_20_00_00 = うひゅ、んんっ、もっろみひぇよぉ……あひ……♪（もっと見てよぉ - h_voice_akiko 
+#sub "a_hs_20_02_20_00_00" ehehe...look more...♪
+
+//#sub a_hs_20_02_20_00_10 = はひゃっ、みひぇるっ、んひっ、しぇっくしゅっ、みりゃれてりゅぅっ♪(見てる、セックス見られてる - h_voice_akiko 
+#sub "a_hs_20_02_20_00_10" ehehehe...I'm seen...sex...I've been seen♪
+
+//#sub a_hs_20_02_20_01_00 = んひゅ、ひんぽ、みえりゅ～？（チンポ見える？ - h_voice_akiko 
+#sub "a_hs_20_02_20_01_00" ehehe...cock...see it?
+
+//#sub a_hs_20_02_20_01_10 = ほりゃっ、んっ、ひんぽっ、ろーなってるかっ、みひぇみなしゃいっ♪（ほら、チンポどーなってるか見てみなさい - h_voice_akiko 
+#sub "a_hs_20_02_20_01_10" Hey...look at...what's happened...to your cock♪
+
+//#sub a_hs_20_02_91_00_00 = あはは……♪ - h_voice_akiko 
+#sub "a_hs_20_02_91_00_00" ahaha...♪
+
+//#sub a_hs_20_02_91_00_10 = んひっ、ひひっ♪ - h_voice_akiko 
+#sub "a_hs_20_02_91_00_10" nhi...hihi♪
+
+//#sub a_hs_20_03_00_00_00 = あいい゛ぃっイぐっ、イぐかりゃっ、あ゛ぃっ、イ゛ぎっ、ひっ、いひぃぃぃぃっっ♪（イく、イくから、イき - h_voice_akiko 
+#sub "a_hs_20_03_00_00_00" ah ahh ahhh...I'm cuming...I'm going to cum...cuminggggg
+
+//#sub a_hs_20_03_00_01_00 = あ゛ひっ、イぐっ、イぐっ、ぁへっ、あらひっ、マンゴっ、イぎまくりゅうぅぅぅっ♪（イく、イく、アタシ、マンコイきまくる - h_voice_akiko 
+#sub "a_hs_20_03_00_01_00" ahh ahhh ahhh...cuming...cuming...my pussy is cumingggg
+
+//#sub a_hs_20_03_00_02_00 = おっおっん゛おっお゛ひっ、あっ、あなりゅっ、おほっ、イぐっ、あ゛っ、イがっ、あっ、ぉっあぁぁぁああっ♪（おし（り）、アナル、イく、イか（される） - h_voice_akiko 
+#sub "a_hs_20_03_00_02_00" ah ah ahhh...my ass...anal...cuming...I'm cumingggg
+
+//#sub a_hs_20_03_01_00_00 = んひっ、ほりゃっ、まけひんぽはっ、しゃっしゃとしゃしぇーしゅるのっ、いひっ、いひひっ（ほら、負けチンポはさっさと射精するの - h_voice_akiko 
+#sub "a_hs_20_03_01_00_00" ahhh...hey, this looser cock...is going to cum quickly...nihihi
+
+//#sub a_hs_20_03_01_01_00 = くひっ、ほやっ、んひっ、あらひのひきゅーにっ、しぇーえきっ、ぶっかけりゅのよっ、んひっ、ほりゃぁっ♪（ほら、アタシの子宮に精液ぶっかけるのよ、ほら - h_voice_akiko 
+#sub "a_hs_20_03_01_01_00" hihihi...hey...pour your semen...into my womb...hey
+
+//#sub a_hs_20_03_01_02_00 = あひひっ、ぐりゅっ、いひっ、あにゃるっ、じゃーめんかんひょーっ、くりゅっ、きひっ、くりゅぅぅ……っ♪（くる、アナル、ザーメン浣腸くる、くる - h_voice_akiko 
+#sub "a_hs_20_03_01_02_00" hihihi...cum...in my ass...semen enema​...cummmm
+
+//#sub a_hs_20_03_02_00_00 = いひっ、にぇえっ、イきしょーなんれしょっ？　くひっ、にぇぇっ、イきひょーなんれひょぉっ、にぇぇぇっ♪（ねえ、イきそーなんでしょ？　ねぇ、イきそーなんでしょ？　ねぇ - h_voice_akiko 
+#sub "a_hs_20_03_02_00_00" hihiheee...hey, isn't this alright?...hey, isn't this all right?...hey
+
+//#sub a_hs_20_03_02_01_00 = んぼっ、ほぼっ、しゃせっ、おごっ、しゃせぇっ、はやっ、んぶぉっ、ちょぶっ、ちょむっ - h_voice_akiko 
+#sub "a_hs_20_03_02_01_00" mmmggg...thanks...thank you...mmmggg
+
+//#sub a_hs_20_03_02_02_00 = にぇろっ、いひっ、じゃーめんっ、んひっ、じゃーめんっ、んひひっ♪（ザーメンザーメン♪ - h_voice_akiko 
+#sub "a_hs_20_03_02_02_00" mmmggg...semen...semen...mmmggg
+
+//#sub a_hs_20_04_00_00_00 = あひっ、ひっ、やヴぁ、んぐ、こりぇ、まじゅいやつらぁ、んひ……♪（やば、これまずいやつだ - h_voice_akiko 
+#sub "a_hs_20_04_00_00_00" hahahaha...bad...this is really bad...♪
+
+//#sub a_hs_20_04_00_00_01 = あひゃ、ひ、んぐ、ひかや、はいやにゃいやぁ……♪（力はいらないや - h_voice_akiko 
+#sub "a_hs_20_04_00_00_01" ahhhhh...strength...don't have any...♪
+
+//#sub a_hs_20_04_00_01_00 = いひひぃ、ひっ、おみゃんこ、けーぇん、とまんにゃぁ……♪（オマンコ痙攣とまんなぁ - h_voice_akiko 
+#sub "a_hs_20_04_00_01_00" hihihi...pussy...can't stop comming...♪
+
+//#sub a_hs_20_04_00_02_00 = あにゃっ、んひっ、あにゃるっ、はひっ、こわれひゃったぁ……♪（あな、アナル、壊れちゃった - h_voice_akiko 
+#sub "a_hs_20_04_00_02_00" ahhahh...ass...ass...it's broken...♪
+
+//#sub a_hs_20_04_01_00_00 = あひひ、あらひのあにゃ、じゃーめんまみりぇぇ、くひひ……♪（アタシの穴、ザーメン塗れ - h_voice_akiko 
+#sub "a_hs_20_04_01_00_00" hihihi...my hole...covered is semen...♪
+
+//#sub a_hs_20_04_01_00_01 = ふひひ、ひんぽ、あらひのにゃか、めりょめりょなのらぁ……♪（チンポ、アタシの中、メロメロなのだ - h_voice_akiko 
+#sub "a_hs_20_04_01_00_01" hihihi...cock...inside of me...lovey lovey...♪
+
+//#sub a_hs_20_04_01_01_00 = んひゅひゅ、んぐっ、しょんにゃに、あらひ、はりゃませひゃいの……？（そんなにアタシ孕ませたいの？ - h_voice_akiko 
+#sub "a_hs_20_04_01_01_00" hihihi...Do you...want to...impregnate me...that much?
+
+//#sub a_hs_20_04_01_02_00 = ほひゅぅ……ふひっ、あにゃる、ぶりゅぶりゅーって、しひゃおーかにゃ～♪（アナル、ぶりゅぶりゅってしちゃおうかな～ - h_voice_akiko 
+#sub "a_hs_20_04_01_02_00" haahaaa...ass...twitching twitching♪
+
+//#sub a_hs_20_04_02_00_00 = んひゅ、あらひのくひまんこ、しゅごいれしょー♪（アタシの口マンコすごいでしょ - h_voice_akiko 
+#sub "a_hs_20_04_02_00_00" haaa...my mouth...is amazing right♪
+
+//#sub a_hs_20_04_02_02_00 = くひゅっ、がぶにょみ、おひんぽみりゅくぅ、んひひひひ……♪（がぶ飲みおチンポミルク - h_voice_akiko 
+#sub "a_hs_20_04_02_02_00" haaa...drinking...cock milk...hhihihihi...♪
+
+//#sub a_hs_20_04_02_03_00 = ひひっ、くひまんこれ、しゃしぇーしひゃったぁ♪（口マンコで射精しちゃった - h_voice_akiko 
+#sub "a_hs_20_04_02_03_00" hihihi...You cummed...in my mouth♪
+
+//#sub a_hs_20_04_03_00_00 = いひひ……ひんぽ、イきしゅぎぃ……あひ……♪（チンポイきすぎぃ - h_voice_akiko 
+#sub "a_hs_20_04_03_00_00" heee...cock...cum too much...heeheee
+
+//#sub a_hs_20_04_03_00_01 = えひひ、あらひのかひぃ……んひ……♪（アタシの勝ち - h_voice_akiko 
+#sub "a_hs_20_04_03_00_01" hihihi...I won...hihihi...♪
+
+//#sub a_hs_20_04_03_01_00 = はふっ、じゃーめんろーひょん、どりょっどりょぉ……♪（ザーメンローションどろっどろ - h_voice_akiko 
+#sub "a_hs_20_04_03_01_00" ahh...semen lotion...drippy drippy...♪
+
+//#sub a_hs_20_05_00_00_00 = あへひ……はりゃましぇーえき、んひっ、じゃんねんれひた～……♪（孕ませーえき、残念でした～ - h_voice_akiko 
+#sub "a_hs_20_05_00_00_00" ahh hee...you impregnated me...too bad...♪
+
+//#sub a_hs_20_05_00_01_00 = ほひっ、いぃ……あにゃる、がばがばやんかぁ……あひ……♪（アナルがばがばじゃんかぁ - h_voice_akiko 
+#sub "a_hs_20_05_00_01_00" hiii...ass...gurgle gurgle...♪
+
+//#sub a_hs_20_05_00_02_00 = おひぅ、こりゃぁ、へふっ、ひっかり、おひんぽしぇんひにゃしゃいよぉ……っ（こらぁ、しっかりおチンポ栓しなさいよ - h_voice_akiko 
+#sub "a_hs_20_05_00_02_00" ehhh...here...let's tightly plug up that cock...
+
+//#sub a_hs_20_05_00_03_00 = ひひっ、おひっこ、おひっこぉ、ふひひ……♪（おしっこおしっこ - h_voice_akiko 
+#sub "a_hs_20_05_00_03_00" hihihi...pee...pee...hihihi...♪
+
+//#sub a_hs_20_06_00_00_00 = んひぅ……まひゃか、んんっ、こんにゃになるにゃんてぇ……あひぃ……♪（まさかこんなになるなんて - h_voice_akiko 
+#sub "a_hs_20_06_00_00_00" haa...pussy...it can't be like this...♪
+
+//#sub a_hs_20_06_00_00_01 = あひぇえ……ひゃひゅがに、んひゅ、ひゅかれひゃわぁ……はひ……（流石に疲れたわぁ - h_voice_akiko 
+#sub "a_hs_20_06_00_00_01" haaa...as I thought...really tired...
+
+//#sub a_hs_20_06_00_01_00 = はへぇ、ひょ～っろ、イきしゅぎらぁ……あはぁ……♪（ちょーっとイいきすぎたぁ - h_voice_akiko 
+#sub "a_hs_20_06_00_01_00" haaa...hold on...this is too much...ahhhh...♪
+
+//#sub a_hs_20_06_00_05_00 = うひゅひゅ、ひんぽじゃーめん、らしすぎりゃぁ……あへへ……♪（チンポザーメン出し過ぎだぁ - h_voice_akiko 
+#sub "a_hs_20_06_00_05_00" hehehe...cock...semen...let out lots...♪
+
+//#sub a_hs_20_06_00_08_00 = んゅぅ、なーんらぁ、んんっ、ひんぽ、もーれないんらぁ……（なーんだ、チンポもう出ないんだ - h_voice_akiko 
+#sub "a_hs_20_06_00_08_00" What...your cock wont cum anymore...
+
+//#sub a_hs_20_06_91_00_00 = えひ、へひ……♪ - h_voice_akiko 
+#sub "a_hs_20_06_91_00_00" ehe ehe...♪
+
+//#sub a_ho_00_00_00 = すぅ……はぁ…… - h_voice_akiko 
+#sub "a_ho_00_00_00" 
+
+//#sub a_ho_00_01_00 = んん、はぁ……はぁ……んっふぅ……はぁ…… - h_voice_akiko 
+#sub "a_ho_00_01_00" 
+
+//#sub a_ho_00_02_00 = はぁ、はぁ、んんっ、 - h_voice_akiko 
+#sub "a_ho_00_02_00" 
+
+//#sub a_ho_00_03_00 = はひ、ふひっ、あはっ…あはぁ…はぁはぁ……んは……はぁ…… - h_voice_akiko 
+#sub "a_ho_00_03_00" 
+
+//#sub a_ho_00_04_00 = あひ、はひっ、はふ - h_voice_akiko 
+#sub "a_ho_00_04_00" 
+
+//#sub a_ho_00_05_00 = すぅ……ん…… - h_voice_akiko 
+#sub "a_ho_00_05_00" 
+
+//#sub a_ho_00_06_00 = すっ、すっ、んんっ、ずっ - h_voice_akiko 
+#sub "a_ho_00_06_00" 
+
+//#sub a_ho_00_07_00 = すっ、ずっ、すぅっ、んんっ、ん、すぅ、すぅ…ん…す……すぅ……すぅ…… - h_voice_akiko 
+#sub "a_ho_00_07_00" 
+
+//#sub a_ho_11_00_00 = んっ……っんぐ……んー……ん……んぐっ……ん……ふっ……ん……んん……んぅ…… - h_voice_akiko 
+#sub "a_ho_11_00_00" 
+
+//#sub a_ho_11_00_01 = ふっ……ん……んっ……んぐ……ぅ……うぅ……んっ……ん……んくっ……ん……んん…… - h_voice_akiko 
+#sub "a_ho_11_00_01" 
+
+//#sub a_ho_11_00_02 = んく……っ……ん……んっ……んぅ……ん……くっ……ん……ん……んっ……う……ん…… - h_voice_akiko 
+#sub "a_ho_11_00_02" 
+
+//#sub a_ho_11_01_00 = ぁっ……うく……ん……ぁん……ん……ん……あふ、ん……はぁ……んっ……ぅ……ぁ…… - h_voice_akiko 
+#sub "a_ho_11_01_00" 
+
+//#sub a_ho_11_01_01 = んっ……ふぁ……ぁ……んっぁ……ん……う……ぁん……ぁ……ん……はふ……んん…… - h_voice_akiko 
+#sub "a_ho_11_01_01" 
+
+//#sub a_ho_11_01_02 = ふぁ……ん……んく……ん……ぁ……ぁん……んふ……あ……んっぁ……はぅ……ぅ…… - h_voice_akiko 
+#sub "a_ho_11_01_02" 
+
+//#sub a_ho_11_10_00 = うぅ……ん……むぅ……ん……んん？……うーん……んっ……ん…… - h_voice_akiko 
+#sub "a_ho_11_10_00" 
+
+//#sub a_ho_11_10_01 = ん……むぅ……んっ……はぁ……んん……んー……ぅん……ん…… - h_voice_akiko 
+#sub "a_ho_11_10_01" 
+
+//#sub a_ho_11_10_02 = んっ……う……んぐ……んぅ……む……んん……はぁ……ん…… - h_voice_akiko 
+#sub "a_ho_11_10_02" 
+
+//#sub a_ho_11_11_00 = んぁ……んっ……んふっ……ぁん……ん……ぁ……あは……んふふ…… - h_voice_akiko 
+#sub "a_ho_11_11_00" 
+
+//#sub a_ho_11_11_01 = んっ……ぁ……あん……ぁ……ひゃっ、ん……んふ……んぁぁ…… - h_voice_akiko 
+#sub "a_ho_11_11_01" 
+
+//#sub a_ho_11_11_02 = ぁん……ん、ふふっ……んぁっ……あ……ん……ぁは……んん…… - h_voice_akiko 
+#sub "a_ho_11_11_02" 
+
+//#sub a_ho_11_20_00 = はひぃ……ひゃ……あ……あは……は……ふゃ……や……ひゃぅ……ひゃ……やぁ…… - h_voice_akiko 
+#sub "a_ho_11_20_00" 
+
+//#sub a_ho_11_20_01 = あ゛ひっ……っん゛あっ……ひゃん……は……はひぃ……ん……っはぁ……ひ……ひひ…… - h_voice_akiko 
+#sub "a_ho_11_20_01" 
+
+//#sub a_ho_11_20_02 = んあ゛っ……ひっあ……あ……ひゃ……はひ……ひ……ひん……んっ……あ……あひ…… - h_voice_akiko 
+#sub "a_ho_11_20_02" 
+
+//#sub a_ho_11_21_00 = はじゅぅ……んひっぁ……ちゅぢゅる……ふゅ……へろぉ……んひゅ……にゅひゅ……にりゅ……じゅる、ふひゅ…… - h_voice_akiko 
+#sub "a_ho_11_21_00" 
+
+//#sub a_ho_11_21_01 = すひゅる……ひっちゅ……んひ……ぢゅっ……じゅる……んひん……ちゅ……ふひゅっ……にゅるりゅ……ちぅぅ…… - h_voice_akiko 
+#sub "a_ho_11_21_01" 
+
+//#sub a_ho_11_21_02 = はじゅ……ふにゅ……くひゅ……ふに……りりゅ……りゅ……ふひぃ……ひちゅ……ん……あひ……ちゅひぃ…… - h_voice_akiko 
+#sub "a_ho_11_21_02" 
+
+//#sub a_ho_11_90_00 = あぐっ……うっ……くっ……っつぅ……んんっ……くっ……うっ……ぐぅっ……ぅっ……くぅっ…… - h_voice_akiko 
+#sub "a_ho_11_90_00" 
+
+//#sub a_ho_11_90_01 = んぐっ……あっ……っく……つっ……ぐっ……うっ……つぁっ……くっ……うっ……うぅっ…… - h_voice_akiko 
+#sub "a_ho_11_90_01" 
+
+//#sub a_ho_11_90_02 = くっ……んぐっ……うっ……ぁっ……つっ……うっ……んっ……ぐっ……んくっ……ぅっ…… - h_voice_akiko 
+#sub "a_ho_11_90_02" 
+
+//#sub a_ho_11_91_00 = んぅ……う……んっ……ふぅ……んん……うっ……うぅ…… - h_voice_akiko 
+#sub "a_ho_11_91_00" 
+
+//#sub a_ho_11_91_01 = んむ……うぅ……う……んっ……んぅ……う……んっ……んぅ…… - h_voice_akiko 
+#sub "a_ho_11_91_01" 
+
+//#sub a_ho_11_92_00 = んぅっ……うっ……んっ……ふぅっ……んんっ……うっ……うぅっ…… - h_voice_akiko 
+#sub "a_ho_11_92_00" 
+
+//#sub a_ho_11_92_01 = んむっ……うぅっ……うっ……んっ……んぅっ……うっ……んっ……んぅっ…… - h_voice_akiko 
+#sub "a_ho_11_92_01" 
+
+//#sub a_ho_11_93_00 = んぅ……ん、ちゅ……んむ……ぅ……んっ……つふ……うぅ……つる……む……ぅむ…… - h_voice_akiko 
+#sub "a_ho_11_93_00" 
+
+//#sub a_ho_11_93_01 = ぁう……んっ……ちゅ……ちゅる……ん……はぁ……んんっ……うぅ……んぅ…… - h_voice_akiko 
+#sub "a_ho_11_93_01" 
+
+//#sub a_ho_11_94_00 = んぁ……ちゅる、ん……ん……ぁん……ちゅふ……ちゅる、る……ぁぁ……んっ……はぁ…… - h_voice_akiko 
+#sub "a_ho_11_94_00" 
+
+//#sub a_ho_11_94_01 = ぁん……ん……ちゅふ……んっちゅ……ちゅぅ……んぁ……あ……ぁむ……む……んむぅ…… - h_voice_akiko 
+#sub "a_ho_11_94_01" 
+
+//#sub a_ho_12_00_00 = ん゛んっ、んっ、くっ、んっ、んんっ、ふっ、んっ、んっ、んーっ、んっ、くっ、うっ、んっ、んっ、んんっ - h_voice_akiko 
+#sub "a_ho_12_00_00" 
+
+//#sub a_ho_12_00_01 = んぐっ、んっ、んっ、ふっ、んっ、ぐっ、くっ、んっ、んんっ、んっ、んふっ、んっ、んっ、ぐっ、んぅっ - h_voice_akiko 
+#sub "a_ho_12_00_01" 
+
+//#sub a_ho_12_00_02 = んんっ、ふっ、んっ、んっ、んくっ、うっ、んっ、んっ、んっ、んっ、ふっ、んっ、ぐっ、んっ、んつっ - h_voice_akiko 
+#sub "a_ho_12_00_02" 
+
+//#sub a_ho_12_01_00 = ぃっ、んくっ、んっ、んっ、ぁっ、ふっ、んっ、んぁっ、んっ、ぁんっ、ぁっ、んっ、ふっ、んんっ、んぁんっ - h_voice_akiko 
+#sub "a_ho_12_01_00" 
+
+//#sub a_ho_12_01_01 = んっ、うっ、ぁっ、あっ、んっ、ぁんっ、ぁっ、はぁっ、んっ、んっ、んっ、ふっ、んっ、んっ、んくっ、んんっ - h_voice_akiko 
+#sub "a_ho_12_01_01" 
+
+//#sub a_ho_12_01_02 = ぃっ、んくっ、んっ、ぁっ、んっ、はっ、ぁっ、んっ、んっ、んっ、ふっ、んんっ、ぁうっ、んっ、ぁんっ、んっ - h_voice_akiko 
+#sub "a_ho_12_01_02" 
+
+//#sub a_ho_12_10_00 = んうっ、んっ、うっ、もぉっ、んんっ、くっ、んぅっ、んっ、んんっ - h_voice_akiko 
+#sub "a_ho_12_10_00" 
+
+//#sub a_ho_12_10_01 = んくっ、うっ、んんっ、むぅっ、んっ、うっ、んんっ、ふんっ、んんっ - h_voice_akiko 
+#sub "a_ho_12_10_01" 
+
+//#sub a_ho_12_10_02 = んっ、んっ、んっ、うっ、んんっ、ふぅっ、んんっ、うっ、んぐっ、むぅっ - h_voice_akiko 
+#sub "a_ho_12_10_02" 
+
+//#sub a_ho_12_11_00 = んふっ、あっ、んぁっ、あっ、ひゃっ、んっ、あはっ、んっ、あははっ、んぁっ - h_voice_akiko 
+#sub "a_ho_12_11_00" 
+
+//#sub a_ho_12_11_01 = んはっ、んっ、あんっ、あっ、んぁっ、んっ、ふふっ、んんっ、あっ、んぁぁっ - h_voice_akiko 
+#sub "a_ho_12_11_01" 
+
+//#sub a_ho_12_11_02 = ぁんっ、あっ、んんっ、ひゃっ、んぁっ、あっ、あっ、んぁんっ、んっ、ふふっ - h_voice_akiko 
+#sub "a_ho_12_11_02" 
+
+//#sub a_ho_12_20_00 = はひっ、あっ、ひゃっ、はひゃっ、やぅっ、あっ、ひゃんっ、はっ、はひぃっ、ひっ、ひっ、ひゃっ - h_voice_akiko 
+#sub "a_ho_12_20_00" 
+
+//#sub a_ho_12_20_01 = あ゛っ、ぁ゛っ、ん゛っ、あん゛っ、はひっ、やっ、やうっ、んっ、ひぃっ、うっ、うひっ、ひぃっ - h_voice_akiko 
+#sub "a_ho_12_20_01" 
+
+//#sub a_ho_12_20_02 = ふひゃっ、あっ、ひゃうっ、んっ、やっ、ひゃっ、はひっ、あひっ、ひっ、やっ、あっ、あっ、あっ - h_voice_akiko 
+#sub "a_ho_12_20_02" 
+
+//#sub a_ho_12_21_00 = ふじゅっ、ちゅっ、ひゅっ、んひっ、はひっ、ちゅひゅっ、ぢゅっ、じゅりゅっ、にゅひっ、にゅひっ、ひっ、ちゅりゅっ、りゅくっ - h_voice_akiko 
+#sub "a_ho_12_21_00" 
+
+//#sub a_ho_12_21_01 = はひゅっ、ぢゅっ、じゅるるっ、んひっ、ひっ、じゅづるっ、ちぅぅっ、んっひ、すふゅっ、じゅっ、にゅひっ、はひっ、ひんっ、にゅっ、にちゅっ - h_voice_akiko 
+#sub "a_ho_12_21_01" 
+
+//#sub a_ho_12_21_02 = れひゅっ、んりゅっ、んふっ、ひゅるるっ、ひっ、ふひっ、ちゅぅっ、ちゅふっ、ちゅふっ、んゅるるっ、んひぁっ、んっ、ふちゅうぅっ - h_voice_akiko 
+#sub "a_ho_12_21_02" 
+
+//#sub a_ho_12_90_00 = づっ、あっ、ぐっ、うっ、あっ、ぐっ、うっ、うっ、んっ、くっ、うっ、つっ、うっ、うぅっ - h_voice_akiko 
+#sub "a_ho_12_90_00" 
+
+//#sub a_ho_12_90_01 = くっ、あっ、うっ、んぐっ、うっ、うっ、んっ、づっ、うっ、あぐっ、うっ、んっ、くぅっ - h_voice_akiko 
+#sub "a_ho_12_90_01" 
+
+//#sub a_ho_12_90_02 = ぐっ、あっ、んっ、くっ、うっ、あぐっ、うっ、うぅっ、んっ、づっ、うっ、んぐっ、あぐっ - h_voice_akiko 
+#sub "a_ho_12_90_02" 
+
+//#sub a_ho_12_91_00 = んっ、うっ、ふぐっ、んっ、うっ、うぅっ、んむっ、んうぅっ - h_voice_akiko 
+#sub "a_ho_12_91_00" 
+
+//#sub a_ho_12_91_01 = んんっ、うっ、んうっ、うっ、うっ、ふぅっ、んっ、んむっ、むぅっ - h_voice_akiko 
+#sub "a_ho_12_91_01" 
+
+//#sub a_ho_12_92_00 = んぅっ！うっ、んんっ、んっ、んふっ、うっ、んぅんっ、うっ、むぅっ - h_voice_akiko 
+#sub "a_ho_12_92_00" 
+
+//#sub a_ho_12_92_01 = んっ！んんっ、ぅんっ、んっ、うぅっ、んっ、んぅっ、うっ、んむんっ - h_voice_akiko 
+#sub "a_ho_12_92_01" 
+
+//#sub a_ho_12_93_00 = んっ、むっ、んんっ、うっ、んちゅっ、ふっ、ふっ、んんっ、んくっ、むぅっ - h_voice_akiko 
+#sub "a_ho_12_93_00" 
+
+//#sub a_ho_12_93_01 = ぅっ、んっ、むふっ、んっ、んっ、ちゅふっ、んっ、うぅっ、んむっ、うぅっ - h_voice_akiko 
+#sub "a_ho_12_93_01" 
+
+//#sub a_ho_12_94_00 = ぁんっ、あっ、むっ、んむっ、ちゅっ、はぁっ、はっ、んんっ、んむっ、んぁむっ - h_voice_akiko 
+#sub "a_ho_12_94_00" 
+
+//#sub a_ho_12_94_01 = あっ、んっ、ちゅっ、ちゅっ、ふっ、んぁっ、はぁっ、んっ、はむっ、むふっ、ふぅっ - h_voice_akiko 
+#sub "a_ho_12_94_01" 
+
+//#sub a_ho_13_00_00 = んぁっ！ - h_voice_akiko 
+#sub "a_ho_13_00_00" 
+
+//#sub a_ho_13_10_00 = あはぁっ♪ - h_voice_akiko 
+#sub "a_ho_13_10_00" 
+
+//#sub a_ho_13_20_00 = はへぇっ♪ - h_voice_akiko 
+#sub "a_ho_13_20_00" 
+
+//#sub a_ho_13_90_00 = っぐっ！ - h_voice_akiko 
+#sub "a_ho_13_90_00" 
+
+//#sub a_ho_13_91_00 = んう゛ぅっ！ - h_voice_akiko 
+#sub "a_ho_13_91_00" 
+
+//#sub a_ho_20_00_00 = ん……んん……ぅ……んっ……んぅ……すぅ……んんっ……んふ……ふ……ふぅ…… - h_voice_akiko 
+#sub "a_ho_20_00_00" 
+
+//#sub a_ho_20_10_00 = ん……ぅ……ふっ……んん……ふぅ……んふっ……ふふっ……んっ……んぅ……あは…… - h_voice_akiko 
+#sub "a_ho_20_10_00" 
+
+//#sub a_ho_20_91_00 = んふ……ん……んっ……ふぅ……んんっ……んぅ……あは……ふっ……ふふっ……んうっ…… - h_voice_akiko 
+#sub "a_ho_20_91_00" 
+
+//#sub a_ho_21_00_00 = んっ……っ……ふっ……っ……ん……んふ……ん……ん……は……ぁ……んん……んっ…… - h_voice_akiko 
+#sub "a_ho_21_00_00" 
+
+//#sub a_ho_21_00_01 = ふっ……ん……ん……ぁ……んん……ん……ふ……ん……ふぅ……ん……ぁ……は…… - h_voice_akiko 
+#sub "a_ho_21_00_01" 
+
+//#sub a_ho_21_10_00 = ん……ふふっ……ん……ん……ふぅ……ん……ぁは……んんっ、ん…… - h_voice_akiko 
+#sub "a_ho_21_10_00" 
+
+//#sub a_ho_21_10_01 = んふ……ん……んっ……ふぅ……んん……う……んっく……ふふ…… - h_voice_akiko 
+#sub "a_ho_21_10_01" 
+
+//#sub a_ho_21_91_00 = んぅ……ふぅ……ん……う……んむ……んっ……ぅ……ぉう…… - h_voice_akiko 
+#sub "a_ho_21_91_00" 
+
+//#sub a_ho_22_00_00 = くっ、うっ、んっ、んんっ、ふぅっ、ふぅっ、んっ、ふんっ、んんっ - h_voice_akiko 
+#sub "a_ho_22_00_00" 
+
+//#sub a_ho_22_00_01 = ふんっ、んっ、んんっ、ふっ、んんっ、くっ、うっ、んっ、んっ、んんっ - h_voice_akiko 
+#sub "a_ho_22_00_01" 
+
+//#sub a_ho_22_10_00 = あはっ、んっ、んんっ、ふっ、んっ、んふっ、ふっ、んんっ、んふふっ - h_voice_akiko 
+#sub "a_ho_22_10_00" 
+
+//#sub a_ho_22_10_01 = んっ、ふっ、んっ、んっ、んひっ、んんっ、ふぅっ、んっ、んふふっ - h_voice_akiko 
+#sub "a_ho_22_10_01" 
+
+//#sub a_ho_22_91_00 = んっ、んっ、ふっ、んんっ、んずっ、ふっ、ふっ、んんっ、ふぅっ、んんっ - h_voice_akiko 
+#sub "a_ho_22_91_00" 
+
+//#sub a_ho_30_92_00 = あむぅ - h_voice_akiko 
+#sub "a_ho_30_92_00" 
+
+//#sub a_ho_31_00_00 = んん……りゅ……んっ……ぇろ……ろ……んむ、ぅ……ん……はぅ……ん…… - h_voice_akiko 
+#sub "a_ho_31_00_00" 
+
+//#sub a_ho_31_00_01 = んぅ、んん……はぁ、ん……ん……りゅ……んりゅ……ぅ……れろ……んむ…… - h_voice_akiko 
+#sub "a_ho_31_00_01" 
+
+//#sub a_ho_31_01_00 = んじゅぅ……んはっぁ……ちゅじゅ……ちゅ……えろ……ん……にゅちゅ……にちゅ……じゅる、ん…… - h_voice_akiko 
+#sub "a_ho_31_01_00" 
+
+//#sub a_ho_31_01_01 = すじゅ……んっちゅ……ん……ちゅっ……しゅる……んん……ちゅ……ちゅっ……にゅる……ちぅ…… - h_voice_akiko 
+#sub "a_ho_31_01_01" 
+
+//#sub a_ho_31_10_00 = んむ……う……ぉむ……づ……ん……おぶ……むづ……んっ……んむぅ……ん…… - h_voice_akiko 
+#sub "a_ho_31_10_00" 
+
+//#sub a_ho_31_10_01 = んっ……む……ぇむ……ちゅ……づむ……ん……ん……ぉぶ……づ……むぬ…… - h_voice_akiko 
+#sub "a_ho_31_10_01" 
+
+//#sub a_ho_31_11_00 = ぐっぽん……ぱも……はぽ……んぼ……んっぉ……じゅぽ……じゅぽ……はぷ……ぐゅっぽ……もむぅ……ぷふぁっ…… - h_voice_akiko 
+#sub "a_ho_31_11_00" 
+
+//#sub a_ho_31_11_01 = ふぶ……ん……ぷじゅ……はぽ……んっ……ぉ……かぽ……かぽ……じゅぽ……ん……ん……はもぉ…… - h_voice_akiko 
+#sub "a_ho_31_11_01" 
+
+//#sub a_ho_32_00_00 = んっ、んっ、ふっ、んんっ、りゅにゅっ、んっ、にちっ、にちゅっ、んんっ、んぅっ - h_voice_akiko 
+#sub "a_ho_32_00_00" 
+
+//#sub a_ho_32_00_01 = んっふ、んっ、くちっ、んっ、ちゅっ、んんっ、ふっ、んぅっ、うっ、んりゅっ、んちゅっ - h_voice_akiko 
+#sub "a_ho_32_00_01" 
+
+//#sub a_ho_32_01_00 = すじゅっ、ちゅっ、ちゅっ、んんっ、はふっ、ちゅじゅっ、じゅっ、じゅるっ、にゅるっ、にゅるっ、ちゅっ、ちゅくっ、ちゅくっ - h_voice_akiko 
+#sub "a_ho_32_01_00" 
+
+//#sub a_ho_32_01_01 = はじゅっ、ぢゅっ、じゅるるっ、んっ、ふっ、ちゅくっ、ちぅぅっ、んっ、すじゅっ、じゅっ、んっ、はぁっ、んっ、にゅっ、にちっ - h_voice_akiko 
+#sub "a_ho_32_01_01" 
+
+//#sub a_ho_32_10_00 = んっ、ぶっ、んんっ、んっ、むぅっ、んっ、んっ、ぉむっ、んっ、ぅむっ、んっ、むぅっ - h_voice_akiko 
+#sub "a_ho_32_10_00" 
+
+//#sub a_ho_32_10_01 = ぉむっ、ぶっ、んづっ、むっ、ちゅっ、んっ、んっ、んっ、ぇむっ、んっ、ぶっ、んむっ - h_voice_akiko 
+#sub "a_ho_32_10_01" 
+
+//#sub a_ho_32_11_00 = かぽっ、かぽっ、はもっ、んっ、ぶっ、ちゅぶっ、ちゅぶっ、んんっ、んぼっ、んっ、ふっ、んんっ、あもっ、あもっ - h_voice_akiko 
+#sub "a_ho_32_11_00" 
+
+//#sub a_ho_32_11_01 = ふぶっ、んっ、ぬぼっ、ぼちゅっ、ぼちゅっ、ぽちゅっ、んっ、ぶっ、ちゅぶっ、んんっ、ぉぼっ、んっ、ほもっ、ほむっ - h_voice_akiko 
+#sub "a_ho_32_11_01" 
+
+//#sub a_ho_32_20_00 = おぼっ、ぽっ、ぶもっ、んごっ、おっ、おぶっ、ぶぶっ、んぶっ、んぶっ、おっ、ごっ、おぼっ、ぶぼっ、ぼぉっ - h_voice_akiko 
+#sub "a_ho_32_20_00" 
+
+//#sub a_ho_32_20_01 = ぶぶっ、ぬぶっ、ぬぼっ、ぼっ、ぼぶっ、おぼっ、んっ、ふっ、ふぶっ、んごぉっ、ぉぼっ、んっ、ばもっ、ぶむっ - h_voice_akiko 
+#sub "a_ho_32_20_01" 
+
+//#sub a_ho_32_21_00 = ぶぼっ、ぢゅぼっ、おっごっ、ぶぉっ、んづるるるるっ、ぶっ、んぶるっ - h_voice_akiko 
+#sub "a_ho_32_21_00" 
+
+//#sub a_ho_32_21_01 = おぶちゅっ、んぼっ、ぢゅぶっ、ぢゅぶっ、おっごっ、ぶっ、ずろろっ、ぢゅぶりゅっ - h_voice_akiko 
+#sub "a_ho_32_21_01" 
+
+//#sub a_ho_40_00_00 = んぐぅぅぅううううんんんんっんっんっんっうっくうぅぅぅんんんっふっんっんーっんーっんんん――― - h_voice_akiko 
+#sub "a_ho_40_00_00" 
+
+//#sub a_ho_40_10_00 = んあぁぁぁっあっあっあーっあーーっあーーーっんあんっやっあっああっああぁぁぁあああああ――― - h_voice_akiko 
+#sub "a_ho_40_10_00" 
+
+//#sub a_ho_40_20_00 = ひああぁぁぁぁあぉおおぉぉぉぉんぉぉおおんひっひっひぃぃぁぁあああああぁぁぁぁっあっあっあっあっ――― - h_voice_akiko 
+#sub "a_ho_40_20_00" 
+
+//#sub a_ho_40_21_00 = んんぢゅるるんちゅうぅぅんっじゅるっじゅぅぅんんんぅぅちゅりゅりゅんっえうっえうぅぅぅぅぅ――― - h_voice_akiko 
+#sub "a_ho_40_21_00" 
+
+//#sub a_ho_40_91_00 = んうぅぅんんんっんっんーっんんーーっんっ、んんんーーーっ！ - h_voice_akiko 
+#sub "a_ho_40_91_00" 
+
+//#sub a_ho_41_00_00 = んくうぅぅぅぅんんんっんっんっんぅっうぅぅぅんっうっんうぅぅぅっ――― - h_voice_akiko 
+#sub "a_ho_41_00_00" 
+
+//#sub a_ho_41_10_00 = ぅんんんんあぁぁぁっあっあっあんっんんんんうぅぅぅああっあっんっんっんんんぅぅぅぅ――― - h_voice_akiko 
+#sub "a_ho_41_10_00" 
+
+//#sub a_ho_41_20_00 = んぉおおぉぉぉぉひぃぃいっんひっひっひぁぁああああおあっおっんおっおっ――― - h_voice_akiko 
+#sub "a_ho_41_20_00" 
+
+//#sub a_ho_41_21_00 = じゅりゅうんじゅづろちゅちゅぅんじゅるじゅるじゅりゅにゅるるるるんちゅにゅっちゅっちゅっちゅるるるる――― - h_voice_akiko 
+#sub "a_ho_41_21_00" 
+
+//#sub a_ho_41_30_00 = んっんっんっふっんっんんっんっふっんんんっ - h_voice_akiko 
+#sub "a_ho_41_30_00" 
+
+//#sub a_ho_41_31_00 = びゅずぢゅっくうぇづるるるぅぅぅっ～んぐぽんっんぶぼぉんっぶぁぢゅずっぅっんっはぁんんふんんっんくぐっ - h_voice_akiko 
+#sub "a_ho_41_31_00" 
+
+//#sub a_ho_41_32_00 = ぶぼっおっおぶっんっぶっんぶっちゅぶっづぶぶっんぶぉっ - h_voice_akiko 
+#sub "a_ho_41_32_00" 
+
+//#sub a_ho_41_91_00 = んうっうっんっんーっんんっんっんーっんーーっ！ - h_voice_akiko 
+#sub "a_ho_41_91_00" 
+
+//#sub a_ho_50_00_00 = んくぅぅぅっっ、ふっ、んくっ、う、うぅぅ…… - h_voice_akiko 
+#sub "a_ho_50_00_00" 
+
+//#sub a_ho_50_01_00 = ん゛ん゛ぅぅっっっ～～～～～～～～～～っ……んんっ……んっうっ……うぅぅ……んっ……ん―っ……っ……ぅんっ……んっ……んく…… - h_voice_akiko 
+#sub "a_ho_50_01_00" 
+
+//#sub a_ho_50_10_00 = くあぁぁっあっ、んんっ、は、はぁ、んん、はぁ…… - h_voice_akiko 
+#sub "a_ho_50_10_00" 
+
+//#sub a_ho_50_11_00 = あっ―――――っ―――――っ……っあっあっあ……ふぁっ、っぅぐ……っんぁ……はぁ～っ、……あぁ～～～ぁ……あ……ぁあ……はぁはぁ… - h_voice_akiko 
+#sub "a_ho_50_11_00" 
+
+//#sub a_ho_50_21_00 = はぁひぃっっ～～～～いひぃっあ゛ぁぁぁぁぁ～～～～～っ……ふぁぁっ……はひっ……んはっっ、っんふっ……んっはぁっ - h_voice_akiko 
+#sub "a_ho_50_21_00" 
+
+//#sub a_ho_50_22_00 = ちゅふぅぅっ、ふっ、んんっ、ちゅ、ふぅぅ…… - h_voice_akiko 
+#sub "a_ho_50_22_00" 
+
+//#sub a_ho_50_23_00 = ふぅんん、んちゅっっっ～～～～～～～～～ちゅりゅりゅ……んはぁっんずりゅ……んぁんはぁんちゅ……んっんんっっぅっ、ちゅ、ちゅ、ちゅ…ちゅはぁ…… - h_voice_akiko 
+#sub "a_ho_50_23_00" 
+
+//#sub a_ho_50_91_00 = んん゛んんんっ、んんっ、ふっ、ん゛ふっ、ふぅっ - h_voice_akiko 
+#sub "a_ho_50_91_00" 
+
+//#sub a_ho_50_92_00 = んん゛ぅ～～～～っっふっ、んぐっ、ふっ、ふぐっ、う、ふっ、ふっ、んんぅ、ふぅ…… - h_voice_akiko 
+#sub "a_ho_50_92_00" 
+
+//#sub a_ho_51_00_00 = んくぅぅっ、うぅ……んっ、う……はぁ…… - h_voice_akiko 
+#sub "a_ho_51_00_00" 
+
+//#sub a_ho_51_01_00 = くうぅぅぅ……んっぐ……うぅぅ……んぁ……あ……や……うぅ……んっ……く……ふぅ、ふぅ……んんん…… - h_voice_akiko 
+#sub "a_ho_51_01_00" 
+
+//#sub a_ho_51_02_00 = んうぅぅっあっ、んん……う……んうぅ…… - h_voice_akiko 
+#sub "a_ho_51_02_00" 
+
+//#sub a_ho_51_03_00 = やっあぁぁぁっんぁっ、あっ、んんっ、あぁぁ……んん、ぁん……あ……ふぁ…… - h_voice_akiko 
+#sub "a_ho_51_03_00" 
+
+//#sub a_ho_51_10_00 = んあっうぅ、んんっ、うぅ……もぉ…… - h_voice_akiko 
+#sub "a_ho_51_10_00" 
+
+//#sub a_ho_51_11_00 = んうぅぅぅっんっ、うぅ……んっ、ん……ぁ……んうっ、ん……はぁ…… - h_voice_akiko 
+#sub "a_ho_51_11_00" 
+
+//#sub a_ho_51_12_00 = ふあぁぁぁっ、あっ、あは、んぁ……やぁ…… - h_voice_akiko 
+#sub "a_ho_51_12_00" 
+
+//#sub a_ho_51_13_00 = ふあぁぁぁ……んっ、あぁぁ……あは……んん……あ……は……んぁ……あ……ん……はぁ……ぁ…… - h_voice_akiko 
+#sub "a_ho_51_13_00" 
+
+//#sub a_ho_51_20_00 = くひぃぃっ、あっ、ひっ、は、あは、はぁぁ…… - h_voice_akiko 
+#sub "a_ho_51_20_00" 
+
+//#sub a_ho_51_21_00 = ひゃうぅっああぁ……おっおぉぉ……んひっ、いっ、いひっ、ひひひ……はひぅ……――― - h_voice_akiko 
+#sub "a_ho_51_21_00" 
+
+//#sub a_ho_51_22_00 = んむっう、んうぅ、う……んんむ…… - h_voice_akiko 
+#sub "a_ho_51_22_00" 
+
+//#sub a_ho_51_23_00 = んむぅっふぶっ……んっ、あ……んじゅ……ぷはぅっ……ちゅっ……ふぅ……あっ……はぷぅ…… - h_voice_akiko 
+#sub "a_ho_51_23_00" 
+
+//#sub a_ho_51_91_00 = んうぅっ！　う、んん……うぅぅ…… - h_voice_akiko 
+#sub "a_ho_51_91_00" 
+
+//#sub a_ho_51_92_00 = んっう！　うっ、んんぅ……んっ、ふっ、ふっ、んん……ん……うぅ…… - h_voice_akiko 
+#sub "a_ho_51_92_00" 
+
+//#sub a_ho_52_00_00 = んぶぉっ、おぐ、ん、んぅ…… - h_voice_akiko 
+#sub "a_ho_52_00_00" 
+
+//#sub a_ho_52_01_00 = んぉぐ……んっんーっ……んぐぅおっ……んぐっんぐっ……ん、ごくっ……えぐっ……ん……んぅ…… - h_voice_akiko 
+#sub "a_ho_52_01_00" 
+
+//#sub a_ho_52_10_00 = んんっ、ぐ、んむぅ……ん…… - h_voice_akiko 
+#sub "a_ho_52_10_00" 
+
+//#sub a_ho_52_11_00 = ん゛んんっ ん゛っ、んっ……んぶっ……っむぐっ……ん――――っ、んん……んふ……んっ……ん…… - h_voice_akiko 
+#sub "a_ho_52_11_00" 
+
+//#sub a_ho_52_20_00 = んぶっ、ふっ、んん……ふふ…… - h_voice_akiko 
+#sub "a_ho_52_20_00" 
+
+//#sub a_ho_52_21_00 = んぷふぅっ……んっ、ふふ……んっ、んーーっ、んーーーっ、ん……ちゅじゅ……ん……んぐ……んぐ……んぐ…… - h_voice_akiko 
+#sub "a_ho_52_21_00" 
+
+//#sub a_ho_53_00_00 = うぇっ、うぅ……んぅ……ん…… - h_voice_akiko 
+#sub "a_ho_53_00_00" 
+
+//#sub a_ho_53_01_00 = うぅっ……んっ……くぅ……うっ……あぅ……んんっ……いや……あぁ……はぁ…… - h_voice_akiko 
+#sub "a_ho_53_01_00" 
+
+//#sub a_ho_53_10_00 = んぅっ……う……はぁ…… - h_voice_akiko 
+#sub "a_ho_53_10_00" 
+
+//#sub a_ho_53_11_00 = んっ……う……あ……ふわっ……んん……はふ……きゃっ……はぁ……ふぅ……っ…… - h_voice_akiko 
+#sub "a_ho_53_11_00" 
+
+//#sub a_ho_53_20_00 = あはっ、んん……んふふ……♪ - h_voice_akiko 
+#sub "a_ho_53_20_00" 
+
+//#sub a_ho_53_21_00 = ふぁっ……あっ……んんっ……あはっ……んっ……はぁ……ひゃっ……あぁ……はふ……んふ…… - h_voice_akiko 
+#sub "a_ho_53_21_00" 
+
+//#sub a_ho_53_91_00 = んうぅっ……う、んん……ん…… - h_voice_akiko 
+#sub "a_ho_53_91_00" 
+
+//#sub a_ho_53_92_00 = んっ、うぅ……うぅ……んんっ、ん……うぅ、ん……うぅ…… - h_voice_akiko 
+#sub "a_ho_53_92_00" 
+
+//#sub a_ho_60_00_00 = けほっげほっ、んん゛っ、んっ、くふ…… - h_voice_akiko 
+#sub "a_ho_60_00_00" 
+
+//#sub a_ho_60_01_00 = んぐ、ん……んふぅ…… - h_voice_akiko 
+#sub "a_ho_60_01_00" 
+
+//#sub a_ho_60_02_00 = んえぇ～……ぇう…… - h_voice_akiko 
+#sub "a_ho_60_02_00" 
+
+//#sub a_ho_60_03_00 = ぇう……ほぉ……ほぅ…… - h_voice_akiko 
+#sub "a_ho_60_03_00" 
+
+//#sub a_hh_00_00_00_00 = 何、よぉ……っ - h_voice_akiko 
+#sub "a_hh_00_00_00_00" What is...
+
+//#sub a_hh_00_00_00_01 = んん、ダメぇ……っ - h_voice_akiko 
+#sub "a_hh_00_00_00_01" nnn...no, this can't...
+
+//#sub a_hh_00_00_00_02 = 気持ちいい、かも…… - h_voice_akiko 
+#sub "a_hh_00_00_00_02" Feeling good, I think...
+
+//#sub a_hh_00_00_00_03 = うそ、んっ、何でぇ……？ - h_voice_akiko 
+#sub "a_hh_00_00_00_03" This can't be, why...?
+
+//#sub a_hh_00_00_00_04 = こんな、の……っ - h_voice_akiko 
+#sub "a_hh_00_00_00_04" This is...
+
+//#sub a_hh_00_00_00_05 = あぅ、私ぃ……っ - h_voice_akiko 
+#sub "a_hh_00_00_00_05" ahhh...I...
+
+//#sub a_hh_00_00_00_06 = やだ、よぉ…… - h_voice_akiko 
+#sub "a_hh_00_00_00_06" No way...
+
+//#sub a_hh_00_00_00_07 = これ、んっ、あっ……っ - h_voice_akiko 
+#sub "a_hh_00_00_00_07" This is...ahhh...
+
+//#sub a_hh_00_00_00_08 = もぉ、いいでしょぉ……？ - h_voice_akiko 
+#sub "a_hh_00_00_00_08" Come on, isn't this enough...?
+
+//#sub a_hh_00_00_00_09 = 恥ずかしい、よぉ……っ - h_voice_akiko 
+#sub "a_hh_00_00_00_09" This is embarrassing...
+
+//#sub a_hh_00_00_01_00 = 何っこれぇっ - h_voice_akiko 
+#sub "a_hh_00_00_01_00" What is this?
+
+//#sub a_hh_00_00_01_01 = やっダメぇっ - h_voice_akiko 
+#sub "a_hh_00_00_01_01" No stoppp
+
+//#sub a_hh_00_00_01_02 = 気持ちっいいよぉっ - h_voice_akiko 
+#sub "a_hh_00_00_01_02" This feels good
+
+//#sub a_hh_00_00_01_03 = 何でっ何でぇっ - h_voice_akiko 
+#sub "a_hh_00_00_01_03" Why...Why...
+
+//#sub a_hh_00_00_01_04 = こんなっのっ - h_voice_akiko 
+#sub "a_hh_00_00_01_04" This is
+
+//#sub a_hh_00_00_01_05 = やっ私っぃっ - h_voice_akiko 
+#sub "a_hh_00_00_01_05" No I
+
+//#sub a_hh_00_00_01_06 = やだっやだよぉっ - h_voice_akiko 
+#sub "a_hh_00_00_01_06" No, stop it
+
+//#sub a_hh_00_00_01_07 = すごっいぃっ - h_voice_akiko 
+#sub "a_hh_00_00_01_07" Amazing
+
+//#sub a_hh_00_00_01_08 = もぉっいいでっしょぉっ？ - h_voice_akiko 
+#sub "a_hh_00_00_01_08" Come on...isn't this...enough...?
+
+//#sub a_hh_00_00_01_09 = んぁっ違うっのぉっ - h_voice_akiko 
+#sub "a_hh_00_00_01_09" nnn...you're wrong
+
+//#sub a_hh_00_01_00_00 = 気持ちいいの……？ - h_voice_akiko 
+#sub "a_hh_00_01_00_00" Does this feels good?
+
+//#sub a_hh_00_01_00_01 = これ、いいんだ…… - h_voice_akiko 
+#sub "a_hh_00_01_00_01" Is this fine...
+
+//#sub a_hh_00_01_00_02 = 動かないで…… - h_voice_akiko 
+#sub "a_hh_00_01_00_02" Don't move...
+
+//#sub a_hh_00_01_00_03 = あ、感じてる……？ - h_voice_akiko 
+#sub "a_hh_00_01_00_03" ahh, are you feeling it...?
+
+//#sub a_hh_00_01_00_04 = ここ、かな……？ - h_voice_akiko 
+#sub "a_hh_00_01_00_04" Like this...?
+
+//#sub a_hh_00_01_00_05 = ちゃんと出来てる、かなぁ…… - h_voice_akiko 
+#sub "a_hh_00_01_00_05" Am I doing this right...
+
+//#sub a_hh_00_01_00_06 = もっと、強い方がいい……？ - h_voice_akiko 
+#sub "a_hh_00_01_00_06" More, would you like it stronger...?
+
+//#sub a_hh_00_01_00_07 = どぉ、かな……？ - h_voice_akiko 
+#sub "a_hh_00_01_00_07" How's this..?
+
+//#sub a_hh_00_01_00_08 = こうすればいいんでしょ……？ - h_voice_akiko 
+#sub "a_hh_00_01_00_08" Is it fine like this...?
+
+//#sub a_hh_00_01_00_09 = やり方、あってる……？ - h_voice_akiko 
+#sub "a_hh_00_01_00_09" Is this the right way...?
+
+//#sub a_hh_00_01_01_00 = 気持ちっいいのっ？ - h_voice_akiko 
+#sub "a_hh_00_01_01_00" Does this...feel good?
+
+//#sub a_hh_00_01_01_01 = これっいいんだっ - h_voice_akiko 
+#sub "a_hh_00_01_01_01" Is this...fine?
+
+//#sub a_hh_00_01_01_02 = ここっ感じてるっ？ - h_voice_akiko 
+#sub "a_hh_00_01_01_02" Here...are you feeling it?
+
+//#sub a_hh_00_01_01_03 = こんなにっしてるのにぃっ - h_voice_akiko 
+#sub "a_hh_00_01_01_03" Even though I'm doing this
+
+//#sub a_hh_00_01_01_04 = これっ大変っなんだけどっ - h_voice_akiko 
+#sub "a_hh_00_01_01_04" This is serious, yet
+
+//#sub a_hh_00_01_01_05 = 早くっ出してよぉっ - h_voice_akiko 
+#sub "a_hh_00_01_01_05" Hurry up and let it out
+
+//#sub a_hh_00_01_01_06 = まだっするっのぉっ？ - h_voice_akiko 
+#sub "a_hh_00_01_01_06" You're not done yet?
+
+//#sub a_hh_00_01_01_07 = どぉっかなぁっ？ - h_voice_akiko 
+#sub "a_hh_00_01_01_07" How's...this?
+
+//#sub a_hh_00_01_01_08 = こうすれっばぁっ - h_voice_akiko 
+#sub "a_hh_00_01_01_08" Like...this
+
+//#sub a_hh_00_01_01_09 = すごいっピクピクしてるっ - h_voice_akiko 
+#sub "a_hh_00_01_01_09" Amazing it's twitching
+
+//#sub a_hh_00_02_00_00 = きもひいいにょ……？（気持ちいいの？ - h_voice_akiko 
+#sub "a_hh_00_02_00_00" mmmggg...does this feel good...?
+
+//#sub a_hh_00_02_00_01 = こりぇ、いいんら……（これ、いいんだ - h_voice_akiko 
+#sub "a_hh_00_02_00_01" mmmggg...is this fine...?
+
+//#sub a_hh_00_02_00_02 = うぉかにゃいれ……（動かないで - h_voice_akiko 
+#sub "a_hh_00_02_00_02" mmmggg...don't move...
+
+//#sub a_hh_00_02_00_03 = かんりてる……？（感じてる？ - h_voice_akiko 
+#sub "a_hh_00_02_00_03" mmmggg...are you feeling it...?
+
+//#sub a_hh_00_02_00_04 = ここかにゃ……？（ここかな？ - h_voice_akiko 
+#sub "a_hh_00_02_00_04" mmmggg...like this...?
+
+//#sub a_hh_00_02_00_05 = ひゃんと、れきてりゅ……？（ちゃんと出来てる？ - h_voice_akiko 
+#sub "a_hh_00_02_00_05" mmmggg...Am I...doing this right...?
+
+//#sub a_hh_00_02_00_06 = もっろ、しゅる……？（もっとする？ - h_voice_akiko 
+#sub "a_hh_00_02_00_06" mmmggg...do it more?
+
+//#sub a_hh_00_02_00_07 = ろぉ、かにゃぁ……（どぉかな - h_voice_akiko 
+#sub "a_hh_00_02_00_07" mmmggg...how's this...?
+
+//#sub a_hh_00_02_00_08 = こーひゅれば、いーんれしょ……？（こうすればいいんでしょ？ - h_voice_akiko 
+#sub "a_hh_00_02_00_08" mmmggg...is it fine like this...?
+
+//#sub a_hh_00_02_00_09 = こりぇれ、あっひぇる……？（これであってる？ - h_voice_akiko 
+#sub "a_hh_00_02_00_09" mmmggg...is this right...?
+
+//#sub a_hh_00_02_01_00 = きもひっいいにょっ？（気持ちいいの？ - h_voice_akiko 
+#sub "a_hh_00_02_01_00" mmmggg...does this...feel good?
+
+//#sub a_hh_00_02_01_01 = こりぇっいいんらっ（これ、いいんだ - h_voice_akiko 
+#sub "a_hh_00_02_01_01" mmmggg...Is this...fine?
+
+//#sub a_hh_00_02_01_02 = ここっかんりてりゅっ？（ここ、感じてる？ - h_voice_akiko 
+#sub "a_hh_00_02_01_02" mmmggg...here...are you feeling it?
+
+//#sub a_hh_00_02_01_03 = こんにゃっしひぇるのにっ（こんなしてるのに - h_voice_akiko 
+#sub "a_hh_00_02_01_03" mmmggg...even though I'm doing this
+
+//#sub a_hh_00_02_01_04 = もぉっおっきひゅぎっ（もぉ、おっきすぎ - h_voice_akiko 
+#sub "a_hh_00_02_01_04" mmmggg...this...way too big
+
+//#sub a_hh_00_02_01_05 = はやくっらひてよっ（早く出してよ - h_voice_akiko 
+#sub "a_hh_00_02_01_05" mmmggg...hurry up...let it out
+
+//#sub a_hh_00_02_01_06 = まらっしゅるのっ？（まだするの？ - h_voice_akiko 
+#sub "a_hh_00_02_01_06" mmmggg...not done yet?
+
+//#sub a_hh_00_02_01_07 = ろぉっかにゃぁっ？（どぉかなぁ - h_voice_akiko 
+#sub "a_hh_00_02_01_07" mmmggg...how's this?
+
+//#sub a_hh_00_02_01_08 = こーひゅればぁっ（こうすれば - h_voice_akiko 
+#sub "a_hh_00_02_01_08" mmmggg...like this
+
+//#sub a_hh_00_02_01_09 = ひくひくっとまんにゃいのっ？（ピクピク止まんないの？ - h_voice_akiko 
+#sub "a_hh_00_02_01_09" mmmggg...it doesn't stop twitching?
+
+//#sub a_hh_00_03_00_00 = 美味しく、ないよぉ…… - h_voice_akiko 
+#sub "a_hh_00_03_00_00" This doesn't taste good...
+
+//#sub a_hh_00_03_00_01 = 顎、疲れる…… - h_voice_akiko 
+#sub "a_hh_00_03_00_01" Mouth, getting tired...
+
+//#sub a_hh_00_03_00_02 = 変な味…… - h_voice_akiko 
+#sub "a_hh_00_03_00_02" Taste weird...
+
+//#sub a_hh_00_03_00_03 = すごい匂い…… - h_voice_akiko 
+#sub "a_hh_00_03_00_03" Intense smell...
+
+//#sub a_hh_00_03_00_04 = 気持ちいいの……？ - h_voice_akiko 
+#sub "a_hh_00_03_00_04" Does this feel good...?
+
+//#sub a_hh_00_03_01_00 = どんどんっ出てくるっ - h_voice_akiko 
+#sub "a_hh_00_03_01_00" Keeps on coming out
+
+//#sub a_hh_00_03_01_01 = 口っがぁっ - h_voice_akiko 
+#sub "a_hh_00_03_01_01" My mouth
+
+//#sub a_hh_00_03_01_02 = 吸い出さっなきゃっ - h_voice_akiko 
+#sub "a_hh_00_03_01_02" I have to suck it out
+
+//#sub a_hh_00_03_01_03 = まだっするのっ？ - h_voice_akiko 
+#sub "a_hh_00_03_01_03" Not done yet?
+
+//#sub a_hh_00_03_01_04 = 苦しいっよぉっ - h_voice_akiko 
+#sub "a_hh_00_03_01_04" This is difficult
+
+//#sub a_hh_10_00_00_00 = んふ、いい感じぃ……♪ - h_voice_akiko 
+#sub "a_hh_10_00_00_00" nnnn...feels nice...♪
+
+//#sub a_hh_10_00_00_01 = これ、気持ちいいわぁ……♪ - h_voice_akiko 
+#sub "a_hh_10_00_00_01" This, feels good...♪
+
+//#sub a_hh_10_00_00_02 = あはっ、これこれぇ……♪ - h_voice_akiko 
+#sub "a_hh_10_00_00_02" ahh ahhh, this is it...♪
+
+//#sub a_hh_10_00_00_03 = ほらほら、頑張って～……♪ - h_voice_akiko 
+#sub "a_hh_10_00_00_03" Hey hey, keep it up...♪
+
+//#sub a_hh_10_00_00_04 = んふ、いいじゃん～……♪ - h_voice_akiko 
+#sub "a_hh_10_00_00_04" nfu, that's good...♪
+
+//#sub a_hh_10_00_00_05 = ほら、もっとだよ～……？ - h_voice_akiko 
+#sub "a_hh_10_00_00_05" Hey, give me more...?
+
+//#sub a_hh_10_00_00_06 = アタシのよがり声、嬉しい……？ - h_voice_akiko 
+#sub "a_hh_10_00_00_06" My excited voice, happy with it?
+
+//#sub a_hh_10_00_00_07 = んもぉ、いや～ん……♪ - h_voice_akiko 
+#sub "a_hh_10_00_00_07" nnn...come on...don't...♪
+
+//#sub a_hh_10_00_00_08 = んん、アタシの身体、どぉ？ - h_voice_akiko 
+#sub "a_hh_10_00_00_08" nnn...my body, how is it?
+
+//#sub a_hh_10_00_00_09 = んふ、アタシが感じてるの、わかる……？ - h_voice_akiko 
+#sub "a_hh_10_00_00_09" nfu, I'm really feeling it, get what I mean...?
+
+//#sub a_hh_10_00_01_00 = いい感じっよぉっ♪ - h_voice_akiko 
+#sub "a_hh_10_00_01_00" This is a good feeling♪
+
+//#sub a_hh_10_00_01_01 = これっ気持ちいいっ♪ - h_voice_akiko 
+#sub "a_hh_10_00_01_01" This feels good♪
+
+//#sub a_hh_10_00_01_02 = これよっこれぇっ♪ - h_voice_akiko 
+#sub "a_hh_10_00_01_02" This is it♪
+
+//#sub a_hh_10_00_01_03 = ほらっ頑張ってよぉっ - h_voice_akiko 
+#sub "a_hh_10_00_01_03" Hey keep it up
+
+//#sub a_hh_10_00_01_04 = これっやっばぁっ♪ - h_voice_akiko 
+#sub "a_hh_10_00_01_04" This is bad♪
+
+//#sub a_hh_10_00_01_05 = もっとっもっとだよっ - h_voice_akiko 
+#sub "a_hh_10_00_01_05" More give me more
+
+//#sub a_hh_10_00_01_06 = ほらっアタシのっよがり声っ聞きなさいっ♪ - h_voice_akiko 
+#sub "a_hh_10_00_01_06" Hey, listen to my excited voice♪
+
+//#sub a_hh_10_00_01_07 = んあっ我慢なんてっしないんだからっ♪ - h_voice_akiko 
+#sub "a_hh_10_00_01_07" nn...don't hold...anything back♪
+
+//#sub a_hh_10_00_01_08 = あんっこれっダメかもぉっ♪ - h_voice_akiko 
+#sub "a_hh_10_00_01_08" annn...this is...no way♪
+
+//#sub a_hh_10_00_01_09 = こんなのっ感じるにっ決まってるじゃんっ - h_voice_akiko 
+#sub "a_hh_10_00_01_09" To think I'm feeling it like this
+
+//#sub a_hh_10_01_00_00 = あは、どうしたの～……？ - h_voice_akiko 
+#sub "a_hh_10_01_00_00" aha, what's wrong...?
+
+//#sub a_hh_10_01_00_01 = ほらほらぁ……♪ - h_voice_akiko 
+#sub "a_hh_10_01_00_01" Here here...♪
+
+//#sub a_hh_10_01_00_02 = なになに～……？ - h_voice_akiko 
+#sub "a_hh_10_01_00_02" What what..?
+
+//#sub a_hh_10_01_00_03 = んふ、感じちゃって～……♪ - h_voice_akiko 
+#sub "a_hh_10_01_00_03" nfu, you're feeling it...♪
+
+//#sub a_hh_10_01_00_04 = どこまで我慢出来るかな～……？ - h_voice_akiko 
+#sub "a_hh_10_01_00_04" How much longer can you last...?
+
+//#sub a_hh_10_01_00_05 = これがいいの～……？ - h_voice_akiko 
+#sub "a_hh_10_01_00_05" Is this ok...?
+
+//#sub a_hh_10_01_00_06 = ふふっ、どぉよ～……♪ - h_voice_akiko 
+#sub "a_hh_10_01_00_06" fu fu, that's right...♪
+
+//#sub a_hh_10_01_00_07 = こら、じっとしてろぉ♪ - h_voice_akiko 
+#sub "a_hh_10_01_00_07" Hey, stay still♪
+
+//#sub a_hh_10_01_00_08 = ふふっ、気持ちよさそーじゃん……♪ - h_voice_akiko 
+#sub "a_hh_10_01_00_08" fu fu fu, so it's feeling good...♪
+
+//#sub a_hh_10_01_00_09 = んふっ、ピクついちゃってー……♪ - h_voice_akiko 
+#sub "a_hh_10_01_00_09" nfu, it keeps on twitching...♪
+
+//#sub a_hh_10_01_01_00 = んふっ、どーしたのっ？ - h_voice_akiko 
+#sub "a_hh_10_01_01_00" nnn nfu, what's wrong?
+
+//#sub a_hh_10_01_01_01 = ほらっほらぁっ♪ - h_voice_akiko 
+#sub "a_hh_10_01_01_01" Here here♪
+
+//#sub a_hh_10_01_01_02 = もぉっ何よぉっ♪ - h_voice_akiko 
+#sub "a_hh_10_01_01_02" Come on, what♪
+
+//#sub a_hh_10_01_01_03 = しっかりっ感じちゃってんじゃんっ♪ - h_voice_akiko 
+#sub "a_hh_10_01_01_03" Firmly...feel it♪
+
+//#sub a_hh_10_01_01_04 = ちょっとはっ我慢っしなさいよっ - h_voice_akiko 
+#sub "a_hh_10_01_01_04" Wait, hold on for a moment
+
+//#sub a_hh_10_01_01_05 = これがっいーんだっ♪ - h_voice_akiko 
+#sub "a_hh_10_01_01_05" This is perfect♪
+
+//#sub a_hh_10_01_01_06 = これっどぉよっ♪ - h_voice_akiko 
+#sub "a_hh_10_01_01_06" Just like this♪
+
+//#sub a_hh_10_01_01_07 = このっじっとしてろぉっ - h_voice_akiko 
+#sub "a_hh_10_01_01_07" I'll do it like this
+
+//#sub a_hh_10_01_01_08 = 何っきもちよさそーにっしてんのよっ♪ - h_voice_akiko 
+#sub "a_hh_10_01_01_08" What, are you feeling it that much♪
+
+//#sub a_hh_10_01_01_09 = んふっ汁っだらっだらじゃんっ♪ - h_voice_akiko 
+#sub "a_hh_10_01_01_09" nfu, juice is slowly coming out♪
+
+//#sub a_hh_10_02_00_00 = ろーひたのぉ……？（どーしたの？ - h_voice_akiko 
+#sub "a_hh_10_02_00_00" mmmggg...what's wrong...?
+
+//#sub a_hh_10_02_00_01 = ほりゃほりゃぁ……♪（ほらほらぁ - h_voice_akiko 
+#sub "a_hh_10_02_00_01" mmmggg...here here...♪
+
+//#sub a_hh_10_02_00_02 = にゃににゃにぃ～……？（なになに～？ - h_voice_akiko 
+#sub "a_hh_10_02_00_02" mmmggg...what what..?
+
+//#sub a_hh_10_02_00_03 = かんりひゃって～……♪（感じちゃって～ - h_voice_akiko 
+#sub "a_hh_10_02_00_03" mmmggg...you're feeling it...♪
+
+//#sub a_hh_10_02_00_04 = ろこまれ、がぁんれひるかにゃ～……？（どこまで我慢出来るかな？ - h_voice_akiko 
+#sub "a_hh_10_02_00_04" mmmggg...how much longer...can you last...?
+
+//#sub a_hh_10_02_00_05 = こりぇがいいにょ……？（これがいいの？ - h_voice_akiko 
+#sub "a_hh_10_02_00_05" mmmggg...is this ok...?
+
+//#sub a_hh_10_02_00_06 = んふ、ろぉよ～……？（どぉよ - h_voice_akiko 
+#sub "a_hh_10_02_00_06" mmmggg...that's right...
+
+//#sub a_hh_10_02_00_07 = こりゃ、じっろひへりょぉ……（こら、じっとしてろ - h_voice_akiko 
+#sub "a_hh_10_02_00_07" mmmggg...hey, stay still...
+
+//#sub a_hh_10_02_00_08 = きもひよひゃひょーやん……（気持ちよさそーじゃん - h_voice_akiko 
+#sub "a_hh_10_02_00_08" mmmggg...so it's feeling good...
+
+//#sub a_hh_10_02_00_09 = ばぇばぇらっへ～……♪（バレバレだって - h_voice_akiko 
+#sub "a_hh_10_02_00_09" mmmggg...you're easy to read...♪
+
+//#sub a_hh_10_02_01_00 = ろーしたのっ？（どーしたの？） - h_voice_akiko 
+#sub "a_hh_10_02_01_00" mmmggg...what's wong?
+
+//#sub a_hh_10_02_01_01 = ほりゃっほりゃぁっ（ほらほら - h_voice_akiko 
+#sub "a_hh_10_02_01_01" mmmggg...here...here
+
+//#sub a_hh_10_02_01_02 = にゃによぉっ（何よぉ - h_voice_akiko 
+#sub "a_hh_10_02_01_02" mmmggg...what
+
+//#sub a_hh_10_02_01_03 = ひっかりっかんじひゃってっ（しっかり感じちゃって - h_voice_akiko 
+#sub "a_hh_10_02_01_03" mmmggg...firmly...feel it
+
+//#sub a_hh_10_02_01_04 = ひょっとはっがぁんっひにゃさいっ（ちょっとは我慢しなさい - h_voice_akiko 
+#sub "a_hh_10_02_01_04" mmmggg...wait, hold on for a moment
+
+//#sub a_hh_10_02_01_05 = こりぇっいーんらっ（これ、いいんだ - h_voice_akiko 
+#sub "a_hh_10_02_01_05" mmmggg...this is perfect
+
+//#sub a_hh_10_02_01_06 = ろーよっこりぇっ♪（どーよこれ - h_voice_akiko 
+#sub "a_hh_10_02_01_06" mmmggg...just like this
+
+//#sub a_hh_10_02_01_07 = こにょっじっとひてりょぉっ（この、じっとしてろ - h_voice_akiko 
+#sub "a_hh_10_02_01_07" mmmggg...I'll do it like this
+
+//#sub a_hh_10_02_01_08 = にゃにっきもひよしゃそーにっひてんのっ？（何気持ちよさそうにしてんの？ - h_voice_akiko 
+#sub "a_hh_10_02_01_08" mmmggg...what, are you feeling it that much?
+
+//#sub a_hh_10_02_01_09 = しりゅっらししゅぎっ（汁出し過ぎ - h_voice_akiko 
+#sub "a_hh_10_02_01_09" mmmggg...lots of juice
+
+//#sub a_hh_10_03_00_00 = ピクピクしすぎ……♪ - h_voice_akiko 
+#sub "a_hh_10_03_00_00" Twitching lots...♪
+
+//#sub a_hh_10_03_00_01 = おいし～……♪ - h_voice_akiko 
+#sub "a_hh_10_03_00_01" Tasty...♪
+
+//#sub a_hh_10_03_00_02 = 我慢しなさ～い - h_voice_akiko 
+#sub "a_hh_10_03_00_02" Keep it up
+
+//#sub a_hh_10_03_00_03 = 汁、出過ぎぃ…… - h_voice_akiko 
+#sub "a_hh_10_03_00_03" Juice, lots of it...
+
+//#sub a_hh_10_03_00_04 = 感じてる感じてる……♪ - h_voice_akiko 
+#sub "a_hh_10_03_00_04" Feel it feel it...♪
+
+//#sub a_hh_10_03_01_00 = うごっくなぁっ - h_voice_akiko 
+#sub "a_hh_10_03_01_00" It's moving
+
+//#sub a_hh_10_03_01_01 = ほらっほらぁっ - h_voice_akiko 
+#sub "a_hh_10_03_01_01" Here here
+
+//#sub a_hh_10_03_01_02 = ねえっまだぁっ？ - h_voice_akiko 
+#sub "a_hh_10_03_01_02" Hey, not yet?
+
+//#sub a_hh_10_03_01_03 = どんどんっ出せぇっ - h_voice_akiko 
+#sub "a_hh_10_03_01_03" Slowly...let it out
+
+//#sub a_hh_10_03_01_04 = 全部っ吸い出すっからぁっ - h_voice_akiko 
+#sub "a_hh_10_03_01_04" I'll suck it all up
+
+//#sub a_hh_20_00_00_00 = きもひいぃ……♪（気持ちいい - h_voice_akiko 
+#sub "a_hh_20_00_00_00" Feels good...♪
+
+//#sub a_hh_20_00_00_01 = こりぇ、いいにぇぇ……♪（これいいねぇ - h_voice_akiko 
+#sub "a_hh_20_00_00_01" This is...great...♪
+
+//#sub a_hh_20_00_00_02 = もっろぉ……♪（もっとぉ - h_voice_akiko 
+#sub "a_hh_20_00_00_02" More...♪
+
+//#sub a_hh_20_00_00_03 = やるや、にゃいにょぉ……♪（やるじゃないの - h_voice_akiko 
+#sub "a_hh_20_00_00_03" You...doing it...♪
+
+//#sub a_hh_20_00_00_04 = んもぉ、んひゅ、じゅるいんらからぁ……♪（もぉ、ずるいんだから - h_voice_akiko 
+#sub "a_hh_20_00_00_04" Come on, not fair...♪
+
+//#sub a_hh_20_00_01_00 = きもひっいぃっ♪（気持ちいい - h_voice_akiko 
+#sub "a_hh_20_00_01_00" Feels...good♪
+
+//#sub a_hh_20_00_01_01 = しゅごいっにょぉっ（すごいのぉ - h_voice_akiko 
+#sub "a_hh_20_00_01_01" Amazing
+
+//#sub a_hh_20_00_01_02 = もっろっもっろぉっ（もっともっと - h_voice_akiko 
+#sub "a_hh_20_00_01_02" More more
+
+//#sub a_hh_20_00_01_03 = あらひっあらひぃっ（アタシ、アタシぃ - h_voice_akiko 
+#sub "a_hh_20_00_01_03" I...I
+
+//#sub a_hh_20_00_01_04 = こりぇっじゅるいぃっ♪（これずるい - h_voice_akiko 
+#sub "a_hh_20_00_01_04" This isn't fair♪
+
+//#sub a_hh_20_01_00_00 = んひゅ、ろーしたのぉ……？（どーしたの？ - h_voice_akiko 
+#sub "a_hh_20_01_00_00" ahh hee, what's up...?
+
+//#sub a_hh_20_01_00_01 = ほりゃ、がんばりぇぇ……♪（ほら、頑張れぇ - h_voice_akiko 
+#sub "a_hh_20_01_00_01" Hey, keep it up...♪
+
+//#sub a_hh_20_01_00_02 = にゃによぉ……♪（何よぉ - h_voice_akiko 
+#sub "a_hh_20_01_00_02" what...♪
+
+//#sub a_hh_20_01_00_03 = んふ、かんじにゃしゃーい♪（感じなさーい - h_voice_akiko 
+#sub "a_hh_20_01_00_03" nfu, feel it♪
+
+//#sub a_hh_20_01_00_04 = ふふっ、ろーらぁ♪（どーだ - h_voice_akiko 
+#sub "a_hh_20_01_00_04" fu fu fu, how's this♪
+
+//#sub a_hh_20_01_01_00 = こりぇっろーよっ♪（これどーよ - h_voice_akiko 
+#sub "a_hh_20_01_01_00" How's...about...this♪
+
+//#sub a_hh_20_01_01_01 = にぇえっきもひーんれしょっ？（ねぇ、気持ちーんでしょ？ - h_voice_akiko 
+#sub "a_hh_20_01_01_01" Hey, does this feel good?
+
+//#sub a_hh_20_01_01_02 = いくまれっやめにゃいからぁっ（イくまでやめないから - h_voice_akiko 
+#sub "a_hh_20_01_01_02" I'm not stopping yet
+
+//#sub a_hh_20_01_01_03 = ほりゃっかんじにゃしゃいっ（ほら、感じなさい - h_voice_akiko 
+#sub "a_hh_20_01_01_03" Hey...feel it
+
+//#sub a_hh_20_01_01_04 = はやくっらしさしゃいよぉっ（早く出しなさいよ - h_voice_akiko 
+#sub "a_hh_20_01_01_04" Hurry up and let it out
+
+//#sub a_kn_00_02_02_00_00 = うぅ、お姉ちゃん……っ - h_voice_akiko 
+#sub "a_kn_00_02_02_00_00" uuuu...onee-chan...
+
+//#sub a_kn_00_02_02_00_01 = お、お姉ちゃん……優しく、してあげて…… - h_voice_akiko 
+#sub "a_kn_00_02_02_00_01" O...Onee-chan...please be gentle...
+
+//#sub a_kn_00_02_02_10_00 = あのお姉ちゃんが、あんな……あんな……っ - h_voice_akiko 
+#sub "a_kn_00_02_02_10_00" That Onee-chan is, that is...that is
+
+//#sub a_kn_00_02_02_10_01 = 頑張って、お姉ちゃんっ - h_voice_akiko 
+#sub "a_kn_00_02_02_10_01" Hang in there, onee-chan
+
+//#sub a_kn_00_02_02_02_00 = ママ、無茶しないで……っ - h_voice_akiko 
+#sub "a_kn_00_02_02_02_00" Mama, don't over do it...
+
+//#sub a_kn_00_02_02_02_01 = やめて……ママが壊れちゃう……っ - h_voice_akiko 
+#sub "a_kn_00_02_02_02_01" Stop it...mama will break...
+
+//#sub a_kn_00_02_02_12_00 = ママ……どうしちゃったの……？ - h_voice_akiko 
+#sub "a_kn_00_02_02_12_00" Mama...what are you doing...?
+
+//#sub a_kn_00_02_02_12_01 = うわ……ママ、すごいえっちぃ…… - h_voice_akiko 
+#sub "a_kn_00_02_02_12_01" Uwa...mama, super lewd...
+
+//#sub a_kn_00_02_02_03_00 = パパの……すごい……（ごくっ…… - h_voice_akiko 
+#sub "a_kn_00_02_02_03_00" Papa is...amazing
+
+//#sub a_kn_00_02_02_03_01 = …………いいなぁ……（ぼそ - h_voice_akiko 
+#sub "a_kn_00_02_02_03_01" ...that seems nice...
+
+//#sub a_kn_00_02_03_00_00 = アタシも、あんな風にした方がいいのかな…… - h_voice_akiko 
+#sub "a_kn_00_02_03_00_00" I wonder if I should do it like that as well...
+
+//#sub a_kn_00_02_03_00_01 = こんな事、いつまで続くんだろう…… - h_voice_akiko 
+#sub "a_kn_00_02_03_00_01" These things, how long will this go on...
+
+//#sub a_kn_00_02_04_00_00 = あんなに疲れてるのに、まだ…… - h_voice_akiko 
+#sub "a_kn_00_02_04_00_00" Even though she's tired, yet still...
+
+//#sub a_kn_00_02_05_00_00 = うぅ、近所迷惑にならないかなぁ…… - h_voice_akiko 
+#sub "a_kn_00_02_05_00_00" uuuu...I wonder if we're bothering the neighbors...
+
+//#sub a_kn_00_02_91_00_00 = うわぁ…… - h_voice_akiko 
+#sub "a_kn_00_02_91_00_00" Uwaa...
+
+//#sub a_kn_00_02_91_00_01 = 外してよぉ…… - h_voice_akiko 
+#sub "a_kn_00_02_91_00_01" Take it off...
+
+//#sub a_kn_00_04_02_00_00 = お姉ちゃん……アタシの為に…… - h_voice_akiko 
+#sub "a_kn_00_04_02_00_00" Onee-chan...for my sake...
+
+//#sub a_kn_00_04_02_00_01 = アタシも、お姉ちゃんみたいにされちゃうの……？ - h_voice_akiko 
+#sub "a_kn_00_04_02_00_01" Am I going to become like onee-chan...?
+
+//#sub a_kn_00_04_02_10_00 = お姉ちゃん……しっかりしてよぉ……っ - h_voice_akiko 
+#sub "a_kn_00_04_02_10_00" Onee-chan...hang in there...
+
+//#sub a_kn_00_04_02_10_01 = もういいから、お姉ちゃん……っ - h_voice_akiko 
+#sub "a_kn_00_04_02_10_01" Isn't that enough...Onee-chan...
+
+//#sub a_kn_00_04_02_02_00 = ママ……大丈夫……？ - h_voice_akiko 
+#sub "a_kn_00_04_02_02_00" Mama...are you ok...?
+
+//#sub a_kn_00_04_02_02_01 = ママ……ママぁ……っ - h_voice_akiko 
+#sub "a_kn_00_04_02_02_01" Mama...Mama...
+
+//#sub a_kn_00_04_02_12_00 = ママが喜んでる……全て、望んでいた事……？ - h_voice_akiko 
+#sub "a_kn_00_04_02_12_00" Mama looks happy...all of it, is this what she wanted...?
+
+//#sub a_kn_00_04_02_12_01 = すごい……あんな風にすれば、ママみたいになれるんだ…… - h_voice_akiko 
+#sub "a_kn_00_04_02_12_01" Amazing...if you go it like that, you'll become like mama...
+
+//#sub a_kn_00_04_02_03_00 = アタシも、パパと…… - h_voice_akiko 
+#sub "a_kn_00_04_02_03_00" Me also, with papa...
+
+//#sub a_kn_00_04_02_03_01 = パパとなら……アタシ、いいよ……？ - h_voice_akiko 
+#sub "a_kn_00_04_02_03_01" With papa...I, is it ok...?
+
+//#sub a_kn_00_04_03_00_00 = ……満足、した？ - h_voice_akiko 
+#sub "a_kn_00_04_03_00_00" ...you satisfied?
+
+//#sub a_kn_00_04_03_00_01 = ……まだする気なのかなぁ - h_voice_akiko 
+#sub "a_kn_00_04_03_00_01" ...are they still doing it?
+
+//#sub a_kn_00_04_04_00_00 = ね、ねえ、ちょっとは休ませてあげてよぉ…… - h_voice_akiko 
+#sub "a_kn_00_04_04_00_00" Hey, hey, let her rest a little...
+
+//#sub a_kn_00_04_05_00_00 = もぉっ、少しは落ち着こうよぉっ - h_voice_akiko 
+#sub "a_kn_00_04_05_00_00" Come on, settle down a bit
+
+//#sub a_kn_00_04_91_00_00 = まだするの……？ - h_voice_akiko 
+#sub "a_kn_00_04_91_00_00" You're still not done...?
+
+//#sub a_kn_00_04_91_00_01 = もういいんじゃないかな…… - h_voice_akiko 
+#sub "a_kn_00_04_91_00_01" Come on, isn't this enough...
+
+//#sub a_kn_00_05_00_00_00 = きゃっ！？　やだぁ……っ - h_voice_akiko 
+#sub "a_kn_00_05_00_00_00" Kya!? No way...
+
+//#sub a_kn_00_09_00_00_00 = うぅ…… - h_voice_akiko 
+#sub "a_kn_00_09_00_00_00" uuuu...
+
+//#sub a_kn_00_09_00_00_01 = うわぁ…… - h_voice_akiko 
+#sub "a_kn_00_09_00_00_01" uwaa...
+
+//#sub a_kn_00_09_00_00_02 = ん…… - h_voice_akiko 
+#sub "a_kn_00_09_00_00_02" nnn...
+
+//#sub a_kn_00_09_00_00_03 = ふわ…… - h_voice_akiko 
+#sub "a_kn_00_09_00_00_03" fuwa...
+
+//#sub a_kn_00_09_00_00_04 = はぁ…… - h_voice_akiko 
+#sub "a_kn_00_09_00_00_04" haa...
+
+//#sub a_kn_10_02_00_00_00 = あはっ、ずっぽし咥えちゃってるねー♪ - h_voice_akiko 
+#sub "a_kn_10_02_00_00_00" aha, she's getting fucked hard♪
+
+//#sub a_kn_10_02_00_00_01 = いいなー、アタシもセックスしたいなー？ - h_voice_akiko 
+#sub "a_kn_10_02_00_00_01" So nice, I want to have sex as well
+
+//#sub a_kn_10_02_00_01_00 = うふっ、お尻でずこばこ、へんたーい♪ - h_voice_akiko 
+#sub "a_kn_10_02_00_01_00" ufu, the ass is going smack smack, pervert♪
+
+//#sub a_kn_10_02_00_01_01 = あーん、アタシまでお尻ムズムズしてきちゃう♪ - h_voice_akiko 
+#sub "a_kn_10_02_00_01_01" awww, my ass is still itching to get fucked♪
+
+//#sub a_kn_10_02_01_00_00 = ほらほら、ちゃーんとご奉仕してあげないとー？ - h_voice_akiko 
+#sub "a_kn_10_02_01_00_00" Hey hey, you have to service him properly
+
+//#sub a_kn_10_02_01_00_01 = あは、しゃせー見たいからって必死になりすぎー♪ - h_voice_akiko 
+#sub "a_kn_10_02_01_00_01" aha, I can see you're starting to become desperate♪
+
+//#sub a_kn_10_02_02_00_00 = あは、そんな格好で強がっても説得力ないよー？ - h_voice_akiko 
+#sub "a_kn_10_02_02_00_00" aha, acting tough like that, it's not really convincing you know?
+
+//#sub a_kn_10_02_02_00_01 = おねーちゃんさぁ、嫌がっても喜ばれるだけだってわかんないのー……？ - h_voice_akiko 
+#sub "a_kn_10_02_02_00_01" Onee-chan I wonder, I don't know if she's happy or not...
+
+//#sub a_kn_10_02_02_10_00 = ほーら、ぐずぐずしてないでしっかり働きなよー？ - h_voice_akiko 
+#sub "a_kn_10_02_02_10_00" Look here, don't slow down, you have to work harder
+
+//#sub a_kn_10_02_02_10_01 = あは、無様なおねーちゃん……そそるわぁ……♪ - h_voice_akiko 
+#sub "a_kn_10_02_02_10_01" aha, onee-chan is weird...this is exciting♪
+
+//#sub a_kn_10_02_02_02_00 = ママったら、何らしくない事してんのよー - h_voice_akiko 
+#sub "a_kn_10_02_02_02_00" geez mama, I've never done anything like that
+
+//#sub a_kn_10_02_02_02_01 = ふむふむ、ママのその演技、参考になるわ～ - h_voice_akiko 
+#sub "a_kn_10_02_02_02_01" fumufumu, mama's acting will be a good reference
+
+//#sub a_kn_10_02_02_12_00 = アタシ、こんなえろい人の股から産まれてきたんだなー - h_voice_akiko 
+#sub "a_kn_10_02_02_12_00" To think I was born from such an erotic woman
+
+//#sub a_kn_10_02_02_12_01 = ママってほんと雌の本能に忠実だよねー、アタシも見習わないと♪ - h_voice_akiko 
+#sub "a_kn_10_02_02_12_01" Mama is realy honest to her female instincts, I should learn as well♪
+
+//#sub a_kn_10_02_02_03_00 = もーパパったら、えっちな顔はアタシの前だけにしてよね？ - h_voice_akiko 
+#sub "a_kn_10_02_02_03_00" Come on, geez papa, you never make such an erotic face with me
+
+//#sub a_kn_10_02_02_03_01 = うー、アタシもパパとセックスしたいんだけどーっ - h_voice_akiko 
+#sub "a_kn_10_02_02_03_01" uuuu, I want to have sex with papa too
+
+//#sub a_kn_10_02_03_00_00 = あーうん、じょーずなんじゃなーい？ - h_voice_akiko 
+#sub "a_kn_10_02_03_00_00" ah yeah, isn't it obvious?
+
+//#sub a_kn_10_02_03_00_01 = なーに？　コレ見てオナニーでもしてろって事？ - h_voice_akiko 
+#sub "a_kn_10_02_03_00_01" What is it? Are we going to watch her masturbate?
+
+//#sub a_kn_10_02_04_00_00 = うーわ、容赦なさすぎ…… - h_voice_akiko 
+#sub "a_kn_10_02_04_00_00" uuuwaa, way too merciless...
+
+//#sub a_kn_10_02_05_00_00 = あは、しぇっくすらいしゅきれすか～？　しゅご～いれしゅか～？ - h_voice_akiko 
+#sub "a_kn_10_02_05_00_00" aha, do you like sex ~ ? Amazing right ~ ?
+
+//#sub a_kn_10_02_91_00_00 = ねぇ、暇なんだけどー - h_voice_akiko 
+#sub "a_kn_10_02_91_00_00" Hey, I'm free you know
+
+//#sub a_kn_10_02_91_00_01 = これ邪魔～…… - h_voice_akiko 
+#sub "a_kn_10_02_91_00_01" This is a nuisance​...
+
+//#sub a_kn_10_04_00_00_00 = あは、アクメ顔、キまってたよー♪ - h_voice_akiko 
+#sub "a_kn_10_04_00_00_00" aha, that orgasmic face, I was waiting for it♪
+
+//#sub a_kn_10_04_00_01_00 = あーあー、これまた派手にイったねぇ…… - h_voice_akiko 
+#sub "a_kn_10_04_00_01_00" ahh ahh, you were so showy again...
+
+//#sub a_kn_10_04_00_02_00 = あは、お尻がヒクヒク、止まらなくなってるじゃん♪ - h_voice_akiko 
+#sub "a_kn_10_04_00_02_00" aha, your ass is twitching, it's not stopping♪
+
+//#sub a_kn_10_04_01_00_00 = あーあ、子種、産みつけられちゃったねー♪ - h_voice_akiko 
+#sub "a_kn_10_04_01_00_00" aaaaa, this girl, look at how she was brought up♪
+
+//#sub a_kn_10_04_01_01_00 = こりゃうん命中したね、ごしゅーしょーさまー♪ - h_voice_akiko 
+#sub "a_kn_10_04_01_01_00" This looks really messed up, thanks for the meal♪
+
+//#sub a_kn_10_04_01_02_00 = ふふーん？　お尻でシゴくの、そんなに気持ちよかったんだー？ - h_voice_akiko 
+#sub "a_kn_10_04_01_02_00" Doing it with your ass, didn't it feel good?
+
+//#sub a_kn_10_04_01_10_00 = しゃせーかー、気持ちよさそーだなー、アタシも出来ないかなー……？ - h_voice_akiko 
+#sub "a_kn_10_04_01_10_00" Well, it looks like it feels really good, can't I do it as well...?
+
+//#sub a_kn_10_04_01_11_00 = うーわ、ここまでせーえきの匂いくるんですけどー？ - h_voice_akiko 
+#sub "a_kn_10_04_01_11_00" uuuwa, it really smells like semen in here
+
+//#sub a_kn_10_04_01_12_00 = うぇ、口の中、せーえきくさそー…… - h_voice_akiko 
+#sub "a_kn_10_04_01_12_00" uuueh, in the mouth, semen, shit...
+
+//#sub a_kn_10_04_02_00_00 = もー、大人しく受け入れちゃえば楽なのにさー？ - h_voice_akiko 
+#sub "a_kn_10_04_02_00_00" Come on, this would be easier if you just accepted it
+
+//#sub "a_kn_10_04_02_00_01" = 強情なお姉ちゃんは、１度壊れちゃった方がいいと思うんだよねー？	 - h_voice_akiko 
+#sub "a_kn_10_04_02_00_01" Stubborn onee-chan, I think it'll be better to just break her
+
+//#sub a_kn_10_04_02_10_00 = あーあーだっらしな、あのおねーちゃんもこんなもんかー…… - h_voice_akiko 
+#sub "a_kn_10_04_02_10_00" ahh ahh, so slutty, onee-chan is just like that
+
+//#sub a_kn_10_04_02_10_01 = ねぇねぇ、大好きな妹の前でそんな痴態晒して、今どんな気持ち？　ねぇ～♪ - h_voice_akiko 
+#sub "a_kn_10_04_02_10_01" hey hey, exposing your silliness in front of your favorite little sister, how does it feel? Hey♪
+
+//#sub a_kn_10_04_02_02_00 = ほらほら、どーせまだシ足りないんでしょ？　ちゃっちゃとヤっちゃってよー - h_voice_akiko 
+#sub "a_kn_10_04_02_02_00" Here here, you still haven't had enough right? I'm talking to you
+
+//#sub a_kn_10_04_02_02_01 = そーやって健気な振りして、何人食いつぶしてきたのかねーっと - h_voice_akiko 
+#sub "a_kn_10_04_02_02_01" Moving that quickly, I wonder how many have you gobbled up
+
+//#sub a_kn_10_04_02_12_00 = ママって、ほーんと楽しそうにセックスするよねー - h_voice_akiko 
+#sub "a_kn_10_04_02_12_00" Mama looks like she has a lot of fun having sex
+
+//#sub a_kn_10_04_02_12_01 = ねーママー、次アタシの番ーっ - h_voice_akiko 
+#sub "a_kn_10_04_02_12_01" Hey mama, it's my turn now
+
+//#sub a_kn_10_04_02_03_00 = ねぇパパぁ、次はアタシとシよーよぉ……♪ - h_voice_akiko 
+#sub "a_kn_10_04_02_03_00" Hey papa, do it with me next...♪
+
+//#sub a_kn_10_04_02_03_01 = パパぁ……そんな奴らより、アタシを使ってみたくなぁい……？ - h_voice_akiko 
+#sub "a_kn_10_04_02_03_01" Papa...forget about her, wouldn't you like to use me...?
+
+//#sub a_kn_10_04_03_00_00 = ねー見てるだけじゃ暇ー、アタシもヤりたいんだけどー？ - h_voice_akiko 
+#sub "a_kn_10_04_03_00_00" Hey just watching is boring, I want to do it too
+
+//#sub a_kn_10_04_03_00_01 = 見せ付けるためだけにアタシを呼んだの？　……ふふっ、違うわよねぇ？ - h_voice_akiko 
+#sub "a_kn_10_04_03_00_01" Did you call me just to show off? ...fu fufu, I'm not wrong, right?
+
+//#sub a_kn_10_04_04_00_00 = だっらしないなぁ、もーバテたの？ - h_voice_akiko 
+#sub "a_kn_10_04_04_00_00" You seem sloppy, are you tired?
+
+//#sub a_kn_10_04_05_00_00 = あー、こりゃ完全にキまってますわー…… - h_voice_akiko 
+#sub "a_kn_10_04_05_00_00" aaa, this is totally fine...
+
+//#sub a_kn_10_04_91_00_00 = まだ見てるだけー？ - h_voice_akiko 
+#sub "a_kn_10_04_91_00_00" I've been only watching you know?
+
+//#sub a_kn_10_04_91_00_01 = ねー代わってよー - h_voice_akiko 
+#sub "a_kn_10_04_91_00_01" Hey switch with me
+
+//#sub a_kn_10_05_00_00_00 = んわっ、もー何でアタシにかけんのよーっ - h_voice_akiko 
+#sub "a_kn_10_05_00_00_00" nnnn, come on, why are you not giving me any attention
+
+//#sub a_kn_10_09_00_00_00 = んふふ♪ - h_voice_akiko 
+#sub "a_kn_10_09_00_00_00" nfufu♪
+
+//#sub a_kn_10_09_00_00_01 = んー？ - h_voice_akiko 
+#sub "a_kn_10_09_00_00_01" nnn?
+
+//#sub a_kn_10_09_00_00_02 = ふーん？ - h_voice_akiko 
+#sub "a_kn_10_09_00_00_02" fuuun?
+
+//#sub a_kn_10_09_00_00_03 = へぇ～ - h_voice_akiko 
+#sub "a_kn_10_09_00_00_03" heee
+
+//#sub a_kn_10_09_00_00_04 = うーわ…… - h_voice_akiko 
+#sub "a_kn_10_09_00_00_04" uwaa...
+
+//#sub a_kn_11_02_00_00_00 = あは、マンコぐちゃぐちゃになってんじゃん♪ - h_voice_akiko 
+#sub "a_kn_11_02_00_00_00" aha, your pussy is getting all messy
+
+//#sub a_kn_11_02_00_00_01 = チンポさー、マンコの事好きすぎだよねー - h_voice_akiko 
+#sub "a_kn_11_02_00_00_01" Mr. cock, you really love pussy
+
+//#sub a_kn_11_02_00_01_00 = あはは、アナル、どんだけ捲れちゃってんのよー♪ - h_voice_akiko 
+#sub "a_kn_11_02_00_01_00" ahaha, doing anal, I can't keep me eyes off it♪
+
+//#sub a_kn_11_02_00_01_01 = うふ、変態同士、アナルセックスでよがってなさーい♪ - h_voice_akiko 
+#sub "a_kn_11_02_00_01_01" ufu, perverted couple, anal sex, please, go ahead
+
+//#sub a_kn_11_02_01_01_00 = んー？　チンポの吸い付き足らないんじゃない？ - h_voice_akiko 
+#sub "a_kn_11_02_01_01_00" nnn? Have you not had enough cock?
+
+//#sub a_kn_11_02_01_01_01 = あーあ、アタシのお口、寂しいなー？ - h_voice_akiko 
+#sub "a_kn_11_02_01_01_01" aww aww, my little hole, aren't you lonely? 
+
+//#sub a_kn_11_02_01_02_00 = あは、チンポ、舐めすぎててっかてかじゃん♪ - h_voice_akiko 
+#sub "a_kn_11_02_01_02_00" aha, cock, you're licking it alot♪
+
+//#sub a_kn_11_02_01_02_01 = んふ、だらしなくカウパー垂らしてるの、丸見えですよー♪ - h_voice_akiko 
+#sub "a_kn_11_02_01_02_01" nfu, pre cum is dripping like drool, I can see it all♪
+
+//#sub a_kn_11_02_01_03_00 = そんなシコるの好きなら一人でシコればいいのにねー？ - h_voice_akiko 
+#sub "a_kn_11_02_01_03_00" You really love this kind of thing, I wish you would do it to me 
+
+//#sub a_kn_11_02_01_03_01 = シコシコ見てるだけじゃつまんなーい、なんか激しいのないのー？ - h_voice_akiko 
+#sub "a_kn_11_02_01_03_01" Just watching is boring, can't you do something more intense?
+
+//#sub a_kn_11_04_00_01_00 = あんなんでイくなんて、だっらしないマンコだなぁ - h_voice_akiko 
+#sub "a_kn_11_04_00_01_00" To just cum like that, what a troublesome pussy
+
+//#sub a_kn_11_04_00_02_00 = あんまケツマンコでイってるとー……ね？ - h_voice_akiko 
+#sub "a_kn_11_04_00_02_00" Doing it in the ass hole...isn't that so?
+
+//#sub a_kn_11_04_01_01_00 = んふ、マンコの中がザーメン塗れって事はぁ……？ - h_voice_akiko 
+#sub "a_kn_11_04_01_01_00" nfu, semen is spreading all inside the pussy
+
+//#sub a_kn_11_04_01_02_00 = あは、今アナルから引き抜いたらどーなっちゃうのかねー♪ - h_voice_akiko 
+#sub "a_kn_11_04_01_02_00" aha, I wonder what would happen if you took it out of the ass now♪
+
+//#sub a_kn_11_04_01_11_00 = うーわ、ザーメン臭い女とか嫌だわー - h_voice_akiko 
+#sub "a_kn_11_04_01_11_00" uuuwa, I really don't like a semen smelling woman
+
+//#sub a_kn_11_04_01_12_00 = ふふっ、口マンコに中出しした気分はどーお？ - h_voice_akiko 
+#sub "a_kn_11_04_01_12_00" fufu, how does it feel taking it inside the ass?
