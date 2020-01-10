@@ -43,6 +43,6 @@ Dictionaries:
 https://jisho.org/  
 http://www.romajidesu.com/  
 
-### Original UITranslation
-Kenzato#2582 ([Patreon](https://www.patreon.com/Kenzato))
+### Original UITranslation Credits
+Kenzato#2582 ([Patreon](https://www.patreon.com/Kenzato)) 
 Aria#1551 (???)
