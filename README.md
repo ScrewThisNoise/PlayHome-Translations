@@ -14,7 +14,6 @@ Any help is appreciated. Regardless of your translation skill and Japanese knowl
 Translations are all inside of `Bepinex\Translation\en\` folder. They are then split into three folders:
 - `Text` - Normal text replacements and modifications.
 - `Texture` - Image replacements.
-- `RedirectedResources` - Replacements for entire text assets. Used for ADV translations because of better organization and performance.
 
 Coordinate with other translators on the [Illusion Soft Discord server](https://discord.gg/illusionsoft) #translation channel. To avoid translation conflicts please ask if anyone is working on a file. If you have any questions about the quality of your translations, ask for advice on the server.
 
