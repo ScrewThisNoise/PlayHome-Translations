@@ -44,5 +44,8 @@ https://jisho.org/
 http://www.romajidesu.com/  
 
 ### Original UITranslation Credits
+Aria#1551 (???) (DLC, H-subs and Misc)
+
 Kenzato#2582 ([Patreon](https://www.patreon.com/Kenzato)) 
-Aria#1551 (???)
+
+ScrewThisNoise#3544 (Mod Translations)
