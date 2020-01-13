@@ -1,0 +1,15 @@
+﻿// Female
+雪子=Yukiko
+真理子=Mariko
+明子=Akiko
+律子=Ritsuko
+傷ついた雪子=Injured Yukiko
+傷ついた明子=Injured Akiko
+傷ついた律子=Injured Ritsuko
+
+// Male
+広一=Koichi
+主人公=Hero
+モブ男C=Mob Man C
+モブ男B=Mob Man B
+モブ男A=Mob Man A
