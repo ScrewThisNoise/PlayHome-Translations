@@ -41,3 +41,5 @@ EditMode(Clone)/Canvas/Wear/Wear Tabs/Toggle Panst/Button_on/Text=ChangeFontSize
 EditMode(Clone)/Canvas/Wear/Wear Tabs/Toggle Panst/Button_off/Text=ChangeFontSizeByPercentage(0.7);
 EditMode(Clone)/Canvas/File/Tabs/Toggle WearSave/Button_off/Text=ChangeFontSizeByPercentage(0.8);
 EditMode(Clone)/Canvas/File/Tabs/Toggle WearSave/Button_on/Text=ChangeFontSizeByPercentage(0.8);
+EditScene/Canvas/MoveableRoot/SelectUI List/HideableArea/HideableMask/ThumbnailSelectUI/Scroll View/Viewport/Content/Cell Original(Clone)/Background/Text=ChangeFontSizeByPercentage(0.75);
+EditScene/Canvas/MoveableRoot/SelectUI List/HideableArea/HideableMask/ThumbnailSelectUI/Scroll View/Viewport/Content/Cell Original(Clone)/Background/Icon Mask/Icon Image=ChangeFontSizeByPercentage(0.75);
