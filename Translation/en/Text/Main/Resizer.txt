@@ -7,39 +7,36 @@ Canvas/Badges/Badge (2)/Text=ChangeFontSizeByPercentage(0.5);
 Canvas/Badges/Badge (3)/Text=ChangeFontSizeByPercentage(0.5);
 Canvas/Badges/Badge (4)/Text=ChangeFontSizeByPercentage(0.5);
 Canvas/Badges/Badge (0)/Text=ChangeFontSizeByPercentage(0.5);
-EditMode/Canvas/Tabs/Toggle Acce/Button_on/Text=AutoResize(True);
-EditMode/Canvas/Tabs/Toggle Acce/Button_off/Text=AutoResize(True);
-EditMode/Canvas/Tabs/Toggle Body/Button_on/Text=AutoResize(True);
-EditMode/Canvas/Tabs/Toggle Body/Button_off/Text=AutoResize(True);
-EditMode/Canvas/Tabs/Toggle Weaer/Button_on/Text=ChangeFontSizeByPercentage(0.5);
-EditMode/Canvas/Tabs/Toggle Weaer/Button_off/Text=ChangeFontSizeByPercentage(0.5);
-EditMode/Canvas/Face/Face Tabs/Toggle EyeLash/Button_on/Text=ChangeFontSizeByPercentage(0.8);
-EditMode/Canvas/Face/Face Tabs/Toggle EyeLash/Button_off/Text=ChangeFontSizeByPercentage(0.8);
-EditMode/Canvas/Face/Face Tabs/Toggle EyeBrow/Button_on/Text=ChangeFontSizeByPercentage(0.8);
-EditMode/Canvas/Face/Face Tabs/Toggle EyeBrow/Button_off/Text=ChangeFontSizeByPercentage(0.8);
-EditMode/Canvas/Wear/Wear Tabs/Toggle Bottoms/Button_on/Text=ChangeFontSizeByPercentage(0.9);
-EditMode/Canvas/Wear/Wear Tabs/Toggle Bottoms/Button_off/Text=ChangeFontSizeByPercentage(0.9);
-EditMode/Canvas/Wear/Wear Tabs/Toggle Panst/Button_on/Text=ChangeFontSizeByPercentage(0.7);
-EditMode/Canvas/Wear/Wear Tabs/Toggle Panst/Button_off/Text=ChangeFontSizeByPercentage(0.7);
-EditMode/Canvas/File/Tabs/Toggle WearSave/Button_off/Text=ChangeFontSizeByPercentage(0.8);
-EditMode/Canvas/File/Tabs/Toggle WearSave/Button_on/Text=ChangeFontSizeByPercentage(0.8);
-EditMode(Clone)/Canvas/Tabs/Toggle Body/Button_on/Text=AutoResize(True);
-EditMode(Clone)/Canvas/Tabs/Toggle Body/Button_off/Text=AutoResize(True);
+
+// Top bar options
+EditMode/Canvas/Tabs=ChangeFontSizeByPercentage(0.5);
+
+// Categories
+EditMode/Canvas/Hair=ChangeFontSizeByPercentage(0.8);
+EditMode/Canvas/Face=ChangeFontSizeByPercentage(0.8);
+EditMode/Canvas/Body=ChangeFontSizeByPercentage(0.8);
+EditMode/Canvas/Wear/Wear Tabs=ChangeFontSizeByPercentage(0.8);
+EditMode/Canvas/File=ChangeFontSizeByPercentage(0.8);
+
+// Wear Types
+EditMode/Canvas/Wear/Wear Types=ChangeFontSizeByPercentage(0.8);
+
+// Face options
+EditMode/Canvas/Face/Face Tabs/Toggle EyeLash=ChangeFontSizeByPercentage(0.8);
+EditMode/Canvas/Face/Face Tabs/Toggle EyeBrow=ChangeFontSizeByPercentage(0.8);
+
+// Wear Save
 EditMode(Clone)/Canvas/Tabs/Toggle Acce/Button_on/Text=AutoResize(True);
 EditMode(Clone)/Canvas/Tabs/Toggle Acce/Button_off/Text=AutoResize(True);
 EditMode(Clone)/Canvas/Tabs/Toggle Weaer/Button_on/Text=ChangeFontSizeByPercentage(0.5);
 EditMode(Clone)/Canvas/Tabs/Toggle Weaer/Button_off/Text=ChangeFontSizeByPercentage(0.5);
 EditMode(Clone)/Canvas/Tabs/Toggle Weaer/Button_on/Text=ChangeFontSizeByPercentage(0.5);
 EditMode(Clone)/Canvas/Tabs/Toggle Weaer/Button_off/Text=ChangeFontSizeByPercentage(0.5);
+EditMode(Clone)/Canvas/Tabs/Toggle Body/Button_on/Text=AutoResize(True);
+EditMode(Clone)/Canvas/Tabs/Toggle Body/Button_off/Text=AutoResize(True);
 EditMode(Clone)/Canvas/Face/Face Tabs/Toggle EyeLash/Button_on/Text=ChangeFontSizeByPercentage(0.8);
 EditMode(Clone)/Canvas/Face/Face Tabs/Toggle EyeLash/Button_off/Text=ChangeFontSizeByPercentage(0.8);
 EditMode(Clone)/Canvas/Face/Face Tabs/Toggle EyeBrow/Button_on/Text=ChangeFontSizeByPercentage(0.8);
 EditMode(Clone)/Canvas/Face/Face Tabs/Toggle EyeBrow/Button_off/Text=ChangeFontSizeByPercentage(0.8);
-EditMode(Clone)/Canvas/Wear/Wear Tabs/Toggle Bottoms/Button_on/Text=ChangeFontSizeByPercentage(0.9);
-EditMode(Clone)/Canvas/Wear/Wear Tabs/Toggle Bottoms/Button_off/Text=ChangeFontSizeByPercentage(0.9);
-EditMode(Clone)/Canvas/Wear/Wear Tabs/Toggle Panst/Button_on/Text=ChangeFontSizeByPercentage(0.7);
-EditMode(Clone)/Canvas/Wear/Wear Tabs/Toggle Panst/Button_off/Text=ChangeFontSizeByPercentage(0.7);
 EditMode(Clone)/Canvas/File/Tabs/Toggle WearSave/Button_off/Text=ChangeFontSizeByPercentage(0.8);
 EditMode(Clone)/Canvas/File/Tabs/Toggle WearSave/Button_on/Text=ChangeFontSizeByPercentage(0.8);
-EditScene/Canvas/MoveableRoot/SelectUI List/HideableArea/HideableMask/ThumbnailSelectUI/Scroll View/Viewport/Content/Cell Original(Clone)/Background/Text=ChangeFontSizeByPercentage(0.75);
-EditScene/Canvas/MoveableRoot/SelectUI List/HideableArea/HideableMask/ThumbnailSelectUI/Scroll View/Viewport/Content/Cell Original(Clone)/Background/Icon Mask/Icon Image=ChangeFontSizeByPercentage(0.75);
