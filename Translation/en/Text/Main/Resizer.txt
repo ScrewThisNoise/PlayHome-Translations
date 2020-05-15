@@ -1,42 +1,54 @@
+// Selection UI (Man,Woman,Guest...)
+Scene/Canvas/Right_Up/Toggles=ChangeFontSizeByPercentage(0.8);
+
+// Selection UI - H Habit Selection (Vaginal, Anal...)
 Scene/Canvas/Right_Up/State/Sub/Badge/Label=ChangeFontSizeByPercentage(0.6);
 Scene/Canvas/Right_Up/State/Main/Badge/Label=ChangeFontSizeByPercentage(0.6);
+
+// Selection UI - H State Selection (Resisting, Accepting)
 Scene/Canvas/Right_Up/State/Main/State/Text=ChangeFontSizeByPercentage(0.9);
 Scene/Canvas/Right_Up/State/Sub/State/Text=ChangeFontSizeByPercentage(0.9);
-Canvas/Badges/Badge (1)/Text=ChangeFontSizeByPercentage(0.5);
-Canvas/Badges/Badge (2)/Text=ChangeFontSizeByPercentage(0.5);
-Canvas/Badges/Badge (3)/Text=ChangeFontSizeByPercentage(0.5);
-Canvas/Badges/Badge (4)/Text=ChangeFontSizeByPercentage(0.5);
-Canvas/Badges/Badge (0)/Text=ChangeFontSizeByPercentage(0.5);
 
-// Top bar options
-EditMode/Canvas/Tabs=ChangeFontSizeByPercentage(0.5);
-
-// Categories
+// Customizer UI
 EditMode/Canvas/Hair=ChangeFontSizeByPercentage(0.8);
 EditMode/Canvas/Face=ChangeFontSizeByPercentage(0.8);
 EditMode/Canvas/Body=ChangeFontSizeByPercentage(0.8);
 EditMode/Canvas/Wear/Wear Tabs=ChangeFontSizeByPercentage(0.8);
 EditMode/Canvas/File=ChangeFontSizeByPercentage(0.8);
 
-// Wear Types
+// Customizer UI- Top Bar options
+EditMode/Canvas/Tabs=ChangeFontSizeByPercentage(0.6);
+
+// Customizer UI - Wear Types
 EditMode/Canvas/Wear/Wear Types=ChangeFontSizeByPercentage(0.8);
 
-// Face options
+// Customizer UI - Face options
 EditMode/Canvas/Face/Face Tabs/Toggle EyeLash=ChangeFontSizeByPercentage(0.8);
 EditMode/Canvas/Face/Face Tabs/Toggle EyeBrow=ChangeFontSizeByPercentage(0.8);
 
-// Wear Save
-EditMode(Clone)/Canvas/Tabs/Toggle Acce/Button_on/Text=AutoResize(True);
-EditMode(Clone)/Canvas/Tabs/Toggle Acce/Button_off/Text=AutoResize(True);
-EditMode(Clone)/Canvas/Tabs/Toggle Weaer/Button_on/Text=ChangeFontSizeByPercentage(0.5);
-EditMode(Clone)/Canvas/Tabs/Toggle Weaer/Button_off/Text=ChangeFontSizeByPercentage(0.5);
-EditMode(Clone)/Canvas/Tabs/Toggle Weaer/Button_on/Text=ChangeFontSizeByPercentage(0.5);
-EditMode(Clone)/Canvas/Tabs/Toggle Weaer/Button_off/Text=ChangeFontSizeByPercentage(0.5);
-EditMode(Clone)/Canvas/Tabs/Toggle Body/Button_on/Text=AutoResize(True);
-EditMode(Clone)/Canvas/Tabs/Toggle Body/Button_off/Text=AutoResize(True);
-EditMode(Clone)/Canvas/Face/Face Tabs/Toggle EyeLash/Button_on/Text=ChangeFontSizeByPercentage(0.8);
-EditMode(Clone)/Canvas/Face/Face Tabs/Toggle EyeLash/Button_off/Text=ChangeFontSizeByPercentage(0.8);
-EditMode(Clone)/Canvas/Face/Face Tabs/Toggle EyeBrow/Button_on/Text=ChangeFontSizeByPercentage(0.8);
-EditMode(Clone)/Canvas/Face/Face Tabs/Toggle EyeBrow/Button_off/Text=ChangeFontSizeByPercentage(0.8);
-EditMode(Clone)/Canvas/File/Tabs/Toggle WearSave/Button_off/Text=ChangeFontSizeByPercentage(0.8);
-EditMode(Clone)/Canvas/File/Tabs/Toggle WearSave/Button_on/Text=ChangeFontSizeByPercentage(0.8);
+// H Scene UI
+Canvas/Badges=ChangeFontSizeByPercentage(0.45);
+Left Middle Canvas/LeftMiddleToggles=ChangeFontSizeByPercentage(0.8);
+Left Middle Canvas/LeftMiddleToggles/Wears/Hideable=IgnoreFontSize();
+Left Middle Canvas/LeftMiddleToggles/Styles/Hideable=IgnoreFontSize();
+
+// Debug ?
+DEBUG Canvas/Position=ChangeFontSizeByPercentage(0.9);
+
+//Exhaustion Recover button
+Canvas/Weakness/Button/Text=AutoResize(True);
+
+// H Scene Customizer UI
+EditMode(Clone)/Canvas/Tabs=ChangeFontSizeByPercentage(0.6);
+EditMode(Clone)/Canvas/Hair=ChangeFontSizeByPercentage(0.8);
+EditMode(Clone)/Canvas/Face=ChangeFontSizeByPercentage(0.8);
+EditMode(Clone)/Canvas/Body=ChangeFontSizeByPercentage(0.8);
+EditMode(Clone)/Canvas/Wear/Wear Tabs=ChangeFontSizeByPercentage(0.8);
+EditMode(Clone)/Canvas/File=ChangeFontSizeByPercentage(0.8);
+EditMode(Clone)/Canvas/Wear/Wear Types=ChangeFontSizeByPercentage(0.8);
+EditMode(Clone)/Canvas/Face/Face Tabs/Toggle EyeLash=ChangeFontSizeByPercentage(0.8);
+EditMode(Clone)/Canvas/Face/Face Tabs/Toggle EyeBrow=ChangeFontSizeByPercentage(0.8);
+
+// Option Lists
+EditScene/Canvas/MoveableRoot/SelectUI List/HideableArea/HideableMask/ThumbnailSelectUI/Scroll View/Viewport/Content/Cell Original(Clone)/Background/Text=ChangeFontSizeByPercentage(0.75);
+EditScene/Canvas/MoveableRoot/SelectUI List/HideableArea/HideableMask/ThumbnailSelectUI/Scroll View/Viewport/Content/Cell Original(Clone)/Background/Icon Mask/Icon Image=ChangeFontSizeByPercentage(0.75);
