@@ -840,6 +840,7 @@ FK触手１=FK Tentacle 1
 
 // Animation Menu -> Current State -> Accessories
 r:"^スロ([0-9][0-9])$"=r:"Slot $1"
+r:"^スロット([0-9][0-9])$"=r:"Slot $1"
 
 // Animation Menu -> Current State -> Fluids
 顔=Face
